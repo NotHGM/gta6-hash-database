@@ -1,8 +1,14 @@
-# GTA VI hash database
+# GTA 6 hash database (GTA VI joaat names)
 
-GTA VI stores names as 32-bit joaat hashes. This repository is a lookup table for them: what each hash in a story
-save stands for, how the name was found and how sure it is, plus one merged index of the community's hash name lists.
-Everything is plain tab-separated text, sorted, one row per hash.
+Grand Theft Auto VI (GTA 6) stores names as 32-bit joaat hashes: stats, items, vehicles, missions, save keys, radio
+songs. This repository is a lookup table for them. It covers what each hash in a GTA VI story save stands for, how the
+name was found and how sure it is, and one merged index of 1.1 million hashes from the community's GTA 6 name lists.
+Everything is plain tab-separated text, sorted, one row per hash, so it works with any tool: grep, a spreadsheet,
+Python or a modding tool.
+
+Use it to read GTA 6 save files, name hashes in game data, or check a name before you use it. The save tables come
+from [Save Garage](https://github.com/NotHGM/save-garage), a GTA VI story save editor for PS5, where every name was
+checked against real saves.
 
 ## What's inside
 
@@ -79,6 +85,12 @@ prints both forms.
 - **Behaviour:** names and meanings were checked against how each value changes across 20 saves of two playthroughs,
   and against the game's own stats screens on a PS5.
 
-## Licenses
+## Related
 
-The community lists and the radio catalog are MIT licensed; their license texts are in `third_party/LICENSES.md`.
+- [Save Garage](https://github.com/NotHGM/save-garage): edit a GTA VI story save on PS5 (money, ammo, stats, 100%
+  completion and every value in the save), built on these names.
+
+## License
+
+MIT (`LICENSE`). The merged community lists and the radio catalog are MIT licensed too; their license texts are in
+`third_party/LICENSES.md`.
