@@ -1,0 +1,29 @@
+name: Wrong name
+description: Report a name in the database that looks wrong
+title: "Wrong name: "
+labels: ["correction"]
+body:
+  - type: input
+    id: hash
+    attributes:
+      label: Hash
+      placeholder: d5188146
+    validations:
+      required: true
+  - type: input
+    id: current
+    attributes:
+      label: Name in the database now
+    validations:
+      required: true
+  - type: input
+    id: proposed
+    attributes:
+      label: The right name, if you know it
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it's wrong
+      description: What you saw that doesn't fit (where the value sits, what the game shows, a better match)
+    validations:
+      required: true

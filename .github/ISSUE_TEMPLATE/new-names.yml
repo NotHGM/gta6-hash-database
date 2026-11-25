@@ -1,0 +1,44 @@
+name: New names
+description: Share hash names without opening a pull request
+title: "New names: "
+labels: ["new names"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing. One name per line works best. If you can, check them first with `tools/check_contribution.py`.
+  - type: textarea
+    id: names
+    attributes:
+      label: Hashes and names
+      description: One per line, "hash name", for example `d5188146 lifetimemoneyearned`
+      render: text
+    validations:
+      required: true
+  - type: dropdown
+    id: table
+    attributes:
+      label: What they are
+      options:
+        - Stat names, qualifiers or owners
+        - Inventory items or slots
+        - Save sections or JSON keys
+        - Collectibles
+        - Vehicles
+        - Missions or tasks
+        - Audio or radio
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: How you found them
+      description: Where you saw the hashes and why the names fit (game files, the stats screen, how the values behave)
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      placeholder: PS5 1.0, Xbox 1.0.2.1, ...

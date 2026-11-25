@@ -1,0 +1,3 @@
+hash	name	table	hash_case	evidence	source	game_version
+# One row per name, tab-separated. Lines starting with # are ignored. Delete these comment lines in your copy.
+# d5188146	lifetimemoneyearned	stat_base	lower	Shown on the stats screen as TOTAL EARNED; same rows as the other earnings stats	https://example.com/where-you-found-it	PS5 1.0

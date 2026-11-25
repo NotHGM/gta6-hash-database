@@ -85,6 +85,10 @@ prints both forms.
 - **Behaviour:** names and meanings were checked against how each value changes across 20 saves of two playthroughs,
   and against the game's own stats screens on a PS5.
 
+## Contributing
+
+Found a new name or a wrong one? Add it to a file in `contributions/` and open a pull request; `tools/check_contribution.py` checks every hash against its name first. [CONTRIBUTING.md](CONTRIBUTING.md) explains the format, and the **New names** and **Wrong name** issue forms work too if you'd rather not open a pull request.
+
 ## Related
 
 - [Save Garage](https://github.com/NotHGM/save-garage): edit a GTA VI story save on PS5 (money, ammo, stats, 100%
