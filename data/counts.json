@@ -1,0 +1,21 @@
+{
+ "collectibles": 1012,
+ "community_hashes": 1127201,
+ "gang_operations": 44,
+ "items": 1138,
+ "json_keys": 843,
+ "missions_and_tasks": 137,
+ "radio_names": 1658,
+ "radio_stations": 28,
+ "radio_tracklist": 1013,
+ "robbery_locations": 149,
+ "sections": 82,
+ "slots": 586,
+ "stat_bases": 386,
+ "stat_owners": 239,
+ "stat_qualifiers": 3763,
+ "stat_screen_labels": 393,
+ "suffix_text_ids": 2360,
+ "text_ids": 693,
+ "vehicle_compendium": 231
+}

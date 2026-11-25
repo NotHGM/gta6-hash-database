@@ -1,0 +1,45 @@
+owner_hash	owner	gang	kind	map_name	counts_for_100	why_not	hint
+4162581a	bankdruthers		bank	Bank (Druthers)	no	Not a gang operation.	Not a gang operation.
+56cfd6e2	bankfleecavcia		bank	Bank (Fleeca VCIA)	no	Not a gang operation.	Not a gang operation.
+e6902700	e6902700		compound	Unnamed location	no	Not one of the 39: no name in the game text.	Not one of the 39: no name in the game text.
+7fc09fac	frontcriminalbarbershopdrugs	criminal	front	Backroom Weed Front	yes		"the game text has a ""Barbershop Weed Front"""
+d8e66f3b	compoundcriminalnarcoboatrunner	criminal	compound	Carter Mining Boathouse	yes		
+c41c3def	compoundcriminalcartheftring	criminal	compound	Chatfield Storage & Logistics	yes		
+fb08eb6e	frontcriminalcigarimport	criminal	front	Cigar Import Front	yes		back room of a liquor store in La Perle
+ca5c31e9	frontcriminalexoticanimals	criminal	front	Exotic Animals Front	yes		liquor store in Key Lento
+aac2bafb	frontcriminalgasstationmeth	criminal	front	Gas Station Meth Front	yes		gas station in Emerald Springs
+4b3cabc3	compoundcriminalindustrialweedgrow	criminal	compound	Industrial Weed Grow	yes		factory in North Mariana County
+5fe3c3ea	compoundcriminalweaponsexport	criminal	compound	Leonida Carrier Warehouse	yes		secure storage compound in Balsero
+c6168629	compoundcriminalgraffitilab	criminal	compound	Mill Station Radar Base	yes		
+865ff13b	compoundcriminalecstasygarage	criminal	compound	Ocean Beach Lab	yes		ecstasy lab behind a garage door in Ocean Beach
+28173bc2	compoundcriminalvehiclechopshop	criminal	compound	Slator Towing Inc	yes		chop shop in a towing lot in Salton
+4058221e	compoundcriminaldrugkingpin	criminal	compound	Vespucci Mansion	yes		
+e1be0096	compoundcriminalmushroomgrow	criminal	compound	Walker Farm	yes		remote farm in Frogswater
+06f093e8	frontfinalchapterbikerbar	finalchapter	front	Biker Hideout	yes		biker bar near Ambrosia / Lake Leonida
+43cbea22	compoundfinalchaptermethfacility	finalchapter	compound	Farm Fix Meth Lab	yes		rural meth facility near Bellville
+9571600d	compoundfinalchaptercarwash	finalchapter	compound	Hog Stars Garage	yes		Hog Stars garage behind Big Joe's Car Wash, Ambrosia
+7bdf2ca6	compoundfinalchapterclubhouse	finalchapter	compound	Irons Building Supply	yes		large compound beyond a vehicle graveyard
+2163727e	compoundguardiabrothersstagingpoint	guardiabrothers	compound	Casa Guardia	yes		run-down building in Little Cuba
+ae6567c4	compoundguardiabrothersdistributioncenter	guardiabrothers	compound	Saber Shipping Facility	yes		Saber Shipping yard / industrial facility in Balsero
+f7cab3c1	compoundguardiabrothersboatyard	guardiabrothers	compound	Saber Shipping Yard	yes		boatyard on Northbrook Drive, Little Cuba
+2e7a0f25	compoundkingfishersfishingshacks	kingfishers	compound	Fishing Shacks	yes		island shacks receiving cocaine by seaplane
+0cd52291	compoundkingfishersstilthouse	kingfishers	compound	Kingfishers Stilt House	no	Not one of the 39: no description in the game text, probably cut.	Not one of the 39: no description in the game text, probably cut.
+0043448f	compoundkingfishersseedymotel	kingfishers	compound	Manatee Motel	yes		dilapidated motel on the edge of the wildlife preserve (Pelican Valley)
+96c8a5c5	compoundkingfishersbreedingcamp	kingfishers	compound	Sunrise RV Park	yes		lakeside RV park (Sunrise RV Park) on Cottonmouth Lake
+56e1500e	compoundkoltandassociatesdocks	koltandassociates	compound	Brooks Boatworks	yes		docks in Port Gellhorn
+3953cce8	compoundkoltworkvangarage	koltandassociates	compound	June Warehouse	yes		June Warehouse, where the pill vans are kept (Port Gellhorn)
+ab25ee93	compoundkoltbowlingalley	koltandassociates	compound	Kingpin Bowling	yes		abandoned Kingpin Bowling alley
+d07a0139	compoundkoltabandonedhotel	koltandassociates	compound	La Cascara Motel	yes		derelict hotel in Port Gellhorn
+4a01380e	compoundkoltstashhouse	koltandassociates	compound	Stash House	yes		small house in Port Gellhorn
+dfbba237	compoundlapolillanegrafishwarehouse	lapolillanegra	compound	Palmer Fishing Warehouse	yes		
+70e97b95	compoundlapolillanegrasafehouse	lapolillanegra	compound	Watson Bay Safehouse	yes		secluded, heavily fortified compound
+8e304ce4	compoundm7junkyard	m7	compound	M7 Compound	yes		Nova Auto junkyard on the edge of Hamlet
+2c2805fa	compoundm7weedgrow	m7	compound	Weed Grow	yes		hydroponic tents in the woods outside Millport
+4f0275f5	compoundpttyillegalgoodsstore	ptty	compound	Illegal Goods Store	no	Not one of the 39: Ultimate Edition bonus, not needed for 100%.	Not one of the 39: Ultimate Edition bonus, not needed for 100%.
+cbc14f15	compoundpttyabandonedcommunitycenter	ptty	compound	Kamar Devon Community Center	yes		Kamar Devon community center, Southside
+889f3695	compoundpttyhouselockup	ptty	compound	Southside Trap House	yes		
+8d415898	frontsan4sanrareshoes	san4san	front	Illegal Sneaker Trade	yes		
+0199cf00	compoundsan4sanimportgarage	san4san	compound	JanJak's Garage	yes		old auto body shop in La Perle
+67370147	compoundsan4sandrughouse	san4san	compound	La Perle Trap House	yes		house in La Perle
+0c5eab74	compoundsan4santowerblock	san4san	compound	Parlor Apartments	yes		apartment complex in Rockridge
+ae66d898	compoundsan4sanrecordingstudio	san4san	compound	Sound4Sound Studio	yes		run-down recording studio in Stockyard

@@ -1,0 +1,84 @@
+# GTA VI hash database
+
+GTA VI stores names as 32-bit joaat hashes. This repository is a lookup table for them: what each hash in a story
+save stands for, how the name was found and how sure it is, plus one merged index of the community's hash name lists.
+Everything is plain tab-separated text, sorted, one row per hash.
+
+## What's inside
+
+### `data/save/`: the story save, decoded
+
+Every hash that appears in a PS5 story save, named or not, with the evidence for each name.
+
+| File | What it holds | Named |
+|---|---|---|
+| `stat_bases.tsv` | Stat names, the first part of a stat key such as `lifetimemoneyearned` | 316 of 386 |
+| `stat_qualifiers.tsv` | Stat qualifiers: weapons, vehicles, places, activities, game modes | 2,507 of 3,763 (another 1,191 have the game's label, 62 a description) |
+| `stat_owners.tsv` | Stat owners: the total, Lucia, Jason, missions, gang operations, arcade games | 233 of 239 |
+| `items.tsv`, `slots.tsv` | Inventory item and slot IDs | 944 of 1,138 and 554 of 586 |
+| `sections.tsv`, `json_keys.tsv` | The save's own sections and JSON keys (hashed as written, not lower-cased) | 64 of 82 and 610 of 843 |
+| `stat_screen_labels.tsv` | Whole stat rows and what the game's stats screens call them | 393 rows |
+| `text_ids.tsv` | IDs that are the key of their own on-screen text (discovery entries, radio stations, text messages, unlockables) | 693 |
+| `suffix_text_ids.tsv` | Social media posts, news articles and accounts, whose text is keyed by the ID's name plus `_caption`, `_header` or `_handle` | 2,360 |
+| `collectibles.tsv` | Keys of the collectible tables: hoops, street art, doubloons, flamingos, magazines, books, watches, magazine styles, cards | 1,012 |
+| `vehicle_compendium.tsv` | Every base-model vehicle: model, the key the compendium uses (the hash of its game name), the page that counts it | 231 |
+| `gang_operations.tsv` | The 44 gang locations: owner hash, gang, the name the map uses, and whether it counts for 100% | 44 |
+| `missions_and_tasks.tsv` | Content IDs of story missions, optional tasks and side missions, with titles | 137 |
+| `robbery_locations.tsv` | Robbery locations by type | 149 |
+
+The columns that matter most:
+
+- `confidence`:
+  - **confirmed**: two independent proofs, such as a literal from a dump that also fits where it sits in the save, or a second hash.
+  - **likely**: one structural fit from a search whose chance rate was measured with decoy hashes and found near zero.
+  - **named**: from the earliest lists, before grades were kept.
+  - **inferred**: a label taken from the game's own stats screens.
+- `game_label`: the game's own text for the value, where its text table has one.
+- `meaning`: for a hash whose real name is still unknown, what the value holds, worked out from how it behaves across many saves.
+- `source`, `evidence`, `research_round`: how the name was found.
+
+### `data/community/`: every known name, merged by hash
+
+`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,127,201 hashes with every name proposed
+for them and where each came from. It merges the public GTA VI name lists (asm512, lynxnathan, tarekmania and
+ahmed605's strings database) with the names verified above (`save-garage`). A hash can have several names. When one of
+them comes from `save-garage`, that name has been checked against real saves.
+
+### `data/radio/`: the radio
+
+| File | What it holds |
+|---|---|
+| `stations.tsv` | The 28 stations, with their keys |
+| `song_names.tsv` | 1,658 song and recording names with their 32-bit and 29-bit hashes (audio uses both) |
+| `tracklist.tsv` | The published track list by station |
+
+`data/counts.json` has the size of every table.
+
+## Looking things up
+
+`tools/lookup.py` needs only Python 3:
+
+```
+python3 tools/lookup.py 0x5299e475           # a hash: every table that knows it
+python3 tools/lookup.py lifetimemoneyearned  # a name: its hashes and where they appear
+python3 tools/lookup.py --search robbery     # names, labels and titles containing a word
+python3 tools/lookup.py --hash "Some Name"   # the joaat hashes of a string
+```
+
+Most names are hashed in lower case. The save's JSON keys and sections are hashed exactly as written, so the tool
+prints both forms.
+
+## How the save names were found
+
+- **Name lists:** candidate names from the community lists, game text and dumps of other RAGE games were hashed and
+  matched against the hashes in real saves.
+- **Brute force:** word combinations and numbered families were searched. The last step of joaat can be undone, so a
+  name's suffix can be added to a hash without knowing the name.
+- **Decoys:** every search was also run against random hashes. A name is only kept when real hits clearly beat the
+  decoy hits.
+- **Behaviour:** names and meanings were checked against how each value changes across 20 saves of two playthroughs,
+  and against the game's own stats screens on a PS5.
+
+## Licenses
+
+The community lists and the radio catalog are MIT licensed; their license texts are in `third_party/LICENSES.md`.

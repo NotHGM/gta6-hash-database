@@ -1,0 +1,844 @@
+hash	name	confidence	source	evidence	research_round
+80cbcb44	AccessState	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+4353468b	AccountId	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (wide) [exact-case hash]		all_names.json
+fbb5b5c9	ActionName	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+fd24cf9c	ActivationCount	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+94a3467d	ActiveAmbientObjectiveSaveData	likely	round 13 per-section search with suffix slot (1e8 candidates per hash, 1/70 decoys hit). ScriptAmbientObjective list of {Id, CompletedTasks}		round13/keys
+87fcfc4b	ActiveContentTags	likely	per-key context brute force (1-3 PascalCase/camelCase words from section/parent/sibling names + 600 RAGE field words; decoy-measured false-match rate about 0.6…		round2/items_keys
+a68c48d1	ActiveHeistEntrySaveData	likely	round 13 per-section search with suffix slot (3.9e7 candidates per hash, 0/40 decoys hit). ScriptHeist list[1] of {Id}		round13/keys
+6a7e136d	ActiveOutfitSlot	confirmed	asm512 judged (round 9 weak); re-found by the round 13 per-section search (3.4e7 per hash, 1/230 decoys). PlayerSavedOutfits per-character outfit hash (same va…		round13/keys
+65b74cd1	ActiveSchedule	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+df6c82e6	age	confirmed	"case fix (""Age"" stored earlier; exact-case ""age""). RDR2 parser dump: SProjDecalSaveData {decal, age, packName} and SPackedProjDecalSaveData.age (alexguirre/rag…"		round13/keys
+227edfca	AIDialogue	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+0a98b653	AlarmTriggerData	likely	round 13 per-section search (section vocabulary, 1-3 words, 1.2e7 candidates per hash, 0/100 decoys hit). Robbery history entry list of {Index, State}, the <Th…		round13/keys
+ead733fc	Albedo	confirmed	tarekmania/gta6-namehash confirmed.json; asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; brute force Pascal…		all_names.json
+c4aa2ba0	AlbumName	likely	round 13 per-section search (section vocabulary, 1-3 words, 5.4e5 candidates per hash, 0/30 decoys hit). GalleryAlbumSaveData[] entry: album name hash beside P…		round13/keys
+22bd28d7	AllDisabled	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+af556d70	AmbientObjectiveSaveData	likely	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); ScriptAmbientObjective list of {Id, …		round2/items_keys
+464def97	AmbientVehicleSaveData	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+09244cb9	AmbientZoneData	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+4a4e9b7e	AnimationDurationMultiplier	likely	asm512/gta6-name-recovery data/names.tsv @0efa5cd264ff (field, 'judged', row new in this update); PlayerAppearance decal entry, float; agrees with the earlier …		round9/sweep1
+cdb100d4	AppearanceDirectorMiscSaveData	likely	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+c021de9b	AppearanceDirectorPlayerSaveData	likely	round 13 per-section search with suffix slot (1.8e8 candidates per hash, 9/130 decoys hit). ScriptAppearanceDirector list[2] of per-player records {PlayerManag…		round13/keys
+6d4684c7	AppearanceDirectorPlayerStolenKitSaveData	likely	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+b77ca06f	AppearanceDirectorSlotSaveData	likely	round 13 per-section search with suffix slot (1.8e8 candidates per hash, 9/130 decoys hit). ScriptAppearanceDirector list of outfit-slot requests {CharacterHas…		round13/keys
+00e97e62	Archetype	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; asm512/gta6-name-recovery names.tsv (name list); brute force P…		all_names.json
+5e8a4ee1	ArmourParts	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+4e58752b	ArticleId	likely	per-section 3-word context compounds (decoys: 3 hits on 395 random hashes vs about 80 real); ScriptNewsApp records {hash, postFlags}		round7/atlas
+e7cb9e1b	Asset	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; HolyRoses/gta6-explorer; femga/rdr3_discoveries; asm512/gta6-n…		all_names.json
+b70a22c1	AssetSubTypeMap	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+1267ce16	AttachmentSlotHash	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+c0251e62	AttachPoints	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+a515c4cc	AttackedTimestamp	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+781a1d67	AttractCounts	likely		upgrade weak->likely: per-key context brute force (decoy false-match rate about 0.6% per key); section 749dffa7 next to EngageCounts/ExhaustCounts	round2/items_keys
+749dbb9e	attributes	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; HolyRoses/gta6-explorer; asm512/gta6-name-recovery names.tsv (name …		all_names.json
+dad204f6	attributeSet	likely	per-key context brute force (1-3 PascalCase/camelCase words from section/parent/sibling names + 600 RAGE field words; decoy-measured false-match rate about 0.6…		round2/items_keys
+b86613ff	Audio	confirmed	asm512 name list		all_names.json
+1234eb01	AwardIds	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+5e5f88c2	bActive	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+818f6f6d	Balance	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+1e1e8a08	BankLedgerHistoryEntrySaveData	confirmed	round 13 <X>SaveData pass (2.8e7 per hash, 1/70 decoys); corroborated by the savings list on another hash, BankLedgerSavingsHistoryEntrySaveData (template pass…		round13/keys
+f4a14422	BankLedgerSavingsHistoryEntrySaveData	confirmed	round 13 sibling-template pass 2 (with the names found earlier in this round as templates; 4.7e5 candidates per hash, 0 decoy hashes hit of 2,000); template fr…		round13/keys
+f489d8ba	BaseId	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+92f37a48	baseIds	confirmed	per-key context brute force; stats section typed groups hold baseIds/itemIds/scopes/DataValues; corroborated by the three top-level tables UniqueBaseIds (386 =…		round2/items_keys
+65be54f8	bCachedArmourValues	likely	round 13 per-section search (3.4e7 candidates per hash, 1/230 decoys). PlayerSavedOutfits per-character bool beside ArmourParts		round13/keys
+d264d756	bEnd	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 2.1e6 candidates per hash, 0/30 decoys hit). Persistence BoneData entri…		round13/keys
+0c43340f	BinkName	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+1cc678de	Bitangent	likely	tarekmania/gta6-namehash dictionary.json (GTA V names); brute force PascalCase; brute force PascalCase (top-3000 words) [exact-case hash]		all_names.json
+8bd0696d	BlockedInteractionSaveData	likely	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); ScriptEntityInteraction list of ids		round2/items_keys
+7b3860a4	BlockersCount	likely	round-7 weak name re-found by a round 13 decoy-controlled search with the ScriptEntityInteraction vocabulary + blocker words (2.9e6 candidates per hash, 1/120 …		round13/keys
+56585b94	BlockIndex	likely	tarekmania/gta6-namehash dictionary.json (GTA V names); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-c…		all_names.json
+96fbfaaf	BoneData	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+410c5e08	BoneId	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+ca4ba271	boneId	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+e3c18ce6	BoneIndex	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+485a4436	BoneOffset	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+77096582	BoolData	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+5f642e1b	Brand	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+0acab837	BreakingNewsArticleSaveData	likely	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+d876c338	BusinessLabel	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+08ccb621	bytes	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); HolyRoses/gta6-explorer; femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (name list); other…		all_names.json
+688ae941	CabinetId	likely	round-7 weak name re-found by round 13 per-section search (section vocabulary, 1-3 words, 6.6e6 candidates per hash, 0/200 decoys hit). ScriptArcadeGames cabin…		round13/keys
+b2a81841	Camera	confirmed	GTA V save block name; asm512		all_names.json
+66983bf4	CanTow	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+45cc2db9	CarriableEntrySaveData	likely	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); ScriptInitialSpawn list with PropMod…		round2/items_keys
+3e37b632	Categories	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+b53667be	Category	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other …		all_names.json
+3f668e15	CCTVData	likely	round 9 family fill (scripts/family.py) (word CCTV (tarekmania dictionary.json, GTA V names such as CCTV, MP_CCTV_SCENE) in the <Thing>Data pattern of the robb…		round9/sweep1
+b96168ee	challengeId	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+f349299a	ChallengeIds	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+3000010d	Challenges	confirmed	gta5/rdr3 lists; content is a goal tracker		all_names.json
+e3232852	challengeSetId	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+030bc589	challengeStatus	likely	round 13 per-section search (section vocabulary, 1-3 words, 2.3e6 candidates per hash, 0/40 decoys hit) and the general pass; matches the round-7 atlas reading…		round13/keys
+f6f9434e	challengesToFail	likely	per-key context brute force (decoy false-match rate about 0.6% per key); ScriptMissionChallenges next to challenge ids		round2/items_keys
+6c8b3c92	challengesToSucceed	confirmed	round 13 suffix-join pass (word-boundary prefixes of named siblings + any of 700k words; 5.6e6 candidates per hash on average, 2 decoy hashes hit of 1,240): pr…		round13/keys
+b551b4f5	Channel	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; bru…		all_names.json
+66434d1d	Character	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; bru…		all_names.json
+bffc3ef4	CharacterActiveScheduleSaveData	confirmed	round 13 suffix pass (1.2e8 per hash, 3/60 decoys in the section) and the <X>SaveData pass; corroborated by the independently found section name ScriptPlayerCh…		round13/keys
+6930c493	CharacterHash	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+7549e46a	ChatId	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+1abb83d2	ClearData	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+fdc448ec	ClearIndex	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+7a47cb05	CodeSaveBlock	confirmed	"targeted guess; the plain-text document key ""CodeSaveBlocks"" holds the list whose every item is wrapped in this hash"		round7/atlas
+d0372968	codeVersion	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+6b5e08c1	Completed	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; bru…		all_names.json
+bf79dde4	CompletedTasks	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 2.7e6 candidates per hash, 0/70 decoys hit). ScriptAmbientObjective {Id…		round13/keys
+56a4ee91	CompletionType	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (wide) [exact-case hash]		all_names.json
+b442a806	Config	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (name l…		all_names.json
+d9cd190c	ContactId	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+3c6eac0e	ContactSaveData	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+ed72c8f1	ContainerData	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+c70b07dd	ContainerIndex	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+175686aa	ContentFlags	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+7ba4461c	ContentId	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+feb80b6f	ContentPersistentBoolData	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+c4287722	ContentPersistentFloatData	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+0dc96cf9	ContentPersistentGuidData	likely	asm512/gta6-name-recovery data/names.tsv @0efa5cd264ff (field, 'judged', row new in this update); ScriptContentPersistent: list beside the known ContentPersist…		round9/sweep1
+e9cc961a	ContentPersistentIntData	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+a9539d28	ContentPersistentKeyData	likely	re-asserted: round 9 likely (asm512 judged, ContentPersistent<Type>Data family); lost to the gen_savekeys corrections bug		round13/keys
+5eab02bd	ContentPersistentLongData	likely	asm512/gta6-name-recovery data/names.tsv @0efa5cd264ff (field, 'judged', row new in this update); ScriptContentPersistent: ContentPersistent<Type>Data family, …		round9/sweep1
+d29fa8c4	ContentPersistentVec3Data	likely	round 9 family fill (scripts/family.py) (word Vec3 (asm512 names such as Vec3V, CDataOverrideVec3) in the ContentPersistent<Type>Data pattern); ScriptContentPe…		round9/sweep1
+ba7a26ca	ContentPools	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+86ed7191	contentPoolStates	likely	per-key context brute force (decoy false-match rate about 0.6% per key); ContentPools section		round2/items_keys
+8496351d	ContentTags	likely	asm512 cracked; fits 409 {hash,int,int} records		all_names.json
+ee18971a	contentUnlocks	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 4.2e5 candidates per hash, 0/10 decoys hit). contentPoolStates[] {$key,…		round13/keys
+c7328abf	CooldownGroups	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+975bce26	CooldownTimestamp	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 6.1e6 candidates per hash, 0/100 decoys hit). Enterprises Data[] in-gam…		round13/keys
+5405a4f4	crc	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); other GTA VI RE repo text; brute force lower-case		all_names.json
+a00382ed	CurrentAmmo	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+d23696be	CurrentLevel	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+15e214f3	CurrentPosition	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+9cd89bd0	CurrentRun	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+e935988b	CurrentTrackCategoryNameHash	likely	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+8460e9aa	CurrentTrackNameHash	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+80d7f268	CurrentWeapon	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+4b22373a	DamageModes	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+b411fa7e	Data	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; HolyRoses/gta6-explorer; femga/rdr3_discoveries; asm512/gta6-name-r…		all_names.json
+450ce2f0	DataValues	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+3521b964	dataVersion	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+24447d1b	DeathInfos	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+f08729d4	decal	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); other GTA VI RE repo text; brute force lower-case		all_names.json
+8fee59af	DefaultPosition	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+2717a354	DefaultRotation	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+a662d8be	Delta	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; bru…		all_names.json
+00621e80	Dirtiness	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+7f35453e	DirtinessSkin	confirmed		upgrade weak->confirmed: per-key context search and the RDR2 string list (t3chman/rdr3_strings) both give it; PlayerAppearance RPGData next to Dirtiness/WetnessWhole/WetnessRain/WetnessHair	round2/items_keys
+87ffdb7d	DisabledShopEntrySaveData	likely	round 13 <X>SaveData pass (section vocabulary, 1-3 words + suffix from the script naming pattern; 2.5e7 candidates per hash, 0/70 decoys hit in the section) an…		round13/keys
+30b2b9d2	DisabledShopTypesEntrySaveData	likely	round 13 <X>SaveData pass (section vocabulary, 1-3 words + suffix from the script naming pattern; 2.5e7 candidates per hash, 0/70 decoys hit in the section). S…		round13/keys
+35f4535f	DiscardLevel	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+942ad2e8	discardLevel	likely	RDR2 string list t3chman/rdr3_strings (exact-case match; whole run expected chance 0.12); PersChars decal record field		round2/items_keys
+1b02caf4	DiscoverableMemoryData	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+53786a88	DiscoverableType	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 1.4e6 candidates per hash, 0/20 decoys hit). DiscoverableMemoryData[] {…		round13/keys
+78807d00	Discovered	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words) [exact-case hash]		all_names.json
+940e954d	Discovery	confirmed	asm512 name list; content is shops/businesses discovered		all_names.json
+84a65919	DiscoveryOrder	likely		upgrade weak->likely: per-key context brute force (decoy false-match rate about 0.6% per key); Discovery section	round2/items_keys
+6bf54c19	Displacement	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words) [exact-case hash]		all_names.json
+869fa957	displacement	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); other GTA VI RE repo text; brute force lower-case		all_names.json
+c5d7a7c4	DisplacementRadius	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+ca6f9daa	displacementRadius	confirmed	camelCase twin of the known PlayerAppearance decal key DisplacementRadius (same value 1.0); asm512 cracked the same string; re-found by round 13 per-section se…		round13/keys
+b04c93ed	DjSpeechHistory	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+cf0f8527	DoorPanelData	likely	re-asserted: round 9 likely (asm512 judged; <Thing>Data family of Robbery objects); lost to the gen_savekeys corrections bug		round13/keys
+41acf8eb	Drawable	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; asm512/gta6-name-recovery names.tsv (name list); brute force P…		all_names.json
+ea54ae2c	DurationInDays	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+c4376d2a	DurationSeconds	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+bfdf9444	DynamicLocationSaveData	likely	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); section bc20f32c list with Key/Locat…		round2/items_keys
+e93eb781	ElapsedSeconds	confirmed	asm512 names.tsv (judged); brute force PascalCase; brute force PascalCase (wide) [exact-case hash]		all_names.json
+43362dbe	ElapsedTimeMs	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+38949341	EnemiesKilled	confirmed	asm512 names.tsv (judged); brute force PascalCase; brute force PascalCase (wide) [exact-case hash]		all_names.json
+da3b659a	EngageCounts	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+917ad392	EngagedTimestamp	confirmed	asm512 names.tsv (judged); brute force PascalCase (wide) [exact-case hash]		all_names.json
+7c06ae02	Engagement	likely	earlier weak name re-found by round 13 per-section search (section vocabulary, 1-3 words, 2.6e6 candidates per hash, 0/50 decoys hit). ScriptChitChat object ho…		round13/keys
+dee848ca	Enterprises	confirmed	asm512 name list		all_names.json
+4d9f5eb0	EntityHeat	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+2f0fb0ec	EntityIndex	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+9d8e7980	EntryId	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+5e7c8566	EpisodeId	likely	per-key context brute force (1-3 PascalCase/camelCase words from section/parent/sibling names + 600 RAGE field words; decoy-measured false-match rate about 0.6…		round2/items_keys
+63b44f39	EquippedFlags	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+ac9c1132	EscalationSource	confirmed	asm512 names.tsv (judged); brute force PascalCase; brute force PascalCase (wide) [exact-case hash]		all_names.json
+b3d8cbee	EscalationTargets	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 6.1e6 candidates per hash, 0/100 decoys hit). GangsData[] int beside Es…		round13/keys
+d483411d	EscalationTimestamp	confirmed	asm512 names.tsv (judged); brute force PascalCase (wide) [exact-case hash]		all_names.json
+7019b244	ExhaustAmbientInteractionSaveData	likely	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+144f6d73	ExhaustCounts	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+67035813	ExhaustData	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+4ffaec8e	ExhaustedActionSaveData	likely	round 13 adjective + section-word SaveData pass (1.4e7-1.7e7 candidates per hash; 5 decoy hashes hit of 1,580 over all script sections, all word salad). Script…		round13/keys
+1ebcf9c3	ExhaustedTutorialSaveData	likely	round 13 adjective + section-word SaveData pass (1.4e7-1.7e7 candidates per hash; 5 decoy hashes hit of 1,580 over all script sections, all word salad). Script…		round13/keys
+b6929ed2	ExhaustTimestamp	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 1.4e6 candidates per hash, 0/10 decoys hit). InGameMedia ExhaustData[] …		round13/keys
+ba974a88	ExpirationData	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+041e46a6	ExpirationIndex	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+3fe7456c	ExpireTimes	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+432b921c	FaceValue	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+018b370f	FactionID	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+fdc1a7e8	Factions	confirmed	asm512 name list		all_names.json
+4eaa5ba8	FamilyCooldowns	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+4355c489	FamilyEngagement	likely	2-word compounds, 3k-word vocabulary (decoys: 2 hits on 395 random hashes vs 41 real); object holding FamilyNames/AttractCounts/EngageCounts/ExhaustCounts besi…		round7/atlas
+126c38b0	FamilyNames	likely		upgrade weak->likely: per-key context brute force (1-3 PascalCase/camelCase words from section/parent/sibling names + 600 RAGE field words; decoy-measured false-match rate about 0.6% per key); section 749dffa7 next to F…	round2/items_keys
+45b925e3	fArmour	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+f68bba48	FenceKey	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 4.2e6 candidates per hash, 0/160 decoys hit). ScriptFence entries keyed…		round13/keys
+11e36f92	FenceSaveDataEntry	likely	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); ScriptFence record with FenceKey/Sav…		round2/items_keys
+46223446	FenceSoldVehicleSaveDataEntry	likely	round 13 <X>SaveData pass (section vocabulary, 1-3 words + suffix from the script naming pattern; 3.6e7 candidates per hash, 0/50 decoys hit in the section). S…		round13/keys
+c25cfb09	FenceVehicleSaveDataEntry	likely	round 13 <X>SaveData pass (section vocabulary, 1-3 words + suffix from the script naming pattern; 3.6e7 candidates per hash, 0/50 decoys hit in the section). S…		round13/keys
+0834e1d0	fHealth	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+9c73280e	FinishedListening	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+4b621302	Flags	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; lynxnathan/rage-tools-vi names.tsv; femga/rdr3_discoveries; as…		all_names.json
+67d26872	flags	confirmed	"case fix (""Flags"" stored earlier; exact-case ""flags""). Literal in GTA V/RDR2 dumps (alexguirre/rage-parser-dumps) and asm512 name list for this hash; e576e2f2 …"		round13/keys
+e7c7e525	FlagState	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+5d1ec27e	flipH	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+ce8c9f3a	FlipH	likely	RDR2 string list t3chman/rdr3_strings (exact-case match; whole run expected chance 0.12); PascalCase twin of the confirmed key flipH		round2/items_keys
+530e2833	FlipV	likely	tarekmania/gta6-namehash dictionary.json (GTA V names) [exact-case hash]		all_names.json
+5d25c290	flipV	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+0d49085d	FloatData	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+ab5cbcd4	FlowActivationEntrySaveData	likely	round 13 <X>SaveData pass (section vocabulary, 1-3 words + suffix from the script naming pattern; 3.9e7 candidates per hash, 2/60 decoys hit in the section) an…		round13/keys
+aabfe8db	FlowCommandSaveData	likely	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+e528edb8	FlowNodeSaveData	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+7abacb52	FlowOperationEntrySaveData	likely	round 13 sibling-template pass 2 (with the names found earlier in this round as templates; 4.7e5 candidates per hash, 0 decoy hashes hit of 2,000); template fr…		round13/keys
+b1c573d9	FlowSaveData	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+34a340f1	FlowStateSaveData	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+9f8e2fa0	fMaxArmour	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+4802abf7	fMaxHealth	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+6ac593ca	FogOfWar	confirmed	gta5+asm512		all_names.json
+69e24cfe	foundCounts	confirmed	RDR2 parser dump CSaveCollectables__InfinateFindAndTurnInItem {key, foundCount, turnedInCount} (alexguirre/rage-parser-dumps), pluralised for parallel arrays; …		round13/keys
+699c308d	GalleryAlbumSaveData	likely	round 13 per-section search with suffix slot (2e7 candidates per hash, 0/30 decoys hit). ScriptCellphoneGallery list of {AlbumName, PhotosBitset}; <X>SaveData …		round13/keys
+67cb23ad	GalleryStateSaveData	likely	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); ScriptCellphoneGallery with Version		round2/items_keys
+dbcb068b	GameClockDay	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+c8893d05	GameClockHour	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+fb8c5018	GameClockMinute	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+bb64a995	GameClockMonth	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+ae65d6cb	GameClockSecond	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+9ebbbabf	GameClockYear	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+cb4d2fd6	GameShapeName	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 1.8e6 candidates per hash, 0/50 decoys hit). ScriptLaw list of {hash, G…		round13/keys
+3ee0477d	GangsData	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+72194fcc	Garages	confirmed	GTA V save block name		all_names.json
+e13ebaf8	GarmentPreset	confirmed	tarekmania/gta6-namehash confirmed.json; asm512 names.tsv (cracked); brute force PascalCase; other GTA VI RE repo text; brute force PascalCase (wide) [exact-ca…		all_names.json
+7e28a2a9	GlobalPersistentBoolData	confirmed	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+d2542122	GlobalPersistentFloatData	confirmed	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+d67c4a3d	GlobalPersistentGuidData	confirmed	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+0924889d	GlobalPersistentIntData	confirmed	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+0b11582f	GlobalPersistentLongData	confirmed	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+a4618110	GlobalPersistentVec3Data	confirmed	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+5299bbe4	GlobalSlot	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+d8cbe729	Guid	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+f4d28191	GuidData	confirmed	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 2.1e6 candidates per hash, 0/30 decoys hit) and the general pass. Persi…		round13/keys
+b4bfeab1	Guids	confirmed	"asm512 cracked the same string; literal ""guids""/""GUIDs"" in RAGE name lists (case variant); re-found by round 13 per-section search (section vocabulary, 1-3 wor…"		round13/keys
+2465df74	Handlers	likely		upgrade weak->likely: RDR2 string list t3chman/rdr3_strings (exact-case match; whole run expected chance 0.12); Robbery KeyCodes Knowledge entries	round2/items_keys
+9525e813	Hash	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other …		all_names.json
+23ec31ff	HashId	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+3b715a02	HashState	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+e8abc762	Heading	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (name l…		all_names.json
+d24a83ea	HeatRequestSaveData	likely	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); ScriptLaw list with Key/ThresholdId		round2/items_keys
+6af8802a	HeistId	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+13d56f77	HeistUnlockEntrySaveData	likely	round 13 per-section search with suffix slot (3.9e7 candidates per hash, 0/40 decoys hit). ScriptHeist list of {HeistId, UnlockId}		round13/keys
+5de5557a	HighScore	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+b4475960	History	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+1e5515c5	HistorySpace	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+748cbd07	Hours	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+706a1287	IconTexture	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+1b60404d	id	confirmed	"case fix: earlier rounds stored ""Id"" but the key hashes as lower-case ""id"" (exact case). Literal in GTA V/RDR2 parser dumps (alexguirre/rage-parser-dumps) and …"		round13/keys
+e30a73b2	Id	confirmed	lynxnathan/rage-tools-vi names.tsv; femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text;…		all_names.json
+477567c0	IgnoreOnScreen	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+e4849b47	ImpoundHeading	likely	per-section 3-word context compounds (decoys: 3 hits on 395 random hashes vs about 80 real); float in the same record; trio with ImpoundPosition/IsImpounded		round7/atlas
+c91de2ed	ImpoundPosition	likely	per-section 3-word context compounds (decoys: 3 hits on 395 random hashes vs about 80 real); vec3 in the same record; trio with ImpoundHeading/IsImpounded		round7/atlas
+fb5bb20d	IncludedKits	confirmed	tarekmania/gta6-namehash confirmed.json; other GTA VI RE repo text; brute force PascalCase (wide) [exact-case hash]		all_names.json
+3dbcf2f4	Index	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; lynxnathan/rage-tools-vi names.tsv; HolyRoses/gta6-explorer; f…		all_names.json
+a474d047	InfiniteCollectibles	confirmed	same search as UniqueCollectibles (pair); the table that carries foundCounts and turnedInCounts, exactly RDR2 InfinateFindAndTurnInItem		round13/keys
+f3b0a9d2	InGameMedia	likely	per-section context brute force (1-3 words); code block whose only key ExhaustData lists BinkName (video) + ExhaustTimestamp records, i.e. in-game video media;…		round2/items_keys
+dee94c27	InitialSpawnSaveData	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+949693be	InstanceCooldowns	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+35e4daa8	Int64Data	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+085ee24c	IntData	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+9a4e700a	InteractionId	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+789bdd41	Inventories	confirmed		upgrade weak->confirmed: RDR2 string list t3chman/rdr3_strings (exact-case match; whole run expected chance 0.12); list of the 21 inventories, each with InventoryId	round2/items_keys
+3e226822	InventoryId	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+5f11b9dd	IsBlocked	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+5b6d61b8	isComplete	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+c84eb3e9	IsFavouriteFlags	likely	round 13 per-section search (section vocabulary, 1-3 words, 8.6e6 candidates per hash, 0/200 decoys hit). Weapons-list bool column (all true), the <X>Flags pat…		round13/keys
+a3d2e6fe	IsImpounded	likely	per-section 3-word context compounds (decoys: 3 hits on 395 random hashes vs about 80 real); ScriptVehicleTracking bool; forms a trio with ImpoundPosition (vec…		round7/atlas
+bbedf3bc	IsKnown	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 6.1e6 candidates per hash, 0/100 decoys hit). GangsData[] bool (gang kn…		round13/keys
+e84872f9	IsLastActive	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+dab2b616	IsPowerOn	confirmed	asm512 names.tsv (judged); brute force PascalCase (wide) [exact-case hash]		all_names.json
+249b7b4d	IsResolved	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (wide) [exact-case hash]		all_names.json
+8ef931f5	IsRunning	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+26ca8c5c	IsSuggestedContact	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+232757ed	IsUnlocked	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (wide) [exact-case hash]		all_names.json
+063fa3f2	Item	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; lynxnathan/rage-tools-vi names.tsv; femga/rdr3_discoveries; as…		all_names.json
+91e5dfe8	ItemCategory	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+af2dd1c2	ItemEffectSaveData	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+f50c1b43	ItemId	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+4d20ff5b	itemIds	confirmed	same stats-section set as baseIds; the qualifier index array (qualifier table = UniqueItemIds)		round2/items_keys
+be8e255c	ItemIds	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+abb1e011	Items	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+6098a50e	Key	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; lynxnathan/rage-tools-vi names.tsv; HolyRoses/gta6-explorer; a…		all_names.json
+68a2234a	KeyCodes	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+2c99b768	keys	confirmed	"case fix (""Keys"" stored earlier; exact-case ""keys""). Literal in alexguirre/rage-parser-dumps dictionary and asm512 name list for this hash; int_array of collec…"		round13/keys
+29162931	KitHash	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+de26ece4	KitHashType	likely	round 13 per-section search (section vocabulary, 1-3 words, 4.9e6 candidates per hash, 0/130 decoys hit). ScriptAppearanceDirector outfit requests: int 0/1/2 b…		round13/keys
+1d52bc91	KitLayer	confirmed	tarekmania/gta6-namehash confirmed.json; asm512 names.tsv (cracked); brute force PascalCase; other GTA VI RE repo text; brute force PascalCase (top-3000 words)…		all_names.json
+65121749	KitName	confirmed	tarekmania/gta6-namehash confirmed.json; asm512 names.tsv (cracked); brute force PascalCase; other GTA VI RE repo text; brute force PascalCase (top-3000 words)…		all_names.json
+890aca98	KitPedDefinitions	likely	asm512 cracked (round 9 weak); re-found independently by the round 13 per-section search (3.4e7 per hash, 1/230 decoys). SavedOutfits[] list beside IncludedKit…		round13/keys
+8f0ae8eb	Knowledge	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 1.2e7 candidates per hash, 0/100 decoys hit). Robbery KeyCodes {Seed, R…		round13/keys
+2d2c7d8c	labeledBuildVersion	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+0ca56c64	LastActivationIndex	confirmed	asm512 names.tsv (judged); brute force PascalCase (wide) [exact-case hash]		all_names.json
+2ec73902	LastActiveSlot	likely	round-7 weak name re-found by round 13 per-section search (section vocabulary, 1-3 words, 4.9e6 candidates per hash, 0/130 decoys hit). ScriptAppearanceDirecto…		round13/keys
+7babc747	LastDrivenVehicleSaveData	likely	round 13 per-section search with suffix slot (1.5e8 candidates per hash, 3/80 decoys hit). ScriptVehicleTracking list[2] of {SerialNumber, Owner}: one per char…		round13/keys
+72f469e2	LastPlayerCharacter	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+6a775761	LastRadioStations	confirmed	context-driven brute force (expected chance 0.007); vehicles inventory list column whose values are radio-station label hashes (The Chamber 106.6, Flash FM, V-…		round2/items_keys
+2118c848	LastSavePosition	confirmed	asm512 names.tsv (judged); brute force PascalCase (wide) [exact-case hash]		all_names.json
+98775f68	LastTimeOfDay	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+ebc4f380	LastWeatherInterp	confirmed	member of the LastWeatherPrev/Next/Interp trio; the float sibling		round2/items_keys
+353ff1e9	LastWeatherNext	confirmed	round 13 per-section search (section vocabulary, 1-3 words, 5.3e6 candidates per hash, 1/40 decoys hit) and the suffix pass; the missing member of the LastWeat…		round13/keys
+f9c3b122	LastWeatherPrev	confirmed	ScriptInitialSpawn InitialSpawnSaveData (next to LastSavePosition/LastPlayerCharacter/LastTimeOfDay); the trio LastWeatherPrev/LastWeatherNext/LastWeatherInter…		round2/items_keys
+7efea5a0	Layout	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); HolyRoses/gta6-explorer; asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other…		all_names.json
+49946b40	LegacyDiscovered	likely	round-7 weak name re-found by round 13 per-section search (section vocabulary, 1-3 words, 1.2e6 candidates per hash, 0/30 decoys hit). Discovery: empty list be…		round13/keys
+125d4d6e	Level1Stats	confirmed	round 13 arcade search (difficulty/level/mode vocabulary, 1-3 words, 2.1e6 candidates per hash, 0/30 decoys): the three sibling objects of each cabinet entry h…		round13/keys
+e6fa83b3	Level2Stats	confirmed	round 13 arcade search (difficulty/level/mode vocabulary, 1-3 words, 2.1e6 candidates per hash, 0/30 decoys): the three sibling objects of each cabinet entry h…		round13/keys
+257a4d13	Level3Stats	confirmed	round 13 arcade search (difficulty/level/mode vocabulary, 1-3 words, 2.1e6 candidates per hash, 0/30 decoys): the three sibling objects of each cabinet entry h…		round13/keys
+ff72c0fd	LevelCompleted	likely	earlier weak name re-found by round 13 per-section search (section vocabulary, 1-3 words, 2.3e6 candidates per hash, 0/60 decoys hit). TutorialEscalationSaveDa…		round13/keys
+37d7b549	ListenTimer	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+3c85972d	Location	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; bru…		all_names.json
+c97144d3	LocationRecords	likely		upgrade weak->likely: per-key context brute force (1-3 PascalCase/camelCase words from section/parent/sibling names + 600 RAGE field words; decoy-measured false-match rate about 0.6% per key); Robbery History, 63 locati…	round2/items_keys
+ce559722	Locations	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+a432f0fd	LocoResourceContext	likely	earlier weak name re-found by round 13 per-section search (section vocabulary, 1-3 words, 2.2e6 candidates per hash, 0/50 decoys hit) (chance probability 5e-4 …		round13/keys
+a41d353b	LODMask	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+c846ab4d	LootedMask	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+800aa2ed	MakeupKit	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+029bbf82	MasterVersion	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+9d1000d8	Material	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; asm512/gta6-name-recovery names.tsv (name list); brute force P…		all_names.json
+f717d168	MediaDisplaySaveData	confirmed	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); top-level key of section ScriptMedia…		round2/items_keys
+7dae2735	MiniMap	confirmed	GTA V save block name		all_names.json
+2bc7b3b3	Minutes	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words) [exact-case hash]		all_names.json
+e144315d	MissionChallengeCheckpointData	likely	round 13 per-section search with suffix slot (8.3e7 candidates per hash, 0/40 decoys hit). ScriptMissionChallenges object holding challengeStatus, challengesTo…		round13/keys
+285cceca	Mod	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (n…		all_names.json
+94d6f0ef	Modelname	likely	"asm512 cracked (exact-case ""Modelname"", lower-case n); re-found by round 13 sibling-template pass 2 (with the names found earlier in this round as templates; 4…"		round13/keys
+fb5833a9	ModelName	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; HolyRoses/gta6-explorer; asm512/gta6-name-recovery names.tsv (name …		all_names.json
+3ac987de	ModShops	likely	asm512/gta6-name-recovery data/names.tsv @0efa5cd264ff (field, 'cracked', row new in this update); inventory section d3f59a5e: per-vehicle int array beside Par…		round9/sweep1
+a3808255	moneyCheated	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+acec22be	Name	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; lynxnathan/rage-tools-vi names.tsv; HolyRoses/gta6-explorer; f…		all_names.json
+872289a1	NameHashes	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+98874c72	Names	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); HolyRoses/gta6-explorer; femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (name list); brute…		all_names.json
+fd98f03c	NewsArticleSaveData	likely	round 13 per-section search with suffix slot (6.8e7 candidates per hash, 0/40 decoys hit). ScriptNewsApp list of {ArticleId, postFlags}		round13/keys
+1d8112f1	NewsStoryState	likely	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv [exact-case hash]		all_names.json
+c79e0379	NextIndex	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+f3401149	NonInteractiveEvents	likely	literal non_interactive_events in the GTA V name list (tarekmania dictionary), PascalCase form; re-found by round 13 per-section search (section vocabulary, 1-…		round13/keys
+d689b17f	Normal	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery …		all_names.json
+fca27961	normalX	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+0eb31d82	normalY	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+9567aaed	normalZ	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+4fadc447	ObjectiveLabel	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 8e5 candidates per hash, 0/50 decoys hit). Section bb410330 list[5] {Ob…		round13/keys
+cba9e511	OriginalPresets	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+ac7773e7	OutfitName	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+c2e5dc0d	OverrideFileId	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 1.2e6 candidates per hash, 0/70 decoys hit). ShopOverrideSaveData[] {Sh…		round13/keys
+62edb0ef	OwnedWeaponsHistory	likely	round 13 <X>SaveData pass (section vocabulary, 1-3 words + suffix from the script naming pattern; 1.8e8 candidates per hash, 2/120 decoys hit in the section). …		round13/keys
+24757f18	Owner	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); HolyRoses/gta6-explorer; asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute…		all_names.json
+8c060170	owner	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; HolyRoses/gta6-explorer; asm512/gta6-name-recovery names.tsv (name …		all_names.json
+8d510c64	OwnerHash	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+6d0bd92f	OwnerInventoryId	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+fb1eff6a	Owners	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words) [exact-case hash]		all_names.json
+cb9a5ac1	PackedDecalArray	confirmed	RDR2 string list t3chman/rdr3_strings (exact-case match; whole run expected chance 0.12); PersChars list of decal records (tangentX/normalY/projDecalName/flipH…		round2/items_keys
+989020e4	packName	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+5ecf9331	Palette	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; brute force PascalCase; other GTA VI RE repo text; brute force…		all_names.json
+c5730137	ParentGuidIndices	confirmed	save-garage engine/money.py (the editor's own verified inventory layout; public copy CoreyLyu76/gta6-save-editor is a translation of it)		round4/sources
+d558e4da	ParentGuids	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+c63eb2eb	ParkingSpots	likely		upgrade weak->likely: re-found by a context-only search (expected chance 0.017); vehicles list column whose values are slotid_vehicle_N parking slots	round2/items_keys
+a84126b5	PartnerFencingSaveData	confirmed	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); top-level key of section ScriptPartn…		round2/items_keys
+8979eb76	PendingMessageId	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+380b4149	PendingValue	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+bdd63bb7	persCharName	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+d8469403	PersCharName	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+56e4cf96	PersChars	confirmed	asm512 name list		all_names.json
+5399d3f4	Persistence	likely	brute force of PascalCase word combinations (exact-case joaat); content is world-state lists		all_names.json
+60c3329f	persistentData	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 6.2e5 candidates per hash, 0/30 decoys hit). PersistentDataStore's only…		round13/keys
+c3fe6d91	PersistentDataStore	likely	upgrade of an earlier weak name: section whose only key is persistentData; re-found by the context pass		round7/atlas
+d18d6ae9	PersistentPropConfigSaveData	likely	round 13 <X>SaveData pass (section vocabulary, 1-3 words + suffix from the script naming pattern; 1.6e7 candidates per hash, 0/40 decoys hit in the section) an…		round13/keys
+70f131eb	PersistentPropManagerSaveData	likely	round 13 sibling-template pass 2 (with the names found earlier in this round as templates; 4.7e5 candidates per hash, 0 decoy hashes hit of 2,000); template fr…		round13/keys
+0e889caa	PersonalVehicleSaveData	likely	round 13 per-section search with suffix slot (1.5e8 candidates per hash, 3/80 decoys hit). ScriptVehicleTracking list of {TrunkItems, ImpoundPosition, ImpoundH…		round13/keys
+a74d95ff	PhotoId	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+d85f622f	photoIds	likely	asm512/gta6-name-recovery data/names.tsv @0efa5cd264ff (field, 'cracked', row new in this update); Photos: list of {Value, ...}; agrees with the earlier weak r…		round9/sweep1
+996ec08e	Photos	confirmed	GTA V list		all_names.json
+6b11159f	PhotosBitset	likely	2-word compounds, 3k-word vocabulary (decoys: 2 hits on 395 random hashes vs 41 real); ScriptCellphoneGallery int whose values are bit masks (15, 126, 767, 663…		round7/atlas
+7d4dec28	PlayedChitChatSaveDataEntry	likely	round 13 <X>SaveData pass (section vocabulary, 1-3 words + suffix from the script naming pattern; 2.2e7 candidates per hash, 0/40 decoys hit in the section). S…		round13/keys
+9653b39d	PlayerAppearance	confirmed	asm512 name list; content is outfits/appearance		all_names.json
+22a87829	PlayerCharacter	likely	asm512 cracked; content is per-character attributes		all_names.json
+e8471315	PlayerFlags	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+e07b4d37	PlayerHeading	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+689d1aff	PlayerManagerFlags	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+908e0d6f	PlayerMarkerList	likely	asm512 judged; re-found by round 13 per-section search (section vocabulary, 1-3 words, 8e5 candidates per hash, 0/10 decoys hit). MiniMap's only list, empty (G…		round13/keys
+e528fe31	PlayerPed	confirmed	GTA V save block name; asm512		all_names.json
+3379a8a7	PlayerPosition	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+32fe6867	PlayerSavedOutfits	likely	asm512/gta6-name-recovery data/names.tsv @0efa5cd264ff (field, 'judged', row new in this update); PlayerAppearance: list of per-character blocks holding SavedO…		round9/sweep1
+9a9d09df	PodcastEpisodeSaveData	confirmed	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); top-level key of section ScriptPodca…		round2/items_keys
+39bbe5fc	PodcastId	likely	per-key context brute force (1-3 PascalCase/camelCase words from section/parent/sibling names + 600 RAGE field words; decoy-measured false-match rate about 0.6…		round2/items_keys
+9147ec30	poolUnlocks	likely	per-key context brute force with RDR2-ranked vocabulary; ContentPools section next to contentPoolStates		round2/items_keys
+abbeac66	PosAndRadius	confirmed	asm512/gta6-name-recovery data/names.tsv @0efa5cd264ff (field, 'name list', row new in this update); PlayerAppearance decal entry, vec4 (position + radius); ag…		round9/sweep1
+f4a5b041	posAndRadius	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+0c928991	Position	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; lynxnathan/rage-tools-vi names.tsv; femga/rdr3_discoveries; as…		all_names.json
+96e052b0	PositionKey	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+0a4733da	PositionRnd	confirmed	asm512/gta6-name-recovery data/names.tsv @0efa5cd264ff (field, 'name list', row new in this update); PlayerAppearance decal entry (ProjDecalDataList[].decal), …		round9/sweep1
+6fe7bcc4	postFlags	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 1.8e6 candidates per hash, 0/40 decoys hit). ScriptNewsApp article entr…		round13/keys
+08a36043	PostId	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+0cf15989	PostIndex	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+56350faf	PostStateFlags	likely	round-2 weak name re-found by round 13 per-section search (section vocabulary, 1-3 words, 3.5e6 candidates per hash, 0/110 decoys hit). ScriptSocialMedia posts…		round13/keys
+8272bc03	PreferredActiveOutfitSlot	confirmed	"round 13 sibling-template pass 4 (4.1e5 candidates per hash, 0 decoy hashes hit of 1,770): template from its sibling ActiveOutfitSlot with ""Preferred"" inserted…"		round13/keys
+da133a4c	PremiumCurrentDayTimestamp	confirmed	"round 13 shared-prefix detection: 0xcd9ef893 and 0xda133a4c are exactly P+""Uses"" and P+""Timestamp"" for one unknown P (equal joaat states before the suffixes; 0…"		round13/keys
+cd9ef893	PremiumCurrentDayUses	confirmed	"round 13 shared-prefix detection: 0xcd9ef893 and 0xda133a4c are exactly P+""Uses"" and P+""Timestamp"" for one unknown P (equal joaat states before the suffixes; 0…"		round13/keys
+dd64930e	PremiumPurchaseTimestamp	likely	round 13 search with a vehicle-summoner vocabulary (1e8 candidates per hash, 2/100 decoys, decoy hits are word salad). In-game timestamp set once between saves…		round13/keys
+552dcc09	PrespawnedMaxRate	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+27a470c4	ProcmissionCompletionTimestampArray	likely	RDR2 string list t3chman/rdr3_strings (exact-case match; whole run expected chance 0.12); top-level key of section AIDialogue (int array)		round2/items_keys
+928c3ffd	Progress	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; bru…		all_names.json
+573fa704	ProgressElapsedSeconds	likely	round-2 weak name re-found by round 13 per-section search (section vocabulary, 1-3 words, 1.8e6 candidates per hash, 0/40 decoys hit). PodcastEpisodeSaveData f…		round13/keys
+80f2b967	ProjDecalDataList	confirmed	RDR2 string list t3chman/rdr3_strings (exact-case match; whole run expected chance 0.12); PlayerAppearance per-character list of 44 decal records (decal{BoneId…		round2/items_keys
+54dc6dce	projDecalName	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+61689b8c	ProjDecalName	confirmed	RDR2 string list t3chman/rdr3_strings (exact-case match; whole run expected chance 0.12); field inside PlayerAppearance decal records		round2/items_keys
+1ab99a0d	ProjDecalPerSessionRandomSeed	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+b4ca9f4d	Properties	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute …		all_names.json
+12f85293	PropertyTags	confirmed	tarekmania/gta6-namehash confirmed.json; asm512 names.tsv (cracked); brute force PascalCase; other GTA VI RE repo text; brute force PascalCase (top-3000 words)…		all_names.json
+9a289423	PropertyTagsInt	confirmed	tarekmania/gta6-namehash confirmed.json @298f10202679 (entry new in the 21:51 refresh (pair asserted by a GTA 6 RE repo); the same entry also lists AlbedoArran…		round9/sweep1
+9cfd2285	PropModelHash	confirmed	asm512 names.tsv (judged); brute force PascalCase; brute force PascalCase (wide) [exact-case hash]		all_names.json
+b7440b46	pSaveParam	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+60ffa18f	pvSerial	likely	round-7 weak name re-found by round 13 per-section search (section vocabulary, 1-3 words, 1.8e6 candidates per hash, 0/50 decoys hit). PartnerFencingSaveData i…		round13/keys
+e3fead7a	Quantities	likely	round 13 per-section search (section vocabulary, 1-3 words, 8.6e6 candidates per hash, 0/200 decoys hit); also general 2-word pass. int64 column of all five in…		round13/keys
+2a02e6b1	RadioCategoryNameHash	likely	round 13 per-section search with suffix slot (1.9e8 candidates per hash, 1/60 decoys hit). Hash key of each radio history list entry {.., HistorySpace} (global…		round13/keys
+8df2d2fd	RadioStationNameHash	likely	round 13 per-section search with suffix slot (1.9e8 candidates per hash, 1/60 decoys hit). Per-station hash, first field of the station record exactly where GT…		round13/keys
+9eb34864	RadioStations	confirmed	GTA V save block name		all_names.json
+0c0c620e	RadiusRnd	confirmed	asm512/gta6-name-recovery data/names.tsv @0efa5cd264ff (field, 'name list', row new in this update); PlayerAppearance decal entry, float; <base>Rnd family with…		round9/sweep1
+820021a8	RandomisationIteration	likely	round-7 weak name re-found by round 13 sibling-template pass 2 (with the names found earlier in this round as templates; 4.7e5 candidates per hash, 0 decoy has…		round13/keys
+6ebf7b21	RandomisationSeed	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+38a05778	Ratio	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; bru…		all_names.json
+8eb9f985	ReadableName	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+ebeb1c7f	RealWorldTimeStamp	confirmed	round 13 search with time words only (4.2e5 candidates per hash, 0/200 decoys; also found in a wider 1e9 run). InitialSpawnSaveData int whose values are the re…		round13/keys
+b90290fe	Records	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; bru…		all_names.json
+61616409	RecoveryTimestamp	confirmed	asm512 names.tsv (judged); brute force PascalCase; brute force PascalCase (wide) [exact-case hash]		all_names.json
+b66a6d72	RecoveryType	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+9e96c714	regionType	likely	"asm512 cracked; ""RegionType"" literal in RAGE name lists; re-found by round 13 per-section search (section vocabulary, 1-3 words, 2.2e6 candidates per hash, 0/3…"		round13/keys
+ab1347a3	relationship	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (name list); other GTA VI RE repo text; bru…		all_names.json
+a166f47a	relationshipDisabled	likely	re-asserted: round 9 likely (asm512 cracked, relationship<Word> family in PlayerCharacter); lost to the gen_savekeys corrections bug		round13/keys
+4dd72bd6	relationshipJason	likely	2-word compounds, 3k-word vocabulary (decoys: 2 hits on 395 random hashes vs 41 real); PlayerCharacter int beside relationship/relationshipLevel; pairs with re…		round7/atlas
+650b110b	relationshipLevel	likely	per-key context brute force (1-3 PascalCase/camelCase words from section/parent/sibling names + 600 RAGE field words; decoy-measured false-match rate about 0.6…		round2/items_keys
+5a51aa09	relationshipLocked	likely	per-key context brute force (decoy false-match rate about 0.6% per key); PlayerCharacter bool next to relationship/relationshipLevel/relationshipDisabled		round2/items_keys
+3ad16e12	relationshipLucia	likely	2-word compounds, 3k-word vocabulary (decoys: 2 hits on 395 random hashes vs 41 real); PlayerCharacter int beside relationship/relationshipLevel; pairs with re…		round7/atlas
+41319109	relationshipScriptCap	confirmed	round 13 search relationship + 1-2 general words (6.2e7 per hash, 1/100 decoys), then relationshipScript + words (3.1e7, 0/200). Values 69 then 100: the relati…		round13/keys
+e32a3fbf	relationshipScriptLowerCap	confirmed	round 13 search relationshipScript + 1-2 general words (3.1e7 per hash, 0/200 decoys). Values 22 while the upper cap is 69, 0 once it is 100; relationship stay…		round13/keys
+19c179a3	RepairCost	likely	wide 2-word pass, 16k-word vocabulary (decoys: 46 vs 102 real, so hash match alone is weak); ScriptVehicleTracking int with values 0/520/785/1150, identical to…		round7/atlas
+a0481ea1	RepairCosts	likely	wide 2-word pass, 16k-word vocabulary (decoys: 46 vs 102 real, so hash match alone is weak); vehicles inventory list column, same values as RepairCost		round7/atlas
+1f53b786	ReplaceAll	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+f24e7aeb	ResetDistance	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+7145cc56	RestockTimestamp	likely	round-7 weak name re-found by round 13 per-section search (section vocabulary, 1-3 words, 6.1e6 candidates per hash, 0/100 decoys hit). Enterprises Data[] in-g…		round13/keys
+b98e9102	Revision	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words) [exact-case hash]		all_names.json
+b220f630	Revisions	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+11aa129d	ReviveInfos	confirmed		upgrade weak->confirmed: RDR2 string list t3chman/rdr3_strings (exact-case match; whole run expected chance 0.12); PersChars, next to DeathInfos	round2/items_keys
+dc742dba	RingtoneId	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+e3dfd9a4	RobbedTimestamp	confirmed	asm512 names.tsv (judged); brute force PascalCase (wide) [exact-case hash]		all_names.json
+a3ae1222	Robbers	likely	round 13 per-section search (section vocabulary, 1-3 words, 1.2e7 candidates per hash, 0/100 decoys hit). Robbery history entry int_array of character hashes (…		round13/keys
+3a4cbf5d	Robbery	confirmed	asm512 name list; content is robbery targets		all_names.json
+77dd4010	rotation	confirmed	"case fix (""Rotation"" stored earlier; exact-case ""rotation""). RDR2 parser dump SPackedProjDecalSaveData has the member ""rotation"" (alexguirre/rage-parser-dumps)…"		round13/keys
+8d559faf	Rotation	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+7c493dcb	RotationRnd	confirmed	re-asserted: round 9 confirmed (asm512 name list); lost to the same gen_savekeys corrections bug. PlayerAppearance decal float beside PositionRnd/RadiusRnd		round13/keys
+86a96822	RPGData	likely		upgrade weak->likely: RDR2 string list t3chman/rdr3_strings (exact-case match; whole run expected chance 0.12); PlayerAppearance block with MakeupKit/Wetness*/Dirtiness	round2/items_keys
+d05327ee	SafeData	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+58daf7c3	SafeHouses	likely	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; brute force PascalCase; brute force PascalCase (wide) [exact-case h…		all_names.json
+272d68ad	savedChallenges	confirmed	"re-asserted: round 9 confirmed (asm512 name list) but dev_scratch/gen_savekeys.py drops it (round-9 ""corrections: remove"" pops the hash after the new name was …"		round13/keys
+0d01aa6b	savedChallengeSets	likely	per-section 3-word context compounds (decoys: 3 hits on 395 random hashes vs about 80 real); Challenges list of sets whose items hold challengeSetId + savedCha…		round7/atlas
+ab0f3296	SavedFlags	likely		upgrade weak->likely: per-key context brute force (1-3 PascalCase/camelCase words from section/parent/sibling names + 600 RAGE field words; decoy-measured false-match rate about 0.6% per key); ScriptFence	round2/items_keys
+828f2b13	SavedGarages	likely	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; brute force PascalCase (wide) [exact-case hash]		all_names.json
+05d6ce7c	SavedOutfits	likely		upgrade weak->likely: per-key context brute force (1-3 PascalCase/camelCase words from section/parent/sibling names + 600 RAGE field words; decoy-measured false-match rate about 0.6% per key); PlayerAppearance per-chara…	round2/items_keys
+044dcf59	SaveKey	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+d65b1f97	SaveKeys	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+a0f018c6	saveParams	confirmed	re-asserted: round 9 confirmed (asm512 name list); lost to the gen_savekeys corrections bug. Also literal member of RDR2 SaveChallengeGoalParamSum {saveParams}…		round13/keys
+2e4a1cda	saveVersion	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+a31128e4	ScenarioPlaylistHistory	likely	asm512/gta6-name-recovery data/names.tsv @0efa5cd264ff (field, 'name list', row new in this update); Audio: list beside SoundVariableData and AmbientZoneData; …		round9/sweep1
+3614fa8b	SceneCooldownData	likely	round-2 weak name re-found by round 13 per-section search (section vocabulary, 1-3 words, 6.8e5 candidates per hash, 0/30 decoys hit) (chance probability 1.6e-…		round13/keys
+24d122e8	Scope	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; bru…		all_names.json
+46be9d78	scopes	confirmed		upgrade likely->confirmed: per-row owner index array next to baseIds/itemIds in every typed stats group	round2/items_keys
+18ad8439	Score	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute …		all_names.json
+7f35e4f5	score	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; HolyRoses/gta6-explorer; asm512/gta6-name-recovery names.tsv (name …		all_names.json
+a59a2a6d	ScriptAmbientInteraction	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+86572177	ScriptAmbientObjective	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+20c37cf5	ScriptAppearanceDirector	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+8f773abc	ScriptArcadeGames	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+6296c122	ScriptBankLedger	confirmed	brute force of PascalCase word combinations (exact-case joaat); content is the BuckMe checking/savings ledgers		all_names.json
+82d20a80	ScriptCachedTimer	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+b9d00096	ScriptCellphoneGallery	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+96f1a1c3	ScriptCellphoneSim	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+46f14889	ScriptCharacterPhysique	likely	brute force of PascalCase word combinations (exact-case joaat); content is per-character blocks		all_names.json
+56115c7a	ScriptChitChat	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+c5c89169	ScriptContentPersistent	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+d7bab5ff	ScriptEntityInteraction	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+dd2f5bec	ScriptFence	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+d9851844	ScriptFlow	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+5299e475	ScriptGameCompletion	likely	brute force of PascalCase word combinations (exact-case joaat); content is a set of completed activity names		all_names.json
+e9bcf3c7	ScriptHeist	likely	"brute force of PascalCase word combinations (exact-case joaat); content is {hash,state} list with ""complete"""		all_names.json
+ec2a7ce9	ScriptInitialSpawn	confirmed	brute force of PascalCase word combinations (exact-case joaat); content is player position + active character + clock		all_names.json
+1f85d07f	ScriptItemEffect	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+138c815f	ScriptLaw	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+f7b54200	ScriptMediaDisplay	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+e83610aa	ScriptMissionChallenges	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+94038a79	ScriptNewsApp	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+e20d2759	ScriptOutfits	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+822c98af	ScriptPartnerFencing	likely	upgrade of an earlier weak name: section whose only key is PartnerFencingSaveData, the same <Name>SaveData pattern as ScriptPodcastEpisode/PodcastEpisodeSaveDa…		round7/atlas
+4d0260c2	ScriptPartnerSwitcher	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+63872e4a	ScriptPersistentProps	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+f74954e3	ScriptPlayerCharacterSchedule	confirmed	section name (see sections table); also a JSON key under ScriptSaveBlock		round13/keys
+658093ff	ScriptPodcastEpisode	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+1ed95b5e	ScriptRadioFlow	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+24d043f2	ScriptSaveBlock	confirmed	"targeted guess; plain-text ""ScriptSaveBlocks"" holds the list whose items are wrapped in this hash"		round7/atlas
+7459c1a4	ScriptShops	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+557e6aef	ScriptSocialMedia	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+8aea0b6b	ScriptSportsActivities	confirmed	brute force of PascalCase word combinations (exact-case joaat); content holds basketball/fishing/gym hashes		all_names.json
+930cf081	ScriptTemperament	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+d78473bf	ScriptTextMessage	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+f0e30b1d	ScriptTutorials	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+e239d1ec	ScriptUGCPhotos	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+4bd07eca	ScriptVehicleSummoner	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+39f9d084	ScriptVehicleTracking	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+1f408c3a	Seed	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words) [exact-case hash]		all_names.json
+fc9de891	SerialNumber	confirmed	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 4.1e6 candidates per hash, 0/80 decoys hit) and the general pass. Its v…		round13/keys
+851442d9	SerialNumbers	likely	wide 2-word pass, 16k-word vocabulary (decoys: 46 vs 102 real, so hash match alone is weak); vehicles inventory list column whose values equal ScriptVehicleTra…		round7/atlas
+d7a98cee	Severity	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words) [exact-case hash]		all_names.json
+94c33bd6	ShopId	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+0328bf05	ShopIntroTutorialSaveData	likely	round 13 search [adjective][Shop][word][word][SaveData suffix] with a shops vocabulary (3.8e6 candidates per hash, 0/300 decoys). ScriptShops list of {ShopId, …		round13/keys
+1f2ee471	ShopOverrideSaveData	likely	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); ScriptShops list with ShopId/Overrid…		round2/items_keys
+cfcdc72c	ShopType	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+dba48883	SimId	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 2.8e6 candidates per hash, 0/60 decoys hit). SimStateSaveData[] id (Con…		round13/keys
+765fb4e3	SimpleVariables	confirmed	GTA V save block name		all_names.json
+30aa3b16	SimStateSaveData	likely	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); ScriptCellphoneSim, children SimId/T…		round2/items_keys
+5cceffc2	Slot	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; lynxnathan/rage-tools-vi names.tsv; femga/rdr3_discoveries; as…		all_names.json
+12ae4287	SlotIds	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+362c6e84	SocialMediaAccountSaveData	likely	round 13 per-section search with suffix slot (1.3e8 candidates per hash, 2/110 decoys hit). ScriptSocialMedia list of {AccountId, flags}		round13/keys
+009680f7	SocialMediaAmbientSaveData	likely	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+480afae2	SocialMediaPostSaveData	likely	round 13 per-section search with suffix slot (1.3e8 candidates per hash, 2/110 decoys hit). ScriptSocialMedia list[2176] of {PostId, PostStateFlags}; pairs wit…		round13/keys
+d15a5287	SoundVariableData	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+aa203bc7	SourceContent	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+371c022c	sourceId	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+37cd3fc1	SourceLocations	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+0cce030c	SpGameIdHigh	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+dda9b934	SpGameIdLow	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+53261866	State	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (name l…		all_names.json
+56df0684	StateFlags	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+cab27d5f	stateFlags	likely	asm512 cracked (exact-case hash); char_array of per-collectible state (5 = collected) in both tables, camelCase like its siblings keys/foundCounts/turnedInCoun…		round13/keys
+3eaddcd7	StateName	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; asm512/gta6-name-recovery names.tsv (name list); brute force P…		all_names.json
+ebacf18c	States	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); tarekmania/gta6-namehash confirmed.json; lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery …		all_names.json
+3a1b32bb	StationId	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+943db143	Status	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); HolyRoses/gta6-explorer; asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other…		all_names.json
+7bca5051	StolenItem	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+21b27639	StringData	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+00894282	StuntJumps	confirmed	GTA V save block name		all_names.json
+0a320cad	SweatScale	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+964561c1	TagId	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+a89f810a	Tangent	likely	tarekmania/gta6-namehash dictionary.json (GTA V names); brute force PascalCase; brute force PascalCase (top-3000 words) [exact-case hash]		all_names.json
+02f4d220	tangentX	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+4e02682e	tangentY	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+20418cad	tangentZ	confirmed	asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+3e00c071	TargetContent	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+6c35465f	TargetSimIds	likely	per-key context brute force (1-3 PascalCase/camelCase words from section/parent/sibling names + 600 RAGE field words; decoy-measured false-match rate about 0.6…		round2/items_keys
+d17401d0	Tasks	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+7b0409ef	TasksUnlocked	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 6.1e6 candidates per hash, 0/100 decoys hit). Enterprises Data[] bool b…		round13/keys
+e333f7bf	TemperamentRelationshipSaveData	likely	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); top-level key of section ScriptTempe…		round2/items_keys
+080eec39	TemplateName	confirmed	tarekmania/gta6-namehash confirmed.json; asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; brute force Pascal…		all_names.json
+2c453141	TextMessageSaveData	likely	per-key brute force of <words>SaveData compounds from section and child names (decoy false-match rate about 0.6% per key); ScriptTextMessage list with Hash/Sta…		round2/items_keys
+9f05e695	TextMessageThreadSaveData	likely	round 13 per-section search with suffix slot (2.7e7 candidates per hash, 1/30 decoys hit). ScriptTextMessage ring[200] of {Hash}, beside TextMessageSaveData		round13/keys
+4ba9e260	TextureHash	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+2aa50671	textureScale	confirmed	camelCase twin of the known PlayerAppearance decal key TextureScale: identical distinctive values (1.172084, 1.745698, 1.602294, 1.587993, 0.8); asm512 cracked…		round13/keys
+9fa23bd5	TextureScale	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+056fb7e4	ThemeId	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+82d61771	ThresholdId	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+bed4d535	TimeLeft	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+b94c20f3	timeRemaining	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 1.8e6 candidates per hash, 0/50 decoys hit). PartnerFencingSaveData int		round13/keys
+fe1d55ef	TimerSaveData	likely	earlier weak name re-found by round 13 per-section search (section vocabulary, 1-3 words, 5.4e5 candidates per hash, 0/20 decoys hit). ScriptCachedTimer list o…		round13/keys
+52f97399	Timestamp	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+1831000b	TimestampInSeconds	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+a7cc5745	timestampsSec	likely	re-found by the round 13 collectables search (0/40 decoys, 4.7e7 per hash); int64 per-key time in both collectible tables, camelCase like keys/stateFlags/found…		round13/keys
+c4d75d79	Tint0	confirmed	tarekmania/gta6-namehash confirmed.json; other GTA VI RE repo text [exact-case hash]		all_names.json
+f4fb3dec	Tint1	confirmed	tarekmania/gta6-namehash confirmed.json; other GTA VI RE repo text [exact-case hash]		all_names.json
+ab5d2a85	Tint2	confirmed	tarekmania/gta6-namehash confirmed.json; other GTA VI RE repo text [exact-case hash]		all_names.json
+fbb300dc	Tip	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+03ba57ab	TipId	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+83698d93	ToStateNames	confirmed	tarekmania/gta6-namehash confirmed.json; asm512 names.tsv (judged); brute force PascalCase; other GTA VI RE repo text; brute force PascalCase (wide) [exact-cas…		all_names.json
+30712217	TrackId	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+f0e40798	TransactionInitiator	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+0ecd6383	TriggeredResult	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+7c27f103	TriggeredResults	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+220584c0	TrunkItems	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+9607f9af	turnedInCounts	confirmed	RDR2 parser dump CSaveCollectables__InfinateFindAndTurnInItem.turnedInCount (alexguirre/rage-parser-dumps), pluralised; sibling of foundCounts in the same e4fc…		round13/keys
+f5f9b274	TutorialEscalationSaveData	likely	round 13 per-section search with suffix slot (8.3e7 candidates per hash, 1/60 decoys hit); matches the round-7 atlas reading. ScriptTutorials list of {Tutorial…		round13/keys
+ea9ac82e	TutorialId	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 2.3e6 candidates per hash, 0/60 decoys hit). TutorialEscalationSaveData…		round13/keys
+36671760	TutorialSeenCount	confirmed	asm512 names.tsv (judged) [exact-case hash]		all_names.json
+ef3665c9	Type	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; femga/rdr3_discoveries; asm512/gta6-name-recovery names.tsv (name l…		all_names.json
+0859d77f	UGCPhotoSaveData	likely	round 13 per-section search with suffix slot (2e7 candidates per hash, 0/20 decoys hit). ScriptUGCPhotos list[32] of {TextureHash, PhotoId}		round13/keys
+a17a2c2b	UInt16Data	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+40ee3695	UInt32Data	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+97232209	UInt64Data	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+456ae73c	UInt8Data	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list) [exact-case hash]		all_names.json
+50983a95	UniqueBaseIds	confirmed	stats section top-level table with 386 entries (= base name table); parallel to UniqueItemIds and UniqueScopes; per-row arrays are baseIds/itemIds/scopes		round2/items_keys
+bc515b02	UniqueCollectibles	confirmed	round 13 search with the RDR2 collectables vocabulary (CSaveCollectables: unique/infinite find-and-keep/turn-in items), 4.7e7 candidates per hash, 0/40 decoys;…		round13/keys
+592f1d24	UniqueItemIds	confirmed	stats section top-level table with 3763 entries (= qualifier name table); parallel to UniqueBaseIds and UniqueScopes		round2/items_keys
+e93457ea	UniqueScopes	confirmed	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 6.2e5 candidates per hash, 0/20 decoys hit). Stats section: the third U…		round13/keys
+98bab591	unlock	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force lower-case		all_names.json
+fc48fc80	Unlocked	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; bru…		all_names.json
+07b07d11	UnlockedActivityTypeEntrySaveData	likely	round 13 <X>SaveData pass (section vocabulary, 1-3 words + suffix from the script naming pattern; 1.6e7 candidates per hash, 0/20 decoys hit in the section). S…		round13/keys
+e010903d	UnlockedAmbientInteractionSaveData	likely	round 13 per-section search with suffix slot (3.3e7 candidates per hash, 1/40 decoys hit). ScriptAmbientInteraction list of {Id}		round13/keys
+9628c93b	UnlockedRadioStationSaveData	likely	round 13 per-section search with suffix slot (2.3e7 candidates per hash, 0/30 decoys hit). ScriptRadioFlow list of {StationId}		round13/keys
+bc15b440	UnlockedRadioTrackListSaveData	likely	round 13 sibling-template pass (templates from named sibling/parent keys with one word span replaced or a slot inserted; 3.6e5 candidates per hash on average, …		round13/keys
+f97544d0	UnlockedTutorialSaveData	likely	round 13 per-section search with suffix slot (8.3e7 candidates per hash, 1/60 decoys hit); matches the round-7 atlas reading. ScriptTutorials list of {Id}		round13/keys
+7f8ac802	UnlockId	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+c17a88eb	UnlockItemHashArray	likely	round 13 per-section search with suffix slot (4e7 candidates per hash, 0/30 decoys hit); item-catalog blocks 0-3: int_array of item hashes; RDR2 analog CUnlock…		round13/keys
+d681b464	UnlockItemPackedDataArray	likely	round 13 targeted search UnlockItem<w><w>Array (2.1e8 per hash; 10/200 decoys hit but all decoy hits are word salad, 0 meaningful); pairs with UnlockItemHashAr…		round13/keys
+3d41a182	UnlocksMarkedNew	likely	RDR2 string list t3chman/rdr3_strings (exact-case match; whole run expected chance 0.12); only key of code section 148e710f (empty list)		round2/items_keys
+f4e53011	Value	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; HolyRoses/gta6-explorer; femga/rdr3_discoveries; asm512/gta6-name-r…		all_names.json
+68c841ea	VariableNameHash	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase (wide) [exact-case hash]		all_names.json
+e5df40b5	VariableValue	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-30…		all_names.json
+2db5fcdb	VariationIndices	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+28ce0fff	VehicleBitSets	likely	asm512 cracked (exact-case hash); vehicles-list per-vehicle int column of bit flags (32, 2080, 1056, 8192), plural like its sibling columns SaveKeys/SerialNumb…		round13/keys
+d2a6db1e	VehicleModel	confirmed	asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case has…		all_names.json
+74b31be3	vehicles	confirmed	"case fix (""Vehicles"" stored earlier; exact-case ""vehicles""). Literal in alexguirre/rage-parser-dumps and asm512 name list for this hash; the Vehicles section's…"		round13/keys
+7e56d644	Vehicles	confirmed	asm512 name list		all_names.json
+822551e9	VehicleSaveKey	likely	asm512 cracked; re-found by round 13 per-section search (section vocabulary, 1-3 words, 4.2e6 candidates per hash, 0/160 decoys hit). ScriptFence vehicle slots…		round13/keys
+fd11e25e	VehicleSpec	likely	asm512 names.tsv (cracked); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+53149a19	Version	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+68c27e33	version	confirmed	"case fix (""Version"" stored earlier; exact-case string is ""version""). Literal in alexguirre/rage-parser-dumps and asm512 name list for this hash; Vehicles.vehic…"		round13/keys
+bb844da3	VisitIndex	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+4d168bcb	VisitMemory	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+a8b499c2	Volume	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); asm512/gta6-name-recovery names.tsv (name list); brute force PascalCase; other GTA VI RE repo text; bru…		all_names.json
+b317dde4	WasLastPlayedEpisode	likely	"round 13 shared-prefix detection: 0xb317dde4 and 0xbaec6a90 are exactly P+""Episode"" and P+""Podcast"" for one unknown P (equal joaat states; 0 such groups among …"		round13/keys
+baec6a90	WasLastPlayedPodcast	likely	"round 13 shared-prefix detection: 0xb317dde4 and 0xbaec6a90 are exactly P+""Episode"" and P+""Podcast"" for one unknown P (equal joaat states; 0 such groups among …"		round13/keys
+a99c100b	WeaponType	confirmed	tarekmania/gta6-namehash dictionary.json (GTA V names); lynxnathan/rage-tools-vi names.tsv; asm512/gta6-name-recovery names.tsv (name list); brute force Pascal…		all_names.json
+9dac6294	WearStatusHashes	likely	round 13 per-section search (section vocabulary, 1-3 words, 8.6e6 candidates per hash, 0/200 decoys hit). Wardrobe-list int column whose values are garment sta…		round13/keys
+48981adb	WeatherTypeCycle	likely	round 13 narrow search, same run as WeatherTypeSeason (stem from GTA V CSimpleVariablesSaveStructure; 1.1e5 candidates per hash, 0/50 decoys). SimpleVariables …		round13/keys
+d0186cd3	WeatherTypeSeason	confirmed	"round 13 narrow search (stem ""WeatherType"" from the GTA V CSimpleVariablesSaveStructure members OldWeatherType/NewWeatherType/ForcedWeatherType/WeatherTypeInLi…"		round13/keys
+b7389809	WetnessHair	confirmed	asm512 names.tsv (judged); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+c769678b	WetnessRain	confirmed	asm512 names.tsv (judged); brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+2fd8f0da	WetnessWhole	confirmed	asm512 names.tsv (judged); brute force PascalCase; brute force PascalCase (wide) [exact-case hash]		all_names.json
+a401d8b2	WorldStateFlags	likely	upgrade of an earlier weak name: re-found by the decoy-controlled context pass of round 7, structure fits		round7/atlas
+179de28f	ZoneNameHash	likely	femga/rdr3_discoveries; brute force PascalCase (wide) [exact-case hash]		all_names.json
+2777c4ad	ZoneStatePersistent	likely	per-key context brute force (1-3 PascalCase/camelCase words from section/parent/sibling names + 600 RAGE field words; decoy-measured false-match rate about 0.6…		round2/items_keys
+21fa44eb	ZoneVariables	likely	brute force PascalCase; brute force PascalCase (top-3000 words); brute force PascalCase (wide) [exact-case hash]		all_names.json
+012c0d77					
+035a46c5					
+038b7dfc					
+047f70c2					
+04f56d95					
+0520b143					
+0635cbd9					
+07d61ade					
+0882cd47					
+08afad69					
+09dc9dac					
+0a2e4b1c					
+0b7eba0f					
+0be2a3c2					
+0de70dd3					
+0ee9fd77					
+1085013f					
+1085b437					
+113866e5					
+119dc4e7					
+11b4931e					
+13964c2c					
+148e710f					
+149f1b42					
+14dec341					
+168792d9					
+177caa16					
+17c865dc					
+19d01917					
+1ad7f96e					
+1aecf40c					
+1bf795a5					
+1d8ea5ae					
+1f03ac22					
+1f9173b0					
+1fb56dd2					
+205b6247					
+211db048					
+212d5801					
+28e017d8					
+2b1468f0					
+2bc9c355					
+2c2a78ac					
+2c4379f2					
+2d28cfda					
+2e093e4f					
+2e28c832					
+2f3d7ea9					
+2fac2352					
+2fe4e8d4					
+31bfd061					
+31f7f225					
+322ce802					
+32b988c0					
+33d153a9					
+35500787					
+35ff19d7					
+37f7ebed					
+381bd0ae					
+3b7601de					
+3be0822a					
+3d57e495					
+3d5b2169					
+3eb2409a					
+3ee7a140					
+3f3df076					
+41396e77					
+42766640					
+45a134ec					
+46d26d93					
+475340b7					
+4803c017					
+480e823e					
+4961e650					
+49c1a68a					
+4bdf9597					
+4c968e5e					
+4e97df33					
+50f0ae80					
+51203767					
+51a26499					
+5202d89d					
+539625d9					
+553929af					
+56319ff1					
+58b8514d					
+58dbe7f0					
+590ad213					
+59d49364					
+5a5b3473					
+5e202b2a					
+5ee51a69					
+61b52c47					
+62d12a89					
+67829226					
+6b07e995					
+6bc7b5af					
+6d50996e					
+6d5fdcac					
+6db1bf25					
+6df5d2cf					
+6e3c5198					
+6ebbccb1					
+713b0597					
+716d040c					
+73d707b5					
+749dffa7					
+75ccd129					
+760c3cab					
+767f4a33					
+7bea643b					
+7e43b9a9					
+7e4bfe90					
+7ed0c5af					
+7f587594					
+8034969a					
+81748052					
+8182a437					
+84ca8078					
+84e05b57					
+86d3b6b4					
+874f575a					
+87818725					
+8926653a					
+8cccf0f3					
+8d55608e					
+8dfb2ce6					
+8e5544e6					
+9098d12e					
+92a8e532					
+93206268					
+948aee30					
+94a43d30					
+952242d1					
+953769aa					
+95824389					
+986a0c3f					
+98a91935					
+9c736ae5					
+9e5680ec					
+9e9b78e2					
+a1d9c8d8					
+a3754101					
+a5a2cfed					
+a5df1ac7					
+a67bd37a					
+a7718e06					
+a7840733					
+a809de4f					
+a85f3ea6					
+a9bfefa7					
+ab38329c					
+af496451					
+b0c6c66b					
+b2cf327c					
+b3d46c50					
+b42bea57					
+b43564ac					
+b4761ce7					
+b53124cc					
+b620508a					
+b6522200					
+b75e2e50					
+b7a7a159					
+b850c717					
+b934af6a					
+b9f874c4					
+bb2bc1be					
+bb410330					
+bbacaf36					
+bbf26bff					
+bc20f32c					
+bd63ec24					
+bda4cbea					
+bf0d99ef					
+bf2c8a79					
+bf35ad7d					
+c193844c					
+c2789fda					
+c3bb1f49					
+c407d042					
+c4a17a2d					
+c4b60f06					
+c500ddf4					
+c5719128					
+c65fa695					
+c6ebeaca					
+c82b5cf9					
+c99f0815					
+cabbe057					
+cb172033					
+cbb26d47					
+cd1245e5					
+cdcc399f					
+ce46c147					
+ce95106e					
+cf1a8ccb					
+d0b8cea6					
+d1537274					
+d3de8c6b					
+d3f59a5e					
+d3fafe6e					
+d48c64b7					
+d690d968					
+d6b0d3fd					
+d8540c1f					
+d8d6e359					
+d92a3060					
+da6c7318					
+dbf71c51					
+dc34ebfa					
+dc7073fc					
+dd4657bd					
+ded7dcd6					
+dff529d8					
+e0e06c09					
+e2508dec					
+e4fcc5fa					
+e576e2f2					
+e80a5274					
+e850a1ee					
+ea0ddfb4					
+eacdf214					
+ec153618					
+ef6ebbbd					
+f00d2580					
+f0bdb803					
+f3041fc4					
+f81f6a06					
+f9c436a3					
+fb82c1d0					
+fb87ee78					
+fc8f2620					

@@ -1,0 +1,240 @@
+hash	name	confidence	game_label	meaning	rows_in_save	types	source	evidence	research_round
+1b5b1c56	air_beach	likely	Cash Injections				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+6fb30a0f	air_bus	likely	Amateur Hour				owner prefix crack: strand prefix x suffix		all_names.json
+58fb9d4b	air_cater	likely	Fully Catered				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+0a980553	air_drone	likely	Close Surveillance				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+37108ffc	air_final	likely	VCIA Takedown				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+6f300b0f	air_gang	named	Dirty Work						
+3d819159	air_hack	likely	Delivery Method				owner prefix crack: strand prefix x suffix		all_names.json
+e3b184f3	air_recru	likely	Team Building				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+c9bb6db9	air_scope	likely	Too Much Baggage				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+c78679a8	air_tail	likely	Heavy Lifting				owner prefix crack: strand prefix x suffix		all_names.json
+5184743f	air_train	likely	Making Gainz				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+5e85ced6	air_trstp	likely	Airport Heist - Training Setup				brute force air_ + 1-6 letters (3.2e8 distinct strings) against the 19 unnamed owners + 200 random decoys: 2 owner hits (this one, and the gibberish air_fgmrvb…		round5/sources2
+404ec96f	air_truck	likely	Power Play				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+3cd82f9f	ambrosia	named							
+ae78970f	ant_chase	likely	Dubious Provenance				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+5c00d590	ant_intro	likely	Dubious Provenance				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+f17f1279	ant_srch	likely	Dubious Provenance				owner prefix crack: strand prefix x suffix		all_names.json
+4fcfbeed	ao_deal_t_synth	confirmed	Take Out Kitty Litter				SaveRift/SaveRift-Ecosystem ecosystem/plugins/gta-vi data: literal tokens (GTA.ZONE weapon-spec list; the maintainer's RPF9 XML observations of CMissions Missi…		round5/sources2
+17a0e182	ao_show_l_exp	confirmed	Randy's Wish List				SaveRift/SaveRift-Ecosystem ecosystem/plugins/gta-vi data: literal tokens (GTA.ZONE weapon-spec list; the maintainer's RPF9 XML observations of CMissions Missi…		round5/sources2
+e92206e3	arcadegameany	likely					pair crack; same hash is qualifier 2658		all_names.json
+898af4d3	arcadegamebangforyourbuck	confirmed					Bloxodes video game list ('Bang! For Your Buck'); movie BFYB_*.bk2; family		round2/stats_core
+c8a2cac4	arcadegamesurvivor	likely					word search arcadegame+<word>+[digit] (4.8M candidates, 1 target, chance ~0.1%)		round2/stats_core
+8186e29e	arcadegametenebrae	confirmed					Bloxodes video game list ('Tenebrae Lux'); family arcadegame<game> with arcadegameany		round2/stats_core
+7143df04	arcadegametimejackersrewind	confirmed					Bloxodes video game list ('Time Jackers Rewind'); family		round2/stats_core
+51c2e05b	balsero	likely					bone_names.txt GTA VI vocabulary		all_names.json
+b9f57af0	ban_carte	likely	The Missing Link				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+ee41dcf6	ban_explo	likely	Company Property				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+e9816d77	ban_final	likely	The Cartel Heist				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+6bf5fc36	ban_pkbmb	confirmed	Hidden Charges				GTA VI archive items ban_pkbmb, ban_pkbmb_ext/_int(.awc), ban_pkbmbau		round2/stats_core
+5288aa0f	ban_rescu	likely	Security Expert				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+2b2ca2c9	ban_safe	likely	Safe Word				owner prefix crack: strand prefix x suffix		all_names.json
+1fb50a82	ban_setup	likely	Sinfrontera National Bank				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+4162581a	bankdruthers	confirmed					GTA VI archive item list (bankdruthers)		round2/stats_core
+56cfd6e2	bankfleecavcia	confirmed					"bank + brand + branch (4e5 candidates over 13 owners, 2.4e-3 chance hits expected); label ""Fleeca - VCIA"" exists; pattern of the known bankdruthers"		round3/prefixes
+74367573	bil_boss	likely	Taking Liberties				owner prefix crack: strand prefix x suffix		all_names.json
+34a82283	bil_confr	likely	Starting From Zero				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+2ce5451c	bil_final	likely	The End of the Road				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+a4f1724d	bil_fun	likely	Day Release				owner prefix crack: strand prefix x suffix		all_names.json
+1a05c1ab	bil_house	likely	Home Sweet Home				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+b55619a6	bil_law	likely	Honest Abe				owner prefix crack: strand prefix x suffix		all_names.json
+0a2f20f8	bil_motel	likely	Checking Out				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+070c0c9b	bil_pent	likely	The End of the Road				owner prefix crack: strand prefix x suffix		all_names.json
+8b35b6cc	bil_pick	likely	Tourist Trap				owner prefix crack: strand prefix x suffix		all_names.json
+7acf21d1	bil_preci	likely	Protective Custody				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+dd0de1f0	bil_preg	likely	VC Baby				owner prefix crack: strand prefix x suffix		all_names.json
+5c5386eb	bil_red	likely	Caught Slipping				owner prefix crack: strand prefix x suffix		all_names.json
+f59bc26a	bil_wheel	likely	Discharge Time				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+2913c629	brian	named							
+b9685140	buckskinswamp	likely					English-word x place-word pair search (6.3e7, 3 targets); 'Buckskin' is a GTA VI place (fan map 'Gas Station, Buckskin')		round2/stats_core
+deb3e8b0	capri	confirmed					rage-tools-vi psin-names (GTA VI)		all_names.json
+25350e5c	charjason	confirmed					owner name-form crack; pair with charlucia		all_names.json
+b3634b85	charlucia	confirmed					owner name-form crack; pair with charjason		all_names.json
+fcc50018	clb_catch	likely					owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+d1e3e73e	clb_deal	likely	Dealer's Choice				owner prefix crack: strand prefix x suffix		all_names.json
+71431e6f	clb_evi	likely	Fresh Evidence				owner prefix crack: strand prefix x suffix		all_names.json
+b8033a30	clb_heli	likely	Photo/Shoot				owner prefix crack: strand prefix x suffix		all_names.json
+44457a80	clb_meet	likely	Welcome to Vice City				owner prefix crack: strand prefix x suffix		all_names.json
+125aa80e	clb_party	likely	Headliners				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+d39f75a7	clb_promo	likely	Watch It				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+ff79e6ec	clb_scuff	likely	Top Billing				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+a9331381	clb_setup	likely					owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+73bfc775	clb_steal	likely	Ride or Die				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+ef2899ea	clb_tower	likely	Bricked Up				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+b5c5cbea	clb_video	likely	Cooties				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+58ca4532	coa_dog	likely	Doggie Bag				owner prefix crack: strand prefix x suffix		all_names.json
+5f04e6e1	coa_helis	likely	Bird in the Hand				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+3e56d9e3	coa_raid	likely	Operation Savage Glory				owner prefix crack: strand prefix x suffix		all_names.json
+050f6e37	coa_ship	likely	Operation Savage Glory				owner prefix crack: strand prefix x suffix		all_names.json
+a3bc7019	collehunttut	confirmed	Veteran Hunted				GTA VI archive item list		round2/stats_core
+9a55e5d9	com_add_rival	confirmed					ahmed605/GTA6-StringsDatabase ArchiveItems.txt @4f5063688a36, path component of 'anim/cinematic/anim/com_add_rival' and 'anim/cinematic/animscene/com_add_rival…		round10/sweep2
+ce6ef82c	com_cbo_cbint	confirmed	Boobie Time				GTA VI archive items (com_cbo_cbintau)		round2/stats_core
+4f235ee9	com_deal_intr	confirmed	Tyrone				GTA VI archive items (com_deal_intrau)		round2/stats_core
+11609837	com_dlr_cook	confirmed	Spin on This				GTA VI archive items (com_dlr_cookau)		round2/stats_core
+04914e8d	com_dlr_miss	confirmed	Here, Kitty Kitty				GTA VI archive items (com_dlr_missau)		round2/stats_core
+10be4c94	com_kbos_clean	confirmed	Don Gone				GTA VI archive item list		round2/stats_core
+5ae70594	com_kbos_colat	confirmed	Unwanted Attention				GTA VI archive item list		round2/stats_core
+c8513199	com_kbos_neighb	confirmed	Pipework				GTA VI archive item list		round2/stats_core
+4cb8cc47	com_kbos_plndate	confirmed	Down to Earth				GTA VI archive item list		round2/stats_core
+21d03e4f	com_kbos_radr	confirmed	Hey Arnold!				GTA VI archive items (com_kbos_radrau)		round2/stats_core
+2d7d2164	com_kbos_shop	confirmed	Lab Fees				GTA VI archive items (com_kbos_shopau)		round2/stats_core
+17f3bb95	com_kmodshp	likely					owner search scripts/owners.py: <strand>_<token> with the 171 strands of known owner ids and of the list's cutscene stems x 43,898 list tokens, plus place word…		round11/locations2
+6b92d0ba	com_mech_intr	confirmed	Moses				GTA VI archive item list (ahmed605/GTA6-StringsDatabase): audio bank com_mech_intrau		round2/stats_core
+2be94893	com_rob_driveprep	confirmed	Car Service				GTA VI archive item list		round2/stats_core
+69342474	com_sfh_fltpk	confirmed	Building a Life				GTA VI archive item list		round2/stats_core
+2f494854	com_sfh_mvfn	confirmed	Feng Shui				GTA VI archive items (com_sfh_mvfnau)		round2/stats_core
+e8e69f02	com_show_ferry	likely	Mansion Thrax				exhaustive 1-6 letter suffixes on archive-derived stems (4.8e9 candidates, ~24 chance hits expected over 20 targets, all others word salad); stem com_show_ fro…		round2/stats_core
+69804b7d	com_show_trailer	confirmed	Delivery Day				GTA VI archive item list		round2/stats_core
+4ac3eb03	com_smglr_rp	confirmed	The Last Mile: Passing the Torch				ahmed605/GTA6-StringsDatabase ArchiveItems.txt @4f5063688a36, line 'com_smglr_rp' (new in this update; also 'com_smglr_rp_m_00'); O115. The hash is the game-te…		round10/sweep2
+c06325ae	com_up_hcintr	likely					same run; stem com_up_ from archive id com_up_bbwor; '-intr' ending matches com_mech_intr / com_deal_intr		round2/stats_core
+c41c3def	compoundcriminalcartheftring	confirmed					GTA VI archive item list		round2/stats_core
+4058221e	compoundcriminaldrugkingpin	confirmed					GTA VI archive item list (compound<gang><site>)		round2/stats_core
+865ff13b	compoundcriminalecstasygarage	likely					compound<gang><word><site-noun> search (3.9e8 candidates, 19 targets, ~1.7 chance hits expected)		round2/stats_core
+c6168629	compoundcriminalgraffitilab	likely					compound<gang><site words> grammar with kit-description vocabulary (round 5) + SaveRift compound id cmp_grlab; upgrades round-2 weak		round5/sources2
+4b3cabc3	compoundcriminalindustrialweedgrow	confirmed					"two-word site grammar over words of the operation descriptions (1.6e7 candidates, 0.05 chance hits expected, 0 decoy hits); description ""A factory in North Mar…"		round3/prefixes
+e1be0096	compoundcriminalmushroomgrow	likely					same search; cf. compoundm7weedgrow		round2/stats_core
+d8e66f3b	compoundcriminalnarcoboatrunner	confirmed					ahmed605/GTA6-StringsDatabase ArchiveItems.txt @4f5063688a36, line 'compoundcriminalnarcoboatrunner' (new in this update); O34, an illegal-operation owner. Fit…		round10/sweep2
+28173bc2	compoundcriminalvehiclechopshop	likely					two-word site search		round2/stats_core
+5fe3c3ea	compoundcriminalweaponsexport	likely					two-word site search		round2/stats_core
+9571600d	compoundfinalchaptercarwash	confirmed					GTA VI archive item list		round2/stats_core
+7bdf2ca6	compoundfinalchapterclubhouse	likely					compound<gang><word> search (1.0e7 candidates)		round2/stats_core
+43cbea22	compoundfinalchaptermethfacility	likely					two-word site search		round2/stats_core
+f7cab3c1	compoundguardiabrothersboatyard	confirmed					GTA VI archive item list		round2/stats_core
+ae6567c4	compoundguardiabrothersdistributioncenter	confirmed					GTA VI archive item list		round2/stats_core
+2163727e	compoundguardiabrothersstagingpoint	confirmed					search over words of in-game operation descriptions (2.2e7 candidates, chance ~0.07); UI text: The Guardia Brothers use this old Little Cuba landmark as a stag…		round2/stats_core
+96c8a5c5	compoundkingfishersbreedingcamp	confirmed					GTA VI archive item list		round2/stats_core
+2e7a0f25	compoundkingfishersfishingshacks	confirmed					compound<gang><word><word> search (1.05e9 candidates, ~9 chance hits expected over 36 targets); meowdb: Kingfishers 'Fishing Shacks'		round2/stats_core
+0043448f	compoundkingfishersseedymotel	likely					same search; meowdb lists a Kingfishers 'Manatee Motel'		round2/stats_core
+0cd52291	compoundkingfishersstilthouse	likely					same search; Kingfishers are a swamp/fishing gang		round2/stats_core
+d07a0139	compoundkoltabandonedhotel	likely					two-word site search		round2/stats_core
+56e1500e	compoundkoltandassociatesdocks	likely					compound<gang><word> search (1.0e7 candidates); archive also has 'compoundkoltdocks'		round2/stats_core
+ab25ee93	compoundkoltbowlingalley	confirmed					grammar from meowdb site list (Kolt & Associates: Kingpin Bowling); in-game text: Kolt & Associates use this bowling alley for manufacturing pills		round2/stats_core
+4a01380e	compoundkoltstashhouse	confirmed					two-word site search; meowdb: Kolt & Associates 'Stash House'		round2/stats_core
+3953cce8	compoundkoltworkvangarage	confirmed					GTA VI archive item list		round2/stats_core
+dfbba237	compoundlapolillanegrafishwarehouse	confirmed					two-word site search; meowdb: La Polilla Negra 'Palmer Fishing Warehouse'		round2/stats_core
+70e97b95	compoundlapolillanegrasafehouse	confirmed					two-word site search; meowdb: La Polilla Negra 'Watson Bay Safehouse'		round2/stats_core
+8e304ce4	compoundm7junkyard	confirmed					compound<gang><site> search (gang tokens x English words, 1.0e7 candidates, 36 targets, chance ~0.1 hits); meowdb: M7 'Nova Auto Junkyard'		round2/stats_core
+2c2805fa	compoundm7weedgrow	confirmed					two-word site search; meowdb: M7 'Weed Grow'		round2/stats_core
+cbc14f15	compoundpttyabandonedcommunitycenter	confirmed					"gang token ""ptty"" from the compound-label family (state 57e12940 + gang token = ""<Gang> Compound"" label; verified on m7, kolt, san4san, king, guardia, lpn, ptt…"		round3/prefixes
+889f3695	compoundpttyhouselockup	likely					"two-word site grammar (1.6e7 candidates, 0.05 chance hits expected); PTT descriptions mention ""this house"" and ""A lockup used by PTT Youngin$ to store and flau…"		round3/prefixes
+4f0275f5	compoundpttyillegalgoodsstore	confirmed					ahmed605/GTA6-StringsDatabase ArchiveItems.txt @4f5063688a36, line 'compoundpttyillegalgoodsstore' (new in this update); O46. Fits compoundptty<site> (compound…		round10/sweep2
+67370147	compoundsan4sandrughouse	likely					two-word site search		round2/stats_core
+0199cf00	compoundsan4sanimportgarage	likely					two-word site search		round2/stats_core
+ae66d898	compoundsan4sanrecordingstudio	confirmed					two-word site search; meowdb: San4San 'Sound4Sound Studio'		round2/stats_core
+0c5eab74	compoundsan4santowerblock	likely					two-word site search		round2/stats_core
+41183694	csc_dig_data	confirmed	Lawyer Up				csc truncated-word run; single hit in strand dig; GTA VI archive item list (ahmed605/GTA6-StringsDatabase ArchiveItems.txt) contains this id		round2/stats_core
+94e786df	csc_drt_cnvy	confirmed	Twist Wrist, Smash, Grab				csc exhaustive; drt strand; GTA VI archive item list (ahmed605/GTA6-StringsDatabase ArchiveItems.txt) contains this id		round2/stats_core
+5efd1f79	csc_drt_final	confirmed	Hometown Heroes				cutscene identifiers CSC_DRT_FINAL_LI_INT_STORY_1 / CSC_DRT_FINALAU in rpf9-research raw/nombres.txt; hashes exactly		round2/stats_core
+845ad609	csc_drt_mall	confirmed	Mall Rats				csc_<strand>_<abbr> exhaustive (csc_ + 3 letters + _ + 1-5 letters, 2.2e11 with 700 decoys); strand drt has 3 coherent hits		round2/stats_core
+42c1fe07	csc_eco_finale	confirmed	Dodo, Rise!				exhaustive 6-letter suffixes over 19 known strands (5.9e9, 1000 decoys; 2 decoys word-like -> ~0.1 expected noise); GTA VI archive item list (ahmed605/GTA6-Str…		round2/stats_core
+143ade4f	csc_eco_frack	confirmed	Twin Flames				csc exhaustive; eco strand; GTA VI archive item list (ahmed605/GTA6-StringsDatabase ArchiveItems.txt) contains this id		round2/stats_core
+c14e510a	csc_eco_monk	likely	Bring Out the Chimp				csc exhaustive; strand eco has 3 coherent hits		round2/stats_core
+dfdfe85f	csc_eco_whale	likely	Sisters of the Sea				csc exhaustive; eco strand		round2/stats_core
+5f4ae7b9	csc_mlm_dlvr1	confirmed	Climbing the Cellerichain				"title ""Climbing the Cellerichain"" (text dump) is shared by three keys whose hashes differ only in the last character (sibling family); MITM from csc_mlm_ (the …"		round3/prefixes
+d06a1205	csc_mlm_initi	confirmed	PEACH!				csc truncated-word run + exhaustive; mlm strand		round2/stats_core
+b16a68e5	csc_mlm_wrhs	confirmed	Puff Puff Pass				csc exhaustive; mlm strand		round2/stats_core
+07134551	csc_mom_flip	confirmed	Mami Knows Best				csc truncated-word run + exhaustive; mom strand (2 hits); GTA VI archive item list (ahmed605/GTA6-StringsDatabase ArchiveItems.txt) contains this id		round2/stats_core
+02a29f45	csc_mom_msevn	confirmed	South Leonida Real Estate				csc exhaustive; mom strand; GTA VI archive item list (ahmed605/GTA6-StringsDatabase ArchiveItems.txt) contains this id		round2/stats_core
+028f9e1c	csc_srs_bybst	confirmed	Brother to Brother				DurtyFree/gta-vi-data-dumps animDicts.json/FragmentList.ini: mission ids are the prefix of animation dictionary names (<id>@clip); prefix harvest of 1.04e6 str…		round4/sources
+1ad63200	csc_srs_meet	likely	See You Again				csc known-suffix run + exhaustive; srs strand (2 hits)		round2/stats_core
+3d8b5d44	csc_srs_ropes	likely	Bumper to Bumper				csc exhaustive; srs strand		round2/stats_core
+45a85dea	csc_stu_party	likely	The AudaCity				csc known-suffix run + exhaustive; stu strand		round2/stats_core
+612225c1	csc_stu_plane	likely	Catching a Whale				csc exhaustive + truncated-word run; stu strand		round2/stats_core
+512baeb5	csc_stu_stadm	likely	Quit Your Job, Sell Your House				csc exhaustive; strand stu has 3 coherent hits		round2/stats_core
+617a1865	csc_trh_chart	confirmed	Island Dreams				csc exhaustive + truncated-word run; trh strand; GTA VI archive item list (ahmed605/GTA6-StringsDatabase ArchiveItems.txt) contains this id		round2/stats_core
+8acced29	csc_trh_plane	likely	Maritime Disputes				csc exhaustive + truncated-word run; strand trh has 3 coherent hits		round2/stats_core
+8286bde8	csc_trh_rival	likely	Treasure Hunter - Rivals				csc exhaustive; trh strand		round2/stats_core
+82c3e446	css_farmcd	confirmed	Aerial Application				DurtyFree/gta-vi-data-dumps animDicts.json/FragmentList.ini: mission ids are the prefix of animation dictionary names (<id>@clip); prefix harvest of 1.04e6 str…		round4/sources
+8037df2a	css_farmcw	confirmed	Hazardous Materials				DurtyFree/gta-vi-data-dumps animDicts.json/FragmentList.ini: mission ids are the prefix of animation dictionary names (<id>@clip); prefix harvest of 1.04e6 str…		round4/sources
+d1d619dd	css_farmtr	confirmed	Buddy...?				DurtyFree/gta-vi-data-dumps animDicts.json/FragmentList.ini: mission ids are the prefix of animation dictionary names (<id>@clip); prefix harvest of 1.04e6 str…		round4/sources
+cb69e1a3	css_mmghh	likely	Advanced Skunk Apeonomics				hash structure: O147 differs from O137 (css_mmgmp, archive-confirmed) only in the last two characters; css_mmghh is the matching name		round2/stats_core
+cc35fe30	css_mmgmp	confirmed	Skunk Apeology 101				GTA VI archive item css_mmgmp		round2/stats_core
+d4f31cf4	css_skymr	confirmed	The Final Flush				DurtyFree/gta-vi-data-dumps animDicts.json/FragmentList.ini: mission ids are the prefix of animation dictionary names (<id>@clip); prefix harvest of 1.04e6 str…		round4/sources
+bcb712d0	cti_mech_stfc	confirmed	Daily Driver				GTA VI archive items (cti_mech_stfcau)		round2/stats_core
+ec68edb2	cti_pil_rd_sh	likely	Find Donnie's Package				brute force cti_pil_rd_ + 1-5 characters [a-z0-9_] (prefix from SaveRift CMissions id CTI_PIL_RD_BC_PARENT) against the 19 unnamed owners + 200 random decoys: …		round5/sources2
+dcf9647d	cti_show_hath	confirmed	Clonin' Keys, Makin' Gs				GTA VI archive items (cti_show_hathau)		round2/stats_core
+bacbf749	daltonisland	likely					place-word x English-word pair search (6.3e7 candidates, 3 targets; chance per run ~4%); Dalton Island exists (gta.wiki page)		round2/stats_core
+db75c0b2	dinogolf	likely					pair crack core x game		all_names.json
+715d2c95	donnie	likely					english word list		all_names.json
+1fc6d6c0	downtown	named							
+085bcaec	draperisland	confirmed					direct place-name test (drone courses 'Draper Island Terminal', 'Draper Refinery East/West')		round2/stats_core
+7031448e	dunk	named							
+fb08eb6e	frontcriminalcigarimport	likely					same grammar run; site from ahmed605/GTA6-StringsDatabase ArchiveItems.txt @4f5063688a36 lines 'frontcigarimport', 'fro_criminal_cigar_import', 'psp_front_ciga…		round10/sweep2
+ca5c31e9	frontcriminalexoticanimals	likely					same grammar run; site from ahmed605/GTA6-StringsDatabase ArchiveItems.txt @4f5063688a36 lines 'frontexoticanimals', 'psp_fronts_criminalexoticanimals', 'fro_e…		round10/sweep2
+aac2bafb	frontcriminalgasstationmeth	likely					same grammar run; site from ahmed605/GTA6-StringsDatabase ArchiveItems.txt @4f5063688a36 lines 'frontgasstationmeth', 'fro_gasme_gasstationmeth', 'psp_front_ga…		round10/sweep2
+06f093e8	frontfinalchapterbikerbar	likely					grammar front + gang + site over the list's operation-site words (1.9e6 candidates against 16 owners, expected chance 0.007, 0 hits on 10 decoy sets); site fro…		round10/sweep2
+0dfcae47	frontieradventuregolf	confirmed					Bloxodes activity list 'Frontier Adventure Golf'		round2/stats_core
+8d415898	frontsan4sanrareshoes	confirmed					ahmed605/GTA6-StringsDatabase ArchiveItems.txt @4f5063688a36, line 'frontsan4sanrareshoes' (new in this update); O73. A front business of the San4San gang (tok…		round10/sweep2
+cc31ef42	ft_amuco	confirmed	Gear Up				GTA VI archive items (ft_amucoau)		round2/stats_core
+373641d7	ft_ban_distr	confirmed	Hidden Charges				GTA VI archive items (ft_ban_distrau)		round2/stats_core
+349c946f	ft_kmodshp	confirmed	Just a Scratch				GTA VI archive items (ft_kmodshpau)		round2/stats_core
+145c5b23	ft_motel_shop	confirmed	Just Moved In				GTA VI archive items (ft_motel_shopau)		round2/stats_core
+0bda9996	ft_up_mmrent	confirmed	Behind on Payments				GTA VI archive items (ft_up_mmrentau)		round2/stats_core
+7267abb1	griffin	named							
+2da06564	griffin3pointrange	confirmed					Bloxodes shooting range list ('3-Point Range'); family		round2/stats_core
+9d80e001	griffincompoundrange	confirmed					Bloxodes shooting range list ('Compound Range'); family		round2/stats_core
+00167f88	griffinhookrange	confirmed					Bloxodes shooting range list ('Hook Range'); family		round2/stats_core
+e93f1518	griffinlooprange	confirmed					Bloxodes shooting range list ('Loop Range'); family		round2/stats_core
+d7e7a910	griffinmazerange	confirmed					Bloxodes shooting range list ('Maze Range'); family		round2/stats_core
+29e41e4c	griffinvillarange	confirmed					Bloxodes shooting range list ('Villa Range'); family		round2/stats_core
+46fd1bd8	hamlet	named							
+2c9251ad	ho_par_frint	confirmed	Coffee Break				GTA VI archive items (ho_par_frintau)		round2/stats_core
+420623af	ho_par_keyco	confirmed	Recalibration				GTA VI archive items (ho_par_keycoau)		round2/stats_core
+30f17e42	int_air	likely	Swamped				owner prefix crack: strand prefix x suffix		all_names.json
+07560abe	int_bank	likely	Buck Me				owner prefix crack: strand prefix x suffix		all_names.json
+03da4607	int_chase	likely	Gone Fishing				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+fe5bfe97	int_plnsh	confirmed	Clear Skies				GTA VI archive items int_plnsh, int_plnsh_ext/_int(.awc), int_plnshau		round2/stats_core
+97628e9f	int_priso	likely	Coming Home				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+62131f35	int_prolo	likely	Prologue				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+d4ccf765	kinggatoradventuregolf	confirmed					Bloxodes activity list 'King Gator Adventure Golf'		round2/stats_core
+26456fd0	leaflinksgolf	confirmed					Bloxodes activity list 'Leaf Links Golf Challenge'; family <venue>golf		round2/stats_core
+174fba75	millport	confirmed					rage-tools-vi psin-names (GTA VI)		all_names.json
+641c4974	mny_car	likely	Company Cars				owner prefix crack: strand prefix x suffix		all_names.json
+87ea06e1	mny_escrt	likely	Adventures in Babysitting				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+2625203a	mny_hotel	likely	Ocean Beach				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+766ee092	mny_kidnp	likely	Child's Play				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+f8869e20	mny_party	likely	Party Hard				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+7ac3c89b	moreausawmill	confirmed					in-game text 'Moreau Sawmill' glued		round2/stats_core
+9c8cb2dc	moses	likely					english word list		all_names.json
+fa872b31	mounthailesgolf	confirmed					Bloxodes activity list 'Mount Hailes Golf Challenge'; family <venue>golf with dinogolf		round2/stats_core
+43449fd5	mtl_ambul	likely	Ambulance Chaser				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+a3e62b5f	mtl_check	likely	Play Nurse				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+f7fabd00	mtl_cont	likely	Afternoon Delight				owner prefix crack: strand prefix x suffix		all_names.json
+80c53aad	mtl_drive	likely	Girls' Trip				owner prefix crack: strand prefix x suffix (5-letter brute force)		all_names.json
+9b42c930	mtl_mont	likely	Breakfast Run				owner prefix crack: strand prefix x suffix		all_names.json
+03cdad54	mtl_mud	likely	Thrillbillies				owner prefix crack: strand prefix x suffix		all_names.json
+91e56ead	mtl_pain	likely	Slam Dunk				owner prefix crack: strand prefix x suffix		all_names.json
+3c9b93b4	mtl_wake	likely	What's in the Bag?				owner prefix crack: strand prefix x suffix		all_names.json
+c13b3e9b	pilotpete	confirmed					GTABase/Bloxodes Strangers & Freaks list (character Pilot Pete); direct name test		round2/stats_core
+6f6a1339	portgellhorn	confirmed					rage-tools-vi psin-names (GTA VI)		all_names.json
+c71dbe0e	randy	named							
+8576521b	raul	named							
+75c603d9	rob_bank	likely	Credit Check				owner prefix crack: strand prefix x suffix		all_names.json
+8c6fadd2	rob_boat_j	confirmed	Crosstown Traffic				SaveRift/SaveRift-Ecosystem ecosystem/plugins/gta-vi data: literal tokens (GTA.ZONE weapon-spec list; the maintainer's RPF9 XML observations of CMissions Missi…		round5/sources2
+10a6af1b	rob_death	named	Sunset						
+e0b68a56	rob_drive	named	First Impressions						
+b68ccbec	rob_veh	likely	Meet the Heders				owner prefix crack: strand prefix x suffix		all_names.json
+a510dffc	rodgers	confirmed					GTA VI psin 'location_rodgersranch_shootingrange_name'		all_names.json
+646a68fc	rodgersalienrange	confirmed					Bloxodes shooting range list ('Alien Range'); family		round2/stats_core
+4f07285c	rodgerscopsandrobbersrange	confirmed					Bloxodes shooting range list ('Cops & Robbers Range'); family <range><challenge>range		round2/stats_core
+39c71eea	rodgershuntingrange	confirmed					Bloxodes shooting range list ('Hunting Range'); family		round2/stats_core
+c74f6967	rodgersmarketrange	confirmed					Bloxodes shooting range list ('Market Range'); family		round2/stats_core
+ab5f3da1	rodgerssaloonrange	confirmed					Bloxodes shooting range list ('Saloon Range'); family		round2/stats_core
+8e14fb43	rodgersundeadrange	confirmed					word search rodgers+<word>+range (2.2M candidates, 1 target); in-game 'Zombie Range'; family		round2/stats_core
+0044803f	sfh_taxi	confirmed	Another Life				GTA VI archive items sfh_taxi(*.awc), sfh_taxiau		round2/stats_core
+5b5eeffe	story000	likely					GTA VI archive name (gta6-explorer FINDINGS, rage-tools-vi header words)		all_names.json
+909572cc	tyrone	confirmed					english names; GTA VI stranger Tyrone (trophy 'Spin on This!')		all_names.json
+e5de4b4d	up_mlspm	confirmed	Overnight Charges				GTA VI archive items up_mlspm, up_mlspmau		round2/stats_core
+db188b8a	vicebeach	confirmed					rage-tools-vi psin-names (GTA VI)		all_names.json
+928f6272	waningsands	confirmed					direct place-name test (Bloxodes race list 'Waning Sands'); drone-race location family		round2/stats_core
+787e4c22	watsonbay	confirmed					rage-tools-vi psin-names (GTA VI)		all_names.json
+a305bf01	withpartner	likely					pair crack core x game		all_names.json
+99b6b6dc	withpartnerfreeroam	confirmed					screenshot Screenshot 2026-11-24 134959.png: 'TIME PLAYED TOGETHER'		screens
+0907ba2d	yasmani	confirmed					GTABase/Bloxodes Strangers & Freaks list (character Yasmani); direct name test		round2/stats_core
+16bd7fc3				Mission (not identified)					
+7fc09fac				Gang operation: barbershop front					
+88230f98				Mission (not identified)					
+b01fe699				Mission (not identified)					
+e6902700				Gang operation (not identified)					
+e8c384c1				Mission (not identified)					

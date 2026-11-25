@@ -1,0 +1,394 @@
+base_hash	base	qualifier_hash	qualifier	owner_hash	owner	game_label
+0213173c	numused	125b4637	ammo	5b5eeffe	story000	SHOTS FIRED
+0213173c	numused	12e74b83	zombix	25350e5c	charjason	ZOMBIX TAKEN (Jason)
+0213173c	numused	12e74b83	zombix	5b5eeffe	story000	ZOMBIX TAKEN
+0213173c	numused	12e74b83	zombix	b3634b85	charlucia	ZOMBIX TAKEN (Lucia)
+0213173c	numused	35884494	cigarettes	5b5eeffe	story000	CIGARETTES SMOKED
+0213173c	numused	57bdaca7	vape	5b5eeffe	story000	VAPES USED
+0213173c	numused	cf7bbf34	cigars	5b5eeffe	story000	CIGARS SMOKED
+0213173c	numused	d93d54af	weed	5b5eeffe	story000	WEED SMOKED
+0213173c	numused	dc517de9	adrenaline	5b5eeffe	story000	ADRENALINE TAKEN
+051410db	biggestcaughtid	612920b7	fish	5b5eeffe	story000	FISHING: LARGEST FISH CAUGHT
+055577d5	lifetimemoneyrecovered	9858a1a4	stashbag	5b5eeffe	story000	IMPOUNDED STASH BAG VALUE RECOVERED
+06907d0c	robbedvaultsunique	00000000		5b5eeffe	story000	VAULTS HIT
+0a5c48b6	numworkoutscompleted	00000000		25350e5c	charjason	GYM EXERCISES COMPLETED (Jason)
+0a5c48b6	numworkoutscompleted	00000000		5b5eeffe	story000	GYM EXERCISES COMPLETED
+0a5c48b6	numworkoutscompleted	00000000		b3634b85	charlucia	GYM EXERCISES COMPLETED (Lucia)
+17ae107f	numtimesused	72e6ef74	armor	5b5eeffe	story000	ARMOR EQUIPPED
+17ae107f	numtimesused	7505ef42	masks	5b5eeffe	story000	MASKS EQUIPPED
+18a68431	stolen	80b814c4	copveh	5b5eeffe	story000	COP VEHICLES STOLEN
+18a68431	stolen	dd245b9c	vehicle	25350e5c	charjason	VEHICLES STOLEN (Jason)
+18a68431	stolen	dd245b9c	vehicle	b3634b85	charlucia	VEHICLES STOLEN (Lucia)
+1ac5ed92	lifetimemoneylost	37a41bb6	wasted	5b5eeffe	story000	LOST ON DEATH
+1ac5ed92	lifetimemoneylost	3eb4e114	buckme	5b5eeffe	story000	TOTAL BUCKME FUNDS LOST
+1ac5ed92	lifetimemoneylost	91f9a755	busted	5b5eeffe	story000	LOST ON ARREST
+1ac5ed92	lifetimemoneylost	9858a1a4	stashbag	25350e5c	charjason	STASH BAG VALUE LOST (Jason)
+1ac5ed92	lifetimemoneylost	9858a1a4	stashbag	5b5eeffe	story000	IMPOUNDED STASH BAG VALUE LOST
+1ac5ed92	lifetimemoneylost	9858a1a4	stashbag	b3634b85	charlucia	STASH BAG VALUE LOST (Lucia)
+1ac5ed92	lifetimemoneylost	a20abac2	pocket	5b5eeffe	story000	TOTAL POCKET CASH LOST
+2494118a	sidetaskscompleted	00000000		5b5eeffe	story000	OPTIONAL TASKS COMPLETED
+24f4b38d	stolenvehiclesbymethod	4cea18f5	smashedwindow	5b5eeffe	story000	VEHICLES STOLEN BY BREAKING IN
+24f4b38d	stolenvehiclesbymethod	6a41b3e8		5b5eeffe	story000	KEYS CLONED
+24f4b38d	stolenvehiclesbymethod	c2fd74e5	slimjim	5b5eeffe	story000	VEHICLES STOLEN WITH SLIM JIM
+294bde17	robbedtills	00000000		5b5eeffe	story000	CASH REGISTERS ROBBED
+2984a514	raceswon	5d32a699	vcgroup	5b5eeffe	story000	HIT 'N' RUN VC: RACES WON
+2a038a8b	hotwired	dd245b9c	vehicle	5b5eeffe	story000	VEHICLES HOTWIRED
+2b5d6907	timeused	ed8353cd	binoculars	5b5eeffe	story000	BINOCULARS: TIME USED
+2bacc26b	heldduration	29e48687	weaponspec_melee_bat_default	5b5eeffe	story000	BASEBALL BAT: TIME EQUIPPED
+2bacc26b	heldduration	82ace2d4	weaponspec_thrown_flashbang_default	5b5eeffe	story000	FLASH GRENADE: TIME EQUIPPED
+2becc89c	gymmembershipowned	00000000		5b5eeffe	story000	GYM MEMBERSHIPS PURCHASED
+2ca26a52	stolenvehicletype	198530f1	plane	5b5eeffe	story000	PLANES STOLEN
+2ca26a52	stolenvehicletype	41f5c8c8	quadbike	5b5eeffe	story000	ATVS STOLEN
+2ca26a52	stolenvehicletype	6910f770	boat	5b5eeffe	story000	WATERCRAFT STOLEN
+2ca26a52	stolenvehicletype	69697274	car	5b5eeffe	story000	CARS STOLEN
+2ca26a52	stolenvehicletype	9b943939	bicycle	5b5eeffe	story000	BICYCLES STOLEN
+2ca26a52	stolenvehicletype	d3f50e77	heli	5b5eeffe	story000	HELICOPTERS STOLEN
+2ca26a52	stolenvehicletype	e77840dc	bike	5b5eeffe	story000	MOTORCYCLES STOLEN
+2e2b4701	huntinganimalssold	3a0eb4fd	animal	5b5eeffe	story000	BRET VOGEL: ANIMALS SOLD
+348d8fa4	numpurchased	08dcb100	taxis	5b5eeffe	story000	TAXIS TAKEN
+348d8fa4	numpurchased	1a10b2a1	transport	5b5eeffe	story000	PUBLIC TRANSPORT TAKEN
+348d8fa4	numpurchased	2c71251f	rentals	5b5eeffe	story000	VEHICLES RENTED
+348d8fa4	numpurchased	57c2e5f7	rydeme	5b5eeffe	story000	RYDEME TRIPS
+348d8fa4	numpurchased	b6bbefd4	vehiclerecharge	5b5eeffe	story000	VEHICLES RECHARGED
+348d8fa4	numpurchased	eef65fe1	vehicleregistration	5b5eeffe	story000	TOTAL VEHICLES REGISTERED
+348d8fa4	numpurchased	f29e8ad2	vehiclerefuel	5b5eeffe	story000	VEHICLES REFUELED
+3568f5fe	shootingrangegoldmedals	00000000		5b5eeffe	story000	SHOOTING RANGE GOLD MEDALS
+358351b9	numconsumed	003bdf3c	alcoholicdrink	5b5eeffe	story000	ALCOHOLIC DRINKS CONSUMED
+358351b9	numconsumed	543652ce	drink	5b5eeffe	story000	DRINKS CONSUMED
+358351b9	numconsumed	a34b1939	food	5b5eeffe	story000	FOOD EATEN
+39e665be	uniqueencounters	7f850cc4	kingfishers	5b5eeffe	story000	KINGFISHERS: ENCOUNTERS
+3cc7fbb1	robbed	19c84ad5	conveniencestorerobberylocations	5b5eeffe	story000	CONVENIENCE STORES: TOTAL ROBBERIES
+3cc7fbb1	robbed	61cf93d6	clean	25350e5c	charjason	CLEAN ROBBERIES (Jason)
+3cc7fbb1	robbed	61cf93d6	clean	5b5eeffe	story000	CLEAN ROBBERIES COMMITTED
+3cc7fbb1	robbed	61cf93d6	clean	b3634b85	charlucia	CLEAN ROBBERIES (Lucia)
+3cc7fbb1	robbed	dbe4bf79	shop	25350e5c	charjason	ROBBERIES COMMITTED (Jason)
+3cc7fbb1	robbed	dbe4bf79	shop	a305bf01	withpartner	ROBBERIES TOGETHER
+3cc7fbb1	robbed	dbe4bf79	shop	b3634b85	charlucia	ROBBERIES COMMITTED (Lucia)
+41f14d28	hoopscored	57682bab	basketballhoopalllocations	5b5eeffe	story000	BASKETBALL HOOPS
+42cf676b	timeincombat	00000000		25350e5c	charjason	TIME IN COMBAT (Jason)
+42cf676b	timeincombat	00000000		b3634b85	charlucia	TIME IN COMBAT (Lucia)
+44c9b543	uniquestuntscompleted	0a1a8fe7	totalstunts	5b5eeffe	story000	STUNTS COMPLETED
+44c9b543	uniquestuntscompleted	3cd8dd9f	stuntjumps	5b5eeffe	story000	STUNT JUMPS: COMPLETED
+4771a1ee	timeinwantedlevel	e067fc5a	level6	5b5eeffe	story000	TIME SPENT WITH A 6-STAR WANTED LEVEL
+4c54d4c8	lifetimeheatareaduration	00000000		5b5eeffe	story000	TIME SPENT IN HEAT AREAS
+4e653980	raceslost	5d32a699	vcgroup	5b5eeffe	story000	HIT 'N' RUN VC: RACES LOST
+53f5b035	buffs	00000000		25350e5c	charjason	STATS BUFFED (Jason)
+53f5b035	buffs	00000000		b3634b85	charlucia	STATS BUFFED (Lucia)
+53f5b035	buffs	650f93d8	stamina	5b5eeffe	story000	STAMINA BUFFS
+53f5b035	buffs	d94afe36	health	5b5eeffe	story000	HEALTH BUFFS
+53f5b035	buffs	e391e9e5	focus	5b5eeffe	story000	FOCUS BUFFS
+5534050d	destroyed	001db47a	watercraft	5b5eeffe	story000	WATERCRAFT DESTROYED
+5534050d	destroyed	1d793667	cctv	5b5eeffe	story000	CCTV FOOTAGE DESTROYED
+5534050d	destroyed	4538c3b2	aircraft	5b5eeffe	story000	AIRCRAFT DESTROYED
+5534050d	destroyed	8b00064c	landcraft	5b5eeffe	story000	LAND VEHICLES DESTROYED
+555be214	robbedsafes	00000000		5b5eeffe	story000	SAFES ROBBED
+58418031	vehiclesimpounded	00000000		5b5eeffe	story000	VEHICLES IMPOUNDED
+5ebb4b3c	paynsprayed	00000000		5b5eeffe	story000	VEHICLES RESPRAYED AT PAY 'N' SPRAYS
+5ed90554	successfulhits	336165a1	allgangs	a305bf01	withpartner	GANG OPERATIONS HIT TOGETHER
+60d17e5d	evadedwantedlevel	0655c839	level2	25350e5c	charjason	2-STAR WANTED LEVELS EVADED (Jason)
+60d17e5d	evadedwantedlevel	0655c839	level2	5b5eeffe	story000	2-STAR WANTED LEVELS EVADED
+60d17e5d	evadedwantedlevel	0655c839	level2	b3634b85	charlucia	2-STAR WANTED LEVELS EVADED (Lucia)
+60d17e5d	evadedwantedlevel	66a188cf	level5	25350e5c	charjason	5-STAR WANTED LEVELS EVADED (Jason)
+60d17e5d	evadedwantedlevel	66a188cf	level5	5b5eeffe	story000	5-STAR WANTED LEVELS EVADED
+60d17e5d	evadedwantedlevel	66a188cf	level5	b3634b85	charlucia	5-STAR WANTED LEVELS EVADED (Lucia)
+60d17e5d	evadedwantedlevel	7e12b7b1	level4	25350e5c	charjason	4-STAR WANTED LEVELS EVADED (Jason)
+60d17e5d	evadedwantedlevel	7e12b7b1	level4	5b5eeffe	story000	4-STAR WANTED LEVELS EVADED
+60d17e5d	evadedwantedlevel	7e12b7b1	level4	b3634b85	charlucia	4-STAR WANTED LEVELS EVADED (Lucia)
+60d17e5d	evadedwantedlevel	b87eac8c	level3	25350e5c	charjason	3-STAR WANTED LEVELS EVADED (Jason)
+60d17e5d	evadedwantedlevel	b87eac8c	level3	5b5eeffe	story000	3-STAR WANTED LEVELS EVADED
+60d17e5d	evadedwantedlevel	b87eac8c	level3	b3634b85	charlucia	3-STAR WANTED LEVELS EVADED (Lucia)
+60d17e5d	evadedwantedlevel	d52465d7	level1	25350e5c	charjason	1-STAR WANTED LEVELS EVADED (Jason)
+60d17e5d	evadedwantedlevel	d52465d7	level1	5b5eeffe	story000	1-STAR WANTED LEVELS EVADED
+60d17e5d	evadedwantedlevel	d52465d7	level1	b3634b85	charlucia	1-STAR WANTED LEVELS EVADED (Lucia)
+60d17e5d	evadedwantedlevel	df3407b5	any	5b5eeffe	story000	WANTED STARS LOST
+6464101c	heatcleared	00000000		5b5eeffe	story000	HEAT AREAS CLEARED
+647a7788	cashwon	5d32a699	vcgroup	5b5eeffe	story000	HIT 'N' RUN VC: CASH WON
+66c83505	ganglocationscleared	336165a1	allgangs	5b5eeffe	story000	GANG OPERATIONS CLEARED
+66c83505	ganglocationscleared	7f850cc4	kingfishers	5b5eeffe	story000	KINGFISHERS: OPERATIONS CLEARED
+692ff164	totallost	612920b7	fish	5b5eeffe	story000	FISHING: FISH LOST
+6a2101ee	numlevelups	151fa137	cardio	25350e5c	charjason	CARDIO LEVELED UP (Jason)
+6a2101ee	numlevelups	151fa137	cardio	b3634b85	charlucia	CARDIO LEVELED UP (Lucia)
+6a2101ee	numlevelups	9c0e774c	weight	25350e5c	charjason	TIMES WEIGHT GAINED (Jason)
+6a2101ee	numlevelups	9c0e774c	weight	b3634b85	charlucia	TIMES WEIGHT GAINED (Lucia)
+6a2101ee	numlevelups	ba36579a	muscle	25350e5c	charjason	STRENGTH LEVELED UP (Jason)
+6a2101ee	numlevelups	ba36579a	muscle	b3634b85	charlucia	STRENGTH LEVELED UP (Lucia)
+6a2101ee	numlevelups	e391e9e5	focus	25350e5c	charjason	FOCUS LEVELED UP (Jason)
+6a2101ee	numlevelups	e391e9e5	focus	b3634b85	charlucia	FOCUS LEVELED UP (Lucia)
+6b8c17a2	uniquecaught	612920b7	fish	5b5eeffe	story000	FISHING: SPECIES CAUGHT
+6df10691	uniqueracesplayed	5d32a699	vcgroup	5b5eeffe	story000	HIT 'N' RUN VC: UNIQUE RACES ENTERED
+725ce4e1	numfound	3cd8dd9f	stuntjumps	5b5eeffe	story000	STUNT JUMPS: DISCOVERED
+75e82aea	totalmeditations	00000000		25350e5c	charjason	SOLO MEDITATIONS (Jason)
+75e82aea	totalmeditations	00000000		5b5eeffe	story000	MEDITATIONS
+75e82aea	totalmeditations	00000000		b3634b85	charlucia	SOLO MEDITATIONS (Lucia)
+793dfa4a	racesplayed	5d32a699	vcgroup	5b5eeffe	story000	HIT 'N' RUN VC: TOTAL RACES ENTERED
+79f58149	robbedlockboxes	00000000		5b5eeffe	story000	LOCKBOXES ROBBED
+7afe7032	studied	2b12592f		5b5eeffe	story000	BASE MODEL VEHICLES
+7afe7032	studied	75fa4d0c	animals	5b5eeffe	story000	ANIMALS
+802e8e07	robbedcashvalue	19c84ad5	conveniencestorerobberylocations	5b5eeffe	story000	CONVENIENCE STORES: CASH STOLEN
+84c98ecb	owneddestroyed	00000000		5b5eeffe	story000	OWNED VEHICLES DESTROYED
+85209c63		03db1ca3	smashngrabsrobbery	5b5eeffe	story000	SMASH 'N' GRABS FULLY COMPLETED
+85209c63		19c84ad5	conveniencestorerobberylocations	5b5eeffe	story000	CONVENIENCE STORES: LOCATIONS FULLY HIT
+85209c63		394a10cc	paydayloanrobbery	5b5eeffe	story000	PAYDAY LOAN JOBS FULLY COMPLETED
+85209c63		9fd5c77f	holdupsrobbery	5b5eeffe	story000	STICK UPS FULLY COMPLETED
+85209c63		ff8e60ab	bankrobbery	5b5eeffe	story000	BANK JOBS FULLY COMPLETED
+85715126	totalcaught	612920b7	fish	5b5eeffe	story000	FISHING: FISH CAUGHT
+85715126	totalcaught	61747f94	discoverable_name_mackerel_atlanticspanish	5b5eeffe	story000	ATLANTIC SPANISH MACKEREL: TOTAL CAUGHT
+87217f52		c06bbbd7	totalreported	25350e5c	charjason	CRIMES REPORTED (Jason)
+87217f52		c06bbbd7	totalreported	5b5eeffe	story000	CRIMES REPORTED
+87217f52		c06bbbd7	totalreported	b3634b85	charlucia	CRIMES REPORTED (Lucia)
+875b5e28	favoriteid	001db47a	watercraft	25350e5c	charjason	WATERCRAFT (Jason)
+875b5e28	favoriteid	001db47a	watercraft	5b5eeffe	story000	WATERCRAFT
+875b5e28	favoriteid	001db47a	watercraft	b3634b85	charlucia	WATERCRAFT (Lucia)
+875b5e28	favoriteid	003bdf3c	alcoholicdrink	25350e5c	charjason	ALCOHOLIC DRINK (Jason)
+875b5e28	favoriteid	003bdf3c	alcoholicdrink	5b5eeffe	story000	ALCOHOLIC DRINK
+875b5e28	favoriteid	003bdf3c	alcoholicdrink	b3634b85	charlucia	ALCOHOLIC DRINK (Lucia)
+875b5e28	favoriteid	16544603	cafe	5b5eeffe	story000	FAST FOOD, CAFES & TAKEOUT
+875b5e28	favoriteid	2edf4afc	gunshop	5b5eeffe	story000	AMMU-NATION
+875b5e28	favoriteid	3ce8b04e	clothingshop	5b5eeffe	story000	CLOTHING STORE
+875b5e28	favoriteid	4538c3b2	aircraft	25350e5c	charjason	AIRCRAFT (Jason)
+875b5e28	favoriteid	4538c3b2	aircraft	5b5eeffe	story000	AIRCRAFT
+875b5e28	favoriteid	4538c3b2	aircraft	b3634b85	charlucia	AIRCRAFT (Lucia)
+875b5e28	favoriteid	45ee0036	exercise	25350e5c	charjason	EXERCISE (Jason)
+875b5e28	favoriteid	45ee0036	exercise	5b5eeffe	story000	EXERCISE
+875b5e28	favoriteid	45ee0036	exercise	b3634b85	charlucia	EXERCISE (Lucia)
+875b5e28	favoriteid	540d4f03	tattooshop	5b5eeffe	story000	TATTOO PARLOR
+875b5e28	favoriteid	543652ce	drink	25350e5c	charjason	DRINK (Jason)
+875b5e28	favoriteid	543652ce	drink	5b5eeffe	story000	DRINK
+875b5e28	favoriteid	543652ce	drink	b3634b85	charlucia	DRINK (Lucia)
+875b5e28	favoriteid	5c8bc9a8	modshop	5b5eeffe	story000	MOD SHOP
+875b5e28	favoriteid	6cd8740f	hairshop	5b5eeffe	story000	HAIRSTYLIST
+875b5e28	favoriteid	80409109	bar	5b5eeffe	story000	BAR
+875b5e28	favoriteid	8870468e		25350e5c	charjason	MOST COMMON HEALTH STATE (Jason)
+875b5e28	favoriteid	8870468e		b3634b85	charlucia	MOST COMMON HEALTH STATE (Lucia)
+875b5e28	favoriteid	8b00064c	landcraft	25350e5c	charjason	LAND VEHICLE (Jason)
+875b5e28	favoriteid	8b00064c	landcraft	5b5eeffe	story000	LAND VEHICLE
+875b5e28	favoriteid	8b00064c	landcraft	b3634b85	charlucia	LAND VEHICLE (Lucia)
+875b5e28	favoriteid	a34b1939	food	25350e5c	charjason	FOOD (Jason)
+875b5e28	favoriteid	a34b1939	food	5b5eeffe	story000	FOOD
+875b5e28	favoriteid	a34b1939	food	b3634b85	charlucia	FOOD (Lucia)
+875b5e28	favoriteid	dd245b9c	vehicle	25350e5c	charjason	OVERALL VEHICLE (Jason)
+875b5e28	favoriteid	dd245b9c	vehicle	5b5eeffe	story000	OVERALL VEHICLE
+875b5e28	favoriteid	dd245b9c	vehicle	b3634b85	charlucia	OVERALL VEHICLE (Lucia)
+875b5e28	favoriteid	e68a4a98	weapon	25350e5c	charjason	WEAPON (Jason)
+875b5e28	favoriteid	e68a4a98	weapon	5b5eeffe	story000	WEAPON
+875b5e28	favoriteid	e68a4a98	weapon	b3634b85	charlucia	WEAPON (Lucia)
+8939ab04	recognitionlost	0a19a19f	partner	5b5eeffe	story000	PARTNER RECOGNITION CLEARED
+8939ab04	recognitionlost	45835226	all	5b5eeffe	story000	UNKNOWN SUSPECT STATUS REGAINED
+8939ab04	recognitionlost	c2286f01	clothing	5b5eeffe	story000	CLOTHING RECOGNITION CLEARED
+8939ab04	recognitionlost	d96bffe7	appearance	5b5eeffe	story000	APPEARANCE RECOGNITION CLEARED
+8939ab04	recognitionlost	dd245b9c	vehicle	5b5eeffe	story000	VEHICLE RECOGNITION CLEARED
+89ed7597	timetraveling	17273549	jet2_base_spec	5b5eeffe	story000	BOTTCHER 015A: TIME FLOWN
+89ed7597	timetraveling	7352bf49	rhode_base_spec	5b5eeffe	story000	RUGGER RHODE: TIME DRIVEN
+89ed7597	timetraveling	bea7203b	airgator_base_spec	5b5eeffe	story000	AIRGATOR AIRBOAT 09: TIME DRIVEN
+91f9a755	busted	00000000		5b5eeffe	story000	TOTAL ARRESTS
+9752184e	kills	0c4f83fa	driveby	5b5eeffe	story000	DRIVE-BY KILLS
+9752184e	kills	11ca4541	law	25350e5c	charjason	LAW ENFORCEMENT KILLED (Jason)
+9752184e	kills	11ca4541	law	b3634b85	charlucia	LAW ENFORCEMENT KILLED (Lucia)
+9752184e	kills	1ce5644c	vehicleweapon	5b5eeffe	story000	WEAPONIZED VEHICLE KILLS
+9752184e	kills	21fe96e9	runover	5b5eeffe	story000	HIT & RUN KILLS
+9752184e	kills	29e48687	weaponspec_melee_bat_default	5b5eeffe	story000	BASEBALL BAT: KILLS
+9752184e	kills	3a0eb4fd	animal	25350e5c	charjason	ANIMALS KILLED (Jason)
+9752184e	kills	3a0eb4fd	animal	5b5eeffe	story000	ANIMALS KILLED
+9752184e	kills	3a0eb4fd	animal	b3634b85	charlucia	ANIMALS KILLED (Lucia)
+9752184e	kills	6ffa9dd3	enemy	5b5eeffe	story000	ENEMIES KILLED
+9752184e	kills	7f850cc4	kingfishers	5b5eeffe	story000	KINGFISHERS: MEMBERS KILLED
+9752184e	kills	8059c6ef	civilian	25350e5c	charjason	CIVILIANS KILLED (Jason)
+9752184e	kills	8059c6ef	civilian	5b5eeffe	story000	CIVILIANS KILLED
+9752184e	kills	8059c6ef	civilian	b3634b85	charlucia	CIVILIANS KILLED (Lucia)
+9752184e	kills	812c088e	armed	5b5eeffe	story000	WEAPON KILLS
+9752184e	kills	82ace2d4	weaponspec_thrown_flashbang_default	5b5eeffe	story000	FLASH GRENADE: KILLS
+9752184e	kills	98787966	swat	5b5eeffe	story000	NOOSE AGENTS KILLED
+9752184e	kills	a49e591c	cop	5b5eeffe	story000	COPS KILLED
+9752184e	kills	ad7b8c13	military	5b5eeffe	story000	MILITARY KILLED
+993c7b64	incapacitations	11ca4541	law	25350e5c	charjason	LAW ENFORCEMENT INCAPACITATED (Jason)
+993c7b64	incapacitations	11ca4541	law	b3634b85	charlucia	LAW ENFORCEMENT INCAPACITATED (Lucia)
+993c7b64	incapacitations	29e48687	weaponspec_melee_bat_default	5b5eeffe	story000	BASEBALL BAT: INCAPACITATIONS
+993c7b64	incapacitations	6ffa9dd3	enemy	5b5eeffe	story000	ENEMIES INCAPACITATED
+993c7b64	incapacitations	8059c6ef	civilian	25350e5c	charjason	CIVILIANS INCAPACITATED (Jason)
+993c7b64	incapacitations	8059c6ef	civilian	5b5eeffe	story000	CIVILIANS INCAPACITATED
+993c7b64	incapacitations	8059c6ef	civilian	b3634b85	charlucia	CIVILIANS INCAPACITATED (Lucia)
+993c7b64	incapacitations	812c088e	armed	5b5eeffe	story000	WEAPON INCAPACITATIONS
+993c7b64	incapacitations	98787966	swat	5b5eeffe	story000	NOOSE AGENTS INCAPACITATED
+993c7b64	incapacitations	a49e591c	cop	5b5eeffe	story000	COPS INCAPACITATED
+993c7b64	incapacitations	ad7b8c13	military	5b5eeffe	story000	MILITARY INCAPACITATED
+993c7b64	incapacitations	e13e7922		25350e5c	charjason	STEALTH TAKEDOWNS (Jason)
+993c7b64	incapacitations	e13e7922		5b5eeffe	story000	STEALTH TAKEDOWNS
+993c7b64	incapacitations	e13e7922		b3634b85	charlucia	STEALTH TAKEDOWNS (Lucia)
+9afe26cc	kitscollected	dd245b9c	vehicle	5b5eeffe	story000	STANDOUT VEHICLES FOUND
+9afe26cc	kitscollected	e68a4a98	weapon	5b5eeffe	story000	UNIQUE WEAPON VARIANTS FOUND
+9eee75df	accuracy	82ace2d4	weaponspec_thrown_flashbang_default	5b5eeffe	story000	FLASH GRENADE: ACCURACY
+a1a4b648	challengescompleted	00000000		5b5eeffe	story000	CHALLENGES COMPLETED
+a34c03a5	longesttimeinwantedlevel	df3407b5	any	25350e5c	charjason	LONGEST WANTED DURATION (Jason)
+a34c03a5	longesttimeinwantedlevel	df3407b5	any	5b5eeffe	story000	LONGEST WANTED DURATION
+a34c03a5	longesttimeinwantedlevel	df3407b5	any	b3634b85	charlucia	LONGEST WANTED DURATION (Lucia)
+a34c03a5	longesttimeinwantedlevel	e067fc5a	level6	5b5eeffe	story000	LONGEST TIME WITH 6-STAR WANTED LEVEL
+a3fcc411	robbedvaults	00000000		5b5eeffe	story000	VAULTS ROBBED
+a4c912f9	holdupcash	00000000		5b5eeffe	story000	MADE FROM MUGGINGS
+aca35019	weaponaccuracy	00000000		25350e5c	charjason	TOTAL ACCURACY (Jason)
+aca35019	weaponaccuracy	00000000		b3634b85	charlucia	TOTAL ACCURACY (Lucia)
+b10e5aad	destroyedvehiclesrepaired	00000000		5b5eeffe	story000	DESTROYED VEHICLES REPAIRED
+b39d03a1	shootingrangecoursesunlocked	00000000		a510dffc	rodgers	RODGERS RANCH & SHOOTING RANGE: RANGES UNLOCKED
+b842cfe7	uniquehuntinganimalssold	3a0eb4fd	animal	5b5eeffe	story000	BRET VOGEL: SPECIES SOLD
+b8c33c74	vehiclesincapacitated	00000000		5b5eeffe	story000	VEHICLES INCAPACITATED
+bac2b791	shots	00000000		a510dffc	rodgers	RODGERS RANCH & SHOOTING RANGE: SHOTS FIRED
+bc5bfe69	numleveldowns	9c0e774c	weight	25350e5c	charjason	TIMES WEIGHT LOST (Jason)
+bc5bfe69	numleveldowns	9c0e774c	weight	b3634b85	charlucia	TIMES WEIGHT LOST (Lucia)
+c11dbddf	propertiesowned	00000000		5b5eeffe	story000	GARAGES OWNED
+c17af4b3	deaths	00000000		5b5eeffe	story000	TOTAL DEATHS
+c17af4b3	deaths	21fe96e9	runover	5b5eeffe	story000	DEATHS BY TRAFFIC
+c17af4b3	deaths	57779727	combat	5b5eeffe	story000	DEATHS BY COMBAT
+c17af4b3	deaths	798a1e3b	drown	5b5eeffe	story000	DEATHS BY DROWNING
+c17af4b3	deaths	9d96a45a	whilewanted	5b5eeffe	story000	DEATHS WHILE WANTED
+c17af4b3	deaths	aa4896aa	fall	5b5eeffe	story000	DEATHS BY FALLING
+c17af4b3	deaths	d30a036b	fire	5b5eeffe	story000	DEATHS BY FIRE
+c17af4b3	deaths	dd91088f	explosion	5b5eeffe	story000	DEATHS BY EXPLOSION
+cc1794f6		001db47a	watercraft	5b5eeffe	story000	WANTED EVADED IN WATERCRAFT
+cc1794f6		11ca4541	law	5b5eeffe	story000	ESCAPED FROM COPS
+cc1794f6		4538c3b2	aircraft	5b5eeffe	story000	WANTED EVADED IN AIRCRAFT
+cc1794f6		8b00064c	landcraft	5b5eeffe	story000	WANTED EVADED IN LAND VEHICLE
+cc1794f6		933d5fd7	lawk9policeunit	5b5eeffe	story000	K9 UNITS EVADED
+cc1794f6		f5a638b9	onfoot	5b5eeffe	story000	WANTED EVADED ON FOOT
+cc1c74f4	shootingrangetotalmedals	00000000		a510dffc	rodgers	RODGERS RANCH & SHOOTING RANGE: MEDALS
+d27ac355	dist	001db47a	watercraft	5b5eeffe	story000	BY WATERCRAFT
+d27ac355	dist	17273549	jet2_base_spec	5b5eeffe	story000	BOTTCHER 015A: DISTANCE TRAVELED
+d27ac355	dist	36efdb93	walking	5b5eeffe	story000	BY WALKING
+d27ac355	dist	4538c3b2	aircraft	5b5eeffe	story000	BY AIRCRAFT
+d27ac355	dist	5b5d91fd	parachute	5b5eeffe	story000	BY PARACHUTE
+d27ac355	dist	5da2a411	swimming	5b5eeffe	story000	BY SWIMMING
+d27ac355	dist	68ab84b5	running	5b5eeffe	story000	BY RUNNING
+d27ac355	dist	7352bf49	rhode_base_spec	5b5eeffe	story000	RUGGER RHODE: DISTANCE TRAVELED
+d27ac355	dist	8b00064c	landcraft	5b5eeffe	story000	BY LAND VEHICLE
+d27ac355	dist	a2663418	underwater	5b5eeffe	story000	UNDERWATER
+d27ac355	dist	bea7203b	airgator_base_spec	5b5eeffe	story000	AIRGATOR AIRBOAT 09: DISTANCE TRAVELED
+d3526971	totalprogressmade	00000000		5b5eeffe	story000	100% COMPLETION
+d3526971	totalprogressmade	03db1ca3	smashngrabsrobbery	5b5eeffe	story000	SMASH 'N' GRABS FULLY COMPLETED
+d3526971	totalprogressmade	064b814a	soldkentontreasures	5b5eeffe	story000	KENTON SETS COMPLETED
+d3526971	totalprogressmade	09055145	soldsportscards	5b5eeffe	story000	COLLECTIBLE CARD SETS FOUND
+d3526971	totalprogressmade	0a1a8fe7	totalstunts	5b5eeffe	story000	STUNTS COMPLETED
+d3526971	totalprogressmade	336165a1	allgangs	5b5eeffe	story000	GANG OPERATIONS CLEARED
+d3526971	totalprogressmade	3568f5fe	shootingrangegoldmedals	5b5eeffe	story000	SHOOTING RANGE GOLD MEDALS
+d3526971	totalprogressmade	3854e2d1	wainklocations	5b5eeffe	story000	WAiNK LOCATIONS SCANNED
+d3526971	totalprogressmade	394a10cc	paydayloanrobbery	5b5eeffe	story000	PAYDAY LOAN JOBS FULLY COMPLETED
+d3526971	totalprogressmade	3c1ff692		5b5eeffe	story000	UNDERWATER DISCOVERIES FOUND | UNDERWATER DISCOVERIES: DISCOVERIES MADE
+d3526971	totalprogressmade	45d2d4c4	soldvehicles	5b5eeffe	story000	VEHICLES FENCED
+d3526971	totalprogressmade	57682bab	basketballhoopalllocations	5b5eeffe	story000	BASKETBALL HOOPS
+d3526971	totalprogressmade	785b43aa	racechallenges	5b5eeffe	story000	RACE CHALLENGE GOLD MEDALS
+d3526971	totalprogressmade	7aee1fa5	bankvaultrobbed	5b5eeffe	story000	VAULTS HIT
+d3526971	totalprogressmade	7f85cc27	weaponsdiscovered	5b5eeffe	story000	STANDARD ISSUE WEAPONS
+d3526971	totalprogressmade	7fdaf325	vehiclesdiscovered	5b5eeffe	story000	BASE MODEL VEHICLES
+d3526971	totalprogressmade	830d57d1	soldjewelry	5b5eeffe	story000	JEWELRY FENCED
+d3526971	totalprogressmade	8b41af94	styles	5b5eeffe	story000	DISCOVERED STYLES
+d3526971	totalprogressmade	986f9d9b	solddrugs	5b5eeffe	story000	NARCOTICS FENCED
+d3526971	totalprogressmade	9fd5c77f	holdupsrobbery	5b5eeffe	story000	STICK UPS FULLY COMPLETED
+d3526971	totalprogressmade	a1a4b648	challengescompleted	5b5eeffe	story000	CHALLENGES COMPLETED
+d3526971	totalprogressmade	a224761e	booksandmagazines	5b5eeffe	story000	MAGAZINES, BOOKS & COMICS FOUND
+d3526971	totalprogressmade	a49f352b		5b5eeffe	story000	BRET'S TARGET DECKS | BRET VOGEL: TARGET DECKS COMPLETED
+d3526971	totalprogressmade	ae6e9c22	story	5b5eeffe	story000	STORY COMPLETION
+d3526971	totalprogressmade	d70bb3fc	uniqueraceswon	5b5eeffe	story000	UNIQUE RACES WON
+d3526971	totalprogressmade	da956bab	pool	5b5eeffe	story000	POOL OPPONENTS DEFEATED
+d3526971	totalprogressmade	e07dddc2	uniquemeditations	5b5eeffe	story000	MEDITATION SPOTS COMPLETED
+d3526971	totalprogressmade	e759c3f0	animalsdiscovered	5b5eeffe	story000	ANIMALS
+d3526971	totalprogressmade	e92206e3	arcadegameany	5b5eeffe	story000	VIDEO GAMES PLAYED
+d3526971	totalprogressmade	ed95c41d	droneracesroutescompleted	5b5eeffe	story000	DRONE TIME TRIALS COMPLETED
+d3526971	totalprogressmade	ef2d00a2	golfcoursescompleted	5b5eeffe	story000	MINI GOLF LOCATIONS PLAYED
+d3526971	totalprogressmade	f2100f6e	soldcash	5b5eeffe	story000	MARKED BILLS FENCED
+d3526971	totalprogressmade	ff8e60ab	bankrobbery	5b5eeffe	story000	BANK JOBS FULLY COMPLETED
+d5188146	lifetimemoneyearned	00000000		25350e5c	charjason	MONEY EARNED (Jason)
+d5188146	lifetimemoneyearned	00000000		5b5eeffe	story000	TOTAL EARNED
+d5188146	lifetimemoneyearned	00000000		b3634b85	charlucia	MONEY EARNED (Lucia)
+d5188146	lifetimemoneyearned	3eb4e114	buckme	25350e5c	charjason	BUCKME EARNED (Jason)
+d5188146	lifetimemoneyearned	3eb4e114	buckme	b3634b85	charlucia	BUCKME EARNED (Lucia)
+d5188146	lifetimemoneyearned	45d2d4c4	soldvehicles	25350e5c	charjason	VEHICLES FENCED (Jason)
+d5188146	lifetimemoneyearned	45d2d4c4	soldvehicles	5b5eeffe	story000	VEHICLES FENCED
+d5188146	lifetimemoneyearned	45d2d4c4	soldvehicles	b3634b85	charlucia	VEHICLES FENCED (Lucia)
+d5188146	lifetimemoneyearned	830d57d1	soldjewelry	25350e5c	charjason	JEWELRY FENCED (Jason)
+d5188146	lifetimemoneyearned	830d57d1	soldjewelry	5b5eeffe	story000	JEWELRY FENCED
+d5188146	lifetimemoneyearned	830d57d1	soldjewelry	b3634b85	charlucia	JEWELRY FENCED (Lucia)
+d5188146	lifetimemoneyearned	986f9d9b	solddrugs	25350e5c	charjason	NARCOTICS FENCED (Jason)
+d5188146	lifetimemoneyearned	986f9d9b	solddrugs	5b5eeffe	story000	NARCOTICS FENCED
+d5188146	lifetimemoneyearned	986f9d9b	solddrugs	b3634b85	charlucia	NARCOTICS FENCED (Lucia)
+d5188146	lifetimemoneyearned	a8f1106e	soldcollectibles	5b5eeffe	story000	COLLECTIBLES SOLD
+d5188146	lifetimemoneyearned	af53ded1	tasks	5b5eeffe	story000	TASK REWARDS
+d5188146	lifetimemoneyearned	b0acd115	interest	5b5eeffe	story000	BUCKME FAMILY SAVINGS ACCOUNT INTEREST
+d5188146	lifetimemoneyearned	c347b104	robberies	5b5eeffe	story000	TOTAL ROBBERY TAKE
+d5188146	lifetimemoneyearned	c74b1db9	lootedpeds	5b5eeffe	story000	MADE FROM LOOTING
+d5188146	lifetimemoneyearned	d0bc4475	investment	25350e5c	charjason	INVESTMENTS MADE (Jason)
+d5188146	lifetimemoneyearned	d0bc4475	investment	5b5eeffe	story000	BUCKME FAMILY SAVINGS ACCOUNT DEPOSITS
+d5188146	lifetimemoneyearned	d0bc4475	investment	b3634b85	charlucia	INVESTMENTS MADE (Lucia)
+d5188146	lifetimemoneyearned	ee19a961	pickups	5b5eeffe	story000	FOUND IN WORLD
+d5188146	lifetimemoneyearned	f2100f6e	soldcash	25350e5c	charjason	MARKED BILLS FENCED (Jason)
+d5188146	lifetimemoneyearned	f2100f6e	soldcash	5b5eeffe	story000	MARKED BILLS FENCED
+d5188146	lifetimemoneyearned	f2100f6e	soldcash	b3634b85	charlucia	MARKED BILLS FENCED (Lucia)
+d70bb3fc	uniqueraceswon	00000000		5b5eeffe	story000	UNIQUE RACES WON
+d70bb3fc	uniqueraceswon	5d32a699	vcgroup	5b5eeffe	story000	HIT 'N' RUN VC: UNIQUE RACES WON
+da2d2c14	ganglocationsdiscovered	7f850cc4	kingfishers	5b5eeffe	story000	KINGFISHERS: OPERATIONS DISCOVERED
+dc6cb343	valuestolen	7f850cc4	kingfishers	5b5eeffe	story000	KINGFISHERS: OPERATION GOODS STOLEN
+def0d42f	overpowers	00000000		25350e5c	charjason	STATS OVERPOWERED (Jason)
+def0d42f	overpowers	00000000		b3634b85	charlucia	STATS OVERPOWERED (Lucia)
+def0d42f	overpowers	650f93d8	stamina	5b5eeffe	story000	STAMINA OVERPOWERS
+def0d42f	overpowers	d94afe36	health	5b5eeffe	story000	HEALTH OVERPOWERS
+def0d42f	overpowers	e391e9e5	focus	5b5eeffe	story000	FOCUS OVERPOWERS
+e07dddc2	uniquemeditations	00000000		5b5eeffe	story000	MEDITATION SPOTS COMPLETED
+e5cfc0c8	biggestcaught	612920b7	fish	5b5eeffe	story000	FISHING: LARGEST FISH WEIGHT
+e5cfc0c8	biggestcaught	61747f94	discoverable_name_mackerel_atlanticspanish	5b5eeffe	story000	ATLANTIC SPANISH MACKEREL: LARGEST CAUGHT
+ea5d9ff6	fastestspeed	17273549	jet2_base_spec	5b5eeffe	story000	BOTTCHER 015A: TOP SPEED REACHED
+ea5d9ff6	fastestspeed	7352bf49	rhode_base_spec	5b5eeffe	story000	RUGGER RHODE: TOP SPEED REACHED
+ea5d9ff6	fastestspeed	bea7203b	airgator_base_spec	5b5eeffe	story000	AIRGATOR AIRBOAT 09: TOP SPEED REACHED
+ecd8759c		0655c839	level2	5b5eeffe	story000	2-STAR WANTED LEVEL FAILURES
+ecd8759c		66a188cf	level5	5b5eeffe	story000	5-STAR WANTED LEVEL FAILURES
+ecd8759c		7e12b7b1	level4	5b5eeffe	story000	4-STAR WANTED LEVEL FAILURES
+ecd8759c		b87eac8c	level3	5b5eeffe	story000	3-STAR WANTED LEVEL FAILURES
+ecd8759c		d52465d7	level1	5b5eeffe	story000	1-STAR WANTED LEVEL FAILURES
+ecd8759c		e067fc5a	level6	5b5eeffe	story000	6-STAR WANTED LEVEL FAILURES
+eff35cf2	carjackings	00000000		5b5eeffe	story000	CARS JACKED
+f0be0038	reachedwantedlevel	d52465d7	level1	25350e5c	charjason	TIMES WANTED (Jason)
+f0be0038	reachedwantedlevel	d52465d7	level1	5b5eeffe	story000	TIMES WANTED
+f0be0038	reachedwantedlevel	d52465d7	level1	b3634b85	charlucia	TIMES WANTED (Lucia)
+f0be0038	reachedwantedlevel	df3407b5	any	25350e5c	charjason	TOTAL WANTED STARS (Jason)
+f0be0038	reachedwantedlevel	df3407b5	any	5b5eeffe	story000	TOTAL WANTED STARS GAINED
+f0be0038	reachedwantedlevel	df3407b5	any	b3634b85	charlucia	TOTAL WANTED STARS (Lucia)
+f11e63c6	huntingcashcollected	3a0eb4fd	animal	5b5eeffe	story000	ANIMALS SOLD TO BRET | BRET VOGEL: CASH EARNED
+f3c2e93b	stuntjumpchallengescompleted	3cd8dd9f	stuntjumps	5b5eeffe	story000	STUNT JUMPS: CHALLENGES COMPLETED
+f5f071e8	lifetimemoneyspent	0787d01e	tipping	5b5eeffe	story000	TIPS PAID
+f5f071e8	lifetimemoneyspent	07b3c2bf	tollbooth	5b5eeffe	story000	ROAD TOLLS PAID
+f5f071e8	lifetimemoneyspent	08dcb100	taxis	5b5eeffe	story000	TAXI RIDES PAID FOR
+f5f071e8	lifetimemoneyspent	09235861	vehiclemods	5b5eeffe	story000	SPENT ON VEHICLE MODS
+f5f071e8	lifetimemoneyspent	0980b953	nails	5b5eeffe	story000	SPENT ON NAIL SERVICES
+f5f071e8	lifetimemoneyspent	125b4637	ammo	5b5eeffe	story000	SPENT ON AMMO
+f5f071e8	lifetimemoneyspent	12e74b83	zombix	5b5eeffe	story000	SPENT ON ZOMBIX
+f5f071e8	lifetimemoneyspent	1a10b2a1	transport	5b5eeffe	story000	PUBLIC TRANSPORT PAID FOR
+f5f071e8	lifetimemoneyspent	1b2ae76c	piercings	5b5eeffe	story000	SPENT ON PIERCINGS
+f5f071e8	lifetimemoneyspent	3c364b57	tippinghotel	5b5eeffe	story000	HOTEL STAFF TIPS
+f5f071e8	lifetimemoneyspent	53a1ec2c	makeup	5b5eeffe	story000	SPENT ON MAKEUP
+f5f071e8	lifetimemoneyspent	543652ce	drink	5b5eeffe	story000	SPENT ON DRINKS
+f5f071e8	lifetimemoneyspent	57c2e5f7	rydeme	5b5eeffe	story000	RYDEME TRIPS PAID FOR
+f5f071e8	lifetimemoneyspent	5b5d91fd	parachute	5b5eeffe	story000	SPENT ON PARACHUTES
+f5f071e8	lifetimemoneyspent	6c6d502c	weaponsmods	5b5eeffe	story000	WEAPON MODS
+f5f071e8	lifetimemoneyspent	72e6ef74	armor	5b5eeffe	story000	SPENT ON BODY ARMOR
+f5f071e8	lifetimemoneyspent	7a51a424	activities	5b5eeffe	story000	SPENT ON ACTIVITIES
+f5f071e8	lifetimemoneyspent	7d6ba517	alcohol	5b5eeffe	story000	SPENT ON ALCOHOL
+f5f071e8	lifetimemoneyspent	803e392c	weapons	5b5eeffe	story000	WEAPONS
+f5f071e8	lifetimemoneyspent	82463c37	tickets	5b5eeffe	story000	SPENT ON ATTRACTION TICKETS
+f5f071e8	lifetimemoneyspent	864b03ae	hair	5b5eeffe	story000	SPENT ON HAIR & FACIAL HAIR
+f5f071e8	lifetimemoneyspent	8d127bce	tippingwaiters	5b5eeffe	story000	BAR & WAITSTAFF TIPS
+f5f071e8	lifetimemoneyspent	a34b1939	food	5b5eeffe	story000	SPENT ON FOOD
+f5f071e8	lifetimemoneyspent	a3855b81	fastfood	5b5eeffe	story000	SPENT ON FAST FOOD
+f5f071e8	lifetimemoneyspent	a9698a9f	roomservice	5b5eeffe	story000	ROOM SERVICE PAID FOR
+f5f071e8	lifetimemoneyspent	b6ac7163	explosives	5b5eeffe	story000	SPENT ON EXPLOSIVES
+f5f071e8	lifetimemoneyspent	c52b5a8b	meleeweapon	5b5eeffe	story000	SPENT ON MELEE WEAPONS
+f5f071e8	lifetimemoneyspent	cbaaacff	tattoos	5b5eeffe	story000	SPENT ON TATTOOS
+f5f071e8	lifetimemoneyspent	d244e9cb	clothes	5b5eeffe	story000	SPENT ON CLOTHING
+f5f071e8	lifetimemoneyspent	da9f6448	vehiclerecover	5b5eeffe	story000	VEHICLE RECOVERY COSTS
+f5f071e8	lifetimemoneyspent	dbdb757b	snacks	5b5eeffe	story000	SPENT ON SNACKS
+f5f071e8	lifetimemoneyspent	e6657b17	properties	5b5eeffe	story000	SPENT ON GARAGES
+f5f071e8	lifetimemoneyspent	e7c56e9c	misc	5b5eeffe	story000	MISC SPENDING
+f5f071e8	lifetimemoneyspent	eaa1daf8	vehiclerepairs	5b5eeffe	story000	VEHICLE REPAIR AND MAINTENANCE COSTS
+f5f071e8	lifetimemoneyspent	eef65fe1	vehicleregistration	5b5eeffe	story000	VEHICLE REGISTRATION COSTS
+f5f071e8	lifetimemoneyspent	f29e8ad2	vehiclerefuel	5b5eeffe	story000	GAS & RECHARGES
+f5f071e8	lifetimemoneyspent	f7df3bd4	grill	5b5eeffe	story000	SPENT ON GRILLZ
+fcf37417	totalplayingtimems	00000000		25350e5c	charjason	TIME PLAYED AS JASON | TIME PLAYED (Jason)
+fcf37417	totalplayingtimems	00000000		5b5eeffe	story000	TIME PLAYED
+fcf37417	totalplayingtimems	00000000		99b6b6dc	withpartnerfreeroam	TIME PLAYED TOGETHER
+fcf37417	totalplayingtimems	00000000		a510dffc	rodgers	RODGERS RANCH & SHOOTING RANGE: TIME AT RANGE
+fcf37417	totalplayingtimems	00000000		b3634b85	charlucia	TIME PLAYED AS LUCIA | TIME PLAYED (Lucia)
+fcf37417	totalplayingtimems	1c857fcb	partnerhandholding	5b5eeffe	story000	TIME HOLDING HANDS

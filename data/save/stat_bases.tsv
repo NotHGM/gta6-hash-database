@@ -1,0 +1,387 @@
+hash	name	confidence	game_label	meaning	rows_in_save	types	source	evidence	research_round
+9eee75df	accuracy	named			132	float			
+e3d3278c	acquired	named			12	bool			
+f797cfa7	activity_distance_in	named			397	int64			
+c748608f	ambientdestroyed	likely			323	int32	pair crack core x core		all_names.json
+bb21d69f	attackedby	confirmed			244	int32	screenshot Screenshot 2026-11-24 135631.png: 'ATTACKED BY'		screens
+3e766b34	attemptedholdups	likely			3	u32	pair crack core x game		all_names.json
+5a13ac35	attempts	named			42	int32			
+fcca8b27	autosaved	likely			1	int32	pair crack core x game		all_names.json
+889ddb3d	averageaccuracy	likely			1	float	pair crack core x core		all_names.json
+1bddb906	averagespeed	confirmed			1	float	RDR2 stat base STAT_BASE_ID_AVERAGE_SPEED glued; same hash as civilians_sp (true collision)	the value is a float that wanders between ~44 and ~49 across saves (an average), not a civilian count	round2/stats_core
+7aee1fa5	bankvaultrobbed	likely			1	u32	base core triple crack; corroborated: same hash is completion component Q3580		all_names.json
+6c7628d0	bestcompletiontime	likely			143	int64	base core triple crack; sibling of challengecompletedbits		all_names.json
+28c2ae44	bestscore	likely			143	bool/int32/u32	pair crack core x game		all_names.json
+8a04ad88	besttime	likely			120	int32/int64	pair crack core x core		all_names.json
+e5cfc0c8	biggestcaught	likely			36	float	pair crack core x game		all_names.json
+051410db	biggestcaughtid	likely			1	u32	found-name x word crack (noisy run)		all_names.json
+53f5b035	buffs	inferred			12	int32	label from the game's stats screens		
+d47646d8	bullseyes	confirmed			42	int32	in-game text label 'Bullseyes' (psviethoa/gta6-text-en raw_american.tsv) glued		round2/stats_core
+91f9a755	busted	named			1	int32			
+69eea188	caloriesconsumed	likely			1	int32	base stem x word crack		all_names.json
+eff35cf2	carjackings	named			3	u32			
+647a7788	cashwon	likely			47	u32	pair crack core x core; race family		all_names.json
+5f1c67fb	challengecompleted	likely			6	bool	pair crack core x core		all_names.json
+3a59f353	challengecompletedbits	likely			143	u8	base core2 pair crack		all_names.json
+a1a4b648	challengescompleted	confirmed			10	bool/int32	pair crack core x core; same hash is qualifier 3341		all_names.json
+10b73976	challengesunlocked	likely			14	u32	pair crack core x core		all_names.json
+362e5b2f	completed	named			5	bool			
+f4950d43	completewithin20minutes	confirmed			1	bool	grammar from in-game challenge label 'Complete In Under 20 Minutes' (7.9e3 candidates)		round2/stats_core
+6a3259ea	completewithoutfailingpuzzle	confirmed			1	bool	in-game text label 'Complete Without Failing a Puzzle' glued (stop-word dropped)		round2/stats_core
+9164bfef	completionstate	likely			439	u8	pair crack core x game		all_names.json
+0b2d2f78	corecardsunlocked	confirmed			1	u32	in-game text label 'Core Cards Unlocked' glued		round2/stats_core
+2be39f79	cosmetics	named			5	u8			
+1a10279d	coursecompleted	likely			5	bool	pair crack core x game		all_names.json
+8278f5c3	cratesdiscovered	likely			1	int32	pair crack core x core		all_names.json
+29bf0dee	currentlevel	likely			8	int32	asm512 names.tsv [cracked] 'CurrentLevel'		all_names.json
+48757301	damagedealt	likely			93	float	pair crack core x game		all_names.json
+1f53c8ef	damagereceived	likely			91	float	pair crack core x game		all_names.json
+c17af4b3	deaths	named			123	int32/u32			
+5534050d	destroyed	named			5	int32/u32			
+b10e5aad	destroyedvehiclesrepaired	confirmed			1	int32	screenshot Screenshot 2026-11-24 135010.png: 'DESTROYED VEHICLES REPAIRED'		screens
+257db572	diedinmission	likely			1	int32	base core triple crack		all_names.json
+03b84cfa	discoverablesfound	likely			1	u32	base stem x word crack		all_names.json
+f917e217	dismembered	named			4	int32			
+d27ac355	dist	named			390	float			
+2315af12	distdriving	confirmed			27	float	pair crack core x core; vehicle-type family		all_names.json
+5c287245	distpass	confirmed			9	float	pair crack core x core; vehicle-type family		all_names.json
+4f49a400	drawbridgejump	confirmed			1	int32	in-game text label 'Drawbridge Jump' glued		round2/stats_core
+9be60922	drivebykills	likely			322	int32	pair crack core x core		all_names.json
+86022ec8	driveduration	likely			644	int64	pair crack core x core		all_names.json
+a628b460	droneracesfound	likely			1	u8	pair crack core x core		all_names.json
+ed95c41d	droneracesroutescompleted	likely			1	int32	base core2 pair crack; same hash is qualifier 3218		all_names.json
+9bf9d562	endseen	likely			1	bool	pair crack core x game		all_names.json
+60d17e5d	evadedwantedlevel	likely			21	int32	base stem x word crack; pairs with reachedwantedlevel		all_names.json
+89230bdc	exitedvehicles	likely			1	int32	pair crack core x game		all_names.json
+aaac6cc5	exploded	named			4	int32			
+077da106	explosivedamagehits	likely			2	u32	RDR2 stat base STAT_BASE_ID_EXPLOSIVE_DAMAGE_HITS glued		round2/stats_core
+6a749120	explosivedamageshots	likely			8	int32	RDR2 stat base STAT_BASE_ID_EXPLOSIVE_DAMAGE_SHOTS glued		round2/stats_core
+bc0e1529	extractions	named			1	u32			
+685d701a	farthestdist	likely			398	float	base stem x word crack		all_names.json
+ea5d9ff6	fastestspeed	likely			720	float	pair crack core x game		all_names.json
+699a156c	favoriteheldduration	likely			5	int64	base core2 pair crack		all_names.json
+875b5e28	favoriteid	likely			40	u32	favorite x word crack (low-noise, base-only targets); favorite* family		all_names.json
+5762a638	favoritekills	likely			5	int32	pair crack core x game		all_names.json
+70e5cd16	favoritelabel	likely			24	u32	new-core x game-word crack		all_names.json
+18de1a0f	favoritetime	likely			17	int64	pair crack core x game; favorite* family (favoriteid, favoritelabel, favoritekills, favoriteheldduration)		all_names.json
+6bad79f2	feed	named			41	u32			
+3a9437fc	fenced	named			14	u32			
+1d053f1f	firstpersoncamtimems	confirmed			1	int64	RDR2 stat base FIRST_PERSON_CAM_TIME + 'ms' (grammar over 748 RDR2 base names x unit suffixes, 2.2e5 candidates)		round2/stats_core
+1235c045	firstplacereached	likely			6	u32	3-word label-vocabulary search (noisy run); coherent race phrase		round2/stats_core
+66593d26	found	named			417	bool			
+0583da02	furthestkill	likely			93	float	pair crack core x game		all_names.json
+52927b07	gamescompleted	likely			6	int32	pair crack core x game		all_names.json
+7d58eafe	gameslost	likely			3	int32	pair crack core x game		all_names.json
+07ad549e	gamesstarted	likely			3	int32	pair crack core x game		all_names.json
+6bb7be88	gameswithinpar	likely			2	int32	3-word label-vocabulary search (noisy run); coherent golf phrase		round2/stats_core
+2c56ce8d	gameswithpartner	likely			7	int32	base core2 pair crack		all_names.json
+232260d0	gameswon	likely			10	int32	pair crack core x game		all_names.json
+7b9f9321	ganglocationcleared	confirmed			44	bool	3-word label-vocabulary search; per-operation singular of ganglocationscleared (screens-confirmed)		round2/stats_core
+c0e2f2f6	ganglocationdiscovered	confirmed			44	bool	3-word label-vocabulary search; per-operation singular of ganglocationsdiscovered (screens-confirmed)		round2/stats_core
+66c83505	ganglocationscleared	confirmed			11	int32	screenshot Screenshot 2026-11-24 135814.png: 'OPERATIONS CLEARED'; screenshot Screenshot 2026-11-24 134939.png: 'GANG OPERATIONS CLEARED'		screens
+da2d2c14	ganglocationsdiscovered	confirmed			11	int32	screenshot Screenshot 2026-11-24 135814.png: 'OPERATIONS DISCOVERED'		screens
+ef2d00a2	golfcoursescompleted	confirmed			1	int32	cross-table twin: same hash as the confirmed qualifier Q3514 golfcoursescompleted (screen label MINI GOLF LOCATIONS PLAYED); B291 is a single int32 count		round3/prefixes
+5cc85cb8	gymequipmentused	likely			18	u32	3-word core search		round2/stats_core
+2becc89c	gymmembershipowned	likely			1	u8	base core triple crack		all_names.json
+5c9db8d7	gympersonalbest	confirmed			57	u32	3-word label-vocabulary search, re-found in a small grammar; values are lift weights/reps per exercise per character		round2/stats_core
+6d78e0a1	gymused	confirmed			9	bool	pair crack core x core; quals are gyms (dynamix/venus/zenith/ajax)		all_names.json
+52bc41fa	headshots	named			145	int32			
+6464101c	heatcleared	confirmed			1	int32	screenshot Screenshot 2026-11-24 135142.png: 'HEAT AREAS CLEARED'		screens
+2bacc26b	heldduration	likely			282	int64	pair crack core x game		all_names.json
+a98728ea	highestcharacterlevel	likely			1	u32	3-word core search		round2/stats_core
+b1deec32	highestjump	likely			3	float	pair crack core x core		all_names.json
+88b7a27f	highestmedal	likely			198	u8	pair crack core x game		all_names.json
+bcb81c29	hits	named			86	int32/u32			
+25515669	hitsmission	likely			3	u32	pair crack core x core		all_names.json
+151386ec	hitspeds	likely			95	int32/u32	pair crack core x core		all_names.json
+c278b779	hitspedsvehicles	likely			5	int32/u32	base core2 pair crack		all_names.json
+74c692bb	hitsreceived	likely			15	u32	pair crack core x game		all_names.json
+a4c912f9	holdupcash	likely			12	int32	pair crack core x core		all_names.json
+b06021eb	holdups	named			3	u32			
+57ad27a5	holesinone	likely			95	int32	golf grammar (1.3e4 candidates; chance ~3e-4)		round2/stats_core
+5fd486e5	hoopfound	likely			106	bool/u32	pair crack core x game		all_names.json
+41f14d28	hoopscored	likely			106	bool/u32	base core2 pair crack; pairs with hoopfound		all_names.json
+2a038a8b	hotwired	likely			1	u32	GTA V natives token 'hotwired'; single-word pass		all_names.json
+2e2b4701	huntinganimalssold	likely			246	u32	base core triple crack; corroborated by uniquehuntinganimalssold (B344)		all_names.json
+f11e63c6	huntingcashcollected	likely			246	int64	base core triple crack; sibling of huntinganimalssold		all_names.json
+993c7b64	incapacitations	confirmed			141	int32	screenshot Screenshot 2026-11-24 135156.png: 'CIVILIANS INCAPACITATED'; screenshot Screenshot 2026-11-24 135201.png: 'WEAPON INCAPACITATIONS'; screenshot Scree…		screens
+9752184e	kills	named			1080	int32			
+b72095e7	killsknockoutsorincapacitations	confirmed			53	int32	small grammar (4.1e3 candidates, chance ~6e-5) after killsorknockouts; values are >= killsorknockouts in every row		round2/stats_core
+c6f6a787	killsorknockouts	confirmed			53	int32	3-word search over label/RDR2 vocabulary (noisy, ~1.3 chance hits per target), re-found in a 4.1e3-name grammar; sibling of killsknockoutsorincapacitations		round2/stats_core
+fb3e1dae	killspree	likely			3	int32	pair crack core x game		all_names.json
+bb8d6a51	kitcollected	likely			433	bool	pair crack core x game		all_names.json
+9afe26cc	kitscollected	likely			94	u8	pair crack core x game		all_names.json
+0076aebf	knockouts	named			57	int32			
+f26b06ba	largeaccidents	confirmed			1	int32	GTA V stat LARGE_ACCIDENTS (mpstatssetup.xml) glued		round2/stats_core
+19b3058b	lastconsumed	likely			7	int64	pair crack core x game		all_names.json
+2b48c234	lastdrivendate	likely			322	int64	structured per-vehicle family crack		all_names.json
+702d5a0c	lastmissionname	confirmed			1	int32	RDR2 stat base STAT_BASE_ID_LAST_MISSION_NAME glued		round2/stats_core
+9b521a7c	leastfavoritestation	confirmed			1	u32	GTA V stat LEAST_FAVORITE_STATION (mpstatssetup.xml) glued		round2/stats_core
+4c54d4c8	lifetimeheatareaduration	confirmed			1	int64	grammar from screen label 'TIME SPENT IN HEAT AREAS' (screens/names.json display_labels) with the lifetimeheatduration pattern (6.8e3 candidates)		round2/stats_core
+66d53921	lifetimeheatduration	likely			1	int64	3-word core search; fits heatcleared and lifetimemoney*		round2/stats_core
+d5188146	lifetimemoneyearned	confirmed			108	int64	RDR2 stat base STAT_BASE_ID_LIFETIME_MONEY_EARNED (t3chman/rdr3_strings) glued		round2/stats_core
+1ac5ed92	lifetimemoneylost	confirmed			24	int64	family lifetimemoney{earned,spent} (RDR2 names); direct test		round2/stats_core
+055577d5	lifetimemoneyrecovered	confirmed			3	int64	family lifetimemoney*; direct test		round2/stats_core
+f5f071e8	lifetimemoneyspent	confirmed			135	int64	RDR2 stat base STAT_BASE_ID_LIFETIME_MONEY_SPENT (t3chman/rdr3_strings) glued		round2/stats_core
+679f192c	litonfire	confirmed			3	int32	RDR2 stat base STAT_BASE_ID_LIT_ON_FIRE glued		round2/stats_core
+b1779a3c	loadoutduration	likely			90	int64	pair crack core x game		all_names.json
+55060a7a	longestdist	confirmed			4	float	pair crack core x core; stunt record family		all_names.json
+ae030ec6	longestdrive	likely			3	float	pair crack core x core		all_names.json
+24b5dd5e	longestplayingtimems	confirmed			1	int64	RDR2 stat base LONGEST_PLAYING_TIME + 'ms' (cf. RDR2 TOTAL_PLAYING_TIME_MS)		round2/stats_core
+a3a357a4	longestskydive	likely			1	float	pair crack core x game		all_names.json
+63090322	longestsurvivedfreefall	confirmed			1	float	RDR2 stat base STAT_BASE_ID_LONGEST_SURVIVED_FREEFALL glued		round2/stats_core
+84362ca7	longestsurvivedfreefallfromejection	confirmed			1	float	RDR2 stat base STAT_BASE_ID_LONGEST_SURVIVED_FREEFALL_FROM_EJECTION glued		round2/stats_core
+cee93e37	longesttime	confirmed			4	int64	pair crack core x core; stunt record family		all_names.json
+a34c03a5	longesttimeinwantedlevel	likely			21	int64	wantedlevel-anchored triple crack		all_names.json
+c53cd33b	looted	named			8	int32			
+3d76f5fa	manualsaved	likely			1	int32	pair crack core x game		all_names.json
+a5efe1c5	maxairtime	likely			397	int64	pair crack core x core		all_names.json
+8366e723	meleecounters	likely			3	int32	pair crack core x game		all_names.json
+dc68e96e	minorityreport	likely			1	u32	RDR2 stat base STAT_BASE_ID_MINORITY_REPORT glued		round2/stats_core
+c55381f8	misses	named			3	int32			
+fac57990	moneyownednow	likely			2	int64	base core3 pair crack		all_names.json
+f910bc27	moneyownednowbank	confirmed			2	int64	found-name x word crack; moneyownednow family		all_names.json
+6cd9e9f2	moneyownednowpocket	confirmed			2	int64	found-name x word crack; moneyownednow family		all_names.json
+76ec53b8	moneyownednowsavings	likely			2	int64	moneyownednow x word crack (0 decoys); moneyownednow family		all_names.json
+b2b08393	moneyownednowstash	likely			2	int64	found-name x word crack; moneyownednow family		all_names.json
+93df68c5	mostfavoritestation	confirmed			1	u32	GTA V stat MOST_FAVORITE_STATION (mpstatssetup.xml) glued		round2/stats_core
+9abc6075	mostflips	likely			130	u8	pair crack core x core		all_names.json
+8239ea99	mostflipsinonejump	confirmed			1	int32	GTA V stat MOST_FLIPS_IN_ONE_JUMP (mpstatssetup.xml) glued		round2/stats_core
+953e94d3	mostheightgained	likely			131	float	stunt-jump grammar (1.96e4 candidates; chance ~4e-4)		round2/stats_core
+1415a172	mostrolls	likely			130	u8	pair crack core x game		all_names.json
+526c347a	mostspinsinonejump	confirmed			1	int32	GTA V stat MOST_SPINS_IN_ONE_JUMP (mpstatssetup.xml) glued; pair with mostflipsinonejump		round2/stats_core
+8c7af024	nearmisses	likely			1	int32	single-word pass (english/GTA vocabulary)		all_names.json
+0d80c549	notebookpagediscovered	confirmed			11	bool	grammar from in-game label 'Notebook Pages Discovered' (singular per-item form)		round2/stats_core
+b6cff7dd	numbercrashes	confirmed			9	u32	pair crack core x core; vehicle-type family		all_names.json
+845acae3	numcollected	likely			5	u32	pair crack core x core		all_names.json
+2c89e9c5	numcompleted	likely			21	int32	pair crack core x core		all_names.json
+358351b9	numconsumed	likely			1335	int32	pair crack core x game		all_names.json
+725ce4e1	numfound	likely			5	int32	pair crack core x core		all_names.json
+523f038c	numgoldmedals	likely			1	int32	anchor x word crack		all_names.json
+ad7c68e4	numitemsimpounded	confirmed			3	u32	grammar from in-game label 'Impounded Stash Bags Lost'; family numitemslost / numitemsrecovered		round2/stats_core
+68cd5281	numitemslost	likely			3	u32	direct test of a small item/loss grammar (~1.5e4 names)		round2/stats_core
+46a44d9d	numitemsrecovered	likely			3	u32	direct test of a small item/loss grammar		round2/stats_core
+bc5bfe69	numleveldowns	confirmed			8	int32	screenshot Screenshot 2026-11-24 135334.png: 'TIMES WEIGHT LOST'		screens
+6a2101ee	numlevelups	confirmed			8	int32	screenshot Screenshot 2026-11-24 135334.png: 'STRENGTH LEVELED UP'; screenshot Screenshot 2026-11-24 135334.png: 'CARDIO LEVELED UP'; screenshot Screenshot 202…		screens
+a10a1181	nummods	likely			414	int32/u32	tarekmania dictionary (GTA V 'numMods'); single-word pass		all_names.json
+1b53d367	numnegativetemperamentevents	confirmed			3	u32	in-game stat label 'Negative Temperament Events' + 'num' (label-variant pass over UI text table 0898)		round2/stats_core
+2bd4360b	numownedpurchased	likely			90	u8	base core2 pair crack		all_names.json
+0921ad3c	numpartneractivities	likely			1	int32	base core triple crack		all_names.json
+ee121c54	numpickedup	likely			7	int32	base core3 pair crack		all_names.json
+08027dc6	numpositivetemperamentevents	confirmed			3	u32	in-game stat label 'Positive Temperament Events' + 'num'		round2/stats_core
+348d8fa4	numpurchased	likely			349	u32	pair crack core x core		all_names.json
+3d2e9e77	numrampages	likely			3	u32	base stem x word crack		all_names.json
+f65ba7ad	numsold	likely			322	u32	pair crack core x core		all_names.json
+6f7f6305	numtimescompleted	likely			397	u32	base core2 pair crack		all_names.json
+17ae107f	numtimesused	likely			11	u32	base core triple crack		all_names.json
+0213173c	numused	likely			28	u32	pair crack core x core		all_names.json
+d283bea7	numvisits	likely			651	u32	pair crack core x core		all_names.json
+166bbb86	numworkouts	likely			2	u32	base stem x word crack		all_names.json
+0a5c48b6	numworkoutscompleted	likely			3	u32	base core3 pair crack		all_names.json
+952dd64d	obsidiancardsunlocked	confirmed			1	u32	in-game text label 'Obsidian Cards Unlocked' glued		round2/stats_core
+e63546fd	opponentsdefeated	likely			1	int32	combat-outcome grammar (8e3 candidates; chance ~2e-4)		round2/stats_core
+def0d42f	overpowers	inferred			12	int32	label from the game's stats screens		
+84c98ecb	owneddestroyed	likely			323	int32	pair crack core x game		all_names.json
+095d24e4	owneddrivedistance	confirmed			322	float	structured per-vehicle family crack (24k candidates); pairs with owneddriveduration		all_names.json
+bb210f95	owneddriveduration	likely			322	int64	base core2 pair crack; drive* family		all_names.json
+77c40f64	ownednow	likely			412	bool	base stem x word crack		all_names.json
+8cca7ddb	ownedpurchased	likely			322	u8	pair crack core x game		all_names.json
+eda60da2	ownedstolen	likely			322	u32	pair crack core x game		all_names.json
+cf5bf2fa	parachutedeployed	likely			5	int32	pair crack core x game		all_names.json
+2afc18c0	partimecompleted	likely			25	bool	triple crack from base-name words (2 decoys)		all_names.json
+ca453a52	partimescompleted	likely			5	u32	found-name x word crack; corroborated by partimecompleted (B111)		all_names.json
+24fee321	pat	named			41	u32			
+5ebb4b3c	paynsprayed	confirmed			237	u32	screenshot Screenshot 2026-11-24 135010.png: 'VEHICLES RESPRAYED AT PAY 'N' SPRAYS'		screens
+10d74e3f	photographed	named			248	u32			
+da887430	pickedup	likely			90	u32	base core2 pair crack		all_names.json
+c8a5dae3	planelandings	likely			1	int32	pair crack core x core		all_names.json
+87f41b44	points	named			8	int32			
+b4b91f82	praised	named			41	u32			
+c11dbddf	propertiesowned	likely			1	int32	pair crack core x game		all_names.json
+05a6c39d	purchased	named			5	u8			
+a1f0627e	puzzlescompleted	likely			1	u32	base stem x word crack		all_names.json
+14f8e067	puzzlesolved	likely			12	bool	anchor x word crack; sibling of puzzlescompleted		all_names.json
+c535bad5	racescompleted	confirmed			47	u32	pair crack core x core; race family		all_names.json
+4e653980	raceslost	confirmed			48	u32	pair crack core x core; race family		all_names.json
+793dfa4a	racesplayed	confirmed			47	u32	pair crack core x core; race family		all_names.json
+2984a514	raceswon	confirmed			50	u32	pair crack core x core; race family		all_names.json
+e118b47e	rank	named			8	int32			
+f0be0038	reachedwantedlevel	likely			21	int32	base stem x word crack; pairs with evadedwantedlevel		all_names.json
+dbf11358	recentscore	likely			42	int32	pair crack core x game		all_names.json
+8939ab04	recognitionlost	likely			5	int32	pair crack core x game		all_names.json
+23ef963e	repickedup	likely			29	int32	base core3 pair crack		all_names.json
+3cc7fbb1	robbed	named			588	u32			
+8b09c198	robbedcabinets	likely			23	u32	pair crack core x game		all_names.json
+802e8e07	robbedcashvalue	likely			23	int64	base core triple crack; robbed* family		all_names.json
+79f58149	robbedlockboxes	likely			23	u32	base stem x word crack; robbed* family		all_names.json
+555be214	robbedsafes	likely			23	u32	pair crack core x core		all_names.json
+c68d9b9d	robbedsafesunique	likely			23	u32	base core2 pair crack; robbed* family		all_names.json
+294bde17	robbedtills	likely			23	u32	base stem x word crack; robbed* family		all_names.json
+891b81ed	robbedtillsunique	likely			23	u32	base core3 pair crack; robbed* family		all_names.json
+a3fcc411	robbedvaults	likely			23	u32	pair crack core x core		all_names.json
+06907d0c	robbedvaultsunique	likely			23	u32	base core2 pair crack; robbed* family		all_names.json
+f70a8f87	routescompleted	likely			14	u8	pair crack core x game		all_names.json
+3bf7aa25	scold	named			41	u32			
+2223a326	screenheight	confirmed			1	u32	tarekmania dictionary / rage-tools-vi meta 'ScreenHeight'		all_names.json
+2946182e	screenwidth	confirmed			1	u32	tarekmania dictionary / rage-tools-vi meta 'ScreenWidth'		all_names.json
+f7ad66c4	secretscompleted	likely			1	u32	base stem x word crack		all_names.json
+62f052c0	selfdamagereceived	likely			3	float	found-name x word crack (noisy run); sibling of damagereceived		all_names.json
+a740f858	shootingrangebronzemedals	confirmed			23	u32	anchor x word crack; medal family with silver/gold		all_names.json
+44e36b1d	shootingrangechallengesunlocked	likely			1	u32	base core2 pair crack		all_names.json
+b39d03a1	shootingrangecoursesunlocked	likely			3	u32	shootingrange x word pair crack		all_names.json
+3568f5fe	shootingrangegoldmedals	confirmed			23	u32	same hash as qualifier 3079; medal family with bronze (B117) and silver (B123)		all_names.json
+5f717f1a	shootingrangelocationsunlocked	likely			1	u32	shootingrange x word pair crack		all_names.json
+27f23e0f	shootingrangesilvermedals	confirmed			23	u32	anchor x word crack; medal family with bronze/gold		all_names.json
+cc1c74f4	shootingrangetotalmedals	confirmed			23	u32	shootingrange x word crack; medal family		all_names.json
+bac2b791	shots	named			196	int32/u32			
+2387f7c1	shotscombat	likely			90	int32	pair crack core x core		all_names.json
+2494118a	sidetaskscompleted	likely			1	int32	base core2 pair crack		all_names.json
+f5766408	specialabilityactivenum	confirmed			1	int32	RDR2 stat base STAT_BASE_ID_SPECIAL_ABILITY_ACTIVE_NUM glued		round2/stats_core
+fdb62852	specialabilityactivetime	confirmed			1	int64	RDR2 stat base STAT_BASE_ID_SPECIAL_ABILITY_ACTIVE_TIME glued		round2/stats_core
+787d7bee	specialabilitydeactivenum	confirmed			1	int32	RDR2 stat base STAT_BASE_ID_SPECIAL_ABILITY_DEACTIVE_NUM glued		round2/stats_core
+25bbb486	spendvehiclemods	likely			322	int64	pair crack core x core		all_names.json
+be779349	spendvehicles	likely			322	int64	pair crack core x core		all_names.json
+3e05e88b	spendweaponmods	likely			90	int64	base core triple crack (noisy run); exact weapon counterpart of spendvehiclemods		all_names.json
+a7f4ef5e	spendweapons	likely			90	int64	pair crack core x core		all_names.json
+5f3b331d	stagecompleted	likely			3	bool	pair crack core x game		all_names.json
+0ecb9857	stagescompleted	likely			1	int32	pair crack core x game		all_names.json
+d7a1767d	started	named			5	bool			
+18a68431	stolen	named			332	int32			
+a6528e58	stolendestroyed	likely			323	int32	pair crack core x core		all_names.json
+99a5dc9c	stolendrivedistance	confirmed			322	float	structured per-vehicle family crack; pairs with stolendriveduration		all_names.json
+570a5bd9	stolendriveduration	likely			322	int64	base core2 pair crack; drive* family		all_names.json
+24f4b38d	stolenvehiclesbymethod	confirmed			3	int32	screenshot Screenshot 2026-11-24 135150.png: 'VEHICLES STOLEN WITH SLIM JIM'; screenshot Screenshot 2026-11-24 135150.png: 'VEHICLES STOLEN BY BREAKING IN'; sc…		screens
+2ca26a52	stolenvehicletype	likely			9	int32	base core2 pair crack		all_names.json
+8f8b4b2d	streakbest	likely			8	int32	pair crack core x core		all_names.json
+7afe7032	studied	named			51	int32			
+f3c2e93b	stuntjumpchallengescompleted	confirmed			6	int16	screenshot Screenshot 2026-11-24 135759.png: 'STUNT JUMPS: CHALLENGES COMPLETED'		screens
+bc49b00d	stuntsattempted	confirmed			5	u32	pair crack core x game; stunts family		all_names.json
+278c5cfb	stuntscompleted	confirmed			5	u32	pair crack core x core; stunts family		all_names.json
+656f82ea	stuntsfailed	confirmed			5	u32	pair crack core x core; stunts family		all_names.json
+5ed90554	successfulhits	likely			55	int32	pair crack core x game		all_names.json
+d358a521	suicides	named			3	int32			
+403de8e8	survivedfreefalls	confirmed			1	int32	RDR2 stat base STAT_BASE_ID_SURVIVED_FREEFALLS glued		round2/stats_core
+e562f0fa	taskscompleted	likely			2	int32	pair crack core x core		all_names.json
+d971ee40	thirdpersoncamtimems	confirmed			1	int64	RDR2 stat base THIRD_PERSON_CAM_TIME + 'ms'		round2/stats_core
+f72929bf	throws	named			3	int32			
+0f678e23	time	named			52	int64			
+92ddc340	timeaimingdownsights	confirmed			3	int64	RDR2 stat base STAT_BASE_ID_TIME_AIMING_DOWN_SIGHTS glued		round2/stats_core
+e0555cdd	timedriving	confirmed			9	int64	pair crack core x core; vehicle-type family		all_names.json
+60fbb0e3	timeincarjacked	likely			3	int64	base core triple crack; pairs with timeinstolen		all_names.json
+42cf676b	timeincombat	likely			3	int64	base core triple crack		all_names.json
+cfd9cb65	timeinhealthstate	confirmed			8	int64	time-in-state grammar (1.4e4 candidates; chance ~3e-4); qualifier healthstate already exists in the table		round2/stats_core
+b9fe008a	timeinstolen	likely			3	int64	base core triple crack; pairs with timeincarjacked		all_names.json
+f7ad2a83	timeinstolenorcarjacked	confirmed			3	int64	grammar timein+<state> (2.4e3 candidates)		round2/stats_core
+4771a1ee	timeinwantedlevel	likely			21	int64	wantedlevel-anchored triple crack (~0.03 chance hits expected)		all_names.json
+5e5558db	timeinwater	likely			1	int64	base stem x word crack		all_names.json
+9a78dc10	timepass	confirmed			9	int64	pair crack core x core; vehicle-type family		all_names.json
+d0a17c70	timescancelled	likely			42	u32	pair crack core x game		all_names.json
+86c74bd6	timescheated	likely			1	int32	pair crack core x core		all_names.json
+6fb7dc51	timescompleted	likely			42	u32	pair crack core x core		all_names.json
+8f831c79	timesentered	likely			45	int32	pair crack core x game		all_names.json
+50cc08d9	timesreloaded	likely			1	u32	base stem x word crack		all_names.json
+42528a8e	timesscored	likely			3	u32	base stem x word crack		all_names.json
+89ed7597	timetraveling	likely			322	int64	screenshot Screenshot 2026-11-24 135407.png: 'TIME DRIVEN'; screenshot Screenshot 2026-11-24 135419.png: 'TIME FLOWN'		screens
+2b5d6907	timeused	likely			3	int64	pair crack core x core		all_names.json
+a2038445	tirespoppedbygunshot	confirmed			1	int32	GTA V stat TIRES_POPPED_BY_GUNSHOT (mpstatssetup.xml gist) glued		round2/stats_core
+85715126	totalcaught	likely			36	int32	pair crack core x core		all_names.json
+31c0cec0	totaldamage	likely			9	float	rdr3-nativedb natives.json token; single-word pass		all_names.json
+712fecd6	totaldist	confirmed			4	float	pair crack core x core; stunt record family		all_names.json
+623eb74a	totalearnings	likely			1	int64	pair crack core x game		all_names.json
+692ff164	totallost	likely			36	u32	pair crack core x core		all_names.json
+75e82aea	totalmeditations	likely			4	u32	base stem x word crack		all_names.json
+90739940	totalplayinggametimesec	likely			3	int64	RDR2 stat base TOTAL_PLAYING_GAME_TIME + 'sec' (cf. RDR2 TIME_IN_WANTED_LEVEL_SEC)		round2/stats_core
+fcf37417	totalplayingtimems	confirmed			15	int64	screenshot Screenshot 2026-11-24 134959.png: 'TIME PLAYED'; screenshot Screenshot 2026-11-24 134959.png: 'TIME PLAYED AS JASON'; screenshot Screenshot 2026-11-…		screens
+d3526971	totalprogressmade	likely			36	float	screenshot Screenshot 2026-11-24 134939.png: '100% COMPLETION'; screenshot Screenshot 2026-11-24 134939.png: 'TOTAL PROGRESS'		screens
+51871bc9	totaltime	likely			67	int64	pair crack core x core		all_names.json
+6b8c17a2	uniquecaught	likely			1	u32	pair crack core x core		all_names.json
+5c2df7d1	uniquechallengescompleted	likely			14	u32	base core2 pair crack		all_names.json
+39e665be	uniqueencounters	likely			11	int32	pair crack core x core		all_names.json
+03708456	uniqueequipmentacquired	likely			1	u8	base core2 pair crack		all_names.json
+9a32aa0a	uniquehits	likely			11	int32	pair crack core x core		all_names.json
+b842cfe7	uniquehuntinganimalssold	likely			1	u32	base core3 pair crack; corroborates huntinganimalssold		all_names.json
+76e7fda9	uniqueitemsfound	likely			55	int32	gang-vocabulary triple search (3.4e4 candidates, 7 targets, 3000 decoys: 0 decoy hits)		round2/stats_core
+e07dddc2	uniquemeditations	likely			1	u8	base stem x word crack		all_names.json
+0ef7b377	uniquephotographed	likely			1	u32	pair crack core x core		all_names.json
+2dba991c	uniqueracescompleted	likely			7	u32	base core2 pair crack; unique race family		all_names.json
+6df10691	uniqueracesplayed	likely			6	u32	base core2 pair crack; unique race family		all_names.json
+d70bb3fc	uniqueraceswon	likely			7	u32	base core2 pair crack; same hash is qualifier 3107		all_names.json
+44c9b543	uniquestuntscompleted	likely			15	int16	base core2 pair crack		all_names.json
+e584afb2	uniqueworkouts	likely			1	u8	base stem x word crack		all_names.json
+19759604	unlocked	named			56	bool			
+dc6cb343	valuestolen	likely			11	int32	pair crack core x game		all_names.json
+58418031	vehiclesimpounded	likely			1	int32	found-name x word crack (noisy run)		all_names.json
+b8c33c74	vehiclesincapacitated	likely			1	int32	pair crack core x game		all_names.json
+aca35019	weaponaccuracy	likely			3	float	asm512/rage-tools-vi/tarekmania 'WeaponAccuracy'		all_names.json
+7023075a	weaponswitches	likely			1	u32	pair crack core x game		all_names.json
+8c509200	windowsbroken	confirmed			1	int32	RDR2 stat base STAT_BASE_ID_WINDOWS_BROKEN glued		round2/stats_core
+02076db6					2	int32			
+09198816					1	bool			
+09544ec5					1	int32			
+0b275ac6					1	float			
+0e3a164e				Gang operation item taken	176	bool			
+0f4a0603				Region visited	52	bool			
+1558568c					1	int64			
+1e0053aa					33	bool			
+1f82b353					3	bool			
+2395b4b5				Owned at some point	322	u32			
+27b68360					1	bool			
+29dd3497				Greatest height above the ground	130	float			
+2f267fd9				Most spent in one shop visit	7	int64			
+2fd044fc					3	u32			
+35818f7b					1	bool			
+39bd984e				Kills by a fall	3	u32			
+40af8eca				Video games played	1	u8			
+42c73302					3	bool			
+487f1411					1	int32			
+4a9631c8					1	int32			
+52e54a72					1	int32			
+53ccc733					2	int32			
+561cf308					1	int32			
+57e18f3a				Video games completed	1	u8			
+583ca5b2					1	int32			
+5bf45fbe					1	int64			
+5e3a0c18					1	int32			
+6112a557				Gang operation item (name id)	176	u32			
+61dddef7					1	int64			
+61f97681					1	u8			
+68ea5b9f					7	bool			
+6d8621f6					3	u32			
+6e19e974					1	u32			
+73cb6c05					1	int32			
+7772c949					2	u32			
+7b383fb1					1	int32			
+7b4b28be					1	int64			
+7d03fcf4				Shadow creature sighting witnessed	20	bool			
+81ec0283					3	bool			
+846c4e99					1	int32			
+84bc7e6c					1	u32			
+85209c63				Robbery locations fully hit	23	u32			
+87217f52				Crimes reported	153	int32			
+8b6a3776					1	bool			
+8c2fc9fc				Fish caught with lure	6	int32			
+933144c4					3	int32			
+95e6fabe					7	bool			
+9859ee21					1	int64			
+a49f352b				Target decks completed	2	u32			
+a53d61fe				Drive-by shooting time	2	int64			
+a74bee3d				Meditation spot completed	18	bool			
+ab0e57f4					1	int64			
+abaacd47					1	bool			
+b081d810					3	int32			
+b47f2eae					1	bool			
+baf4b822				Items bought at shops	7	u32			
+cc1794f6				Wanted level evaded	7	u32			
+ccede0ac					3	bool			
+cd0f9ad5					1	u32			
+d00e0ce4					3	u32			
+d5a6fb7a				Money spent at shops	7	int64			
+d65ca49e					1	u8			
+d7314e14					1	u32			
+d7c0a41d					3	u32			
+ecd8759c				Wanted level failures	21	int32			
+ed878848					1	float			
+ed945a73					1	int32			
+f9493ff6					1	int64			
+fc9aa40d					1	int32			
+fcc85334					17	bool			

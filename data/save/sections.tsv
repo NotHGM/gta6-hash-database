@@ -1,0 +1,83 @@
+hash	name	confidence	source	evidence	research_round
+227edfca	AIDialogue	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+b86613ff	Audio	confirmed	asm512 name list		all_names.json
+b2a81841	Camera	confirmed	GTA V save block name; asm512		all_names.json
+3000010d	Challenges	confirmed	gta5/rdr3 lists; content is a goal tracker		all_names.json
+ba7a26ca	ContentPools	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+8496351d	ContentTags	likely	asm512 cracked; fits 409 {hash,int,int} records		all_names.json
+940e954d	Discovery	confirmed	asm512 name list; content is shops/businesses discovered		all_names.json
+dee848ca	Enterprises	confirmed	asm512 name list		all_names.json
+fdc1a7e8	Factions	confirmed	asm512 name list		all_names.json
+6ac593ca	FogOfWar	confirmed	gta5+asm512		all_names.json
+72194fcc	Garages	confirmed	GTA V save block name		all_names.json
+f3b0a9d2	InGameMedia	likely	per-section context brute force (1-3 words); code block whose only key ExhaustData lists BinkName (video) + ExhaustTimestamp records, i.e. in-game video media;…		round2/items_keys
+029bbf82	MasterVersion	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+7dae2735	MiniMap	confirmed	GTA V save block name		all_names.json
+56e4cf96	PersChars	confirmed	asm512 name list		all_names.json
+5399d3f4	Persistence	likely	brute force of PascalCase word combinations (exact-case joaat); content is world-state lists		all_names.json
+c3fe6d91	PersistentDataStore	likely	upgrade of an earlier weak name: section whose only key is persistentData; re-found by the context pass		round7/atlas
+996ec08e	Photos	confirmed	GTA V list		all_names.json
+9653b39d	PlayerAppearance	confirmed	asm512 name list; content is outfits/appearance		all_names.json
+22a87829	PlayerCharacter	likely	asm512 cracked; content is per-character attributes		all_names.json
+e528fe31	PlayerPed	confirmed	GTA V save block name; asm512		all_names.json
+9eb34864	RadioStations	confirmed	GTA V save block name		all_names.json
+3a4cbf5d	Robbery	confirmed	asm512 name list; content is robbery targets		all_names.json
+a59a2a6d	ScriptAmbientInteraction	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+86572177	ScriptAmbientObjective	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+20c37cf5	ScriptAppearanceDirector	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+8f773abc	ScriptArcadeGames	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+6296c122	ScriptBankLedger	confirmed	brute force of PascalCase word combinations (exact-case joaat); content is the BuckMe checking/savings ledgers		all_names.json
+82d20a80	ScriptCachedTimer	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+b9d00096	ScriptCellphoneGallery	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+96f1a1c3	ScriptCellphoneSim	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+46f14889	ScriptCharacterPhysique	likely	brute force of PascalCase word combinations (exact-case joaat); content is per-character blocks		all_names.json
+56115c7a	ScriptChitChat	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+c5c89169	ScriptContentPersistent	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+d7bab5ff	ScriptEntityInteraction	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+dd2f5bec	ScriptFence	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+d9851844	ScriptFlow	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+5299e475	ScriptGameCompletion	likely	brute force of PascalCase word combinations (exact-case joaat); content is a set of completed activity names		all_names.json
+e9bcf3c7	ScriptHeist	likely	"brute force of PascalCase word combinations (exact-case joaat); content is {hash,state} list with ""complete"""		all_names.json
+ec2a7ce9	ScriptInitialSpawn	confirmed	brute force of PascalCase word combinations (exact-case joaat); content is player position + active character + clock		all_names.json
+1f85d07f	ScriptItemEffect	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+138c815f	ScriptLaw	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+f7b54200	ScriptMediaDisplay	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+e83610aa	ScriptMissionChallenges	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+94038a79	ScriptNewsApp	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+e20d2759	ScriptOutfits	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+822c98af	ScriptPartnerFencing	likely	upgrade of an earlier weak name: section whose only key is PartnerFencingSaveData, the same <Name>SaveData pattern as ScriptPodcastEpisode/PodcastEpisodeSaveDa…		round7/atlas
+4d0260c2	ScriptPartnerSwitcher	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+63872e4a	ScriptPersistentProps	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+f74954e3	ScriptPlayerCharacterSchedule	confirmed	round 13 section-name search Script + 1-3 section words (2.5e5 candidates per hash, chance 6e-5; 0 decoys); the section holds CharacterActiveScheduleSaveData {…		round13/keys
+658093ff	ScriptPodcastEpisode	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+1ed95b5e	ScriptRadioFlow	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+7459c1a4	ScriptShops	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+557e6aef	ScriptSocialMedia	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+8aea0b6b	ScriptSportsActivities	confirmed	brute force of PascalCase word combinations (exact-case joaat); content holds basketball/fishing/gym hashes		all_names.json
+930cf081	ScriptTemperament	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+d78473bf	ScriptTextMessage	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+f0e30b1d	ScriptTutorials	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+e239d1ec	ScriptUGCPhotos	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+4bd07eca	ScriptVehicleSummoner	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+39f9d084	ScriptVehicleTracking	likely	brute force of PascalCase word combinations (exact-case joaat)		all_names.json
+765fb4e3	SimpleVariables	confirmed	GTA V save block name		all_names.json
+00894282	StuntJumps	confirmed	GTA V save block name		all_names.json
+7e56d644	Vehicles	confirmed	asm512 name list		all_names.json
+038b7dfc					
+0635cbd9					
+148e710f					
+6df5d2cf					
+749dffa7					
+7f587594					
+84ca8078					
+a9bfefa7					
+bb410330					
+bc20f32c					
+c2789fda					
+c99f0815					
+d3f59a5e					
+dbf71c51					
+ded7dcd6					
+e4fcc5fa					
+e576e2f2					
+f3401149					
