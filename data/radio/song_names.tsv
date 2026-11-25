@@ -547,6 +547,7 @@ hash32	hash29	text	title	artist	context	kind
 52027553	12027553	PLAYA_ROSA	Playa Rosa Theme	Alex Frankel	Stockyard FM	research_title_alias
 520bcc41	120bcc41	HARD_TO_SAY_IM_SORRY	HARD_TO_SAY_IM_SORRY			observed_song_name
 520bcc41	120bcc41	hard_to_say_im_sorry	Hard to Say I'm Sorry	Chicago	Emotion 98.3	credit_song_name
+520bcc41	120bcc41	hard_to_say_im_sorry	Hard to Say I'm Sorry / Get Away	Chicago	Emotion 98.3	credit_song_name
 52cf3980	12cf3980	SYMPHONYFM_BRAHMS_SYMPHONYNO3_POCOALLEGRETTO	SYMPHONYFM_BRAHMS_SYMPHONYNO3_POCOALLEGRETTO			observed_song_name
 52cf3980	12cf3980	SYMPHONYFM_BRAHMS_SYMPHONYNO3_POCOALLEGRETTO	Symphony No. 3 in F Major — Poco Allegretto	Brahms	Symphony FM	research_work_alias
 52d5c2c4	12d5c2c4	radio_symphony_fm	Symphony FM			station_key
