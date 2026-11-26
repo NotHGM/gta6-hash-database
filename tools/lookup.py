@@ -3,7 +3,7 @@
 
   python3 tools/lookup.py 0x5299e475          a hash (with or without 0x): every table that knows it
   python3 tools/lookup.py moneyearned          a name: its hashes (lower-case and exact-case) and where they appear
-  python3 tools/lookup.py --search robbery     names containing a word, in the save tables
+  python3 tools/lookup.py --search robbery     names containing a word, in the save, radio, game and traffic tables
   python3 tools/lookup.py --hash "Some Name"   just the joaat hashes of a string
 
 Only the Python standard library is used. Hashes are joaat (Jenkins one-at-a-time): stat, item and most game names
@@ -30,7 +30,7 @@ def rows(path):
 
 
 def tables():
-    for p in sorted(glob.glob(os.path.join(ROOT, 'save', '*.tsv')) + glob.glob(os.path.join(ROOT, 'radio', '*.tsv'))):
+    for p in sorted(p for d in ('save', 'radio', 'game', 'traffic') for p in glob.glob(os.path.join(ROOT, d, '*.tsv'))):
         yield os.path.relpath(p, ROOT), p
 
 
@@ -60,7 +60,7 @@ def main(argv):
         word = ' '.join(argv[1:]).lower()
         for name, p in tables():
             for r in rows(p):
-                if any(word in (v or '').lower() for k, v in r.items() if k in ('name', 'game_label', 'meaning', 'title', 'map_name', 'game_text', 'text_start', 'model')):
+                if any(word in (v or '').lower() for k, v in r.items() if k in ('name', 'game_label', 'meaning', 'title', 'map_name', 'game_text', 'text_start', 'model', 'other_names', 'category', 'schedule_name')):
                     print('%-34s %s' % (name, {k: (v if len(v) <= 90 else v[:89] + '…') for k, v in r.items() if v and k not in ('source', 'evidence', 'research_round')}))
         return 0
     q = argv[0]

@@ -45,10 +45,31 @@ The columns that matter most:
 
 ### `data/community/`: every known name, merged by hash
 
-`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,127,201 hashes with every name proposed
+`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,137,030 hashes with every name proposed
 for them and where each came from. It merges the public GTA VI name lists (asm512, lynxnathan, tarekmania and
-ahmed605's strings database) with the names verified above (`save-garage`). A hash can have several names. When one of
+ahmed605's strings database), the names in DurtyFree's GTA VI data dumps (`durtyfree`) and in Zia-ullah-khan's car
+spawn maps (`zia-ullah-khan`), and the names verified above (`save-garage`). A hash can have several names. When one of
 them comes from `save-garage`, that name has been checked against real saves.
+
+### `data/game/`: game data tables
+
+`game_data.tsv` lists 4,743 hashes from the game's metadata tables, as dumped by DurtyFree: peds, vehicles, weapons,
+ammo, pickups, animal tunings, ped capsules and navigation, doors, vehicle colours and plates, weapon accuracies and
+damage modifiers. A name is given only when it hashes to the row's hash (887 rows). The other 3,856 hashes are still
+unnamed: `other_names` shows any name the community index proposes for them (551 rows).
+
+### `data/traffic/`: traffic and car spawns
+
+Which kinds of vehicle the game spawns where, from Zia-ullah-khan's car spawn maps (read from the game's popcycle table
+and zone volumes):
+
+| File | What it holds |
+|---|---|
+| `areas.tsv` | 199 named areas with their hash, position, size and the traffic schedule they use |
+| `schedules.tsv` | 137 traffic schedules: the weight of each vehicle category in each of the 12 time slots |
+| `zones.tsv` | 200 zone volumes: schedule, source file, centroid, height and outline |
+
+Most schedule hashes are still unnamed. If you find one, a contribution is welcome.
 
 ### `data/radio/`: the radio
 
@@ -96,5 +117,9 @@ Found a new name or a wrong one? Add it to a file in `contributions/` and open a
 
 ## License
 
-MIT (`LICENSE`). The merged community lists and the radio catalog are MIT licensed too; their license texts are in
-`third_party/LICENSES.md`.
+MIT (`LICENSE`) for this repository's own work. The asm512, lynxnathan, tarekmania and ahmed605 name lists and the
+radio catalog are MIT licensed too; their license texts are in `third_party/LICENSES.md`.
+
+DurtyFree's GTA VI data dumps and Zia-ullah-khan's car spawn maps are published without a license. Only their names,
+hashes and tables are used here, each marked with its source, and the MIT license here does not cover them. If you
+wrote one of them and want it taken out or credited differently, open an issue.

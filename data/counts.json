@@ -1,6 +1,7 @@
 {
  "collectibles": 1012,
- "community_hashes": 1127201,
+ "community_hashes": 1137030,
+ "game_data": 4743,
  "gang_operations": 44,
  "items": 1138,
  "json_keys": 843,
@@ -17,5 +18,8 @@
  "stat_screen_labels": 393,
  "suffix_text_ids": 2360,
  "text_ids": 693,
+ "traffic_areas": 199,
+ "traffic_schedules": 1334,
+ "traffic_zones": 200,
  "vehicle_compendium": 231
 }

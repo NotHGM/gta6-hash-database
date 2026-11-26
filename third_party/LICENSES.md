@@ -142,3 +142,22 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+# Sources published without a license
+
+These two repositories publish no license, so there is no license text to reproduce and the MIT license of this
+repository does not cover what comes from them. Only names, hashes and the tables below are used, each marked with its
+source. If you wrote one of them and want it removed or credited differently, open an issue.
+
+## DurtyFree/gta-vi-data-dumps
+
+Used in: data/community (durtyfree), data/game/game_data.tsv. Taken from commit d8c6bc8
+(https://github.com/DurtyFree/gta-vi-data-dumps): the names and hashes in its metadata tables (peds, vehicles, weapons,
+ammo, pickups, animal tunings, ped capsules and navigation, doors, vehicle colours and plates, weapon accuracies and
+damage modifiers, enums, anim dictionaries). No tuning values are copied.
+
+## Zia-ullah-khan/gta6-car-spawn-maps
+
+Used in: data/community (zia-ullah-khan), data/traffic/. Taken from commit 6d9671b
+(https://github.com/Zia-ullah-khan/gta6-car-spawn-maps): area, vehicle-category and schedule names, the popcycle
+schedule weights and the traffic zone volumes.
