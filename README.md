@@ -24,7 +24,7 @@ Every hash that appears in a PS5 story save, named or not, with the evidence for
 | `items.tsv`, `slots.tsv` | Inventory item and slot IDs | 944 of 1,138 and 554 of 586 |
 | `sections.tsv`, `json_keys.tsv` | The save's own sections and JSON keys (hashed as written, not lower-cased) | 64 of 82 and 610 of 843 |
 | `stat_screen_labels.tsv` | Whole stat rows and what the game's stats screens call them | 393 rows |
-| `text_ids.tsv` | IDs that are the key of their own on-screen text (discovery entries, radio stations, text messages, unlockables) | 693 |
+| `text_ids.tsv` | IDs that are the key of their own on-screen text (discovery entries, radio stations, text messages, unlockables); the 158 vehicle names also carry the name that hashes to them | 693 |
 | `suffix_text_ids.tsv` | Social media posts, news articles and accounts, whose text is keyed by the ID's name plus `_caption`, `_header` or `_handle` | 2,360 |
 | `collectibles.tsv` | Keys of the collectible tables: hoops, street art, doubloons, flamingos, magazines, books, watches, magazine styles, cards | 1,012 |
 | `vehicle_compendium.tsv` | Every base-model vehicle: model, the key the compendium uses (the hash of its game name), the page that counts it | 231 |
