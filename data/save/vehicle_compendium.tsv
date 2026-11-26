@@ -1,36 +1,36 @@
 model	game_name	compendium_key	page	page_counter	key_grade	not_added_because
 216cstreamer	216cstreamer	8316534f	Aircraft	436bbda1	held back	key weak: no name key for the model, or several game-text keys carry its display name
-crake	crake	aae49679	Aircraft	436bbda1	likely	
+crake	crake	aae49679	Aircraft	436bbda1	confirmed	
 dodo	dodo	ca495705	Aircraft	436bbda1	confirmed	
-duster	duster	39d6779e	Aircraft	436bbda1	likely	
+duster	duster	39d6779e	Aircraft	436bbda1	confirmed	
 duster2	duster2	05071b2d	Aircraft	436bbda1	confirmed	
 jet	jet	3f119114	Aircraft	436bbda1	confirmed	
 jet2	jet2	8e6971d3	Aircraft	436bbda1	confirmed	
-mallard	mallard	8c0b8052	Aircraft	436bbda1	likely	
+mallard	mallard	8c0b8052	Aircraft	436bbda1	confirmed	
 mammatus	mammatus	97e55d11	Aircraft	436bbda1	confirmed	
 maverick	maverick	9d0450ca	Aircraft	436bbda1	confirmed	
-nimbus	nimbus	b2cf7250	Aircraft	436bbda1	likely	
+nimbus	nimbus	b2cf7250	Aircraft	436bbda1	confirmed	
 seasparrow	seasparrow	d4ae63d9	Aircraft	436bbda1	confirmed	
 shamal	shamal	b79c1bf5	Aircraft	436bbda1	likely	
 supervolito	svolito	881b4b5a	Aircraft	436bbda1	confirmed	
 swift	swift	ebc24df2	Aircraft	436bbda1	held back	key weak: no name key for the model, or several game-text keys carry its display name
-volatus	volatus	920016f1	Aircraft	436bbda1	likely	
+volatus	volatus	920016f1	Aircraft	436bbda1	confirmed	
 alvinov1	alvinov1	2d6d913b	Bikes	8e0937f5	confirmed	
-aphid	aphid	afca1a4f	Bikes	8e0937f5	likely	
+aphid	aphid	afca1a4f	Bikes	8e0937f5	confirmed	
 avarus	avarus	81e38f7f	Bikes	8e0937f5	confirmed	
-blazer4	blazer4	e5ba6858	Bikes	8e0937f5	likely	
+blazer4	blazer4	e5ba6858	Bikes	8e0937f5	confirmed	
 bmx	bmx	43779c54	Bikes	8e0937f5	confirmed	
-carbonrs	carbonrs	00abb0c0	Bikes	8e0937f5	likely	
-cliffhanger	cliffhanger	17420102	Bikes	8e0937f5	likely	
+carbonrs	carbonrs	00abb0c0	Bikes	8e0937f5	confirmed	
+cliffhanger	cliffhanger	17420102	Bikes	8e0937f5	confirmed	
 cruiser	cruiser	1aba13b5	Bikes	8e0937f5	confirmed	
-crusher	crusher	20898aff	Bikes	8e0937f5	held back	key weak: no name key for the model, or several game-text keys carry its display name
-double	double	9c669788	Bikes	8e0937f5	held back	key weak: no name key for the model, or several game-text keys carry its display name
+crusher	crusher	20898aff	Bikes	8e0937f5	confirmed	
+double	double	9c669788	Bikes	8e0937f5	confirmed	
 eboost	eboost	015e402d	Bikes	8e0937f5	confirmed	
 enduro	enduro	6882fa73	Bikes	8e0937f5	confirmed	
 erode	erode	7324e3d9	Bikes	8e0937f5	confirmed	
 esskey	esskey	794cb30c	Bikes	8e0937f5	likely	
-fcr	fcr	25676eaf	Bikes	8e0937f5	likely	
-lectro	lectro	26321e67	Bikes	8e0937f5	likely	
+fcr	fcr	25676eaf	Bikes	8e0937f5	confirmed	
+lectro	lectro	26321e67	Bikes	8e0937f5	confirmed	
 lombike	lombike	4ec25b53	Bikes	8e0937f5	confirmed	
 manchez	manchez	a5325278	Bikes	8e0937f5	confirmed	
 mobilityscooter	mobility	b16e0de6	Bikes	8e0937f5	confirmed	
@@ -41,69 +41,69 @@ sanchez	sanchez	2ef89e46	Bikes	8e0937f5	confirmed
 scorcher	scorcher	f4e1aa15	Bikes	8e0937f5	confirmed	
 sfb1000	sfb1000	4e4efe36	Bikes	8e0937f5	confirmed	
 sovereign107	sovereign107	0aaa8b43	Bikes	8e0937f5	confirmed	
-tribike	tribike	4339cd69	Bikes	8e0937f5	likely	
-verus	verus	11cbc051	Bikes	8e0937f5	likely	
-zombieb	zombieb	de05fb87	Bikes	8e0937f5	likely	
+tribike	tribike	4339cd69	Bikes	8e0937f5	confirmed	
+verus	verus	11cbc051	Bikes	8e0937f5	confirmed	
+zombieb	zombieb	de05fb87	Bikes	8e0937f5	confirmed	
 akane	akane	8777ee43	Coupes	ee17db65	confirmed	
-arcturus	arcturus	32f45821	Coupes	ee17db65	likely	
+arcturus	arcturus	32f45821	Coupes	ee17db65	confirmed	
 blista2	blista2	3dee5eda	Coupes	ee17db65	confirmed	
 cypher	cypher	68a5d1ef	Coupes	ee17db65	confirmed	
-drafter	drafter	28eab80f	Coupes	ee17db65	likely	
+drafter	drafter	28eab80f	Coupes	ee17db65	confirmed	
 elegy	elegy	0bba2261	Coupes	ee17db65	confirmed	
-fr36	fr36	e43c11e5	Coupes	ee17db65	likely	
+fr36	fr36	e43c11e5	Coupes	ee17db65	confirmed	
 futo	futo	7836ce2f	Coupes	ee17db65	confirmed	
 hustler	hustler	23ca25f2	Coupes	ee17db65	confirmed	
 lasso	lasso	2a083060	Coupes	ee17db65	confirmed	
 paragon	paragon	e550775b	Coupes	ee17db65	confirmed	
 penumbra	penumbra	e9805550	Coupes	ee17db65	confirmed	
-penumbraff	penumbraff	d3be5f0c	Coupes	ee17db65	likely	
+penumbraff	penumbraff	d3be5f0c	Coupes	ee17db65	confirmed	
 ruiner	ruiner	f26ceff9	Coupes	ee17db65	confirmed	
 schutzen	schutzen	34cfa6fa	Coupes	ee17db65	confirmed	
 vectre	vectre	a42fc3a5	Coupes	ee17db65	confirmed	
-windsor2	windsor2	8cf5cae1	Coupes	ee17db65	likely	
+windsor2	windsor2	8cf5cae1	Coupes	ee17db65	confirmed	
 zion2	zion2	b8e2ae18	Coupes	ee17db65	confirmed	
-buccaneer	buccaneer	d756460c	Muscle Cars	797cf81e	likely	
-chino	chino	14d69010	Muscle Cars	797cf81e	likely	
-coquette2	coquette2	3c4e2113	Muscle Cars	797cf81e	likely	
-declasse500	declasse500	0443b4f4	Muscle Cars	797cf81e	likely	
-devanity	devanity	fa9d4065	Muscle Cars	797cf81e	likely	
+buccaneer	buccaneer	d756460c	Muscle Cars	797cf81e	confirmed	
+chino	chino	14d69010	Muscle Cars	797cf81e	confirmed	
+coquette2	coquette2	3c4e2113	Muscle Cars	797cf81e	confirmed	
+declasse500	declasse500	0443b4f4	Muscle Cars	797cf81e	confirmed	
+devanity	devanity	fa9d4065	Muscle Cars	797cf81e	confirmed	
 deviant	deviant	4c3fff49	Muscle Cars	797cf81e	held back	Ultimate Edition vehicle
 dominator	dominator	04ce68ac	Muscle Cars	797cf81e	confirmed	
-dominator7	dominator7	196f9418	Muscle Cars	797cf81e	likely	
+dominator7	dominator7	196f9418	Muscle Cars	797cf81e	confirmed	
 dominator9	dominator9	e5b3aca1	Muscle Cars	797cf81e	confirmed	
 dominatorclassic	dominatorclassic	e2234987	Muscle Cars	797cf81e	confirmed	
 ganado	ganado	cb84df29	Muscle Cars	797cf81e	confirmed	
 gauntlet4	gauntlet4	734c5e50	Muscle Cars	797cf81e	confirmed	
-gauntlet5	gauntlet5	817afaad	Muscle Cars	797cf81e	likely	
-hermes	hermes	00e83c17	Muscle Cars	797cf81e	likely	
+gauntlet5	gauntlet5	817afaad	Muscle Cars	797cf81e	confirmed	
+hermes	hermes	00e83c17	Muscle Cars	797cf81e	confirmed	
 manana	manana	81634188	Muscle Cars	797cf81e	confirmed	
 phoenix	phoenix	831a21d5	Muscle Cars	797cf81e	confirmed	
 picador	picador	59e0fbf3	Muscle Cars	797cf81e	confirmed	
-slamvan	slamvan	2b7f9de3	Muscle Cars	797cf81e	likely	
+slamvan	slamvan	2b7f9de3	Muscle Cars	797cf81e	confirmed	
 stallion	stallion	a6a7128a	Muscle Cars	797cf81e	confirmed	
 stanier55	stanier55	2bd3b846	Muscle Cars	797cf81e	held back	pack vehicle (Vintage Vice City)
 transgressor	transgressor	59b35f0c	Muscle Cars	797cf81e	held back	Ultimate Edition vehicle
 tulip	tulip	56d42971	Muscle Cars	797cf81e	confirmed	
-tulip2	tulip2	1004eda4	Muscle Cars	797cf81e	likely	
+tulip2	tulip2	1004eda4	Muscle Cars	797cf81e	confirmed	
 vamos	vamos	fd128dfd	Muscle Cars	797cf81e	confirmed	
-vigero3	vigero3	1635c007	Muscle Cars	797cf81e	held back	key weak: no name key for the model, or several game-text keys carry its display name
-yosemite	yosemite	6f946279	Muscle Cars	797cf81e	likely	
+vigero3	vigero3	1635c007	Muscle Cars	797cf81e	confirmed	
+yosemite	yosemite	6f946279	Muscle Cars	797cf81e	confirmed	
 bison	bison	fefd644f	Pickups	c82e2dbe	confirmed	
 bison1800	bison1800	17b17bf8	Pickups	c82e2dbe	confirmed	
 bison3800	bison3800	50a8bee2	Pickups	c82e2dbe	confirmed	
 bison900	bison900	ab092c04	Pickups	c82e2dbe	confirmed	
-bobcatxl	bobcatxl	3fc5d440	Pickups	c82e2dbe	likely	
+bobcatxl	bobcatxl	3fc5d440	Pickups	c82e2dbe	confirmed	
 caracara4x4	caracara4x4	f3a5f200	Pickups	c82e2dbe	confirmed	
 contender	contender	28b67aca	Pickups	c82e2dbe	confirmed	
-montagnepu	montagnepu	4e393796	Pickups	c82e2dbe	likely	
+montagnepu	montagnepu	4e393796	Pickups	c82e2dbe	confirmed	
 rancher	rancher	52db01e0	Pickups	c82e2dbe	confirmed	
 rebel	rebel	b802dd46	Pickups	c82e2dbe	confirmed	
 reclaimer	reclaimer	39dd8bb8	Pickups	c82e2dbe	confirmed	
-reclaimerclassic	reclaimerclassic	b9ab1496	Pickups	c82e2dbe	likely	
+reclaimerclassic	reclaimerclassic	b9ab1496	Pickups	c82e2dbe	confirmed	
 riata	riata	a4a4e453	Pickups	c82e2dbe	confirmed	
 sandking_4dr	sandking_4dr	ddc0337e	Pickups	c82e2dbe	confirmed	
-sandkingxt	sandkingxt	5255a737	Pickups	c82e2dbe	likely	
-walton	walton	62d848c4	Pickups	c82e2dbe	likely	
+sandkingxt	sandkingxt	5255a737	Pickups	c82e2dbe	confirmed	
+walton	walton	62d848c4	Pickups	c82e2dbe	confirmed	
 yosemite1500	yosemite1500	8ef5e388	Pickups	c82e2dbe	confirmed	
 aleutian	aleutian	fdaebf27	SUVs	97f2e8d3	likely	
 allander	allander	e8ee6ce3	SUVs	97f2e8d3	confirmed	
@@ -116,12 +116,12 @@ dorado	dorado	d2389392	SUVs	97f2e8d3	confirmed
 dubsta	dubsta	462fe277	SUVs	97f2e8d3	confirmed	
 granger	granger	9628879c	SUVs	97f2e8d3	confirmed	
 granger3600lx	granger3600lx	1677cbb9	SUVs	97f2e8d3	confirmed	
-gresleyxt	gresleyxt	d7c7b446	SUVs	97f2e8d3	likely	
+gresleyxt	gresleyxt	d7c7b446	SUVs	97f2e8d3	confirmed	
 hellion	hellion	ea6a047f	SUVs	97f2e8d3	confirmed	
 jubilee	jubilee	1b8165d3	SUVs	97f2e8d3	confirmed	
-kamacho	kamacho	f8c2e0e7	SUVs	97f2e8d3	likely	
+kamacho	kamacho	f8c2e0e7	SUVs	97f2e8d3	confirmed	
 landstalker2	landstalker2	ce0b9f22	SUVs	97f2e8d3	confirmed	
-mesa	mesa	36848602	SUVs	97f2e8d3	likely	
+mesa	mesa	36848602	SUVs	97f2e8d3	confirmed	
 montagne	montagne	e1b7c320	SUVs	97f2e8d3	confirmed	
 montagnexl	montagnexl	16c43d15	SUVs	97f2e8d3	confirmed	
 reblagts	reblagts	d77e5276	SUVs	97f2e8d3	confirmed	
@@ -145,14 +145,14 @@ jugular	jugular	f38c4245	Sedans	b34a29b2	confirmed
 lowline	lowline	57a536c6	Sedans	b34a29b2	confirmed	
 meritlx	meritlx	8a6354b8	Sedans	b34a29b2	confirmed	
 parkland	parkland	615872f5	Sedans	b34a29b2	confirmed	
-pmp700	pmp700	20fe4623	Sedans	b34a29b2	likely	
-primo	primo	bb6b404f	Sedans	b34a29b2	likely	
+pmp700	pmp700	20fe4623	Sedans	b34a29b2	confirmed	
+primo	primo	bb6b404f	Sedans	b34a29b2	confirmed	
 raiden	raiden	a4d99b7d	Sedans	b34a29b2	confirmed	
 schafters	schafters	cff986eb	Sedans	b34a29b2	confirmed	
 stanier	stanier	a7ede74d	Sedans	b34a29b2	confirmed	
 stanierg2	stanierg2	33f2dea5	Sedans	b34a29b2	confirmed	
 sugoi	sugoi	3adb9758	Sedans	b34a29b2	confirmed	
-sungrazer	sungrazer	cc891feb	Sedans	b34a29b2	likely	
+sungrazer	sungrazer	cc891feb	Sedans	b34a29b2	confirmed	
 tailgater2	tailgater2	b5d306a4	Sedans	b34a29b2	confirmed	
 vstr	vstr	56cdee7d	Sedans	b34a29b2	confirmed	
 willard	transient	fe77eae6	Sedans	b34a29b2	confirmed	
@@ -160,10 +160,10 @@ woodland	woodland	dcbe2e3f	Sedans	b34a29b2	likely
 banshee	banshee	c1e908d2	Sports	9ef3195e	confirmed	
 carbonizzare	carbonizzare	7b8ab45f	Sports	9ef3195e	confirmed	
 comet7	comet7	440851d8	Sports	9ef3195e	confirmed	
-cometretro	cometretro	c189e231	Sports	9ef3195e	likely	
+cometretro	cometretro	c189e231	Sports	9ef3195e	confirmed	
 coquette	coquette	067bc037	Sports	9ef3195e	confirmed	
 coquette4	coquette4	98f65a5e	Sports	9ef3195e	confirmed	
-growler	growler	4dc079d7	Sports	9ef3195e	likely	
+growler	growler	4dc079d7	Sports	9ef3195e	confirmed	
 mambagt	mambagt	63171d46	Sports	9ef3195e	confirmed	
 neon	neon	91ca96ee	Sports	9ef3195e	confirmed	
 schafter3	schafter3	a774b5a6	Sports	9ef3195e	confirmed	
@@ -171,7 +171,7 @@ sentinelclassic2	sentinelclassic2	fc878c91	Sports	9ef3195e	confirmed
 sultan	sultan	39da2754	Sports	9ef3195e	confirmed	
 wymankitcar	wymankitcar	070da056	Sports	9ef3195e	held back	Ultimate Edition vehicle
 cheetah2	cheetah2	0d4e5f4d	Supercars	37a38f02	confirmed	
-emerus	emerus	4ee74355	Supercars	37a38f02	likely	
+emerus	emerus	4ee74355	Supercars	37a38f02	confirmed	
 furia	furia	3944d5a0	Supercars	37a38f02	confirmed	
 infernus2	infernus2	ac33179c	Supercars	37a38f02	confirmed	
 italirsx	italirsx	bb78956a	Supercars	37a38f02	confirmed	
@@ -181,52 +181,52 @@ vitello	vitello	78529595	Supercars	37a38f02	confirmed
 zorrusso	zorrusso	d757d97d	Supercars	37a38f02	confirmed	
 airtug	airtug	5d0aac8f	Utility	7fe14bbb	confirmed	
 caddy	caddy	44623884	Utility	7fe14bbb	confirmed	
-caddy2	caddy2	dff0594c	Utility	7fe14bbb	likely	
-forklift	forklift	58e49664	Utility	7fe14bbb	held back	key weak: no name key for the model, or several game-text keys carry its display name
-golfcarthotrod	golfcarthotrod	77f52591	Utility	7fe14bbb	likely	
-ripley	ripley	cd935ef9	Utility	7fe14bbb	likely	
+caddy2	caddy2	dff0594c	Utility	7fe14bbb	confirmed	
+forklift	forklift	58e49664	Utility	7fe14bbb	confirmed	
+golfcarthotrod	golfcarthotrod	77f52591	Utility	7fe14bbb	confirmed	
+ripley	ripley	cd935ef9	Utility	7fe14bbb	confirmed	
 taco	taco	744ca80d	Utility	7fe14bbb	likely	
-telehandler	telehandler	5dbbf4ba	Utility	7fe14bbb	held back	key weak: no name key for the model, or several game-text keys carry its display name
+telehandler	telehandler	5dbbf4ba	Utility	7fe14bbb	confirmed	
 towtruck	towtruck	b12314e0	Utility	7fe14bbb	confirmed	
 boxville	boxville	898eccea	Vans	5f3ef66d	confirmed	
 burrito	burrito	afbb2ca4	Vans	5f3ef66d	confirmed	
-journey	journey	f8d48e7a	Vans	5f3ef66d	likely	
+journey	journey	f8d48e7a	Vans	5f3ef66d	confirmed	
 minivan	minivan	ed7eada4	Vans	5f3ef66d	confirmed	
-moocher	moocher	3e5dc117	Vans	5f3ef66d	likely	
+moocher	moocher	3e5dc117	Vans	5f3ef66d	confirmed	
 rumpo	rumpo	4543b74d	Vans	5f3ef66d	confirmed	
 shifter	shifter	ae679517	Vans	5f3ef66d	confirmed	
-shuttle	shuttle	875550ce	Vans	5f3ef66d	likely	
+shuttle	shuttle	875550ce	Vans	5f3ef66d	confirmed	
 speedo	speedo	cfb3870c	Vans	5f3ef66d	confirmed	
-spritz	spritz	5f1cde43	Vans	5f3ef66d	likely	
-trotter	trotter	11598105	Vans	5f3ef66d	likely	
+spritz	spritz	5f1cde43	Vans	5f3ef66d	confirmed	
+trotter	trotter	11598105	Vans	5f3ef66d	confirmed	
 vivanite	vivanite	ae2cc02a	Vans	5f3ef66d	confirmed	
-youga2	youga2	3d29cd2b	Vans	5f3ef66d	likely	
-yougaxl	yougaxl	1779bdf3	Vans	5f3ef66d	likely	
+youga2	youga2	3d29cd2b	Vans	5f3ef66d	confirmed	
+yougaxl	yougaxl	1779bdf3	Vans	5f3ef66d	confirmed	
 airgator	airboat	e54c8bcf	Watercraft	1022c6ab	confirmed	
 azure	azure	b66ead61	Watercraft	1022c6ab	likely	
 blade500	blade500	3c7261b2	Watercraft	1022c6ab	confirmed	
 bombora	s23	1b0b0c83	Watercraft	1022c6ab	confirmed	
 calder	calder	6c2bb75f	Watercraft	1022c6ab	held back	key weak: no name key for the model, or several game-text keys carry its display name
 clarion	clarion	69f61675	Watercraft	1022c6ab	confirmed	
-cretacean	cretacean	68874308	Watercraft	1022c6ab	likely	
-dibnah	dibnah	50f2d941	Watercraft	1022c6ab	likely	
+cretacean	cretacean	68874308	Watercraft	1022c6ab	confirmed	
+dibnah	dibnah	50f2d941	Watercraft	1022c6ab	confirmed	
 dinghy	dinghy	3d961290	Watercraft	1022c6ab	confirmed	
-flatdeck	flatdeck	0273c534	Watercraft	1022c6ab	likely	
-fortune	fortune	255fc509	Watercraft	1022c6ab	likely	
+flatdeck	flatdeck	0273c534	Watercraft	1022c6ab	confirmed	
+fortune	fortune	255fc509	Watercraft	1022c6ab	confirmed	
 hemming	hemming	4912da6a	Watercraft	1022c6ab	confirmed	
 kayak	kayak	e593f7e3	Watercraft	1022c6ab	confirmed	
 lurepredator	l35p	ba1a380d	Watercraft	1022c6ab	confirmed	
-marquis	marquis	c1ce1183	Watercraft	1022c6ab	likely	
+marquis	marquis	c1ce1183	Watercraft	1022c6ab	confirmed	
 nepa	nepa	8c308d16	Watercraft	1022c6ab	confirmed	
-pontoon	pontoon	220b7718	Watercraft	1022c6ab	likely	
+pontoon	pontoon	220b7718	Watercraft	1022c6ab	confirmed	
 rhode	rhode	f219af13	Watercraft	1022c6ab	confirmed	
 seaenchantress	seaenchantr	7d7c88c0	Watercraft	1022c6ab	confirmed	
 seashark	hydroblast	345b8f37	Watercraft	1022c6ab	confirmed	
-sedna	sedna	e36b87a2	Watercraft	1022c6ab	likely	
+sedna	sedna	e36b87a2	Watercraft	1022c6ab	confirmed	
 shasa	shasa	5f677ec0	Watercraft	1022c6ab	confirmed	
-skivvy	skivvy	928c8bbc	Watercraft	1022c6ab	likely	
+skivvy	skivvy	928c8bbc	Watercraft	1022c6ab	confirmed	
 speeder700gt	speeder700gt	7c0d5fbd	Watercraft	1022c6ab	confirmed	
 squalo	squalo	17df5ec2	Watercraft	1022c6ab	confirmed	
-tao	tao	bdfea41a	Watercraft	1022c6ab	likely	
-torlan	torlan	aa8e730d	Watercraft	1022c6ab	likely	
+tao	tao	bdfea41a	Watercraft	1022c6ab	confirmed	
+torlan	torlan	aa8e730d	Watercraft	1022c6ab	confirmed	
 yakuruna	yakuruna	c50e1fdc	Watercraft	1022c6ab	confirmed	
