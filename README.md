@@ -2,7 +2,7 @@
 
 Grand Theft Auto VI (GTA 6) stores names as 32-bit joaat hashes: stats, items, vehicles, missions, save keys, radio
 songs. This repository is a lookup table for them. It covers what each hash in a GTA VI story save stands for, how the
-name was found and how sure it is, and one merged index of 1.1 million hashes from the community's GTA 6 name lists.
+name was found and how sure it is, and one merged index of 1.15 million hashes from the community's GTA 6 name lists.
 Everything is plain tab-separated text, sorted, one row per hash, so it works with any tool: grep, a spreadsheet,
 Python or a modding tool.
 
@@ -45,11 +45,11 @@ The columns that matter most:
 
 ### `data/community/`: every known name, merged by hash
 
-`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,137,030 hashes with every name proposed
+`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,153,603 hashes with every name proposed
 for them and where each came from. It merges the public GTA VI name lists (asm512, lynxnathan, tarekmania and
-ahmed605's strings database), the names in DurtyFree's GTA VI data dumps (`durtyfree`) and in Zia-ullah-khan's car
-spawn maps (`zia-ullah-khan`), and the names verified above (`save-garage`). A hash can have several names. When one of
-them comes from `save-garage`, that name has been checked against real saves.
+ahmed605's strings database), the names in DurtyFree's GTA VI data dumps (`durtyfree`, with its 210,645 model names)
+and in Zia-ullah-khan's car spawn maps (`zia-ullah-khan`), and the names verified above (`save-garage`). A hash can
+have several names. When one of them comes from `save-garage`, that name has been checked against real saves.
 
 ### `data/game/`: game data tables
 

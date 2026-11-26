@@ -154,7 +154,8 @@ source. If you wrote one of them and want it removed or credited differently, op
 Used in: data/community (durtyfree), data/game/game_data.tsv. Taken from commit d8c6bc8
 (https://github.com/DurtyFree/gta-vi-data-dumps): the names and hashes in its metadata tables (peds, vehicles, weapons,
 ammo, pickups, animal tunings, ped capsules and navigation, doors, vehicle colours and plates, weapon accuracies and
-damage modifiers, enums, anim dictionaries). No tuning values are copied.
+damage modifiers, enums, anim dictionaries), and its two model name lists, DrawableList.ini and FragmentList.ini
+(210,645 names). No tuning values are copied.
 
 ## Zia-ullah-khan/gta6-car-spawn-maps
 
