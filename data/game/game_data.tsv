@@ -583,7 +583,7 @@ hash	kind	name	other_names
 1e685f45	animal_tuning	species_domestic_dog_small_domesticated	
 1e6b1512	animal_tuning		
 1e70a31e	pickup		
-1e7b7ed4	ped_capsule		
+1e7b7ed4	ped_capsule		frigate
 1e80887a	pickup		
 1e83cd4c	ped		
 1ea9acc6	ped		
@@ -779,7 +779,7 @@ hash	kind	name	other_names
 28b67aca	vehicle	contender	
 28bed98d	ped		
 28c38046	ped		
-28c910c8	ped_capsule		
+28c910c8	ped_capsule		flamingo
 28cc29a8	ped		
 28d37f29	pickup		
 28d975e5	ped_capsule	monitor	
@@ -1086,7 +1086,7 @@ hash	kind	name	other_names
 3943304c	ped		
 3944d5a0	vehicle	furia	
 3944f402	pickup		
-3948c1b4	ped_capsule		
+3948c1b4	ped_capsule		chimpanzee
 394be50d	ped		
 397d9c50	ped		ie_card_m_00
 397deb2e	ped		
@@ -3437,7 +3437,7 @@ babbfdb1	ped
 bad29d3b	ped		
 bad88e83	ped_nav_capability		
 badee81f	animal_tuning		
-bb10a2c6	ped_capsule		
+bb10a2c6	ped_capsule		tiger
 bb271095	ped_capsule		
 bb2c070c	ped		
 bb4b4314	ped		
@@ -4103,7 +4103,7 @@ dede29a7	vehicle_colour
 dee8946e	ped	crm_monkey_capuchinwhiteheaded_m_00	
 df1f5308	weapon	weapon_pistol_fiftycal	
 df2a1f34	animal_tuning		
-df318ca3	ped_capsule		
+df318ca3	ped_capsule		eel
 df41f1a4	weapon_accuracy		
 df488392	pickup		
 df4d67cd	ped_capsule	eagle	
