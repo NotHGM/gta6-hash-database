@@ -140,7 +140,7 @@ hash	kind	name	other_names
 072b1f6b	ped		
 072bee4e	ped		
 072c8248	ped		
-074e4cdd	ped		
+074e4cdd	ped		s_m_x_aa_ltf_00
 0765acba	ped	crf_jack_ambergreater_m_00	
 07674fbe	vehicle_colour		
 07683ce7	pickup		
@@ -275,8 +275,8 @@ hash	kind	name	other_names
 0da1b6f8	ped		csc_mlm_dlvr2_f_00
 0dc598e9	vehicle_colour		
 0dce6acc	ped		
-0dcfe9bb	ped		
-0de09260	ped		
+0dcfe9bb	ped		cs_frankie_delight
+0de09260	ped		cs_swamp_witch
 0de74e83	ped		
 0dfc5ece	ped		ie_vrge_m_00
 0e0bbd32	animal_tuning		
@@ -405,7 +405,7 @@ hash	kind	name	other_names
 148255a9	ped		
 1491cbc1	ped	crf_sunfish_redbreast_m_00	
 14973a10	ped	crf_eel_morayspotted_m_00	
-14a0cd5c	ped		
+14a0cd5c	ped		cmp_dstrc_f_00
 14cf3c5a	pickup		
 14d69010	vehicle	chino	
 14e1b15e	ped		
@@ -453,7 +453,7 @@ hash	kind	name	other_names
 16c455b9	ped		a_m_x_aa_activewear_casual_mixed_low_00
 16cf76c7	ped		
 16d5efb9	vehicle_colour		
-16f5cf72	ped		
+16f5cf72	ped		sws_milpa_m_00
 16fa21e3	ped		
 170c079a	ped	crm_panther_black_m_00	
 170dccbe	ped		
@@ -600,7 +600,7 @@ hash	kind	name	other_names
 1f69284e	weapon_damage_modifier		
 1f6d7771	vehicle_colour		
 1f81c67c	vehicle_colour		
-1f950d9f	ped		
+1f950d9f	ped		cs_harvey_adams
 1f9ad7bf	ped		
 1fcd8195	ped		
 1fd2eaae	ped		com_deal_intr_m_00
@@ -645,7 +645,7 @@ hash	kind	name	other_names
 21c22f11	pickup		
 21c2f691	ped		
 21d43a77	ped		
-21ebc684	ped		
+21ebc684	ped		cmp_dstrc_m_02
 21eee87d	vehicle	packer	
 22050993	ped_capsule	rat	
 220b7718	vehicle	pontoon	
@@ -690,7 +690,7 @@ hash	kind	name	other_names
 245ce7ca	ped		
 24654169	pickup		
 24690baa	weapon	weapon_shotgun_pumpaction	
-2494662a	ped		
+2494662a	ped		ie_atmfc_f_00
 24a50778	ped		
 24b34b4a	pickup		
 24bc312c	ped_capsule		
@@ -744,7 +744,7 @@ hash	kind	name	other_names
 272a41d6	pickup		
 272dd9eb	ped		ci_up_blfgdpr_m_00
 273ffa84	ped		cs_statewide_attorney
-2743f2a2	ped		
+2743f2a2	ped		cmp_dstrc_f_01
 27501c95	ped		
 27580266	ped		
 277820e4	ped		
@@ -1123,7 +1123,7 @@ hash	kind	name	other_names
 3afed151	ped		
 3b184e15	pickup		
 3b22cc22	animal_tuning		
-3b26aa4e	ped		
+3b26aa4e	ped		cs_kevin_kueh
 3b2f491a	pickup		
 3b2fdac3	ped		
 3b3365d9	ped		
@@ -1341,7 +1341,7 @@ hash	kind	name	other_names
 4697b2f8	ped		
 46a121e1	ped		
 46ac1754	ped	cs_dunk	
-46af2385	ped		
+46af2385	ped		cs_sam_the_bookie
 46b89c8e	weapon	vehicle_weapon_player_buzzard	
 46cdb9ac	ped		
 46f793fc	weapon_accuracy		
@@ -1418,7 +1418,7 @@ hash	kind	name	other_names
 4a798deb	ped	crm_deer_legendary_m_00	
 4a8e6cf2	ped		
 4a90c670	ped		ie_esctm_m_00
-4ab289f5	ped		
+4ab289f5	ped		cs_big_mike
 4ad2799f	ped		cs_tal_sk
 4ad36d3d	ped	crb_tern_caspian_m_00	
 4ada33bd	ped		
@@ -1429,7 +1429,7 @@ hash	kind	name	other_names
 4b33ded4	vehicle_colour		
 4b38f8a1	ammo		ammo_launched_grenade_smoke
 4b4c2845	vehicle_colour		
-4b6e9989	ped		
+4b6e9989	ped		cmp_dstrc_m_00
 4b6ed34e	ped		
 4b70d427	vehicle	nightblade2	
 4b741db7	weapon	weapon_special_stungun	
@@ -1564,7 +1564,7 @@ hash	kind	name	other_names
 5161aae9	weapon_accuracy		
 517b7711	ped_capsule		
 517f979e	ped		
-518fcbb3	ped		
+518fcbb3	ped		sws_racec_f_00
 51aacc63	ped		
 51b3a77a	weapon_accuracy		
 51c38564	ped		
@@ -1618,7 +1618,7 @@ hash	kind	name	other_names
 545027de	ped		
 54594165	ped	crb_crow_american_m_00	
 5466065d	ped		ag_tss_m_00
-5488e259	ped		
+5488e259	ped		s_m_x_aa_emt_00
 54bd166e	ped		
 54c6140f	ped		cs_yolanda
 54c6f192	ped		ie_tortr_m_01
@@ -1681,7 +1681,7 @@ hash	kind	name	other_names
 584dabfd	ped		
 587d0e86	weapon_accuracy		
 588807cd	pickup		
-5893188e	ped		
+5893188e	ped		cti_show_wans_m_00
 58b36291	ped	g_m_m_fap_02	
 58d8d007	ammo		ammo_launched_vehicle_homing
 58da220a	ped		
@@ -1700,7 +1700,7 @@ hash	kind	name	other_names
 59b4cf5a	ped		
 59ba4e79	weapon_damage_modifier		
 59bec6e4	ped		
-59e0c97a	ped		
+59e0c97a	ped		ie_vinfl_f_00
 59e0fbf3	vehicle	picador	
 59e46f48	pickup		
 59f30dc8	weapon_accuracy		
@@ -1865,12 +1865,12 @@ hash	kind	name	other_names
 62d24a1e	ped		
 62d848c4	vehicle	WALTON	
 62e23014	ped	crm_pig_yorkshireamerican_m_00	
-62e3ca83	ped		
+62e3ca83	ped		g_m_m_finalchapter_grd_00
 62edcbd7	ped		cs_beelzebub
 62f3ce67	ped		
 62fda717	weapon	weapon_pistol_service	
 630203b1	ped		
-630ee55b	ped		
+630ee55b	ped		cs_bianca_celestino
 63171d46	vehicle	mambagt	
 631fb64f	ped		ie_bprfd_m_00
 634f6453	animal_tuning		
@@ -1891,7 +1891,7 @@ hash	kind	name	other_names
 6455038c	pickup		
 64746af4	ped		cs_sparky
 647d7fac	ped		
-648f3d6b	ped		
+648f3d6b	ped		ie_atmff_m_00
 649ecc10	vehicle_colour		
 64c2dcaf	vehicle	TRAILERBAGGAGE2	
 64c61fde	pickup		
@@ -1917,7 +1917,7 @@ hash	kind	name	other_names
 65cba58a	pickup		
 65dcf7a5	weapon	weapon_heavy_combatmg	
 65ec9656	vehicle	seaenchantress	
-65ff498b	ped		
+65ff498b	ped		cs_chart_bestman
 66084435	ped		
 66099f4c	ped_capsule	mouse	
 6622617b	ped		
@@ -2032,7 +2032,7 @@ hash	kind	name	other_names
 6c76803a	ped		cs_boobie_driver
 6c7d23b8	ammo	ammo_smg	
 6c8f0125	ped		
-6c9301d5	ped		
+6c9301d5	ped		cs_vinny_capsik
 6ca4cdb0	animal_tuning		
 6caf8e64	pickup		
 6cb0718c	ped		
@@ -2074,7 +2074,7 @@ hash	kind	name	other_names
 6eab9967	ped		
 6ee4e672	ped_capsule	standard_male	
 6eea012c	ped		cs_castro
-6effcb44	ped		
+6effcb44	ped		g_m_m_koltandassoc_ldr_00
 6f04f662	pickup		
 6f4776a4	pickup		
 6f4f1d2e	ped		
@@ -2139,7 +2139,7 @@ hash	kind	name	other_names
 72768268	pickup		
 72835ff1	ped		
 72a7db22	ped		cs_gustavo_herrera
-72f392d7	ped		
+72f392d7	ped		cs_floyd_martin
 72f762b7	pickup		
 7309e6cd	vehicle_colour		
 7324e3d9	vehicle	erode	
@@ -2227,7 +2227,7 @@ hash	kind	name	other_names
 77958696	ped		
 77c8ccb7	animal_tuning		
 77cb0c4d	weapon	weapon_autorifle_assault	
-77dff26b	ped		
+77dff26b	ped		cmp_dstrc_m_01
 77f3f2dd	pickup	pickup_ammo_shotgun	
 77f52591	vehicle	golfcarthotrod	
 77f746a3	ped		cmp_kdock_m_00
@@ -2273,7 +2273,7 @@ hash	kind	name	other_names
 79fe03d9	pickup		
 7a108d28	ped		
 7a13f53f	ped		
-7a17d28f	ped		
+7a17d28f	ped		cs_lexy_campbell
 7a1a7408	animal_tuning		
 7a2791b3	vehicle_plate		
 7a2de4a5	pickup		
@@ -2612,7 +2612,7 @@ hash	kind	name	other_names
 8d4def53	ped		ie_couch_f_00
 8d53d63d	ped		
 8d59aa86	ped		
-8d5cb5aa	ped		
+8d5cb5aa	ped		cs_giorgio_gallo
 8d73b96e	ped		
 8d77da68	ped		
 8d7e88a5	animal_tuning		
@@ -2631,7 +2631,7 @@ hash	kind	name	other_names
 8e15a664	ped		
 8e2a58b1	ped		
 8e301a55	ped		
-8e3428fc	ped		
+8e3428fc	ped		cmp_recrd_f_01
 8e41b68a	animal_tuning		
 8e553ebd	ped		
 8e6971d3	vehicle	jet2	
@@ -2814,7 +2814,7 @@ hash	kind	name	other_names
 9871b975	ped		
 98794d7a	ped		csc_mom_msevn_m_01
 987b4f05	pickup		
-98880e86	ped		
+98880e86	ped		cti_mech_bdog_f_00
 988b10ca	pickup		
 988f06e1	pickup		
 989b9d8a	ped		csc_trh_plane_m_01
@@ -3072,7 +3072,7 @@ a6df3dbf	ped
 a6eb5ec9	ped		
 a6ec027c	ped		
 a6f55436	ped		
-a701323b	ped		
+a701323b	ped		g_m_m_finalchapter_ldr_00
 a72d129a	ped		csc_drt_final_f_00
 a72e02de	ped		
 a7430cd3	animal_tuning		
@@ -3296,7 +3296,7 @@ b32f5e16	ped
 b344accc	ped		
 b3558c7f	weapon_damage_modifier		
 b368a493	ped		cs_cellerica_lauren
-b374737c	ped		
+b374737c	ped		cmp_recrd_f_00
 b37e6a7e	ped		ie_cflee_m_00
 b384511c	ped		
 b39b0ae6	vehicle	lazer	
@@ -3443,7 +3443,7 @@ bb2c070c	ped
 bb4b4314	ped		
 bb4e39af	ped	crr_turtle_snappingflorida_m_00	
 bb545208	ped	crb_sanderling_generic_m_00	
-bb66a630	ped		
+bb66a630	ped		cs_chart_friend
 bb6b1667	ped		
 bb6b404f	vehicle	primo	
 bb78956a	vehicle	italirsx	
@@ -3559,7 +3559,7 @@ c10802a5	ammo
 c10cb202	ped		fro_gasme_m_01
 c11949df	pickup		
 c127f2e1	ped		
-c14de414	ped		
+c14de414	ped		cmp_recrd_m_01
 c15d6009	ped		
 c15e8410	ped		
 c189e231	vehicle	cometretro	
@@ -3581,7 +3581,7 @@ c249ae5b	animal_tuning
 c24cd429	ped		
 c2584a20	vehicle_colour		
 c259fab8	ped		
-c265cce6	ped		
+c265cce6	ped		g_m_m_koltandassoc_grd_00
 c26b626d	ped		cs_mendez
 c27a5f13	pickup		
 c290d55a	ped		
@@ -3800,7 +3800,7 @@ cf8e1958	ped		csc_drt_final_m_03
 cf9294b8	weapon	weapon_thrown_bomb	
 cfa6f24d	ped		
 cfb071b9	pickup		
-cfb080e1	ped		
+cfb080e1	ped		cmp_recrd_m_00
 cfb0e13a	ammo		
 cfb3870c	vehicle	speedo	
 cfbf72e7	ped		
@@ -3885,7 +3885,7 @@ d40c4d76	pickup
 d40ffa0a	ped		
 d429b6bc	pickup		
 d42e61b7	weapon_accuracy		
-d445f2dc	ped		
+d445f2dc	ped		cs_wade_howard
 d46e7809	ped		
 d4810cca	ped		cs_dorean
 d4887b29	ped		
@@ -4036,9 +4036,9 @@ db14fa9d	animal_tuning
 db21ac8c	weapon	weapon_melee_knife	
 db236826	ped		
 db23c8ba	ped		
-db31da64	ped		
+db31da64	ped		cs_liz_jackson
 db4721d4	ped		
-db4eadb8	ped		
+db4eadb8	ped		cs_arlo_williams
 db52e0b1	ped		cs_iris
 db560e77	ped		
 db5acefb	vehicle_colour		
@@ -4216,7 +4216,7 @@ e4863df9	ped
 e48d2ea1	ped		
 e494da3c	ped		csc_stu_stadm_m_00
 e4acc34c	animal_tuning		
-e4b0a179	ped		
+e4b0a179	ped		sws_misdr_m_00
 e4b3ee28	pickup		
 e4bccfee	ped		csc_stu_party_m_01
 e4bd2fc6	pickup	pickup_ammo_rifle	
@@ -4463,7 +4463,7 @@ f16599c3	ped	cs_isabella
 f188a014	ped		
 f19e36a2	weapon_accuracy		
 f1a7c08e	ped		
-f1bcf02d	ped		
+f1bcf02d	ped		cs_beau_carson
 f1beca33	ped		ie_frwyc_f_00
 f1c1575a	weapon	weapon_revolver_civilian	
 f1c161ba	ped		
@@ -4595,7 +4595,7 @@ f71eaf88	weapon	weapon_sports_fishingrod
 f75b387f	pickup		
 f7687e0f	ped		
 f77f617f	ped		
-f79c3320	ped		
+f79c3320	ped		cs_scarlet_sun
 f7a36823	vehicle_plate		
 f7a3bbde	ped		ie_stawc_m_00
 f7a8cba5	vehicle_colour		
@@ -4645,7 +4645,7 @@ f9fbaebe	weapon	weapon_animal
 fa07fe37	ped		ex_dtchdt_m_03
 fa236baf	ped		cmp_cpris_m_00
 fa258aef	ped		
-fa341614	ped		
+fa341614	ped		cs_chart_bachelor
 fa6ba3bb	ped	crm_deer_whitetailed_f_00	
 fa7375e5	ped		cs_cerise
 fa73b0d8	ped		

@@ -45,7 +45,7 @@ The columns that matter most:
 
 ### `data/community/`: every known name, merged by hash
 
-`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,357,880 hashes with every name proposed
+`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,422,404 hashes with every name proposed
 for them and where each came from. It merges the public GTA VI name lists (asm512, lynxnathan, tarekmania and
 ahmed605's strings database, and openrage's GTA VI archive entry names and settings save field names), the names in
 DurtyFree's GTA VI data dumps (`durtyfree`, with its 210,645 model names) and in Zia-ullah-khan's car spawn maps
@@ -57,7 +57,7 @@ comes from `save-garage`, that name has been checked against real saves.
 `game_data.tsv` lists 4,743 hashes from the game's metadata tables, as dumped by DurtyFree: peds, vehicles, weapons,
 ammo, pickups, animal tunings, ped capsules and navigation, doors, vehicle colours and plates, weapon accuracies and
 damage modifiers. A name is given only when it hashes to the row's hash (887 rows). The other 3,856 hashes are still
-unnamed: `other_names` shows any name the community index proposes for them (551 rows).
+unnamed: `other_names` shows any name the community index proposes for them (642 rows).
 
 ### `data/traffic/`: traffic and car spawns
 
