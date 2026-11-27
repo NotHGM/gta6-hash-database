@@ -22739,7 +22739,7 @@ c4497fcc	n14_w02_slod2_children14	openrage
 c4498010	_HAS_HUD_SCALEFORM_LOADED	tarekmania
 c4498019	americas/interiors/unique/fh_sdf_interiors_metadata	ahmed605
 c4498cc0	riataclassic_bumf_offr_17	ahmed605,durtyfree
-c44990e6	headBob	asm512
+c44990e6	headBob	asm512,openrage
 c44991c5	s07_w09_placement_instances_med_40	openrage
 c449bb52	p7zEG	tarekmania
 c449de54	esskey_handguard_l_offrbk_02	ahmed605,durtyfree
@@ -58582,7 +58582,7 @@ cb0d5fde	story000_7277	ahmed605,openrage
 cb0d8932	TASK_COMBAT_PED	tarekmania
 cb0dab18	cin@clb_party_mcs7_stop_fight_p1_t03-1	ahmed605
 cb0dafbe	story000_13185	ahmed605,openrage
-cb0db478	motionBlurStrength	asm512
+cb0db478	motionBlurStrength	asm512,openrage
 cb0dbcf8	DLC_MP_HEIST_M_HAND_11_2	tarekmania
 cb0dd79b	s07_w05_placement_instances_33	openrage
 cb0dde03	m_rect_handle	tarekmania

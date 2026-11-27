@@ -30431,7 +30431,7 @@ hash	names	sources
 55c15cb8	ma_mar_03_owe_mrmangrove01_slod_children0	openrage
 55c16e03	dn06_off_1_rt1_st_fncxx_01	ahmed605,durtyfree
 55c18135	TestHeightmaps	tarekmania
-55c189fe	lookAcceleration	asm512
+55c189fe	lookAcceleration	asm512,openrage
 55c1997f	fHeadingTolerance	asm512
 55c1ac41	hd4U	tarekmania
 55c1acb8	csc_drt_mall_csc_drt_mall_mcs1_exiting_mall_min	openrage
@@ -57843,6 +57843,7 @@ hash	names	sources
 5af05b1f	GET_TIME_POSITION_IN_RECORDING	tarekmania
 5af07f73	s14_w05_020_hd	ahmed605
 5af08967	ma_sqr_07_12	ahmed605,openrage
+5af09c6e	clockvisibility_client	openrage
 5af09e81	ambient@scenarios@creatures@air@bird@pigeon@land@rest@react_look@loop	ahmed605,durtyfree
 5af0a22d	A_F_Y_TENNIS_01_BLACK_MINI_01	tarekmania
 5af0ac28	prop_am_door_toilet_men_01b_r	ahmed605,durtyfree

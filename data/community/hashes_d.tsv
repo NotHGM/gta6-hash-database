@@ -37119,7 +37119,7 @@ d7016c7e	xD8C3BE3EE94CAF2D	tarekmania
 d70178c3	STEALTH_KILL	tarekmania
 d70180f7	s10_w04_placement_instances_med_16	openrage
 d70184e0	SlotGS	tarekmania
-d7019faa	voiceSettings	asm512
+d7019faa	voiceSettings	asm512,openrage
 d701b4f3	s02_w04_placement_instances_med_50	openrage
 d701ba0c	DLC_MP_H4_F_TEETH_7_0	tarekmania
 d701dc58	PinnedFwdOutroSetID	asm512
@@ -41352,7 +41352,7 @@ d7cb4fa8	rampa_unq_chat_c_14_s_glass_01	tarekmania
 d7cb598c	LA8	tarekmania
 d7cb5c96	tw3_05_housingsproj_07	ahmed605,durtyfree
 d7cb601b	Alex | alex	tarekmania
-d7cb96b5	prompts	asm512,tarekmania
+d7cb96b5	prompts	asm512,openrage,tarekmania
 d7cba094	Scripts	asm512,tarekmania
 d7cba661	n04_w03_27_waterveg	ahmed605,durtyfree
 d7cbae1c	nb_tpk_07_instances_med_11	ahmed605,openrage

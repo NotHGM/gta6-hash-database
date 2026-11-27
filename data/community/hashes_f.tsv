@@ -15117,7 +15117,7 @@ f2d37f9c	DLC_mp2025_02_MANSION_Swim_Pool	tarekmania
 f2d3804d	mint_bath_low_01a	ahmed605,durtyfree
 f2d392d2	psp_interstate_perschars_vehicles	ahmed605
 f2d39891	DLC_MP_GR_F_TORSO_0_12	tarekmania
-f2d39db9	screenNarration	asm512
+f2d39db9	screenNarration	asm512,openrage
 f2d39f57	n02_w07_060_hd	ahmed605,durtyfree
 f2d3bc58	prop_am_fencetech_metal_res_09_3m	ahmed605,durtyfree
 f2d3bda5	story000_12556	ahmed605,openrage
@@ -34096,7 +34096,7 @@ f663d1b4	riataclassic_dmg_mod_bumper_r_001_hi	ahmed605
 f663ed8e	s11_e01_050_hd	ahmed605,durtyfree
 f6640e4c	ophplVI6OopE9GBrvWC01lblvR9DegBoCNGAV3z	tarekmania
 f6641b33	GET_CLOUD_TIME_AS_STRING	tarekmania
-f6642366	invertMap	asm512
+f6642366	invertMap	asm512,openrage
 f6643bfd	n16_w06_placement_instances_long_hd_15	openrage
 f66441a4	xB23F	tarekmania
 f66443a6	prop_am_bong_02a	ahmed605,durtyfree
@@ -43199,7 +43199,7 @@ f8172c09	s17_w05_placement_instances_med_hd_3	openrage
 f8172d34	MGPS_ENAA	tarekmania
 f81737c1	nb_lel_05_drivingrange_dtl	ahmed605,durtyfree
 f817429f	mpHeist3_Tat_029_M	tarekmania
-f8175bd0	subtitlesSpeaker	asm512
+f8175bd0	subtitlesSpeaker	asm512,openrage
 f8176e1c	FINALE_HELICOPTER_ARRIVES	tarekmania
 f8178654	n09_w05_004_slod_children2	openrage
 f817a49e	n14_w01_placement_instances_med_hd_1	openrage
@@ -50415,7 +50415,7 @@ f970f945	navmesh[238][334]	ahmed605,openrage
 f9710f38	dealer_focus_player_03_idle_impatient_split	tarekmania
 f9710fac	SteeringBone	asm512
 f9712699	s15_w16_010_hd	ahmed605,durtyfree
-f9713d90	aimAcceleration	asm512
+f9713d90	aimAcceleration	asm512,openrage
 f97145cc	CHI2_AHAA	tarekmania
 f97156d1	s06_w05_007_slod_children2	openrage
 f97167f3	CEventDataResponseTaskExplosion	lynxnathan,tarekmania

@@ -30004,7 +30004,7 @@ hash	names	sources
 65b07eff	s15_w03_placement_instances_med_lod_12	openrage
 65b07f49	DLC_MP_LTS_F_HAND_9_0	tarekmania
 65b08d53	navmesh[260][206]	ahmed605,openrage
-65b0928e	vibrationSettings	asm512
+65b0928e	vibrationSettings	asm512,openrage
 65b09c10	pQcqR	tarekmania
 65b09d29	gameplay@vehicles@driveby@motorbike@dirt_bike@default@rear@normal@handgun@standing@rh	ahmed605,durtyfree
 65b0afeb	MP_RANK_BAR	tarekmania
@@ -46874,7 +46874,7 @@ hash	names	sources
 68dfe3f2	ma_ssf_03	ahmed605
 68dfea14	pearlescentColor	tarekmania
 68e00112	IncludeVehicles	asm512
-68e02bfa	mapMenu	asm512
+68e02bfa	mapMenu	asm512,openrage
 68e04262	ma_sqr_road_bridge_02_dtl	ahmed605,durtyfree
 68e057fa	comet7_towing_histr_02	ahmed605,durtyfree
 68e0586e	HasRequest	asm512

@@ -1259,7 +1259,7 @@ hash	names	sources
 203e103c	lo_rvr_02_water_lo_rvr_02_035	ahmed605,durtyfree
 203e13a7	cin@air_tail_ext_p3_t06-19	ahmed605
 203e22d2	SC_LICENSEPLATE_GET_ADD_STATUS	tarekmania
-203e2854	RAGDOLL | Ragdoll | ragdoll	asm512,durtyfree,tarekmania
+203e2854	RAGDOLL | Ragdoll | ragdoll	asm512,durtyfree,openrage,tarekmania
 203e426f	RA_IS_GRAPPLE_MOUNTED_TO_STAND_UP_ACTION	asm512
 203e67dd	xEC5E3AF5289DCA81	tarekmania
 203e69e7	YnvFlagsPortalsCheckBox_CheckedChanged	tarekmania
