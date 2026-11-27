@@ -15906,7 +15906,7 @@ hash	names	sources
 3300a776	ownerID	tarekmania
 3300a82e	WORLD_HUMAN_STAND_MOBILE	tarekmania
 3300bfef	n14_e01_slod2_children8	openrage
-3300c23e	musicLevel	asm512
+3300c23e	musicLevel	asm512,openrage
 3300c46d	ds_22_building_04_a_shopfront02	ahmed605,durtyfree
 3300dc6b	CurrentMloRoom	tarekmania
 3300f8ec	dominatorclassic_dmg_mod_wing_rf_003	ahmed605,durtyfree
@@ -15923,7 +15923,7 @@ hash	names	sources
 3301ae83	cin@ban_pkbmb_int_p2_t03-1	ahmed605
 3301b3bf	GET_APPROX_FLOOR_FOR_POINT	tarekmania
 3301b766	lo_rtrk_03_slod_b_children3	openrage
-3301e662	Vibration | vibration	asm512,lynxnathan,tarekmania
+3301e662	Vibration | vibration	asm512,lynxnathan,openrage,tarekmania
 3301ea47	NEXT_ONSCREEN_KEYBOARD_RESULT_WILL_DISPLAY_USING_THESE_FONTS	tarekmania
 3301edec	DisableCover	asm512,lynxnathan,tarekmania
 3302130f	tw7_17_apartment_02_fizzrailing_e	ahmed605,durtyfree
@@ -29318,7 +29318,7 @@ hash	names	sources
 3588c78e	s12_w06_placement_instances_27	openrage
 3588ca1f	nb_46_instances_med_7	ahmed605,openrage
 3588cb83	s05_w12_013_hd	ahmed605
-3588d43d	playerStatus	asm512
+3588d43d	playerStatus	asm512,openrage
 3588dc03	v_ret_ml_beerjak1	tarekmania
 3588e011	DLC_MP_JAN_F_HAND_4_8	tarekmania
 3588eb9b	AR2_FZAA	tarekmania

@@ -6186,7 +6186,7 @@ hash	names	sources
 112b4433	fh_shl_05_instances_18	ahmed605,openrage
 112b4e95	verus_towbar_offr_mnt_01	ahmed605,durtyfree
 112b53af	bDraw	asm512
-112b5803	versionMinor	asm512
+112b5803	versionMinor	asm512,openrage
 112b5b9c	navmesh[197][328]	ahmed605,openrage
 112b5fbe	DLC_MP_GR_M_TORSO_23_10	tarekmania
 112b6b11	gameplay@sports@fishing@shore@unhook@fish_lrg@drum@idle_dead	ahmed605,durtyfree
@@ -6620,7 +6620,7 @@ hash	names	sources
 1141c42e	CTaskAnimalBeingTamed__Tunables	asm512
 1141c8b8	s17_w05_placement_instances_long_lod_10	openrage
 1141c99f	prop_am_produce_box_m_banana_01b_batchlod	ahmed605,durtyfree
-1141d443	versionMajor	asm512
+1141d443	versionMajor	asm512,openrage
 1141ded1	s05_w03_008_hd	ahmed605,durtyfree
 1141e574	DLC_MP_X17_F_LEGS_3_21	tarekmania
 1141f02a	PAUSE_MENU_PAGES_GAME	tarekmania
@@ -41635,7 +41635,7 @@ hash	names	sources
 17d7fc5c	cmn_lights_roof_spotlight_05e	ahmed605,durtyfree
 17d8013b	DLC_MP_LUXE_M_JBIB_5_0	tarekmania
 17d81fbd	rampa_trans_cuedance_to_awayside_a_16_t_bottle	tarekmania
-17d82a47	DISPLAY | Display | display	asm512,lynxnathan,tarekmania
+17d82a47	DISPLAY | Display | display	asm512,lynxnathan,openrage,tarekmania
 17d831f4	am_furniture_lounge_metadata	ahmed605
 17d8423a	HW_Tee_005_F	tarekmania
 17d848a5	coverregion[203][209]	ahmed605,openrage
@@ -57010,7 +57010,7 @@ hash	names	sources
 1abb179e	FATF_AIAA	tarekmania
 1abb26ae	coverregion[205][246]	ahmed605,openrage
 1abb4b77	xF6015178	tarekmania
-1abb5826	Objective | objective	asm512,tarekmania
+1abb5826	Objective | objective	asm512,openrage,tarekmania
 1abb726e	_NETWORK_ACCESS_TUNABLE_FLOAT_HASH	tarekmania
 1abb83d2	ClearData	asm512,save-garage
 1abb8649	DLC_MP_X17_M_JBIB_12_2	tarekmania

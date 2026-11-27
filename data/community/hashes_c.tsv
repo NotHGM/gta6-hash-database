@@ -33082,7 +33082,7 @@ c63c5738	OnNodeRemoved	tarekmania
 c63c63b7	bk_04_int_skyg_office_destroyed_slod_children0	openrage
 c63c6b65	reload_aim_l_empty	tarekmania
 c63c6d95	xFC	tarekmania
-c63c7f4b	dialogueLevel	asm512
+c63c7f4b	dialogueLevel	asm512,openrage
 c63ca873	story000_13297	ahmed605,openrage
 c63cb220	navmesh[261][221]	ahmed605,openrage
 c63cc40c	nb_rnf_01_a_slod_children2	openrage
@@ -42322,7 +42322,7 @@ c7fb56b5	n13_w01_039_lod	durtyfree
 c7fb602e	EXT1_DBAA	tarekmania
 c7fb6249	n11_w14_placement_instances_long_1	openrage
 c7fb8323	lo_rvr_01_water_lo_rvr_01b_077	ahmed605,durtyfree
-c7fbada1	compassMode	asm512
+c7fbada1	compassMode	asm512,openrage
 c7fbb6c9	PBJE_AFAF	tarekmania
 c7fbb86f	x94DA98EF	tarekmania
 c7fbbb5a	lo_int101_mot_1_gff_bespoke_e	ahmed605,openrage
@@ -45490,7 +45490,7 @@ c8992967	nm_01_post_off_c	ahmed605,durtyfree
 c8992a08	navmesh[174][318]	ahmed605,openrage
 c8992bb0	n06_e04_015_slod_children1	openrage
 c8995153	MP_Heist4_Tat_020_F	tarekmania
-c89952df	Subtitles | subtitles	asm512,tarekmania
+c89952df	Subtitles | subtitles	asm512,openrage,tarekmania
 c89956a5	x56D38F95	tarekmania
 c89977a8	RejectedRobberyAttemptButKeepRobPromptsActive	asm512
 c8997de4	scripted@non_interactive_events@creatures@reptile@alligator@alligator_attacks_dog	ahmed605,durtyfree
@@ -58954,7 +58954,7 @@ cb206f0d	CoverToCoverClipRate	lynxnathan,tarekmania
 cb207340	tw10_04b_slod1_children25	openrage
 cb20a16a	s09_w09_placement_instances_med_38	openrage
 cb20ad9c	inputId	asm512,tarekmania
-cb20b040	accessibility	asm512
+cb20b040	accessibility	asm512,openrage
 cb20b393	ss_70_instances_med_lod_1	ahmed605,openrage
 cb20b5f5	gameplay@creatures@air@bird@parrot@land@idle@variation@idle_c	ahmed605,durtyfree
 cb20bdf9	s05_e01_011_slod_children2	openrage

@@ -31836,7 +31836,7 @@ e608b9b4	pr_dlc_h3_slot_machine_effects_gf_01_02	tarekmania
 e608c7b3	set_int_02_burglary_complete	lynxnathan,tarekmania
 e608ce5d	hashArr	tarekmania
 e608d3b2	reblagts_diffuser_histr_09_hi	ahmed605
-e608de7b	CLOCK | clock	asm512,tarekmania
+e608de7b	CLOCK | clock	asm512,openrage,tarekmania
 e608ef97	tTASK_VEHICLE_WAIT	tarekmania
 e608f33b	mint_garage_clutter_hanging_03a	ahmed605,durtyfree
 e608f6d4	comet7_splitter_histr_23	ahmed605,durtyfree
@@ -39229,7 +39229,7 @@ e76cb151	x2A70BAE8883E4C81	tarekmania
 e76ccb1b	s03_w07_placement_instances_long_21	openrage
 e76cd17e	EntityA	asm512
 e76cd79d	xEF72F533	tarekmania
-e76cda01	firstPerson	asm512
+e76cda01	firstPerson	asm512,openrage
 e76cdd58	reaction_bad_var01_seat1_facial	tarekmania
 e76cf631	IS_PED_TAKING_OFF_HELMET	tarekmania
 e76d2fa4	n15_w10_002_hd	ahmed605,durtyfree
@@ -46536,7 +46536,7 @@ e8c8d396	Y:6 | y:6	tarekmania
 e8c8e535	IS_SCRIPTED_HUD_COMPONENT_HIDDEN_THIS_FRAME	tarekmania
 e8c906c2	T1M1_DFAA	tarekmania
 e8c90ef1	head_mr1_afr_015_y_full_lod2	openrage
-e8c91000	controllerSettings	asm512
+e8c91000	controllerSettings	asm512,openrage
 e8c91aec	HUD_HELP_TEXT	tarekmania
 e8c91d6f	dubsta_dre_exhaust1	ahmed605,durtyfree
 e8c93016	Networked	asm512
@@ -74604,7 +74604,7 @@ ee18dca3	n01_w16_007_slod_children1	openrage
 ee18def8	timecycle/w_cloudscape_thinlayer.xml	ahmed605
 ee18df5e	n01_e07_021_hd	ahmed605,durtyfree
 ee18e710	sb_02_instances_med_lod_0	ahmed605,openrage
-ee190b4e	sfxLevel	asm512
+ee190b4e	sfxLevel	asm512,openrage
 ee190dd7	po_02c_instances_long_lod_1	ahmed605,openrage
 ee192816	x1552DC91	tarekmania
 ee1936c7	adam_unq_sync3_d_18_hp	tarekmania

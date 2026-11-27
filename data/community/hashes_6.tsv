@@ -13546,7 +13546,7 @@ hash	names	sources
 6293a3b9	FlsAlloc	tarekmania
 6293ad14	PMREC	tarekmania
 6293c521	x780C01BD	tarekmania
-6293d9ce	autoSave	asm512
+6293d9ce	autoSave	asm512,openrage
 6293f733	NoEventInfo	asm512
 62942775	n16_w02_placement_instances_long_lod_7	openrage
 62942e1e	DamageOverlayMisc	tarekmania
@@ -54568,7 +54568,7 @@ hash	names	sources
 6a50f130	n02_w09_29_waterveg	ahmed605,durtyfree
 6a50ff11	n16_w08_012_slod_children1	openrage
 6a5104b8	prefab_am_gantry_shelf_c1__batchlod	ahmed605,durtyfree
-6a510681	FOV | Fov | fov	asm512,lynxnathan,tarekmania
+6a510681	FOV | Fov | fov	asm512,lynxnathan,openrage,tarekmania
 6a510c21	1149115729	openrage
 6a511d5d	hc_stripper_nine1nine_head_fr1_cau_004_m+hi	openrage
 6a51234f	nm30_off_1_override2	openrage
@@ -59293,7 +59293,7 @@ hash	names	sources
 6b34e392	cin@bil_fun_int_p2_t02	ahmed605,durtyfree
 6b34e9e8	ScannerSpecificLocation	tarekmania
 6b34fb46	n08_w04_016_slod_children	ahmed605,openrage
-6b34fe60	GENERAL | General | general	ahmed605,asm512,tarekmania
+6b34fe60	GENERAL | General | general	ahmed605,asm512,openrage,tarekmania
 6b351265	m25_2_prop_m52_wallart_c_06	tarekmania
 6b3522ef	gameplay@vehicles@bicycle@enter@bmx@default@front@injured@left	ahmed605,durtyfree
 6b3525df	JHF_CHAE	tarekmania

@@ -10854,7 +10854,7 @@ hash	names	sources
 22029345	EXP_TAG_BARREL	lynxnathan,tarekmania
 2202cc91	PAD_LSTICK_DOWN	tarekmania
 2202d1dc	crm_tiger_bengal_m_00_fur_body_medium_00_bodyfront_lod1	openrage
-2202fbe1	autoLevel	asm512
+2202fbe1	autoLevel	asm512,openrage
 2203123b	n02_e02_placement_instances_med_17	openrage
 22031bf0	hairbob_fr1_010_wavy_l08_non_sm_m_main_lod1	openrage
 22031cf0	IG_Pilot_p	tarekmania
@@ -18434,7 +18434,7 @@ hash	names	sources
 236803ce	s01_w08_056_lod	durtyfree
 23681848	lo_pri_01_w_slod_children114	openrage
 23682229	DH1_CXAD	tarekmania
-23683a0d	Controls | controls	asm512,tarekmania
+23683a0d	Controls | controls	asm512,openrage,tarekmania
 236843b8	le_screen_ifruit_16x9_08a	ahmed605,durtyfree
 23684a0b	DLC_MP_FIXER_F_LEGS_0_21	tarekmania
 23684e4d	B07_IsWater	tarekmania
@@ -28750,7 +28750,7 @@ hash	names	sources
 255839a5	CuCrouched	asm512
 25583a6c	story000_12234	ahmed605,openrage
 255845ee	cLightName	lynxnathan,tarekmania
-25584db6	CAMERA | Camera | camera	asm512,durtyfree,lynxnathan,tarekmania
+25584db6	CAMERA | Camera | camera	asm512,durtyfree,lynxnathan,openrage,tarekmania
 25585257	crm_dog_shepherdgermanstray_m_00_fur_body_short_02_body_lod2	openrage
 25586569	s09_w05_placement_instances_25	openrage
 255865b9	ambient@ai_react@breakouts@active_look@gen_male@ground@kneel@llegfwd@rkneedown@withproprhand@pocket@quick	ahmed605,durtyfree,openrage
@@ -58210,7 +58210,7 @@ hash	names	sources
 2af49f6a	navmesh[293][338]	ahmed605,openrage
 2af4a601	u_m_m_drbill_head_mr1_cau_000_m_full	ahmed605,durtyfree
 2af4b353	contextRequestOverride	asm512
-2af4b66c	colorblindMode	asm512
+2af4b66c	colorblindMode	asm512,openrage
 2af4b938	cin@mny_party_int_p5m1_t08-2	ahmed605
 2af4b98a	MP_Sum2_Tee_001_M	tarekmania
 2af4ba3a	CST3_DMAA	tarekmania

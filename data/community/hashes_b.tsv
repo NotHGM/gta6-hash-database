@@ -42816,7 +42816,7 @@ b80c1b06	VMCP_LEFT	lynxnathan,tarekmania
 b80c4dc9	CREW_LOGO_X23_2	tarekmania
 b80c5c76	s07_w05_placement_instances_long_lod_11	openrage
 b80c6a7f	s06_w08_placement_instances_3	openrage
-b80c6ae8	AUDIO | Audio | audio	asm512,lynxnathan,tarekmania
+b80c6ae8	AUDIO | Audio | audio	asm512,lynxnathan,openrage,tarekmania
 b80c6cbf	n02_w06_003_slod_children2	openrage
 b80c83e2	ar_dlc_h4_ih_animals_tropical_frog_weird	tarekmania
 b80c869d	bulldozer_cylinder_right_tarnished_medium_overlay	ahmed605,durtyfree
@@ -44029,7 +44029,7 @@ b845d227	MaxDropDownDistance	asm512
 b845eb46	tw5_11_instances_long_hd_0	ahmed605,openrage
 b8460c1b	n10_w10_48	ahmed605,openrage
 b8460fb2	OJAS_JIAA	tarekmania
-b8462278	Navigation | navigation	asm512,tarekmania
+b8462278	Navigation | navigation	asm512,openrage,tarekmania
 b846256e	cs2_05	tarekmania
 b846258d	respawn_b_ped_d_cig	tarekmania
 b84626ee	lo_dhl_03_instances_med_0	ahmed605,openrage
@@ -79954,7 +79954,7 @@ bf19d93a	n09_w07_placement_instances_long_15	openrage
 bf19f205	FMFL_AMAB	tarekmania
 bf19f529	navmesh[248][293]	ahmed605,openrage
 bf19fbfb	tw4_01_am_e_vi_building_ub2_cln	ahmed605,durtyfree
-bf1a0b77	aimMode	asm512
+bf1a0b77	aimMode	asm512,openrage
 bf1a1015	dance_a_loop_trans_pose_b_blamadon_face	tarekmania
 bf1a2373	n02_w19_placement_instances_long_5	openrage
 bf1a3adf	baller8_skirt_split_r_histr_02_mid	ahmed605

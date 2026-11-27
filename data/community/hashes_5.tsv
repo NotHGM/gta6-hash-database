@@ -12517,7 +12517,7 @@ hash	names	sources
 525f9707	nm10_whs_1_gfa_wh_utllx_01	ahmed605,durtyfree
 525fa39b	iBz8S9gHD	tarekmania
 525fbb81	fi_03_villa_02_dtl	ahmed605,durtyfree
-525fbf2c	radarSize	asm512
+525fbf2c	radarSize	asm512,openrage
 525fc5e7	dn05b_jwl_2_gfa_jwl_shop_lp	ahmed605,durtyfree
 525fd455	int_priso_mcs19_friend_finds_player	ahmed605,openrage
 525fd464	environment/island_01/lo_lowlands/tw10/tw10_merged	ahmed605
@@ -28875,7 +28875,7 @@ hash	names	sources
 55772b9d	sn_25_instances_long_lod_5	ahmed605,openrage
 5577533d	pavement_nodes2598	ahmed605,openrage
 55775911	tw10_11e_20	ahmed605,openrage
-557759b4	invertLook	asm512
+557759b4	invertLook	asm512,openrage
 55775ac3	ds_22_building_02_01_cloth	ahmed605,durtyfree
 55775ec8	sb_30_water_slod2_children	ahmed605,openrage
 55778682	stt_prop_stunt_track_sh45_a	tarekmania

@@ -146,7 +146,8 @@ SOFTWARE.
 ## openragee/openrage
 
 Used in: data/community (openrage), from commit 33c0fcc: the GTA VI archive entry names in
-assets/gta6_names/vocabulary.txt.
+assets/gta6_names/vocabulary.txt; and from commits 1a37ec0 and 2362bc1: the field names of the settings save
+(KNOWN_SETTINGS_FIELD_NAMES in crates/io/or-io/src/gta6/save.rs).
 
 ```
 MIT License

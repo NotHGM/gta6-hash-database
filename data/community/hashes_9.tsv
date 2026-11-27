@@ -22829,7 +22829,7 @@ hash	names	sources
 944f3d9d	prefab_am_sign_ramp3_i2_05b	ahmed605,durtyfree
 944f417a	gameplay@vehicles@bicycle@enter@mountain@default@front@normal@right	ahmed605,durtyfree
 944fa522	story000_276	ahmed605,openrage
-944fa9d9	HUD | HUd | Hud | hud	ahmed605,asm512,tarekmania
+944fa9d9	HUD | HUd | Hud | hud	ahmed605,asm512,openrage,tarekmania
 944fb2d1	SCRAP_ARAH	tarekmania
 944fb381	q9q	tarekmania
 944fb3c0	ds_22_building_slod_children113	openrage
@@ -63335,7 +63335,7 @@ hash	names	sources
 9c000fd4	lo_afm02_whs1b_decal_strawberry_decals	ahmed605,durtyfree
 9c001725	ExhaustThrottleVolume_PostSubmix	tarekmania
 9c00241b	crm_rabbit_cottontaileastern_m_eye_00+hi	openrage
-9c002b5e	CINEMATIC | cinematic	asm512,lynxnathan,tarekmania
+9c002b5e	CINEMATIC | cinematic	asm512,lynxnathan,openrage,tarekmania
 9c00366e	s14_w02_044_hd	ahmed605,durtyfree
 9c0046d6	GWnx	tarekmania
 9c004743	DLC_MP_GR_F_SPECIAL_21_20	tarekmania
@@ -65973,7 +65973,7 @@ hash	names	sources
 9c7d3d3c	s11_w03_012_slod_children1	openrage
 9c7d3ff2	n04_w09_024_hd	ahmed605,durtyfree
 9c7d454e	AHF_AHAA	tarekmania
-9c7d4584	vehiclefov	asm512
+9c7d4584	vehiclefov	asm512,openrage
 9c7d46a6	s04_e01_032_hd	ahmed605,durtyfree
 9c7d4904	tale_start_cc_face	tarekmania
 9c7d4b52	ma_mar_04_gatorjump_01	ahmed605,durtyfree

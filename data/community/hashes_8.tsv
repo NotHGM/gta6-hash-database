@@ -18427,7 +18427,7 @@ hash	names	sources
 8372a676	GFxMovieDefImpl	tarekmania
 8372c66e	cmn_pol_antenna_05_mid	ahmed605
 8372cf4e	T236	tarekmania
-8372d0df	radioStation	asm512,tarekmania
+8372d0df	radioStation	asm512,openrage,tarekmania
 8372d966	idle_agitated	tarekmania
 8372e011	sn_42_instances_5	ahmed605,openrage
 8372e11b	n01_w12_002_hd	ahmed605,durtyfree
@@ -80257,7 +80257,7 @@ hash	names	sources
 8f129f77	n10_w17_placement_instances_long_hd_7	openrage
 8f12c1ce	CrimeProximity	asm512
 8f12d266	prop_fnccorgm_02a	tarekmania
-8f12d59c	thirdPerson	asm512
+8f12d59c	thirdPerson	asm512,openrage
 8f12d857	navmesh[207][230]	ahmed605,openrage
 8f12e272	gameplay@creatures@air@bird@goose@swimming@surface@idle@additive@groom	ahmed605,durtyfree
 8f12e3cd	camThirdPersonCameraMetadataStealthZoomSettings	lynxnathan,tarekmania

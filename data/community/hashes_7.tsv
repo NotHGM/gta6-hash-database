@@ -29272,7 +29272,7 @@ hash	names	sources
 7594ffc5	s15_w15_placement_instances_long_16	openrage
 759521f3	po_02d_instances_long_lod_1	ahmed605,openrage
 75953914	coverregion[253][255]	ahmed605,openrage
-75953d64	radarMode	asm512
+75953d64	radarMode	asm512,openrage
 759556e9	v_ret_247_pharmdeo	tarekmania
 75955b0a	le_screen_b_bank_shorefront_tv_16x9_01a	ahmed605,durtyfree
 75955d60	_Xv0	tarekmania
