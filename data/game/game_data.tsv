@@ -38,7 +38,7 @@ hash	kind	name	other_names
 01d8fded	ped		csc_drt_final_m_02
 01e08696	ped		
 01e4d6b1	ped		
-01ebbefc	ped		
+01ebbefc	ped		m_int_plnsh_m_00
 020f608f	ped		
 022d5f5b	ped		
 022f85e4	ped		
@@ -106,7 +106,7 @@ hash	kind	name	other_names
 056d70a4	ammo		
 05756ba7	pickup		
 05d2131e	ped		cs_debora
-05d6747d	ped		
+05d6747d	ped		csc_eco_whint_m_00
 05d8a6fa	ped		
 0603a511	ped		cs_justin_tipman
 060c9d72	vehicle_colour		
@@ -145,7 +145,7 @@ hash	kind	name	other_names
 07674fbe	vehicle_colour		
 07683ce7	pickup		
 07719a0a	ped		
-077534ba	ped		
+077534ba	ped		ci_up_gholcof_m_00
 0780e8c8	pickup		
 07877068	ped_capsule		
 078abdcd	ped		ie_sraid_m_00
@@ -222,7 +222,7 @@ hash	kind	name	other_names
 0aeb41db	vehicle_colour		
 0afd22a6	vehicle	freightcar	
 0b08c1f0	ped		
-0b0c76b9	ped		
+0b0c76b9	ped		cs_felixtheten
 0b1c0b76	ped		
 0b21acd0	pickup		
 0b33c9ff	ped		
@@ -418,7 +418,7 @@ hash	kind	name	other_names
 15210704	pickup		
 1549b49a	pickup		
 154a2231	ped		
-154cf564	ped		
+154cf564	ped		m_clb_tower_f_02
 154deaae	weapon	weapon_poison	
 154f8453	ped		
 15511acd	ped		
@@ -450,7 +450,7 @@ hash	kind	name	other_names
 16b861ea	ped		
 16be7f95	ped		
 16c43d15	vehicle	montagnexl	
-16c455b9	ped		
+16c455b9	ped		a_m_x_aa_activewear_casual_mixed_low_00
 16cf76c7	ped		
 16d5efb9	vehicle_colour		
 16f5cf72	ped		
@@ -552,7 +552,7 @@ hash	kind	name	other_names
 1c8ee74f	ped	crf_grouper_black_m_00	
 1c9df5e5	ped		
 1caebc55	ped		
-1ccd6ad2	ped		
+1ccd6ad2	ped		g_m_m_fap_00
 1ceeec48	ped		
 1cf54a70	ped_capsule	bat	
 1cf6e9f7	weapon_damage_modifier		
@@ -578,7 +578,7 @@ hash	kind	name	other_names
 1dd9da30	ped		
 1e10c522	ped		
 1e2d3b33	ped		ie_frwyc_m_00
-1e3a75e5	ped		
+1e3a75e5	ped		cs_dirtycop_01
 1e53e34e	ped		cs_bud
 1e685f45	animal_tuning	species_domestic_dog_small_domesticated	
 1e6b1512	animal_tuning		
@@ -675,7 +675,7 @@ hash	kind	name	other_names
 237ce406	ped		
 238799e4	weapon_damage_modifier		
 238a9378	ped		
-23919c5d	ped		
+23919c5d	ped		ex_discowdc_f_00
 239cf7ca	ped	crm_dog_carolinastray_f_00	
 23ca25f2	vehicle	hustler	
 23cb77a7	ped		
@@ -742,7 +742,7 @@ hash	kind	name	other_names
 2712b02a	pickup		
 271cfd18	ped		cs_jasir
 272a41d6	pickup		
-272dd9eb	ped		
+272dd9eb	ped		ci_up_blfgdpr_m_00
 273ffa84	ped		cs_statewide_attorney
 2743f2a2	ped		
 27501c95	ped		
@@ -783,7 +783,7 @@ hash	kind	name	other_names
 28cc29a8	ped		
 28d37f29	pickup		
 28d975e5	ped_capsule	monitor	
-28e14810	ped		
+28e14810	ped		ci_up_blfgdpr_f_00
 28ea789c	ped		
 28eab80f	vehicle	drafter	
 28f488fd	ped		
@@ -797,7 +797,7 @@ hash	kind	name	other_names
 2954a08a	vehicle	iota	
 2968ddd7	ped		
 297e6cf8	ped		
-29847b11	ped		
+29847b11	ped		m_clb_party_f_00
 298c728e	ped		
 29956d23	pickup		
 2996333d	ped	a_f_x_aa_vagrant_mixed_mixed_low_00	
@@ -896,7 +896,7 @@ hash	kind	name	other_names
 2e570d52	ped		
 2e582aed	pickup		
 2e6df183	ped_capsule	turkey	
-2e770e25	ped		
+2e770e25	ped		g_m_m_fap_01
 2e78e6c3	pickup		
 2e8e40f8	ped		
 2ea68690	vehicle	rhino	
@@ -946,7 +946,7 @@ hash	kind	name	other_names
 3113658a	animal_tuning		
 313c0e0a	weapon_damage_modifier		
 313f7f4f	pickup		
-31402f63	ped		
+31402f63	ped		a_m_x_aa_vicecityphony_mixed_mixed_mid_00
 31418468	ped		
 314f7c5f	ped		
 31609210	ped		
@@ -982,7 +982,7 @@ hash	kind	name	other_names
 32dda6e5	ped		
 32e1fe7c	ped		
 32e37f93	vehicle	airgator	
-32ea490c	ped		
+32ea490c	ped		ci_up_hotpbsl_f_00
 32f45821	vehicle	arcturus	
 32f542c1	ped		ie_ha_m_00
 32f6c22b	ped		
@@ -1480,7 +1480,7 @@ hash	kind	name	other_names
 4dd64c26	ped		
 4df09bb5	vehicle_colour		
 4df92db7	ped		
-4dfbe6c1	ped		
+4dfbe6c1	ped		m_clb_tower_f_00
 4dfdd1c6	animal_tuning		
 4e004a1b	ped		
 4e03822f	ped		
@@ -1535,7 +1535,7 @@ hash	kind	name	other_names
 5023395b	ped		
 50319a09	ped		
 503b1d7d	ped	crb_mockingbird_northern_m_00	
-50546fb0	ped		
+50546fb0	ped		ci_up_hotpbph_f_00
 505d4f41	pickup		
 5064dff7	ped		
 506eddd6	ped	crm_cattle_runaway_f_00	
@@ -1582,7 +1582,7 @@ hash	kind	name	other_names
 524c5f57	ped		
 5255a737	vehicle	sandkingxt	
 5272f9c2	ped		
-52a64303	ped		
+52a64303	ped		a_f_x_aa_genpoppoorrural_mixed_mixed_low_01
 52b8f360	ped		
 52c26b8e	ped	crb_goose_canada_m_00	
 52c46b5f	pickup		
@@ -1780,7 +1780,7 @@ hash	kind	name	other_names
 5e3aad81	ped		
 5e42daa2	pickup		
 5e4c4972	ped		
-5e67f7f3	ped		
+5e67f7f3	ped		m_int_plnsh_m_02
 5e72f637	ped		
 5e730218	ped		cs_luis
 5e778c1d	ped		
@@ -1824,7 +1824,7 @@ hash	kind	name	other_names
 60524965	ped		
 606774ed	ped		
 606ed6e8	ped		
-60ac223e	ped		
+60ac223e	ped		s_m_x_aa_coastguardtacticallight_00
 60ac779d	animal_tuning		
 60c639e5	pickup		
 60c6bf01	ped		
@@ -1906,7 +1906,7 @@ hash	kind	name	other_names
 6522617c	pickup		
 652715d0	ped		
 65301d72	animal_tuning		
-65447daa	ped		
+65447daa	ped		ci_up_hotwdpl_f_00
 6552c5ce	ped		cs_brian_heder
 656bff3c	ped		ie_senvg_m_01
 6572ef77	ped	crb_parrot_amazonredcrowned_m_00	
@@ -2023,7 +2023,7 @@ hash	kind	name	other_names
 6c0d82d6	ped		
 6c2bb75f	vehicle	calder	
 6c336446	ped		
-6c3f2382	ped		
+6c3f2382	ped		m_clb_party_m_02
 6c51c3fa	ped		ie_atmfb_f_00
 6c5401b7	ped		
 6c5fb402	ped		cs_dwnply
@@ -2070,7 +2070,7 @@ hash	kind	name	other_names
 6e6075a4	weapon_accuracy		
 6e6450cd	ped		
 6e7b2f8b	pickup		
-6ea31d21	ped		
+6ea31d21	ped		ci_up_hcguest_f_00
 6eab9967	ped		
 6ee4e672	ped_capsule	standard_male	
 6eea012c	ped		cs_castro
@@ -2324,7 +2324,7 @@ hash	kind	name	other_names
 7cb00fb6	ped		
 7cc6ee52	pickup		
 7cce97d2	ped		
-7ce82d51	ped		
+7ce82d51	ped		ex_secrevbcs_f_00
 7d1ddfce	ped		
 7d1f44fa	ped		
 7d2008ca	ped		
@@ -2418,7 +2418,7 @@ hash	kind	name	other_names
 81f9d8a3	weapon	weapon_launched_rpg	
 820c8734	pickup		
 8217ecdf	ped_capsule		large_male
-821ec5ea	ped		
+821ec5ea	ped		m_clb_tower_m_02
 8234bf1a	ped	crr_alligator_american_m_02	
 823fc422	ped		
 82596c4c	ped		
@@ -2534,7 +2534,7 @@ hash	kind	name	other_names
 88b9c15f	vehicle_colour		
 88d28c41	pickup		
 88ebfbcd	ped		
-88ffafb5	ped		
+88ffafb5	ped		a_f_x_aa_genpoppoorrural_mixed_mixed_low_02
 891674e9	weapon_damage_modifier		
 891ca1e3	ped		
 892d1fe7	ped		
@@ -2721,7 +2721,7 @@ hash	kind	name	other_names
 936700a1	pickup		
 9388ba6a	ped	ag_beuz_f_00	
 9388faf1	vehicle_colour		
-938a66c6	ped		
+938a66c6	ped		cti_mech_stol_f_00
 938dbbb4	door_tuning	Mint_door_46a_1M_XX_R	
 93cf2a4c	pickup		
 93eba3e3	ped		
@@ -2825,7 +2825,7 @@ hash	kind	name	other_names
 98daa3b7	ped	crb_robin_american_m_00	
 98f65a5e	vehicle	coquette4	
 99099ecd	weapon	weapon_autorifle_special	
-9935cada	ped		
+9935cada	ped		cti_show_airg_m_00
 9945a8d1	ped		
 996053c0	ped		
 9978b126	ped		
@@ -3016,7 +3016,7 @@ a3dc0e64	pickup
 a3e42a12	ped		ie_stinf_m_00
 a3ed903a	ped		
 a40289a0	ped		
-a405747d	ped		
+a405747d	ped		cs_beefslap
 a4069e6f	ped		
 a4157e11	ped		ie_vnldr_m_02
 a42fc3a5	vehicle	vectre	
@@ -3077,7 +3077,7 @@ a72d129a	ped		csc_drt_final_f_00
 a72e02de	ped		
 a7430cd3	animal_tuning		
 a747c74c	ped		
-a76d99de	ped		
+a76d99de	ped		m_clb_party_m_01
 a7710876	ped		
 a7729f46	vehicle_colour		
 a774b5a6	vehicle	schafter3	
@@ -3162,7 +3162,7 @@ ab891b34	ped
 ab943d60	ped		
 ab9f913a	ped		
 abaab924	weapon	weapon_tacrifle_carbine	
-abb61918	ped		
+abb61918	ped		m_clb_tower_m_03
 abc3deb9	pickup		
 abde07da	vehicle_colour		
 abe00499	ped		
@@ -3273,8 +3273,8 @@ b1cf5423	animal_tuning
 b1d2d407	pickup		
 b1f0ba93	ped_nav_capability		simple_no_avoidance
 b1f41d64	ped		
-b1fc052d	ped		
-b20d2ee6	ped		
+b1fc052d	ped		ci_up_gholrnt_f_00
+b20d2ee6	ped		m_clb_tower_f_01
 b24afa52	ped		
 b24f6b45	ped		cs_kd
 b26357cb	ped		
@@ -3301,7 +3301,7 @@ b37e6a7e	ped		ie_cflee_m_00
 b384511c	ped		
 b39b0ae6	vehicle	lazer	
 b3b4467e	ped		
-b3c4ccbd	ped		
+b3c4ccbd	ped		cti_mech_stol_m_00
 b3e8a439	ped		
 b3f5c5db	ped	crm_dog_chihuahuastray_m_00	
 b400e34e	ammo		
@@ -3463,7 +3463,7 @@ bc33da3d	ped
 bc36a973	ped		ie_cpdwn_f_00
 bc488987	ped_capsule	stingray	
 bc4d8ae4	ped		cs_stefanie
-bc566648	ped		
+bc566648	ped		ex_secrevbcs_m_00
 bc62e499	ped		
 bc6356c5	ped		
 bc6e2a0f	pickup		
@@ -3511,7 +3511,7 @@ bef4bae2	pickup
 bef5657c	ped		
 bef96e5d	animal_tuning		
 bf0514c5	pickup		
-bf07bfbb	ped		
+bf07bfbb	ped		m_clb_tower_m_00
 bf19e45a	ped		
 bf1a7673	weapon_damage_modifier		
 bf1ad6ab	ped		
@@ -3520,7 +3520,7 @@ bf3213d9	vehicle_colour
 bf3c51c7	ped		
 bf3d0b9f	vehicle_colour		
 bf40da2d	ped		
-bf41faf8	ped		
+bf41faf8	ped		ci_up_hcguest_m_00
 bf4d586b	pickup		
 bf51e8e4	ped		
 bf54dc44	pickup		
@@ -3606,7 +3606,7 @@ c3884526	ped		ie_targp_m_00
 c39ffd0e	pickup		
 c3bce5ca	pickup		
 c3c118fd	ped		
-c3d1e8cf	ped		
+c3d1e8cf	ped		m_clb_meet_f_00
 c3f457bc	ped		
 c3f74226	ped_nav_capability		
 c4363f69	ped		
@@ -3993,7 +3993,7 @@ d8f1f85a	ped
 d8f5b46c	pickup		
 d90a71ec	ped		
 d915efa6	ped		cs_nate_bozer
-d9247d4b	ped		
+d9247d4b	ped		m_clb_party_m_00
 d947aa44	pickup		
 d9484c05	vehicle	trailermotorbike	
 d94ee34c	ped		
@@ -4259,7 +4259,7 @@ e65dd8c5	pickup
 e6602cb8	ped		
 e664d132	ped		ie_stahk_m_00
 e66d970d	ped		
-e674c64f	ped		
+e674c64f	ped		a_f_x_aa_activewear_casual_mixed_low_00
 e676ec3d	ped		css_farmtr_m_00
 e6a5102e	ped		
 e6a87b53	pickup		
@@ -4284,7 +4284,7 @@ e7df307b	pickup
 e7ebb7ff	pickup		
 e7ee3ac4	pickup		
 e820caac	pickup		
-e821bbdc	ped		
+e821bbdc	ped		a_m_x_aa_urbanredneck_mixed_mixed_mid_00
 e82ae656	vehicle	baletrailer	
 e8540514	ammo		
 e861fffc	animal_tuning		
@@ -4330,7 +4330,7 @@ ea7416be	ped
 ea77fbcf	weapon_damage_modifier		
 ea794ba2	vehicle	trailerlivestock	
 ea829796	ped	crr_turtle_boxflorida_m_00	
-ea9dc0db	ped		
+ea9dc0db	ped		m_clb_meet_m_01
 eab013ca	ped		
 eab7ab69	weapon_accuracy		
 eab92c70	pickup		
@@ -4383,14 +4383,14 @@ ed4bfd28	ped
 ed612cdc	ped	crf_barracuda_great_m_00	
 ed7eada4	vehicle	minivan	
 ed834a51	pickup		
-ed85408b	ped		
+ed85408b	ped		ci_up_gholrec_m_00
 ed864bc7	ped		
 ed8de161	ped_capsule		
 ed9617e0	ped		ie_gasfu_f_00
 edb3aebd	vehicle	greta	
 edca8942	pickup		
 edd516c6	vehicle	buffalo	
-ede23c02	ped		
+ede23c02	ped		ci_up_gholrnt_m_00
 edf5ec12	ped		
 edfb161e	pickup		
 edffdc30	ped		
@@ -4472,7 +4472,7 @@ f1e5e27d	pickup
 f1ed7004	vehicle_colour		
 f1ef82ea	pickup		
 f20a6d26	animal_tuning		
-f20bbe46	ped		
+f20bbe46	ped		cti_mech_hoga_m_00
 f20d369b	ped		
 f212830a	vehicle_colour		
 f219af13	vehicle	rhode	
@@ -4519,7 +4519,7 @@ f3b8e70a	ped
 f3b9a6a5	weapon_accuracy		
 f3c87f6d	ped		
 f3ca1b6b	ammo		
-f3d0ed01	ped		
+f3d0ed01	ped		m_int_plnsh_f_00
 f3dc0bd5	ped		
 f3eb89c9	ped		
 f3fffd12	animal_tuning		
@@ -4606,7 +4606,7 @@ f7fac81b	ped
 f80fe78c	ped		
 f81592bb	ped		
 f81668a5	pickup		
-f817dbdf	ped		
+f817dbdf	ped		m_clb_meet_m_00
 f820f37e	ped		ie_bvgng_m_01
 f8280f82	ped	crm_sheep_coastgulf_f_00	
 f82b9bfd	pickup		
@@ -4617,7 +4617,7 @@ f84e0654	ped
 f863d925	ped		ie_trapf_m_00
 f863e512	pickup		
 f866ce76	ped	crm_bat_brownbig_m_00	
-f87a2a65	ped		
+f87a2a65	ped		cs_dirtycop_02
 f88237da	pickup		
 f8932ae0	ped	crb_oriole_orchard_m_00	
 f8999cb7	ped		
@@ -4643,7 +4643,7 @@ f9bb0b9a	ped		cs_benedict_halifax
 f9c17f98	ped		
 f9fbaebe	weapon	weapon_animal	
 fa07fe37	ped		ex_dtchdt_m_03
-fa236baf	ped		
+fa236baf	ped		cmp_cpris_m_00
 fa258aef	ped		
 fa341614	ped		
 fa6ba3bb	ped	crm_deer_whitetailed_f_00	
