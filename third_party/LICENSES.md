@@ -174,7 +174,7 @@ SOFTWARE.
 
 # Sources published without a license
 
-These two repositories publish no license, so there is no license text to reproduce and the MIT license of this
+These three repositories publish no license, so there is no license text to reproduce and the MIT license of this
 repository does not cover what comes from them. Only names, hashes and the tables below are used, each marked with its
 source. If you wrote one of them and want it removed or credited differently, open an issue.
 
@@ -191,3 +191,10 @@ damage modifiers, enums, anim dictionaries), and its two model name lists, Drawa
 Used in: data/community (zia-ullah-khan), data/traffic/. Taken from commit 6d9671b
 (https://github.com/Zia-ullah-khan/gta6-car-spawn-maps): area, vehicle-category and schedule names, the popcycle
 schedule weights and the traffic zone volumes.
+
+## Cuebert/gta6-save-editor
+
+Used in: data/save/sections.tsv and data/save/json_keys.tsv (three names). Taken from commit c3d0f2c
+(https://github.com/Cuebert/gta6-save-editor): the field names ScriptTimeOfDayCheckpoint, TimeOfDayCheckpointData and
+IsCheckPointSave, which its Xbox story editor reads at the same places in the save. Each one was checked against real
+saves. No code is used.

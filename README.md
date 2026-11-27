@@ -22,7 +22,7 @@ Every hash that appears in a PS5 story save, named or not, with the evidence for
 | `stat_qualifiers.tsv` | Stat qualifiers: weapons, vehicles, places, activities, game modes | 2,507 of 3,763 (another 1,191 have the game's label, 62 a description) |
 | `stat_owners.tsv` | Stat owners: the total, Lucia, Jason, missions, gang operations, arcade games | 233 of 239 |
 | `items.tsv`, `slots.tsv` | Inventory item and slot IDs | 944 of 1,138 and 554 of 586 |
-| `sections.tsv`, `json_keys.tsv` | The save's own sections and JSON keys (hashed as written, not lower-cased) | 64 of 82 and 610 of 843 |
+| `sections.tsv`, `json_keys.tsv` | The save's own sections and JSON keys (hashed as written, not lower-cased) | 65 of 82 and 613 of 843 |
 | `stat_screen_labels.tsv` | Whole stat rows and what the game's stats screens call them | 393 rows |
 | `text_ids.tsv` | IDs that are the key of their own on-screen text (discovery entries, radio stations, text messages, unlockables); the 158 vehicle names also carry the name that hashes to them | 693 |
 | `suffix_text_ids.tsv` | Social media posts, news articles and accounts, whose text is keyed by the ID's name plus `_caption`, `_header` or `_handle` | 2,360 |
@@ -45,7 +45,7 @@ The columns that matter most:
 
 ### `data/community/`: every known name, merged by hash
 
-`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,357,875 hashes with every name proposed
+`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,357,878 hashes with every name proposed
 for them and where each came from. It merges the public GTA VI name lists (asm512, lynxnathan, tarekmania and
 ahmed605's strings database, and openrage's GTA VI archive entry names), the names in DurtyFree's GTA VI data dumps
 (`durtyfree`, with its 210,645 model names) and in Zia-ullah-khan's car spawn maps (`zia-ullah-khan`), and the names
@@ -121,6 +121,7 @@ Found a new name or a wrong one? Add it to a file in `contributions/` and open a
 MIT (`LICENSE`) for this repository's own work. The asm512, lynxnathan, tarekmania, ahmed605 and openrage name lists
 and the radio catalog are MIT licensed too; their license texts are in `third_party/LICENSES.md`.
 
-DurtyFree's GTA VI data dumps and Zia-ullah-khan's car spawn maps are published without a license. Only their names,
-hashes and tables are used here, each marked with its source, and the MIT license here does not cover them. If you
-wrote one of them and want it taken out or credited differently, open an issue.
+DurtyFree's GTA VI data dumps, Zia-ullah-khan's car spawn maps and Cuebert's gta6-save-editor (three save field names)
+are published without a license. Only their names, hashes and tables are used here, each marked with its source, and
+the MIT license here does not cover them. If you wrote one of them and want it taken out or credited differently, open
+an issue.
