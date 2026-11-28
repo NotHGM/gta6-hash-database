@@ -6294,7 +6294,7 @@ hash	names	sources	in_mit_index
 394bba02	ThirdPersonVehicleAimCameraRef	two-play-openrage	yes
 394c2006	WeaponAnimsFPSIdle	two-play-openrage	yes
 394ec2e9	objectScale	sixng	yes
-395039a9	ENTITY | Entity | entity	tarekmania-confirmed,two-play-openrage	yes
+395039a9	entity	tarekmania-confirmed,two-play-openrage	yes
 395046a7	OnlyAllowFiring	sixng,two-play-openrage	yes
 39534c4a	MaxCapsuleTests	two-play-openrage	yes
 39563f7a	PlayerFlappingTurnAcceleration	two-play-openrage	yes
@@ -6675,7 +6675,6 @@ hash	names	sources	in_mit_index
 3c495c93	CoverEntryStandDistance	two-play-openrage	yes
 3c49a486	ThrowProjectileClips	two-play-openrage	yes
 3c4a6522	MaxPlaneControlAbility	two-play-openrage	yes
-3c4af3d4	lyr0materialbtex	tarekmania-confirmed	
 3c4c8716	Radio_Genre_Gang_San4SanGangCar	sixng	
 3c4defa5	bloodzoneadjust	two-play-openrage	yes
 3c4df4e4	ShopVehicleDataArray	two-play-openrage	yes
@@ -7632,7 +7631,7 @@ hash	names	sources	in_mit_index
 44da2de6	rows	sixng	yes
 44e04d6e	Follow_Eager	sixng	
 44e1c886	Game	sixng	yes
-44e21c90	BASE | Base | base	tarekmania-confirmed	yes
+44e21c90	Base | base	tarekmania-confirmed	yes
 44e2cf3f	AllowWrapping	two-play-openrage	yes
 44e355d3	v_24_trevor_briefcase2	two-play-openrage	yes
 44ecfc0b	CAgitatedConditionIsAgitatorInjured	two-play-openrage	yes
@@ -9921,7 +9920,7 @@ hash	names	sources	in_mit_index
 59a11877	set_trophy_100x	two-play-openrage	yes
 59a16394	MinDelayBetweenBuoyancyStateChanges	two-play-openrage	yes
 59a391e4	DontPickOnEnter	sixng,two-play-openrage	yes
-59a59c3e	SLOTS | Slots | slots	tarekmania-confirmed	yes
+59a59c3e	slots	tarekmania-confirmed	yes
 59a7b157	WitnessPersonality	two-play-openrage	yes
 59a7fae4	RABBIT_ON_FOOT	two-play-openrage	yes
 59a92f33	DistanceXYToUseHeightMapAvoidance	two-play-openrage	yes
@@ -17898,7 +17897,7 @@ a1334fab	PlayerRoadDensityInc	two-play-openrage	yes
 a1379a87	CAgitatedResponse__Flags	two-play-openrage	yes
 a13808c5	Upper3	sixng	yes
 a13a3570	entity_set_fingerprint	two-play-openrage	yes
-a13c79ef	Offset | offset	tarekmania-confirmed,two-play-openrage	yes
+a13c79ef	offset	tarekmania-confirmed,two-play-openrage	yes
 a13cfd64	grefparticlepos	two-play-openrage	yes
 a1419d8f	peds_clothing	two-play-openrage	yes
 a1437ee1	g_hdaoapplyparams	two-play-openrage	yes
@@ -18273,7 +18272,7 @@ a472648b	mod_col_2	sixng,two-play-openrage	yes
 a473f833	progress_tux	two-play-openrage	yes
 a4755bb6	DefaultTakeoffBlendoutPhase	two-play-openrage	yes
 a4756fa6	overwriteSquared	sixng,two-play-openrage	yes
-a478703e	Lights | lights	tarekmania-confirmed,two-play-openrage	yes
+a478703e	lights	tarekmania-confirmed,two-play-openrage	yes
 a479da37	PreferMelee	sixng	yes
 a47bbb88	JumpClipSetHash	two-play-openrage	yes
 a47cddbc	MaxVelocityToEnterBike	two-play-openrage	yes
@@ -20579,7 +20578,6 @@ ba3e5c75	GapSize	sixng	yes
 ba3e78e9	CSpawnLink	sixng	yes
 ba3eae1e	LAW_RESPONSE_DELAY_SLOW	two-play-openrage	yes
 ba431abc	InsideClipSetMap	two-play-openrage	yes
-ba434b0e	wheelId	tarekmania-confirmed	yes
 ba43959d	entity_set_floor_option_08	two-play-openrage	yes
 ba466b50	Spec	sixng	yes
 ba48a8df	CameraAngle	sixng	yes
@@ -22094,7 +22092,7 @@ c8c298b5	AssassinLvl1ShootRate	two-play-openrage	yes
 c8c64c1a	halfSigmoidConstant	two-play-openrage	yes
 c8c6fbc4	BirdSpawnXYRangeMin	two-play-openrage	yes
 c8c8d861	itemModifiers	sixng	yes
-c8d27281	Albedo | albedo	tarekmania-confirmed,two-play-openrage	yes
+c8d27281	albedo	tarekmania-confirmed,two-play-openrage	yes
 c8d48032	useEmissive	tarekmania-confirmed	yes
 c8d51b9e	fwAnimSceneCompositeSectionData	tarekmania-confirmed	
 c8d9ea1d	DisableJacking	sixng,two-play-openrage	yes
@@ -25638,7 +25636,7 @@ e9b9cb8e	entity_set_mural_option_07	two-play-openrage	yes
 e9ba3c8d	BaseFovToEmulateWithFocalLengthMultiplier	two-play-openrage	yes
 e9bb04a9	bonemask_head_neck_and_r_arm	two-play-openrage	yes
 e9bf811a	BOAT	sixng,two-play-openrage	yes
-e9bf9f2d	Indices | indices	tarekmania-confirmed,two-play-openrage	yes
+e9bf9f2d	indices	tarekmania-confirmed,two-play-openrage	yes
 e9c2e619	kGravityRotation	two-play-openrage	yes
 e9c379e5	POLICE_SCANNER_PREFIX_dark	two-play-openrage	yes
 e9c62a17	WantedStarPenalty	two-play-openrage	yes
@@ -25693,7 +25691,7 @@ ea35c31c	Hint	sixng	yes
 ea35ceea	BUTTONS_TRIGGERS	two-play-openrage	yes
 ea37bb86	rblade_3fast	two-play-openrage	yes
 ea39f29b	lightRigs	two-play-openrage	yes
-ea42cb63	ARCHETYPE | Archetype | archetype	tarekmania-confirmed	yes
+ea42cb63	Archetype | archetype	tarekmania-confirmed	yes
 ea452de2	fMinSecondsDelayBetweenChatLines	two-play-openrage	yes
 ea47ebeb	SeekModeScanTimeMax	two-play-openrage	yes
 ea4b75c6	set_armor_crate	two-play-openrage	yes

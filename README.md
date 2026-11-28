@@ -63,9 +63,9 @@ OnlyMoisties' table the PS5 handler, parameters and return type. Sources: OnlyMo
 
 ### `data/community-gpl/`: names from GPL-3.0 sources
 
-`hashes.tsv`: 28,100 hashes named by SixNG, Two-Play/openRAGE and tarekmania's confirmed layer (which uses SixNG).
+`hashes.tsv`: 28,098 hashes named by SixNG, Two-Play/openRAGE and tarekmania's confirmed layer (which uses SixNG).
 Their GPL-3.0 licence doesn't allow them in the MIT index, so this folder is GPL-3.0 (see its `README.md` and
-`LICENSE`); 1,510 of the hashes aren't in the MIT index.
+`LICENSE`); 1,505 of the hashes aren't in the MIT index.
 
 ### `data/game/`: game data tables
 

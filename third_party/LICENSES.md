@@ -287,5 +287,5 @@ GNU General Public License v3.0.
 
 ## tarekmania/gta6-namehash (confirmed layer)
 
-Used in: data/community-gpl (tarekmania-confirmed), from commit 707b550: confirmed.json, which it builds partly
+Used in: data/community-gpl (tarekmania-confirmed), from commit 17f4511: confirmed.json, which it builds partly
 from SixNG (GPL-3.0). Its dictionary.json stays in the MIT index as before (see above).
