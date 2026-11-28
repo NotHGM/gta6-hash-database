@@ -149,12 +149,40 @@ SOFTWARE.
 Used in: data/community (openrage), from commit ed23d52 (first merged from 33c0fcc): the GTA VI archive entry names in
 assets/gta6_names/vocabulary.txt; from commit 276a2c8 (first merged from 95131cf): the script field, method, program and type
 names and the script strings in assets/gta6_script_names (names-*.tsv; each row is checked against its hash); and from commits 1a37ec0, 2362bc1 and 9c955cc: the field names of the settings save
-(KNOWN_SETTINGS_FIELD_NAMES in crates/io/or-io/src/gta6/save.rs).
+(KNOWN_SETTINGS_FIELD_NAMES in crates/io/or-io/src/gta6/save.rs). And data/natives (openrage), from commit a5a4a91: assets/gta6_script_names/natives-gta6-merged.json.
 
 ```
 MIT License
 
 Copyright (c) 2026 OpenRage contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+## rpfexplorer/ViceViewerVI
+
+Used in: data/community (viceviewervi): src/names.txt.gz as published on 27 November 2026, each name and its stem.
+
+```
+MIT License
+
+Copyright (c) 2026 rpfexplorer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -201,6 +229,12 @@ Used in: data/save/sections.tsv and data/save/json_keys.tsv (three names). Taken
 (https://github.com/Cuebert/gta6-save-editor): the field names ScriptTimeOfDayCheckpoint, TimeOfDayCheckpointData and
 IsCheckPointSave, which its Xbox story editor reads at the same places in the save. Each one was checked against real
 saves. No code is used.
+
+## OnlyMoisties/gta6-native-db
+
+Used in: data/natives (onlymoisties), from commit 3a65ab7: natives.tsv (PS5 01.002.001). Published without a
+license.
+
 
 # Sources with all rights reserved
 

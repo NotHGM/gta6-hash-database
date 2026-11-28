@@ -45,13 +45,21 @@ The columns that matter most:
 
 ### `data/community/`: every known name, merged by hash
 
-`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,576,316 hashes with every name proposed
+`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 2,388,582 hashes with every name proposed
 for them and where each came from. It merges the public GTA VI name lists (asm512, lynxnathan, tarekmania and
-ahmed605's strings database, openrage's GTA VI archive entry names, script names and settings save field names, and
-OpenVI-CE's GTA6-StringsDatabase of archive file names, `openvi-ce`), the names in
+ahmed605's strings database, openrage's GTA VI archive entry names, script names and settings save field names,
+OpenVI-CE's GTA6-StringsDatabase of archive file names, `openvi-ce`, and Vice Viewer VI's name list with each name's
+stem, `viceviewervi`), the names in
 DurtyFree's GTA VI data dumps (`durtyfree`, with its 210,645 model names) and in Zia-ullah-khan's car spawn maps
 (`zia-ullah-khan`), and the names verified above (`save-garage`). A hash can have several names. When one of them
 comes from `save-garage`, that name has been checked against real saves.
+
+### `data/natives/`: script natives
+
+`natives.tsv`: 6,827 script natives by their 64-bit hash (these aren't joaat names, so they have a table of their
+own), 2,784 of them named, with the namespace, the names proposed and where they came from, and from
+OnlyMoisties' table the PS5 handler, parameters and return type. Sources: OnlyMoisties/gta6-native-db (PS5
+01.002.001, `onlymoisties`) and openrage's natives-gta6-merged.json (Xbox 1.0.2.1, `openrage`).
 
 ### `data/community-gpl/`: names from GPL-3.0 sources
 
@@ -64,7 +72,7 @@ Their GPL-3.0 licence doesn't allow them in the MIT index, so this folder is GPL
 `game_data.tsv` lists 4,743 hashes from the game's metadata tables, as dumped by DurtyFree: peds, vehicles, weapons,
 ammo, pickups, animal tunings, ped capsules and navigation, doors, vehicle colours and plates, weapon accuracies and
 damage modifiers. A name is given only when it hashes to the row's hash (887 rows). The other 3,856 hashes are still
-unnamed: `other_names` shows any name the community index proposes for them (2,190 rows).
+unnamed: `other_names` shows any name the community index proposes for them (2,200 rows).
 
 ### `data/traffic/`: traffic and car spawns
 
@@ -125,11 +133,11 @@ Found a new name or a wrong one? Add it to a file in `contributions/` and open a
 
 ## License
 
-MIT (`LICENSE`) for this repository's own work. The asm512, lynxnathan, tarekmania, ahmed605 and openrage name lists
-and the radio catalog are MIT licensed too; their license texts are in `third_party/LICENSES.md`.
+MIT (`LICENSE`) for this repository's own work. The asm512, lynxnathan, tarekmania, ahmed605, openrage and Vice Viewer
+VI name lists and the radio catalog are MIT licensed too; their license texts are in `third_party/LICENSES.md`.
 
-DurtyFree's GTA VI data dumps, Zia-ullah-khan's car spawn maps and Cuebert's gta6-save-editor (three save field names)
-are published without a license. Only their names, hashes and tables are used here, each marked with its source, and
+DurtyFree's GTA VI data dumps, Zia-ullah-khan's car spawn maps, Cuebert's gta6-save-editor (three save field names)
+and OnlyMoisties' native table are published without a license. Only their names, hashes and tables are used here, each marked with its source, and
 the MIT license here does not cover them. If you wrote one of them and want it taken out or credited differently, open
 an issue.
 

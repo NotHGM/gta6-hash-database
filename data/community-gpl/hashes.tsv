@@ -7497,7 +7497,7 @@ hash	names	sources	in_mit_index
 439a5e41	Extra	sixng	yes
 439ae1ac	tcLightningStrikeOnly	two-play-openrage	yes
 439c4eac	envbloodtangent	two-play-openrage	yes
-439fddac	lights_rims	tarekmania-confirmed	
+439fddac	lights_rims	tarekmania-confirmed	yes
 43a0f766	ShouldDetect	two-play-openrage	yes
 43a5f8a5	set_plan_gruppe_sechs_outfits	two-play-openrage	yes
 43a825a6	CTargettingDifficultyInfo	two-play-openrage	yes
@@ -14261,7 +14261,7 @@ hash	names	sources	in_mit_index
 8144a698	breathWaterPtFxEnabled	two-play-openrage	yes
 81468f7f	mod_t	two-play-openrage	yes
 81472640	MaxDistToCoverWhenPlayerIsClose	two-play-openrage	yes
-814a6407	brakediscs	tarekmania-confirmed	
+814a6407	brakediscs	tarekmania-confirmed	yes
 814de9fd	SAT_INSULT	sixng,two-play-openrage	yes
 815220dd	RootTransform	sixng	
 8159c1b0	NeckBoundRadius	two-play-openrage	yes
@@ -15290,7 +15290,7 @@ hash	names	sources	in_mit_index
 8a1c04ee	MENU_UNIQUE_ID_CORONA_INVITE_PLAYERS	two-play-openrage	yes
 8a24453d	MaxXYAccelerationForLeanBike	two-play-openrage	yes
 8a266e84	DRA_MOVE_LOWER_ARM_AND_HAND_HITS_TO_CLAVICLE	sixng,two-play-openrage	yes
-8a28644c	police_scanner	tarekmania-confirmed	
+8a28644c	police_scanner	tarekmania-confirmed	yes
 8a2893a2	gdecalsampler	two-play-openrage	yes
 8a28f7bb	PinnedDownDecreaseAmountPerSecond	two-play-openrage	yes
 8a295d02	Tuning	sixng,two-play-openrage	yes
@@ -24905,7 +24905,7 @@ e2ebfa09	EAGLEEYEINFO_FILE	sixng	yes
 e2eec5fa	HighFallWaterDepthMax	two-play-openrage	yes
 e2f517ea	ShouldApplyAttachOffsetRelativeToCamera	two-play-openrage	yes
 e2f6c78f	MaxPitchDefault	two-play-openrage	yes
-e2f7859b	calipers	tarekmania-confirmed	
+e2f7859b	calipers	tarekmania-confirmed	yes
 e2f8e89e	boatPropellerPtFxDepthEvoMin	two-play-openrage	yes
 e2ff2366	requiredVersion	two-play-openrage	yes
 e3001e17	RagdollComponentAirResistanceMinStiffness	two-play-openrage	yes
