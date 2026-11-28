@@ -61,8 +61,8 @@ SOFTWARE.
 
 ## tarekmania/gta6-namehash
 
-Used in: data/community (tarekmania), from dictionary.json as downloaded on 24 November 2026. Its later
-refreshes (from 28 November) build the confirmed layer partly from SixNG, which is GPL-3.0, so they are not merged.
+Used in: data/community (tarekmania), from dictionary.json as downloaded on 24 November 2026 (unchanged since). Its
+confirmed layer from 28 November is built partly from SixNG, which is GPL-3.0, so it goes in data/community-gpl/.
 
 ```
 MIT License
@@ -201,3 +201,57 @@ Used in: data/save/sections.tsv and data/save/json_keys.tsv (three names). Taken
 (https://github.com/Cuebert/gta6-save-editor): the field names ScriptTimeOfDayCheckpoint, TimeOfDayCheckpointData and
 IsCheckPointSave, which its Xbox story editor reads at the same places in the save. Each one was checked against real
 saves. No code is used.
+
+# Sources with all rights reserved
+
+## OpenVI-CE-Team/GTA6-StringsDatabase
+
+Used in: data/community (openvi-ce), from commit 8ec34cf: the archive file names in GTA6/ArchiveItems/*.txt, merged by
+lower-case joaat like the other archive name lists. Credit: **OpenVI-CE (GTA6-StringsDatabase)**,
+https://github.com/OpenVI-CE-Team/GTA6-StringsDatabase. Its licence and notice, kept as they ask:
+
+```
+Copyright (c) 2026 OpenVI-CE. All rights reserved.
+
+GTA6-StringsDatabase, including the name lists, hash lists and tools in this repository, is the work of OpenVI-CE.
+Publication on GitHub does not grant a licence to copy, redistribute or reuse this work beyond what
+GitHub's Terms of Service allow, unless OpenVI-CE gives written permission. Any permitted use must credit OpenVI-CE
+and keep the OpenVI-CE notices, as described in NOTICE.
+
+Contributions submitted by pull request may be included in this work under the same terms.
+
+OpenVI-CE is not affiliated with, endorsed by or sponsored by Rockstar Games or Take-Two Interactive.
+Grand Theft Auto and Grand Theft Auto VI are trademarks of Take-Two Interactive Software, Inc.
+```
+
+```
+GTA6-StringsDatabase
+Copyright (c) 2026 OpenVI-CE. All rights reserved.
+
+This database of Grand Theft Auto VI file names was built and is maintained by OpenVI-CE.
+Source: https://github.com/OpenVI-CE-Team/GTA6-StringsDatabase
+
+Any use, copy, mirror, derivative list, dataset or model output that draws on this data must credit
+"OpenVI-CE (GTA6-StringsDatabase)" and link to the source above. The OpenVI-CE header at the top of each data file
+must be kept.
+```
+
+
+# GPL-3.0 sources (data/community-gpl/ only)
+
+These names are kept in `data/community-gpl/`, which is GPL-3.0 (its own `LICENSE`), and not in the MIT index.
+
+## holdmysocks/SixNG
+
+Used in: data/community-gpl (sixng), from commit 67fc274: crates/sixng-core/src/names_exe.txt and
+crates/sixng-core/src/enum_values.txt. GNU General Public License v3.0.
+
+## Two-Play/openRAGE
+
+Used in: data/community-gpl (two-play-openrage), from commit 36395ab: crates/rage-formats/src/meta_names.txt.
+GNU General Public License v3.0.
+
+## tarekmania/gta6-namehash (confirmed layer)
+
+Used in: data/community-gpl (tarekmania-confirmed), from commit 707b550: confirmed.json, which it builds partly
+from SixNG (GPL-3.0). Its dictionary.json stays in the MIT index as before (see above).

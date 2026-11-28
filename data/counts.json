@@ -1,8 +1,10 @@
 {
  "collectibles": 1012,
- "community_hashes": 1428614,
+ "community_hashes": 1576316,
  "game_data": 4743,
  "gang_operations": 44,
+ "gpl_hashes": 28100,
+ "gpl_hashes_not_in_mit_index": 1510,
  "items": 1138,
  "json_keys": 843,
  "missions_and_tasks": 137,

@@ -2,45 +2,45 @@ hash	kind	name	other_names
 0002c674	weapon_accuracy		
 00046403	animal_tuning		
 0006b246	pickup		
-0007f78b	ped		
+0007f78b	ped		s_m_x_mc_firefighteruniform_00
 00090f28	animal_tuning	species_domestic_dog_xlarge_domesticated	
-000e021d	ped		
-0010cf51	ped		
+000e021d	ped		a_m_x_aa_nudistunstablerevealing_nude_mixed_mid_00
+0010cf51	ped		m_rob_boat_m_02
 00167241	vehicle_colour		
-0036febb	ped		
-003b17a7	ped		
-0047517d	ped		
-004d9988	ped		
+0036febb	ped		s_f_x_pg_tattooparlour_casual_mixed_low_00
+003b17a7	ped		a_f_x_kl_fishing_casual_mixed_mid_00
+0047517d	ped		s_m_x_aa_gymstaffcasual_00
+004d9988	ped		a_m_x_aa_localdaywear_casual_mixed_mid_00
 00577aa3	pickup		
 0086a212	ped		
-00973aae	ped		
+00973aae	ped		a_f_y_aa_nightlife_sexy_mixed_mid_00
 00abb0c0	vehicle	carbonrs	
 00ac83d8	pickup		
-00ba66de	ped		
+00ba66de	ped		s_m_x_aa_securityguard_00
 00ce6371	pickup		
 00d84666	pickup		
 00e83c17	vehicle	hermes	
-00ffe0a6	ped		
+00ffe0a6	ped		a_m_m_aa_bigshot_swim_mixed_high_00
 0107fee7	animal_tuning		
 011aef05	pickup		
 011eb29f	weapon_damage_modifier		
 011fe2f8	pickup		
 0146fff1	animal_tuning		
-014f5d83	ped		
+014f5d83	ped		a_m_o_aa_golfer_sport_mixed_mid_00
 015e402d	vehicle	eboost	
 017c544a	pickup		
 018f98f8	weapon	weapon_tool_fuelcan	
 0191bcc1	vehicle_colour		
 0197379c	vehicle_colour		
-01aef94b	ped		
-01c2fac0	ped		
-01cfe712	ped		
+01aef94b	ped		s_m_x_aa_shopkeeperclothinghigh_00
+01c2fac0	ped		cmp_kstsh_m_00
+01cfe712	ped		a_f_o_aa_activewear_casual_mixed_mid_00
 01d8fded	ped		csc_drt_final_m_02
-01e08696	ped		
-01e4d6b1	ped		
+01e08696	ped		g_m_m_san4san_grd_00
+01e4d6b1	ped		s_m_x_aa_deliverydriverfood_00
 01ebbefc	ped		m_int_plnsh_m_00
-020f608f	ped		
-022d5f5b	ped		
+020f608f	ped		s_m_x_aa_gymstaffhigh_00
+022d5f5b	ped		a_m_x_aa_touristbeachpop_mixed_mixed_mid_00
 022f85e4	ped		
 02308f99	ped		
 02351e56	animal_tuning		
@@ -54,25 +54,25 @@ hash	kind	name	other_names
 0273c534	vehicle	flatdeck	
 0281446e	ped		cmp_drghs_m_00
 028e99fe	pickup		
-0298487f	ped		
+0298487f	ped		cs_hector_bookie
 029f4ac4	pickup		
 02a95b1d	animal_tuning		
 02cbd536	pickup		
 02d20b5c	weapon	weapon_revolver_magnum	
 02d246f9	pickup		
 02e19879	vehicle	tiptruck	
-02e4b97a	ped		
-031cfb87	ped		
-0321ebd3	ped		
+02e4b97a	ped		cti_deal_crrl_m_00
+031cfb87	ped		s_m_x_aa_cellericatenders_00
+0321ebd3	ped		s_m_x_aa_constructionworker_00
 032a7a04	ped	crb_crane_whooping_m_00	
-034418c7	ped		
+034418c7	ped		a_m_x_aa_daywearelegant_mixed_mixed_high_00
 035370d5	ped		csc_stu_plane_f_00
-03619f78	ped		
-0364cef7	ped		
+03619f78	ped		a_m_y_kl_genpop_casual_mixed_mid_00
+0364cef7	ped		m_mny_kidnp_m_00
 0365e128	weapon	weapon_melee_crowbar	
-036630ef	ped		
-0379c3c9	ped		
-03906fa9	ped		
+036630ef	ped		cti_deal_rckc_m_00
+0379c3c9	ped		sws_gunrng_m_00
+03906fa9	ped		m_rob_bank_f_00
 039acd68	animal_tuning		
 03adadcd	animal_tuning		
 03b11851	ammo		
@@ -81,24 +81,24 @@ hash	kind	name	other_names
 03c286c1	pickup		
 03ec7797	vehicle_plate		
 0400084d	ped_capsule		
-042b63dd	ped		
+042b63dd	ped		m_bil_preci_m_01
 04384626	ped		
 0443b4f4	vehicle	declasse500	
-0447732b	ped		
+0447732b	ped		s_m_x_aa_hotelstaffbellhip_00
 044a99b4	pickup		
-044da1f7	ped		
+044da1f7	ped		s_f_x_vd_policeairport_00
 045892aa	pickup		
-04608a96	ped		
+04608a96	ped		cs_club_vip_guest
 04b2dea6	ped		
 04ce68ac	vehicle	dominator	
 04cf15c3	weapon_accuracy		
 04d35ee1	animal_tuning		
 04d9117c	pickup		
-04db886a	ped		
+04db886a	ped		s_m_x_kl_policedispatch_00
 04e3be36	animal_tuning		
-04ef6758	ped		
+04ef6758	ped		a_f_x_aa_ruralsundrenched_swim_mixed_mid_00
 05071b2d	vehicle	duster2	
-050f14d7	ped		
+050f14d7	ped		a_m_y_aa_raver_nightlife_mixed_mid_00
 051f909e	pickup		
 0535315e	vehicle	pulsebike	
 053f0c1a	pickup		
@@ -107,39 +107,39 @@ hash	kind	name	other_names
 05756ba7	pickup		
 05d2131e	ped		cs_debora
 05d6747d	ped		csc_eco_whint_m_00
-05d8a6fa	ped		
+05d8a6fa	ped		cmp_indwg_f_00
 0603a511	ped		cs_justin_tipman
 060c9d72	vehicle_colour		
 06111d05	ped		csc_stu_stn06_m_00
-0612c101	ped		
-062ac608	ped		
-06376b54	ped		
-0648393b	ped		
-06551235	ped		
+0612c101	ped		s_m_x_kc_policedispatch_00
+062ac608	ped		cti_deal_vctl_m_00
+06376b54	ped		a_m_x_aa_ruralhippie_casual_mixed_low_00
+0648393b	ped		cs_lc_racer_04
+06551235	ped		shops_m_mannequin
 067763d7	vehicle_colour		
-06788893	ped		
+06788893	ped		a_m_x_aa_genpopredneckrural_00
 067bc037	vehicle	coquette	
-0684831b	ped		
+0684831b	ped		a_m_x_aa_entrepreneurbohemian_casual_mixed_mid_00
 068abc7f	animal_tuning		
-068d81ba	ped		
+068d81ba	ped		cs_president_russo
 06917154	animal_tuning		
 06a12b7f	pickup		
 06a35c93	ped	crb_killdeer_generic_m_00	
-06a8f9ec	ped		
+06a8f9ec	ped		s_m_m_driver_truck_00
 06b0efd9	pickup		
 06bfb6fd	ped	ex_secrearo_f_00	
 06c711e8	ped_capsule		
 06c815b1	animal_tuning		
 06e04775	pickup		
 06ec9330	ped		
-06f4bbf6	ped		
+06f4bbf6	ped		s_f_x_aa_barstaffevents_00
 06f51662	pickup		
 070852cc	pickup		
-070acbf6	ped		
+070acbf6	ped		s_f_x_aa_shopkeepereris_00
 070da056	vehicle	wymankitcar	
-072b1f6b	ped		
-072bee4e	ped		
-072c8248	ped		
+072b1f6b	ped		a_m_o_aa_touristinternational_swim_mixed_mid_00
+072bee4e	ped		a_m_y_aa_hiphopbeachparty_mixed_mixed_mid_00
+072c8248	ped		m_int_chase_m_00
 074e4cdd	ped		s_m_x_aa_ltf_00
 0765acba	ped	crf_jack_ambergreater_m_00	
 07674fbe	vehicle_colour		
@@ -149,83 +149,83 @@ hash	kind	name	other_names
 0780e8c8	pickup		
 07877068	ped_capsule		
 078abdcd	ped		ie_sraid_m_00
-0791cb81	ped		
-079b0686	ped		
-07b51d23	ped		
+0791cb81	ped		s_f_x_aa_factoryworker_00
+079b0686	ped		a_m_x_aa_touristinternational_beach_mixed_mid_00
+07b51d23	ped		cti_show_esta_m_00
 07c3dd9b	vehicle_colour		
-07c6f26a	ped		
-07ccc642	ped		
-07cdda90	ped		
+07c6f26a	ped		s_m_x_ws_policedispatch_00
+07ccc642	ped		css_skyml_m_00
+07cdda90	ped		s_f_x_aa_countryclubstaff_00
 07e44524	ped	crb_oriole_baltimore_m_00	
 07f1287f	vehicle	muckspreader	
 07f3b224	ammo		
-07fa4774	ped		cs_pooch
+07fa4774	ped		CS_Pooch | cs_pooch
 07fc7d7a	weapon	weapon_rammed_by_car	
-0810ee9b	ped		
+0810ee9b	ped		cs_leif_aland
 082bb98d	vehicle_colour		
 08350f1b	pickup		
-083f6993	ped		
-0860b100	ped		
-0876ac55	ped		
+083f6993	ped		fro_bikbr_m_01
+0860b100	ped		m_bil_red_f_00
+0876ac55	ped		a_m_x_aa_newager_mixed_mixed_mid_00
 087c1313	pickup		
 087e4df3	animal_tuning		
-08817b49	ped		
-08850bb7	ped		
+08817b49	ped		g_m_m_fro_gasme_00
+08850bb7	ped		s_m_x_li_tattooparlour_casual_mixed_low_00
 08852855	vehicle	baller2	
 088e27d2	vehicle_colour		
 089dc5e3	pickup		
 08a1e122	vehicle	trailerULD1	
-08ceed15	ped		
+08ceed15	ped		a_m_x_aa_artbuyer_mixed_mixed_high_00
 08d4be52	weapon	weapon_cougar	
-08de1fab	ped		
+08de1fab	ped		a_m_x_aa_localbeachpop_mixed_mixed_mid_00
 08e8ba6d	weapon_damage_modifier		
 091cfeb7	pickup		
-09281901	ped		
+09281901	ped		m_clb_scuff_m_00
 093311de	pickup		
 093e2f5f	door_tuning	BarnDoor	
 094a0c5e	ped		cs_jada_watts
 0967e119	animal_tuning		
 096a021c	vehicle_colour		
-0972d955	ped		
+0972d955	ped		s_m_x_kl_barnaclebeauties_00
 099f7684	ped	crb_gull_mutated_m_00	
-09b284f8	ped		
+09b284f8	ped		m_int_air_m_00
 09b45bc4	vehicle_colour		
 09b7a974	pickup		
 09d60171	pickup		
-09d94618	ped		
-09e4c7a5	ped		
+09d94618	ped		a_m_x_aa_trailerpark_casual_xxl_low_00
+09e4c7a5	ped		cs_liquid_wilson
 09fd2bd5	weapon_damage_modifier		
 09ffe5e8	ped	crb_sandpiper_spotted_m_00	
 0a05eeb5	pickup		
 0a08f95f	pickup		
 0a1541a5	ped		csc_eco_finale_f_00
 0a1c9160	pickup		
-0a1df05f	ped		
-0a29e6d8	ped		
-0a3284d5	ped		
+0a1df05f	ped		cmp_kstsh_f_01
+0a29e6d8	ped		m_air_truck_m_03
+0a3284d5	ped		a_f_x_aa_golfer_sport_mixed_mid_00
 0a3791b5	vehicle_colour		
 0a55bf88	animal_tuning		
 0a657539	vehicle_colour		
 0a6a78c6	weapon_accuracy		
 0a79c7cc	weapon	weapon_tool_detector	
-0a7dff88	ped		
-0a83148a	ped		
+0a7dff88	ped		sws_shexit_f_00
+0a83148a	ped		cs_papa_assistant_01
 0a90ed5c	vehicle	phantom3	
-0aaa5023	ped		
+0aaa5023	ped		shops_m_mannequin_head
 0aaa8b43	vehicle	sovereign107	
-0aae87cc	ped		
+0aae87cc	ped		a_f_x_aa_townersstreet_casual_mixed_low_00
 0ab8b7bb	ped		ie_flrob_m_00
 0ac27f06	pickup		
-0ac84c21	ped		
+0ac84c21	ped		s_m_x_yh_yhotelstaffvalet_00
 0ae2b440	ped		
-0ae6bb2d	ped		
+0ae6bb2d	ped		m_rob_veh_f_00
 0aeb41db	vehicle_colour		
 0afd22a6	vehicle	freightcar	
-0b08c1f0	ped		
+0b08c1f0	ped		sws_gymarg_m_00
 0b0c76b9	ped		cs_felixtheten
 0b1c0b76	ped		
 0b21acd0	pickup		
-0b33c9ff	ped		
+0b33c9ff	ped		a_m_o_aa_retireebeachlocal_casual_mixed_mid_00
 0b4702dd	ped		
 0b57b5ca	ped_capsule	standard_player_male	
 0b61227a	pickup		
@@ -233,71 +233,71 @@ hash	kind	name	other_names
 0b6fe3cc	pickup		
 0b7318b4	weapon	weapon_sports_golfclub	
 0b73de4b	ped		ie_atss_m_00
-0b7ddcc0	ped		
-0b8ea2ec	ped		
+0b7ddcc0	ped		s_m_x_lc_firefighteruniform_00
+0b8ea2ec	ped		cs_nicole_kidnap2
 0bb162e2	weapon_damage_modifier		
 0bba2261	vehicle	elegy	
 0bd16d3f	ped_capsule		
-0bd93cd9	ped		
-0bda4162	ped		
+0bd93cd9	ped		m_coa_raid_f_00
+0bda4162	ped		s_m_x_aa_sprunksecurity_00
 0bee388d	vehicle	digger	
 0bf7af64	vehicle_colour		
-0bfeea7e	ped		
-0c119bfb	ped		
+0bfeea7e	ped		m_air_truck_m_01
+0c119bfb	ped		s_f_x_aa_frankswaffles_00
 0c2061e6	ped		ie_cpdwn_m_02
 0c22be23	pickup		
 0c3d704b	pickup		
 0c686c12	door_tuning	DefaultGarage	
 0c6c0110	ped	crr_crocodile_american_m_02	
 0c759c3d	pickup		
-0c7f6ec3	ped		cs_wyman
+0c7f6ec3	ped		CS_Wyman | cs_wyman
 0c9ff9e2	weapon_accuracy		
 0ca0e3ac	ped		
 0cae3e51	weapon_damage_modifier		
-0cb1b4e5	ped		
-0cc5bc74	ped		
-0ccdf71c	ped		
+0cb1b4e5	ped		s_m_x_aa_barhipsterstaff_00
+0cc5bc74	ped		g_f_m_san4san_00
+0ccdf71c	ped		cs_cal_brother_in_law
 0cd6afb8	pickup		
-0ce65212	ped		
-0cf0a622	ped		
+0ce65212	ped		cs_liliana_saavedra
+0cf0a622	ped		m_air_bus_m_00
 0d05319f	ammo	ammo_rifle	
 0d05881a	ped	crm_dog_shepherdgermanstray_m_00	
 0d0cdc92	ped		ie_cstun_m_00
-0d14e774	ped		
-0d48d18c	ped		
+0d14e774	ped		a_m_x_aa_genpopcuban_casual_mixed_mid_00
+0d48d18c	ped		a_f_y_aa_hypebeast_casual_mixed_high_00
 0d4e5f4d	vehicle	cheetah2	
-0d5496fe	ped		
+0d5496fe	ped		a_m_x_aa_gay_swim_mixed_mid_00
 0d756689	pickup		
 0d820a48	animal_tuning		
 0d8bb201	ped		csc_stu_plane_m_00
 0d8e9ac7	pickup		
-0d9187f3	ped		
+0d9187f3	ped		s_f_x_aa_banktellerlow_00
 0da1b6f8	ped		csc_mlm_dlvr2_f_00
 0dc598e9	vehicle_colour		
-0dce6acc	ped		
+0dce6acc	ped		m_rob_boat_m_01
 0dcfe9bb	ped		cs_frankie_delight
 0de09260	ped		cs_swamp_witch
-0de74e83	ped		
+0de74e83	ped		cs_delights_bouncer
 0dfc5ece	ped		ie_vrge_m_00
 0e0bbd32	animal_tuning		
 0e0d63c6	pickup		
 0e0e822d	ped		
-0e10b5e2	ped		
+0e10b5e2	ped		s_m_x_vd_policeboat_00
 0e1e2c0a	pickup		
-0e720071	ped		
+0e720071	ped		m_mtl_drive_m_00
 0e733203	pickup		
-0eaa1edd	ped		
+0eaa1edd	ped		cs_enrique_romero
 0eb1d657	ped	crf_jellyfish_moon_m_00	
-0eb4c52b	ped		
+0eb4c52b	ped		s_m_x_aa_factoryworkerskilled_00
 0eb50db7	weapon_accuracy		
 0ec842c0	ped		cs_hollow_earther
 0ed3f3ec	ped	crf_snapper_yellowtail_m_00	
-0ed450a0	ped		
+0ed450a0	ped		s_m_x_aa_cemeterycaretaker_00
 0ee8c39c	animal_tuning		
-0ef2bbdc	ped		
-0f0b824c	ped		
-0f1a81b2	ped		
-0f308960	ped		
+0ef2bbdc	ped		s_m_x_aa_countryclubstaff_00
+0f0b824c	ped		s_f_x_aa_chaceysstaff_00
+0f1a81b2	ped		a_f_x_aa_speedwaycrowd_casual_mixed_mid_00
+0f308960	ped		s_m_x_ha_policeambient_00
 0f45e403	ped	cs_nastydimez_baelux	
 0f5a2000	weapon_accuracy		
 0f5a6b6a	ped		
@@ -312,81 +312,81 @@ hash	kind	name	other_names
 0fd21649	animal_tuning		
 0fd40a39	ped		ie_cstun_f_00
 0ff0e3ff	animal_tuning		
-0ff1cf7a	ped		
+0ff1cf7a	ped		cs_rolo_cristobal
 1004eda4	vehicle	tulip2	
 102203e6	ped		ie_qqgym_f_00
-1025e19d	ped		
+1025e19d	ped		s_f_x_aa_farmworkermigrant_00
 10280826	ped	crb_woodpecker_cockadedred_m_00	
 102cd199	ped		cmp_bowl_f_00
-10306406	ped		
+10306406	ped		a_m_o_aa_genpopruralretiree_mixed_mixed_mid_00
 1044926f	vehicle	tempesta	
 10537296	ped	crb_anhinga_anhinga_m_00	
-105603cf	ped		
+105603cf	ped		s_m_x_aa_funeralhomestaff_00
 1074e915	ped		cmp_stpnt_m_00
-107e164b	ped		
-107e9486	ped		
+107e164b	ped		g_m_m_san4san_00
+107e9486	ped		s_f_x_aa_gasstation_uniform_mixed_mid_00
 10916046	pickup		
-1094c268	ped		
+1094c268	ped		cs_senators_assistant
 10abe119	pickup		
-10b9c7ce	ped		
+10b9c7ce	ped		a_f_x_aa_motorcyclesport_casual_mixed_mid_00
 10cf574c	pickup		
-10e64915	ped		
+10e64915	ped		s_m_x_aa_hotelstaffmid_00
 10f6410a	pickup		
-10fbf0d8	ped		
+10fbf0d8	ped		s_f_x_kl_bartenderdive_00
 10fe719b	pickup		
 1109c4f0	pickup		
-111d720c	ped		
+111d720c	ped		a_f_y_aa_sugarbaby_nightlife_mixed_mid_00
 11265765	ped		cti_pil_rd_bug_m_00
-112982ed	ped		
+112982ed	ped		s_m_x_vb_policebike_00
 11546757	animal_tuning		
-1154cd7a	ped		
+1154cd7a	ped		a_f_x_aa_promotergirl_nightlife_mixed_mid_00
 11598105	vehicle	trotter	
 11613592	ped		cs_bailey
 1167eff6	pickup		
 116fc4e6	pickup	pickup_ammo_smg	
-117facdd	ped		
+117facdd	ped		a_f_o_aa_plasticsurgery_swim_mixed_high_00
 118ea5f1	pickup		
 119dad34	pickup		
-11c8db94	ped		cs_pete_galecki
+11c8db94	ped		CS_Pete_Galecki | cs_pete_galecki
 11cbc051	vehicle	verus	
 11e9d37e	pickup		
-11f19ca7	ped		
+11f19ca7	ped		a_m_x_aa_mountainbiker_sport_mixed_mid_00
 12105076	pickup		
 124bc9c4	ped	crm_dog_foxhoundamerican_f_00	
 12516aec	vehicle	swamp	
-126db086	ped		
+126db086	ped		a_f_x_aa_local_swim_mixed_mid_00
 127e822e	ped	crm_dog_terrierbullpitamericanstray_m_00	
 1294a5eb	pickup		
-1295b4b2	ped		
+1295b4b2	ped		a_f_y_aa_basketball_casual_mixed_mid_00
 12b736e9	pickup		
 12bc8cdf	vehicle_colour		
 12bfefad	ped		cs_pricilla_pace
 12d406f7	pickup		
 12eb79f8	ped		
 12fde855	vehicle_colour		
-130371bc	ped		
+130371bc	ped		m_mny_escrt_f_01
 1303cc6a	ped_capsule	heron	
 13092f6d	ammo		
 132134a5	pickup		
 1323928a	ped_capsule		
-13310d7c	ped		
-13321e83	ped		
-1339c8a7	ped		
+13310d7c	ped		a_m_x_aa_streetartist_casual_mixed_mid_00
+13321e83	ped		cs_sweat_juicy
+1339c8a7	ped		ie_copsc_m_00
 1357bf09	pickup		
 137813ff	ped		ie_atmfn_m_00
 137ab662	pickup		
-137b779c	ped		
+137b779c	ped		s_f_x_ct_crosstowncutz_00
 13915f42	pickup		
 13a12144	ped		csc_drt_mall_m_00
 13a136ee	pickup		
-13a3e532	ped		
+13a3e532	ped		s_m_x_aa_municipalworker_00
 13ac6e35	pickup		
 13b12163	weapon	weapon_heavy_gpmg	
 13b1c81c	ped	ex_discopa_m_00	
 13c6c781	ped	crb_cockatoo_crestedyellow_m_00	
 13d44d4d	animal_tuning		
-13dcbbe3	ped		
-13eca140	ped		
+13dcbbe3	ped		s_f_x_aa_foodtruckstaff_00
+13eca140	ped		s_m_x_ab_policeboat_00
 13ee48c8	ped	cs_vicki	
 13f2d6d7	ped		cs_hotel_squatter
 13f89169	pickup		
@@ -394,81 +394,81 @@ hash	kind	name	other_names
 140e3a05	ped		
 140fd21e	animal_tuning		
 1410f495	pickup		
-14113751	ped		
-14396653	ped		
-14474154	ped		
+14113751	ped		a_m_x_aa_genpop_casual_mixed_mid_00
+14396653	ped		s_m_x_aa_jewelrystorelow_00
+14474154	ped		s_f_x_aa_securityguard_00
 14555859	ped		csc_mlm_ledr2_f_00
-145a8476	ped		
-145a84d8	ped		
+145a8476	ped		s_f_x_aa_privatesecurityhighend_00
+145a84d8	ped		cmp_kstsh_f_00
 14697c6a	pickup		
 14794d94	pickup		
-148255a9	ped		
+148255a9	ped		s_m_x_aa_shopkeeperconveniencestorefranchise_00
 1491cbc1	ped	crf_sunfish_redbreast_m_00	
 14973a10	ped	crf_eel_morayspotted_m_00	
 14a0cd5c	ped		cmp_dstrc_f_00
 14cf3c5a	pickup		
 14d69010	vehicle	chino	
-14e1b15e	ped		
-14f79817	ped		
+14e1b15e	ped		s_f_x_aa_bartendergeneralsexy_00
+14f79817	ped		ie_atmcr_m_00
 14fc93f3	ped	crm_squirrel_grayeastern_m_00	
-1502f670	ped		
+1502f670	ped		s_m_x_aa_kitchenstaffformal_00
 150f7fec	pickup		
-15108dd1	ped		
+15108dd1	ped		m_bil_pent_m_00
 1517d4d9	vehicle	polmav	
 15210704	pickup		
 1549b49a	pickup		
-154a2231	ped		
+154a2231	ped		s_m_x_aa_cattlerancher_00
 154cf564	ped		m_clb_tower_f_02
 154deaae	weapon	weapon_poison	
-154f8453	ped		
-15511acd	ped		
+154f8453	ped		cmp_wpnex_m_01
+15511acd	ped		s_m_x_aa_burgershotstaff_00
 155b0b7d	ped		css_rmdppk_f_00
-156957a9	ped		
+156957a9	ped		ie_driby_m_01
 156fae2e	ped	crr_iguana_green_m_01	
 157170d8	ped	crm_rabbit_marsh_m_00	
 1580ce30	ped	a_m_x_aa_activewear_casual_mixed_mid_00	
 158cf111	ped_nav_capability		
-15b2dbc1	ped		
+15b2dbc1	ped		a_m_y_aa_nudisthippie_nude_mixed_mid_00
 15b79ae3	ped		csc_eco_moint_m_00
 15b98153	animal_tuning		
 15f1154d	weapon_damage_modifier		
 16186345	vehicle	chavosxs	
-161ba05c	ped		
+161ba05c	ped		s_f_x_bv_policeambient_00
 1634be84	vehicle_colour		
 1635c007	vehicle	vigero3	
 1644d1b5	vehicle	trailerboats1	
 16524629	pickup		
 1677cbb9	vehicle	granger3600lx	
 168c1fc8	ped		cs_fabien_larouche
-168e4933	ped		
-1691565e	ped		
-169585b5	ped		
+168e4933	ped		a_f_o_aa_retireeparty_mixed_mixed_mid_00
+1691565e	ped		m_ban_carte_f_00
+169585b5	ped		m_coa_helis_m_00
 1695892c	weapon_damage_modifier		
-1698981d	ped		
+1698981d	ped		s_f_x_lx_policeboat_00
 16a8ec61	ped		
 16ab0fb2	ped		cs_marv_carpenter
-16b861ea	ped		
-16be7f95	ped		
+16b861ea	ped		s_f_x_vb_policebike_00
+16be7f95	ped		m_bil_pent_outro_m_00
 16c43d15	vehicle	montagnexl	
 16c455b9	ped		a_m_x_aa_activewear_casual_mixed_low_00
-16cf76c7	ped		
+16cf76c7	ped		a_f_y_aa_sugarbaby_casual_mixed_mid_00
 16d5efb9	vehicle_colour		
 16f5cf72	ped		sws_milpa_m_00
-16fa21e3	ped		
+16fa21e3	ped		m_int_chase_m_01
 170c079a	ped	crm_panther_black_m_00	
-170dccbe	ped		
+170dccbe	ped		ex_discochh_m_00
 171d2b71	ped		ie_gunnt_m_00
 171f0cf9	ammo		ammo_special_flare
-17245510	ped		
-172fb7b2	ped		
+17245510	ped		m_ban_setup_f_00
+172fb7b2	ped		a_f_x_aa_genpop_casual_mixed_low_00
 17404a56	door_tuning	DefaultHatch	
 17420102	vehicle	cliffhanger	
 1747bec7	ped	crm_deer_agh_m_00	
 17673a8f	animal_tuning		
-176989b5	ped		
+176989b5	ped		ie_copsc_f_02
 177048f9	ped	crm_muskrat_roundtailed_m_00	
 1770671d	ped	a_f_x_aa_activewear_casual_mixed_mid_00	
-17732794	ped		
+17732794	ped		m_clb_steal_m_02
 1779bdf3	vehicle	yougaxl	
 17b17bf8	vehicle	bison1800	
 17c32fb4	ped		cs_jeff
@@ -476,28 +476,28 @@ hash	kind	name	other_names
 17df5ec2	vehicle	squalo	
 1808b7e2	weapon	weapon_smg_machine	
 180d3131	ped		com_dlr_miss_f_00
-18153e63	ped		
+18153e63	ped		con_deal_aprt_f_00
 182d3b62	ped		
 1835a39c	ped		ie_card_f_00
 1859d91a	vehicle_colour		
 185e2ff3	vehicle	outlaw	
 1871672f	ped		ie_dtmel_f_00
-187967a0	ped		
+187967a0	ped		ie_emvdl_f_00
 188059a3	ped		cs_cass
 1891874b	ped		cs_cellerica_cassie
-189b402c	ped		
+189b402c	ped		s_m_x_aa_airboatdriver_00
 18a4dc42	ped		cs_petra_navarro
-18a6a9b5	ped		
+18a6a9b5	ped		a_m_x_aa_activewearmature_sexy_mixed_high_00
 18bb112c	ped		
 18c14621	door_tuning	Mint_door_46a_1M_XX_L	
 18c93d43	ammo		
 18d7ee19	ped	crm_fox_gray_m_00	
 18e80b62	animal_tuning		
-18edd78b	ped		cs_rita
-18f274a1	ped		
-18fb93e3	ped		
+18edd78b	ped		CS_Rita | cs_rita
+18f274a1	ped		ex_discoasp_m_00
+18fb93e3	ped		cs_hannah_garcia
 18fe5c2d	pickup		
-1902da7c	ped		
+1902da7c	ped		s_m_x_yh_yhotelstaffsecurityinterior_00
 1946e1d5	vehicle_plate		
 194c4397	vehicle	blast	
 194ee929	vehicle	traincar2	
@@ -507,76 +507,76 @@ hash	kind	name	other_names
 19937506	pickup		
 199ad41b	ped		cs_tal_dj_bd
 19b78236	weapon	weapon_sports_flying_disc	
-19b9068a	ped		
+19b9068a	ped		s_m_x_di_privatesecurity_00
 19cce48b	weapon	weapon_thrown_flashbang	
 1a163b73	ped		
 1a26c050	pickup		
-1a370462	ped		
+1a370462	ped		s_m_x_aa_restaurantstaffcasual_00
 1a3e1f78	vehicle_colour		
 1a514ac1	vehicle_colour		
-1a666cce	ped		
+1a666cce	ped		s_m_x_aa_airplanepilot_00
 1a8b2600	ped_capsule		
-1a938423	ped		
-1a9b8033	ped		
+1a938423	ped		s_m_x_aa_wildernessranger_00
+1a9b8033	ped		m_mtl_drive_f_01
 1aba13b5	vehicle	cruiser	
 1ac0aa52	weapon_damage_modifier		
-1af1e28e	ped		
+1af1e28e	ped		cs_lc_racer_02
 1b0a9be2	vehicle_colour		
 1b1be0e2	animal_tuning		
 1b238b1c	weapon_damage_modifier		
 1b2901d7	ped		csc_eco_whale_m_02
-1b34e445	ped		
+1b34e445	ped		s_f_x_aa_hotelstafffrontdeskhigh_00
 1b3c5040	weapon_damage_modifier		
 1b50268b	weapon_damage_modifier		
 1b51b294	animal_tuning		
 1b7574ec	ped		csc_mlm_wrhs_f_00
-1b7b5555	ped		
+1b7b5555	ped		s_f_x_yh_gymstaffhigh_00
 1b8165d3	vehicle	jubilee	
 1b9581c2	pickup		
-1b96132f	ped		
+1b96132f	ped		g_m_m_kingfishers_grd_00
 1ba30453	pickup		
-1bb2c039	ped		
-1bca28f9	ped		
-1be1f4ea	ped		
+1bb2c039	ped		a_m_y_aa_touristglamrefined_mixed_mixed_mid_00
+1bca28f9	ped		a_f_x_aa_trailerpark_casual_xxl_low_00
+1be1f4ea	ped		a_m_x_aa_criminalcity_casual_mixed_mid_00
 1be7d768	pickup		
-1c070077	ped		
+1c070077	ped		s_f_x_aa_shopkeeperjewelrymid_00
 1c10e714	ped		ie_vrge_f_00
-1c11564e	ped		
+1c11564e	ped		a_m_x_aa_trucksurf_mixed_mixed_mid_00
 1c21973c	ped		cs_cameron
-1c4b9990	ped		
+1c4b9990	ped		cs_ian_billysgang
 1c5130c2	pickup		
-1c6c386e	ped		
-1c6f6a22	ped		
+1c6c386e	ped		ex_discoti_f_00
+1c6f6a22	ped		s_f_x_rr_tattoopatron_00
 1c7116c8	vehicle_colour		
 1c72b716	pickup		
 1c8ee74f	ped	crf_grouper_black_m_00	
-1c9df5e5	ped		
-1caebc55	ped		
+1c9df5e5	ped		cs_kiki_turner
+1caebc55	ped		cs_benicio_banda
 1ccd6ad2	ped		g_m_m_fap_00
-1ceeec48	ped		
+1ceeec48	ped		s_m_x_aa_banktellermid_00
 1cf54a70	ped_capsule	bat	
 1cf6e9f7	weapon_damage_modifier		
 1d00d9f8	pickup		
 1d0636f8	ped		
-1d186dad	ped		
+1d186dad	ped		s_f_x_vc_policebike_00
 1d5c47ab	pickup		
-1d6fd5e6	ped		
-1d75bd33	ped		
-1d7a2e8e	ped		
+1d6fd5e6	ped		a_m_x_aa_pilothobby_casual_mixed_mid_00
+1d75bd33	ped		a_f_x_aa_tourist_swim_xxl_low_00
+1d7a2e8e	ped		sws_sunins_m_00
 1d7e5460	ped		ie_sraig_f_00
 1d840144	weapon_damage_modifier		
 1d914731	pickup		
-1d93761d	ped		
-1d970e70	ped		
-1d9c4bc9	ped		
+1d93761d	ped		a_m_x_aa_motocrossrace_sport_mixed_mid_00
+1d970e70	ped		s_m_x_aa_countryclubstaffbar_00
+1d9c4bc9	ped		s_m_x_aa_shopliquorlow_00
 1da4fe8c	ped	crr_monitor_nile_m_00	
 1dab91aa	ped		cs_vanessa
 1dada283	ped		
 1daea77c	pickup		
 1dbed787	animal_tuning		
 1dd6033d	ped		
-1dd9da30	ped		
-1e10c522	ped		
+1dd9da30	ped		s_m_x_aa_coastguard_00
+1e10c522	ped		cs_nolan_crockett
 1e2d3b33	ped		ie_frwyc_m_00
 1e3a75e5	ped		cs_dirtycop_01
 1e53e34e	ped		cs_bud
@@ -585,52 +585,52 @@ hash	kind	name	other_names
 1e70a31e	pickup		
 1e7b7ed4	ped_capsule		frigate
 1e80887a	pickup		
-1e83cd4c	ped		
-1ea9acc6	ped		
+1e83cd4c	ped		a_f_x_aa_beachpop_swim_mixed_low_00
+1ea9acc6	ped		m_int_chase_f_02
 1ead6366	pickup		
 1ec181d9	weapon	weapon_bear	
-1ee8c762	ped		
+1ee8c762	ped		m_air_drone_f_00
 1ef1556b	weapon	weapon_tacrifle_sporting	
-1f0021ad	ped		
+1f0021ad	ped		s_f_x_lc_policeambient_00
 1f076596	ped		cs_randy_kozlov
 1f0f8d89	ped	crr_caiman_spectacled_m_00	
 1f1ebb0a	vehicle_colour		
 1f32189a	ped	crf_bass_striped_m_00	
-1f4f540a	ped		
+1f4f540a	ped		m_clb_promo_f_01
 1f69284e	weapon_damage_modifier		
 1f6d7771	vehicle_colour		
 1f81c67c	vehicle_colour		
 1f950d9f	ped		cs_harvey_adams
-1f9ad7bf	ped		
+1f9ad7bf	ped		a_m_x_ca_genpopsnowbird_mixed_mixed_mid_00
 1fcd8195	ped		
 1fd2eaae	ped		com_deal_intr_m_00
 1fdc04d2	ped		cs_kent_andrews
 20193958	weapon_damage_modifier		
 202041be	ped		cs_catfish
 2024f4e8	weapon	weapon_explosion	
-2026d284	ped		
+2026d284	ped		m_mtl_mud_m_00
 2033b9c0	ped		aft_keysstash_m_00
 2035a42b	pickup		
 203d9149	pickup		
-203e6b40	ped		
-203fc62a	ped		
-2040fb08	ped		
-2046b968	ped		
-204b39d0	ped		
+203e6b40	ped		cs_geraldo_garcia
+203fc62a	ped		a_f_y_aa_touristbeachpop_sexy_mixed_mid_00
+2040fb08	ped		a_f_o_aa_plasticsurgery_beachpop_mixed_high_00
+2046b968	ped		s_m_x_aa_frankswaffles_00
+204b39d0	ped		s_m_y_ap_flightschool_00
 206813c3	pickup		
-206959bf	ped		
+206959bf	ped		g_m_m_cmp_grlab_00
 20796a82	pickup	pickup_ammo_pistol	
 20898aff	vehicle	crusher	
 208d69bb	weapon_damage_modifier		
-20961757	ped		
+20961757	ped		a_f_y_aa_sugarbaby_beachpop_mixed_high_00
 20bee50f	weapon	weapon_pistol_tactical	
-20d20d15	ped		
+20d20d15	ped		s_m_x_aa_shopkeepershoestaffmall_00
 20db4272	ped		
 20e6cd5f	ammo		
 20fe4623	vehicle	pmp700	
-21062d3b	ped		
-210be44b	ped		
-2143614e	ped		
+21062d3b	ped		m_mtl_ambul_m_00
+210be44b	ped		ie_copsc_m_01
+2143614e	ped		s_m_x_aa_deliverydrivercorporate_00
 2144350e	ammo		ammo_thrown_grenade
 2147dd2c	animal_tuning		
 215d6bae	animal_tuning		
@@ -638,105 +638,105 @@ hash	kind	name	other_names
 217ace11	animal_tuning		
 21891d30	pickup		
 2189d250	vehicle	apc	
-21956c97	ped		
+21956c97	ped		g_f_m_kingfishers_00
 21a95bac	pickup		
 21b9b4be	door_tuning	SaloonDoor	
 21c0b154	ped	crf_permit_generic_m_00	
 21c22f11	pickup		
-21c2f691	ped		
-21d43a77	ped		
+21c2f691	ped		s_m_x_aa_shopliquor_00
+21d43a77	ped		g_m_m_cmp_drgkp_grd_00
 21ebc684	ped		cmp_dstrc_m_02
 21eee87d	vehicle	packer	
 22050993	ped_capsule	rat	
 220b7718	vehicle	pontoon	
-22285836	ped		
-222e0edb	ped		
-2237d6d5	ped		
-223cc89d	ped		
+22285836	ped		s_m_x_pg_firefighterstation_00
+222e0edb	ped		m_air_drone_m_00
+2237d6d5	ped		cs_arnold_rubio
+223cc89d	ped		shops_f_mannequin_upper
 22421b5f	weapon_damage_modifier		
 22498e3c	weapon	vehicle_weapon_gun_turret	
-224a9b68	ped		
-22512852	ped		
+224a9b68	ped		a_m_x_aa_unstablerural_mixed_mixed_mid_00
+22512852	ped		m_bil_pent_m_01
 22618f5e	pickup		
 2270321f	pickup		
-2278087f	ped		
+2278087f	ped		s_f_x_ha_policeambient_00
 2293570f	ped		
 229503c8	ped_capsule	shark	
 22a10d11	weapon_accuracy		
 22d3dae0	ped		ie_tourp_m_00
-22df6394	ped		
+22df6394	ped		s_f_x_aa_barhipsterstaff_00
 22eddc30	vehicle	tankercar	
-22fd0547	ped		
-2316ff56	ped		
+22fd0547	ped		a_m_x_aa_genpoptowners_casual_mixed_low_00
+2316ff56	ped		shops_f_mannequin_upper_nohead_nohands
 231a9ee9	ped		
 232449df	animal_tuning		
 235d6089	pickup		
 23706619	ammo		
-237ce406	ped		
+237ce406	ped		m_bil_motel_m_00
 238799e4	weapon_damage_modifier		
-238a9378	ped		
+238a9378	ped		s_f_x_ab_policedispatch_00
 23919c5d	ped		ex_discowdc_f_00
 239cf7ca	ped	crm_dog_carolinastray_f_00	
 23ca25f2	vehicle	hustler	
-23cb77a7	ped		
-23e56146	ped		
+23cb77a7	ped		s_f_x_aa_homeslice_00
+23e56146	ped		a_f_x_aa_scubadiving_mixed_mixed_mid_00
 240750d0	ped		css_mmghh_m_00
-240c6b3c	ped		
+240c6b3c	ped		s_m_x_yh_yhotelstaffrestauranthost_00
 24181472	ped		csc_mom_msevn_f_00
 2426000b	pickup		
 242f77f0	pickup		
-243d0ffa	ped		
+243d0ffa	ped		a_m_x_aa_plasticsurgery_beachpop_mixed_high_00
 2450eb71	ped		com_show_trailer_m_00
 245ce7ca	ped		
 24654169	pickup		
 24690baa	weapon	weapon_shotgun_pumpaction	
 2494662a	ped		ie_atmfc_f_00
-24a50778	ped		
+24a50778	ped		ex_discowc_m_00
 24b34b4a	pickup		
 24bc312c	ped_capsule		
 251d2123	ped		ie_yards_f_00
-252711ea	ped		
-25288a56	ped		
+252711ea	ped		a_m_m_aa_bigshot_nightlife_mixed_high_00
+25288a56	ped		ex_puzzsdp_f_00
 252aa32c	weapon	weapon_melee_poolcue	
-2532b879	ped		
-25524180	ped		
+2532b879	ped		s_f_x_dt_tattoopatron_00
+25524180	ped		m_bil_confr_f_00
 255fc509	vehicle	fortune	
 25676eaf	vehicle	FCR	
-256ebabd	ped		
+256ebabd	ped		a_f_x_aa_genpoptowners_casual_mixed_low_00
 2571bc32	pickup		
 2571d63a	ped	crm_dog_collieborderstray_m_00	
-257247be	ped		
+257247be	ped		ie_windw_m_01
 25844a03	ped		ie_dgthf_m_00
 258c9364	vehicle	astron	
-25985f14	ped		
+25985f14	ped		s_f_x_aa_shopelectronicshigh_00
 25c3e55b	weapon	weapon_smg_tactical	
 25c5a72f	weapon_damage_modifier		
 25d3152b	ped		css_surcrd_m_00
-25ec92ae	ped		
-25fa1835	ped		
+25ec92ae	ped		ie_rager_f_00
+25fa1835	ped		s_f_x_aa_officeworkermid_00
 2600a487	weapon	weapon_smg_compact	
 2603660a	ped	cs_party_exassist	
 2607edff	pickup		
-26116a5d	ped		
+26116a5d	ped		shops_m_mannequin_upper_short
 261e7ee2	ped	crr_turtle_seagreen_m_00	
-262bad66	ped		
+262bad66	ped		s_f_x_mc_policedispatch_00
 26321e67	vehicle	lectro	
 26388ddf	ped	crm_panther_legendary_m_00	
 26451b41	ammo		
-264ce4e4	ped		
+264ce4e4	ped		s_m_x_aa_djtechno_nightlife_mixed_mid_00
 264d9262	vehicle	freightgrain	
-2653cb19	ped		
-266112fd	ped		
+2653cb19	ped		sws_assdog_f_00
+266112fd	ped		s_m_x_vd_policebike_00
 26625a37	animal_tuning		
 266ce457	pickup		
 26770a17	animal_tuning		
-2687da2e	ped		
+2687da2e	ped		s_m_x_vb_tacticallight_00
 269fe6f5	ped		sfh_taxi_m_00
 26a7cc51	ped		
 26c66464	ped		cs_cellerica_megan
 26ce0483	weapon	weapon_tacrifle_marksman	
 26f37d24	ped		ie_duit_f_00
-26f83f69	ped		
+26f83f69	ped		a_f_y_aa_raver_nightlife_mixed_mid_00
 270b486f	vehicle	bombora	
 270d76f0	ped	crf_shark_hammerheadgreat_m_00	
 2712b02a	pickup		
@@ -745,128 +745,128 @@ hash	kind	name	other_names
 272dd9eb	ped		ci_up_blfgdpr_m_00
 273ffa84	ped		cs_statewide_attorney
 2743f2a2	ped		cmp_dstrc_f_01
-27501c95	ped		
-27580266	ped		
-277820e4	ped		
-279711d1	ped		
+27501c95	ped		s_m_x_aa_towtruckdriver_00
+27580266	ped		cti_deal_errc_m_00
+277820e4	ped		a_m_x_aa_griffithranch_mixed_mixed_mid_00
+279711d1	ped		cs_emilio_rayos
 279a137c	ped	crm_cat_shorthairamerican_m_00	
 27a03d8b	ped		ie_cacoo_m_00
 27a4ba7f	pickup		
-27a6d9fc	ped		
+27a6d9fc	ped		a_m_y_aa_localnightlife_sexy_mixed_mid_00
 27a8cd82	pickup		
 27bb7dbe	weapon_damage_modifier		
-27c625d9	ped		
-27d4cadd	ped		
+27c625d9	ped		s_m_x_aa_shopelectronicslow_00
+27d4cadd	ped		a_m_m_aa_touristhigh_mixed_mixed_high_00
 27e31c64	ped	crm_dog_poodlestandard_m_00	
 27ebeffe	ped		cs_tyrone_havenall
 27eeabfd	ped	crm_dog_collieborder_m_00	
 27f9b88a	ped		ie_haufw_f_00
 27f9fa21	door_tuning	Door_INT101_L	
-2804f151	ped		
+2804f151	ped		s_m_x_kc_policeambient_00
 282ed827	pickup		
 2831d0a2	animal_tuning		
 283fe00f	ammo		
 2840fbb4	ped		ie_sepco_f_00
-28411c7b	ped		
+28411c7b	ped		ie_emvdl_m_01
 284b4656	ped		cmp_seed_m_00
 2856fea3	vehicle_colour		
-285f1e2b	ped		
+285f1e2b	ped		a_f_x_aa_cellericaaddict_mixed_mixed_mid_00
 28682d0e	ped	crm_skunk_spottedeastern_m_00	
-286c0f8e	ped		
+286c0f8e	ped		a_f_y_aa_motocrosscity_casual_mixed_mid_00
 28950c71	weapon	weapon_melee_machete	
 28a1146c	animal_tuning		
 28b5ac13	animal_tuning		
 28b67aca	vehicle	contender	
-28bed98d	ped		
-28c38046	ped		
+28bed98d	ped		g_m_m_fro_cigar_00
+28c38046	ped		s_m_x_aa_marinaattendantformal_00
 28c910c8	ped_capsule		flamingo
-28cc29a8	ped		
+28cc29a8	ped		m_ban_setup_m_01
 28d37f29	pickup		
 28d975e5	ped_capsule	monitor	
 28e14810	ped		ci_up_blfgdpr_f_00
-28ea789c	ped		
+28ea789c	ped		m_ban_setup_f_01
 28eab80f	vehicle	drafter	
-28f488fd	ped		
+28f488fd	ped		s_m_x_aa_officeworkercasual_00
 29053eab	pickup		
-2914625f	ped		
+2914625f	ped		s_f_m_dirtycops_00
 29175d05	pickup		
 292753c3	ped		ie_cflee_f_00
-292a797b	ped		
+292a797b	ped		s_m_x_aa_armoredtruckdriver_00
 293cb319	pickup		
-293f20c5	ped		
+293f20c5	ped		a_m_y_aa_touristbeachpop_sexy_mixed_mid_00
 2954a08a	vehicle	iota	
-2968ddd7	ped		
-297e6cf8	ped		
+2968ddd7	ped		s_m_x_pg_policeambient_00
+297e6cf8	ped		s_f_x_aa_gymstaffhigh_00
 29847b11	ped		m_clb_party_f_00
-298c728e	ped		
+298c728e	ped		s_f_x_vb_policeambient_00
 29956d23	pickup		
 2996333d	ped	a_f_x_aa_vagrant_mixed_mixed_low_00	
 299fbcf3	pickup		
-29a2917c	ped		
-29ac461e	ped		
-29c13165	ped		
-29d4b6dc	ped		
-29d7d501	ped		
-29f62ece	ped		
-29f6ca9e	ped		
-2a0675b5	ped		
+29a2917c	ped		s_m_x_aa_genmech_00
+29ac461e	ped		s_m_x_aa_shopkeeperclothingstorefashion_00
+29c13165	ped		a_f_o_aa_tourist_swim_mixed_high_00
+29d4b6dc	ped		cs_lucky_the_dancer
+29d7d501	ped		m_air_final_m_03
+29f62ece	ped		ie_copsc_f_01
+29f6ca9e	ped		s_m_x_aa_industrialcleaner_00
+2a0675b5	ped		s_f_x_ct_tattooparlour_casual_mixed_low_00
 2a083060	vehicle	lasso	
 2a1448b6	ped	crm_dog_rottweiler_m_00	
 2a158a69	weapon_damage_modifier		
-2a1c46ae	ped		
+2a1c46ae	ped		m_mny_party_m_03
 2a1ebad6	vehicle_colour		
-2a206494	ped		
+2a206494	ped		s_m_x_aa_countryclubstaffmaintenance_00
 2a32a93d	animal_tuning		
 2a54c47d	vehicle	supervolito	
 2a623017	pickup		
-2a663d6e	ped		
+2a663d6e	ped		cmp_boaty_f_00
 2a72beab	vehicle	trailersmall	
-2a73d7f9	ped		
+2a73d7f9	ped		s_m_x_lc_policehelicopter_00
 2a9756f5	animal_tuning		
 2ac5d875	ped	crf_shark_tiger_m_00	
 2aef685f	ped		
-2b070264	ped		
+2b070264	ped		cs_lc_racer_05
 2b1e0001	animal_tuning		
 2b29d610	pickup		
-2b6dbc67	ped		
+2b6dbc67	ped		cs_buddy_krever
 2b7f9de3	vehicle	slamvan	
 2b883445	weapon_accuracy		
-2b8dec1d	ped		
-2ba672c3	ped		
+2b8dec1d	ped		s_m_x_yh_yhotelstaffbell_00
+2ba672c3	ped		m_bil_fun_m_00
 2bb563b3	ped		ie_duist_f_00
 2bbb6151	weapon_damage_modifier		
 2bc4f0ed	ped		ie_sraig_f_01
 2bc81372	ped		ie_gasfu_m_00
-2bcf6c33	ped		
-2bcfe869	ped		
+2bcf6c33	ped		s_f_x_aa_parkranger_00
+2bcfe869	ped		s_f_x_aa_gymstaffcasual_00
 2bd3b846	vehicle	stanier55	
-2bd58839	ped		
-2be811be	ped		
+2bd58839	ped		a_m_x_aa_genpoprural_mixed_mixed_mid_00
+2be811be	ped		s_m_x_lc_policedispatch_00
 2bebefba	pickup		
 2bf1338b	ped		
-2bf67ffc	ped		
+2bf67ffc	ped		s_m_m_dirtycops_01
 2c014ca6	pickup	pickup_custom_script	
 2c11a137	ped		ie_hhac_m_00
 2c211366	ped	m_int_plnsh_m_01	
 2c22622a	ped	crm_dog_shepherdgerman_m_00	
-2c25b694	ped		
+2c25b694	ped		m_clb_evi_m_00
 2c2b6db2	ped		ie_polcc_m_00
-2c4201e8	ped		
+2c4201e8	ped		m_clb_deal_m_01
 2c4c6bf0	ped		
-2c545129	ped		
-2c5923ae	ped		
-2c76439d	ped		
+2c545129	ped		s_f_y_aa_bartendernine1nine_00
+2c5923ae	ped		m_mtl_drive_f_00
+2c76439d	ped		s_f_x_lc_policeboat_00
 2c82adbe	weapon_accuracy		
-2c9929da	ped		
+2c9929da	ped		g_f_m_cashcity_00
 2ca4d4b6	pickup		
 2cb1d610	weapon_damage_modifier		
 2cb4fdbe	weapon	weapon_sports_basketball	
-2ccfe2e9	ped		
+2ccfe2e9	ped		cs_donatello_lambrini
 2cd0d526	ped		ie_nervc_m_00
-2ce71037	ped		
+2ce71037	ped		a_f_x_aa_touristshootinglodge_casual_mixed_mid_00
 2cf32a99	ped_capsule	skunk	
-2cf63505	ped		
-2d087147	ped		
+2cf63505	ped		s_m_x_aa_drivercoachbus_00
+2d087147	ped		s_m_x_pg_tattooparlour_casual_mixed_low_00
 2d0c5e16	pickup		
 2d0dec98	pickup		
 2d1259f9	ped		csc_eco_moint_f_00
@@ -883,22 +883,22 @@ hash	kind	name	other_names
 2daf212e	vehicle_colour		
 2dc278d6	weapon	weapon_autorifle_battle	
 2dd30479	pickup	pickup_weapon_molotov	
-2de5074d	ped		
-2de5459a	ped		
-2df833e9	ped		
+2de5074d	ped		m_bil_wheel_m_01
+2de5459a	ped		a_m_y_aa_eccentricraver_nightlife_mixed_mid_00
+2df833e9	ped		m_air_beach_f_00
 2e031f0d	vehicle_colour		
 2e051f72	pickup		
-2e0df187	ped		
+2e0df187	ped		m_clb_promo_f_00
 2e13dd76	weapon_accuracy		
-2e141ff8	ped		
-2e162442	ped		
+2e141ff8	ped		s_m_x_vb_policeambient_00
+2e162442	ped		s_m_x_bv_policeambient_00
 2e429272	ped_capsule	goose	
 2e570d52	ped		
 2e582aed	pickup		
 2e6df183	ped_capsule	turkey	
 2e770e25	ped		g_m_m_fap_01
 2e78e6c3	pickup		
-2e8e40f8	ped		
+2e8e40f8	ped		ie_atmcr_f_00
 2ea68690	vehicle	rhino	
 2eb797c3	ped	crf_porgy_littlehead_m_00	
 2ebf7979	animal_tuning		
@@ -907,116 +907,116 @@ hash	kind	name	other_names
 2edd045f	ped	crm_chimpanzee_western_m_00	
 2ede6b85	pickup		
 2ee8823b	pickup		
-2eec5793	ped		
+2eec5793	ped		s_f_x_aa_kitchenstaffcasual_00
 2ef89e46	vehicle	sanchez	
 2ef8dac0	ped		cs_artim
 2f03547b	vehicle	buzzard	
 2f18d82b	ped	crf_cobia_generic_m_00	
 2f3873f3	pickup		
-2f393e75	ped		v_int_63
+2f393e75	ped		ie_drvai_f_00 | v_int_63
 2f3989c4	pickup		
-2f506e57	ped		
-2f5accb4	ped		
+2f506e57	ped		s_f_x_aa_dockworker_00
+2f5accb4	ped		s_m_x_vd_tacticallight_00
 2f66fbb0	vehicle_colour		
-2f75a85e	ped		
-2f819b12	ped		
-2fad4757	ped		
+2f75a85e	ped		a_m_y_aa_tourist_casual_mixed_mid_00
+2f819b12	ped		cmp_indwg_m_00
+2fad4757	ped		m_mny_hotel_f_00
 2fbc653f	ped		
-2fbea48b	ped		
-2ff0951a	ped		
+2fbea48b	ped		m_coa_raid_m_00
+2ff0951a	ped		cs_cuban_shopkeeper
 2ff9c0f8	pickup		
-30001a78	ped		
-3005c855	ped		
+30001a78	ped		m_clb_steal_f_02
+3005c855	ped		s_m_x_aa_drivertrain_00
 3013fb61	ped_capsule		
 30240037	ammo		ammo_rifle_rubber
-3025d62e	ped		
+3025d62e	ped		a_m_o_aa_genpopretireecasual_mixed_mixed_mid_00
 302b97c6	pickup		
 3034f9e2	ped	cs_janet	
-3041531d	ped		
+3041531d	ped		shops_f_mannequin_upper_short
 304c6092	pickup		
-304ed477	ped		
+304ed477	ped		m_bil_pick_m_02
 306bbb57	ped_capsule		
 308d237a	vehicle_colour		
 309298ed	ped		
-30a0d254	ped		
-30b28046	ped		
-30e25a72	ped		
-3101b3f2	ped		
+30a0d254	ped		a_f_y_aa_streetartist_casual_mixed_mid_00
+30b28046	ped		ie_overp_f_00
+30e25a72	ped		m_clb_steal_m_01
+3101b3f2	ped		s_m_x_aa_barstaffformal_00
 310ea1e8	weapon_accuracy		
 3113658a	animal_tuning		
 313c0e0a	weapon_damage_modifier		
 313f7f4f	pickup		
 31402f63	ped		a_m_x_aa_vicecityphony_mixed_mixed_mid_00
-31418468	ped		
-314f7c5f	ped		
-31609210	ped		
+31418468	ped		cs_marta_ruiz
+314f7c5f	ped		cs_jermaine_dukes
+31609210	ped		s_f_x_lc_firefighteruniform_00
 3162f55d	ped		ie_bchar_f_00
-31672422	ped		
+31672422	ped		s_m_x_aa_djhiphop_mixed_mixed_mid_00
 317343e4	pickup		
 31774104	ped	crm_dog_rottweiler_f_00	
-3186ad53	ped		
-3197f072	ped		
+3186ad53	ped		m_int_priso_drivers_m_00
+3197f072	ped		cs_jimmy_de_santa
 31a491f6	ped	crb_turkey_wildflorida_m_00	
-31aceea4	ped		
+31aceea4	ped		sws_vagtsg_m_00
 31b6d9f1	pickup		
 31b717be	ammo		
-31bdf657	ped		
+31bdf657	ped		cti_deal_cctl_m_00
 31c5f8e4	ped	crf_eel_moraygreen_m_00	
 31cbaf35	ped	crm_whale_orca_m_01	
 31ce302f	vehicle_colour		
 31daa77e	ped_nav_capability	water_only	
 31e50e10	ped_capsule	deer	
-31ed8274	ped		
+31ed8274	ped		ie_vrbow_m_00
 31eff27d	pickup	reward_ammo_pistol	
 321c491b	ped		cs_brian_bradley
 3222f696	pickup		
 323dc53a	ped	g_m_m_finalchapter_00	
-3256efb7	ped		
+3256efb7	ped		cs_dick_pic
 3286628f	ped		
 329d02d8	ped		
 32b13a9e	pickup		
 32b91ae8	vehicle	biff	
-32c02251	ped		
+32c02251	ped		s_m_y_aa_attractionsstaff_00
 32ce14a5	ped		cs_jeremy
 32dd662e	ped		
-32dda6e5	ped		
-32e1fe7c	ped		
+32dda6e5	ped		a_m_x_aa_touristbeachpop_sexy_mixed_high_00
+32e1fe7c	ped		s_m_x_lx_tacticalheavy_00
 32e37f93	vehicle	airgator	
 32ea490c	ped		ci_up_hotpbsl_f_00
 32f45821	vehicle	arcturus	
 32f542c1	ped		ie_ha_m_00
-32f6c22b	ped		
-330a6057	ped		
-33150e55	ped		
-33335ad2	ped		
-333a56f6	ped		
+32f6c22b	ped		ie_secdd_m_00
+330a6057	ped		s_m_x_aa_securityguardprison_00
+33150e55	ped		s_m_x_mc_tacticallight_00
+33335ad2	ped		a_m_o_aa_nudisthippie_nude_mixed_mid_00
+333a56f6	ped		cs_the_destroyer
 335882a5	pickup		
-3359feec	ped		
+3359feec	ped		s_m_x_mc_policedispatch_00
 335dff68	weapon_accuracy		
 335e41b6	pickup		
-337207c9	ped		
+337207c9	ped		a_m_x_aa_homelesseccentric_mixed_mixed_low_00
 3378a477	ped	crb_hawk_tailedredeastern_m_00	
-338d650e	ped		
+338d650e	ped		s_f_x_vc_policedispatch_00
 339ae7e0	pickup		
-339c2e01	ped		
+339c2e01	ped		sws_annped_1_f_00
 33afdf38	ped		ie_psmug_f_00
 33b2d208	weapon	weapon_fox	
 33bc13bf	ped		cs_zach
 33bd4f6d	pickup		
 33cca236	pickup		
-33f2d978	ped		
+33f2d978	ped		m_int_air_m_01
 33f2dea5	vehicle	stanierg2	
-33fbc7c3	ped		
-340207ed	ped		
+33fbc7c3	ped		m_int_prolo_intro_m_00
+340207ed	ped		a_f_o_aa_golfer_sport_mixed_mid_00
 3405272c	ped		ho_par_tattoo_f_00
 3416f7e4	ped	g_m_m_koltandassoc_00	
 3439c0c0	pickup		
 344572d0	ped		ie_lgtow_m_00
 34594d23	vehicle_colour		
-345b00cb	ped		
-3469741e	ped		
+345b00cb	ped		s_m_x_mc_policehelicopter_00
+3469741e	ped		cs_li_chong
 34706cba	ped		ft_pgift_m_00
-34831681	ped		
+34831681	ped		s_m_x_aa_officeworkermid_00
 34852500	weapon_damage_modifier		
 34991283	ped		
 349d8f9e	door_tuning	Prop_Am_Door_Com_Sliding_01a	
@@ -1040,14 +1040,14 @@ hash	kind	name	other_names
 3641095a	pickup		
 36440f87	ped_capsule		
 3664a2b1	ped		ie_vnldr_m_01
-366625e7	ped		
-3666adc3	ped		
+366625e7	ped		m_air_hack_f_00
+3666adc3	ped		s_m_x_aa_hotelstaffbelllow_00
 368146ca	ped	crb_swan_trumpeter_m_00	
 36848602	vehicle	mesa	
 36a01a56	ped		
 36a7b4f8	vehicle_colour		
-36b637e9	ped		
-36b88457	ped		
+36b637e9	ped		s_m_x_aa_artmuseumstaff_00
+36b88457	ped		s_m_x_aa_utilitiesworker_00
 36baa47d	animal_tuning		
 36cf24f1	ped		
 36d18a5a	pickup		
@@ -1056,23 +1056,23 @@ hash	kind	name	other_names
 36f30683	pickup		
 37138f3b	vehicle_colour		
 3716b0db	ped		csc_mlm_dlvr3_f_00
-371ffc2e	ped		
-372a61a9	ped		
+371ffc2e	ped		a_m_x_aa_localbeachpop_mixed_mixed_mid_01
+372a61a9	ped		a_m_x_aa_localgeneral_swim_mixed_mid_00
 372f6611	pickup		
 375e35b9	vehicle	furrowTC2350	
 3774e26b	pickup		
 377bdd30	ped		cs_dr_bill
 37863a43	pickup		
-37a248bd	ped		
-37b9d7d3	ped		
-37eab4df	ped		
+37a248bd	ped		cs_mason_hughes
+37b9d7d3	ped		ie_gloce_m_00
+37eab4df	ped		m_coa_raid_m_02
 37ef6e0f	pickup		
-37ff800e	ped		
-381f4e66	ped		
+37ff800e	ped		cmp_imprt_m_00
+381f4e66	ped		s_m_x_aa_gasstation_uniform_mixed_mid_00
 3841e9ae	weapon	weapon_smg_assault	
 3853a188	ped		ie_bkglf_m_00
-385b9234	ped		
-3863f129	ped		
+385b9234	ped		ie_hopam_m_00
+3863f129	ped		cs_anchor_bartender
 386a0370	ped	cra_toad_southern_m_00	
 38778412	ped		
 387b26bb	weapon_accuracy		
@@ -1080,30 +1080,30 @@ hash	kind	name	other_names
 388b5041	pickup		
 38950aad	ped		ie_gangi_m_00
 38f9ab60	pickup		
-3907a180	ped		
+3907a180	ped		g_m_m_cmp_cmush_00
 3925bad0	ped_nav_capability		
-393d6238	ped		
-3943304c	ped		
+393d6238	ped		ie_hopoa_m_00
+3943304c	ped		cti_deal_sltc_m_00
 3944d5a0	vehicle	furia	
 3944f402	pickup		
 3948c1b4	ped_capsule		chimpanzee
-394be50d	ped		
+394be50d	ped		m_mny_party_m_02
 397d9c50	ped		ie_card_m_00
-397deb2e	ped		
-3993ef6b	ped		
+397deb2e	ped		cs_keys_lady
+3993ef6b	ped		s_m_x_aa_airfieldoperator_00
 399f0710	animal_tuning		
-39a50705	ped		
-39b1cfe7	ped		
+39a50705	ped		s_m_x_kc_policehelicopter_00
+39b1cfe7	ped		a_m_x_aa_camperrvpark_casual_mixed_mid_00
 39b3f43e	ped		aft_keysstash_f_00
 39b50ad6	pickup		
-39bcff48	ped		
+39bcff48	ped		cs_nicole_kidnap3
 39c52653	ped		
 39d6779e	vehicle	duster	
 39da2754	vehicle	sultan	
 39dd8bb8	vehicle	reclaimer	
 39e0c0cd	weapon	weapon_tool_binoculars	
 39e58329	pickup		
-3a12cee2	ped		
+3a12cee2	ped		s_f_x_kl_psychic_00
 3a196cea	vehicle	feroci	
 3a23b2a1	vehicle	sprayer	
 3a241fb8	ped		ie_calss_f_00
@@ -1115,24 +1115,24 @@ hash	kind	name	other_names
 3a707caa	pickup		
 3a79b05e	pickup		
 3a7cfe41	weapon_accuracy		
-3a7ec50f	ped		
+3a7ec50f	ped		s_m_x_aa_driverbus_00
 3a950d77	pickup		
 3abddc79	ped		csc_srs_bybst_m_00
 3adb9758	vehicle	sugoi	
-3aeeac11	ped		
+3aeeac11	ped		a_m_x_aa_beachpop_swim_mixed_low_00
 3afed151	ped		
 3b184e15	pickup		
 3b22cc22	animal_tuning		
 3b26aa4e	ped		cs_kevin_kueh
 3b2f491a	pickup		
-3b2fdac3	ped		
-3b3365d9	ped		
+3b2fdac3	ped		s_m_x_aa_shopkeeperclothingmid_00
+3b3365d9	ped		m_int_chase_f_00
 3b36d69f	ped	crm_cat_feral_m_00	
 3b5b79b2	ped		cs_hank
 3b67776a	weapon_accuracy		
 3b754bd1	ped		ie_cnvst_f_00
-3b867eff	ped		cs_mam_matthews
-3b8c5e14	ped		
+3b867eff	ped		CS_Mam_Matthews | cs_mam_matthews
+3b8c5e14	ped		m_air_gang_f_00
 3b8eb606	ped	a_m_x_aa_trailerpark_mixed_mixed_low_00	
 3b93b6bf	ped	crf_snapper_rednorthern_m_00	
 3baf2b7e	ped		
@@ -1140,28 +1140,28 @@ hash	kind	name	other_names
 3bb8529b	ammo		
 3bbebc24	ped		cs_bert
 3bc0107e	ped		csc_mom_flip_m_00
-3bc25c1e	ped		
+3bc25c1e	ped		s_m_x_aa_scrapyardstaff_00
 3bf8c283	ped	crm_dolphin_shortbeakedcommon_m_00	
 3c07e5d4	pickup		
-3c16ea12	ped		
-3c294141	ped		
-3c2b9596	ped		
-3c421dcf	ped		
+3c16ea12	ped		s_f_x_sy_tattooparlour_casual_mixed_low_00
+3c294141	ped		a_f_x_aa_hiker_casual_mixed_mid_00
+3c2b9596	ped		sws_bansco_m_00
+3c421dcf	ped		ex_discomdd_m_00
 3c4e2113	vehicle	coquette2	
 3c4fb1a8	pickup		
 3c5e3e5d	ped		ho_par_dtowk_m_00
 3c7261b2	vehicle	blade500	
 3c8e7b9d	vehicle	train	
 3c98582b	animal_tuning		
-3c98c261	ped		
+3c98c261	ped		shops_m_mannequin_upper_nohead_short
 3ca9bf4a	pickup		
 3cac0b68	pickup		
-3cb52698	ped		
+3cb52698	ped		g_f_m_polillanegra_00
 3cc7f596	vehicle	graintrailer	
 3cd729e3	weapon_damage_modifier		
 3cd8ac49	ped	crr_tortoise_gopher_m_00	
 3cf0d438	ped	crm_dog_chihuahua_f_00	
-3d0ccfc6	ped		
+3d0ccfc6	ped		a_m_m_aa_sugardaddy_swim_mixed_high_00
 3d29cd2b	vehicle	youga2	
 3d2b5e55	weapon	weapon_shotgun_sbs	
 3d348232	pickup		
@@ -1170,37 +1170,37 @@ hash	kind	name	other_names
 3d5d814d	vehicle_colour		
 3d6aaa9b	vehicle	freight	
 3d6d1891	ped	a_f_x_aa_genpoppoorrural_mixed_mixed_low_00	
-3d7154e5	ped		
-3d8156e5	ped		
+3d7154e5	ped		s_m_x_kc_tacticalheavy_00
+3d8156e5	ped		s_m_x_aa_delistaffethnic_00
 3d8bfbdc	vehicle	trailerbox	
-3d93017a	ped		
+3d93017a	ped		m_int_prolo_f_01
 3d961290	vehicle	dinghy	
 3da61775	animal_tuning		
 3dee5eda	vehicle	blista2	
-3dee980e	ped		
+3dee980e	ped		s_m_x_aa_farmworkerrural_00
 3df292d0	ammo		ammo_shotgun_bag
-3e1e589c	ped		
+3e1e589c	ped		s_m_x_aa_speedwaystaff_00
 3e3d1f59	vehicle	thrax	
 3e4c05e3	vehicle_plate		
 3e4f1aca	pickup		
-3e58c1f9	ped		
+3e58c1f9	ped		m_ban_final_m_00
 3e5dc117	vehicle	moocher	
-3e78bc1c	ped		
+3e78bc1c	ped		cti_deal_tqsc_f_00
 3e797bba	weapon_damage_modifier		
-3e8989c5	ped		
-3e93c78d	ped		
+3e8989c5	ped		s_f_x_aa_kitchenstaffformal_00
+3e93c78d	ped		a_f_x_aa_unstablecity_mixed_mixed_mid_00
 3eeb60d8	ped	crf_pickeral_redfin_m_00	
-3ef8cce7	ped		
+3ef8cce7	ped		s_f_x_aa_djtechno_nightlife_mixed_mid_00
 3f119114	vehicle	jet	
 3f273463	weapon	vehicle_weapon_rocket_turret	
 3f38a888	ped	crr_crocodile_legendary_m_00	
 3f3a92bf	vehicle_colour		
 3f3f5c0c	vehicle_colour		
-3f4434ed	ped		
+3f4434ed	ped		a_f_x_ca_tourist_mixed_mixed_mid_00
 3f63e35f	pickup		
-3f740c54	ped		
-3f839305	ped		
-3f877c29	ped		
+3f740c54	ped		sws_mombus_f_00
+3f839305	ped		s_m_x_mc_policeambient_00
+3f877c29	ped		a_m_y_aa_skatewear_casual_mixed_mid_00
 3f8b5d64	ped		
 3f951148	pickup		
 3f9ea4cf	ped	crm_deer_whitetailed_m_00	
@@ -1211,19 +1211,19 @@ hash	kind	name	other_names
 3fd68904	ped		cs_courtney
 3fda005e	pickup		
 3ff7c663	pickup		
-4001b653	ped		
-401a6ff4	ped		
+4001b653	ped		s_f_x_aa_marinastaff_00
+401a6ff4	ped		s_m_x_aa_shopkeeperthrifthip_00
 4020325c	ped_capsule	bobcat	
-40369895	ped		
-4042e412	ped		
+40369895	ped		g_f_m_guardia_00
+4042e412	ped		m_mtl_drive_m_01
 40486dcf	pickup		
-4054e013	ped		
+4054e013	ped		cti_deal_sltl_m_00
 405b1d5b	ped		csc_mom_msevn_m_00
 405d501a	vehicle_colour		
-407385bc	ped		
+407385bc	ped		cs_dodo_steve
 40772638	ped		cs_erin_henshaw
 4082f6b1	animal_tuning		
-409e4db6	ped		
+409e4db6	ped		cs_manuels_passenger
 40cbde71	weapon_accuracy		
 40e23ca7	pickup		
 40efa089	weapon_damage_modifier		
@@ -1235,75 +1235,75 @@ hash	kind	name	other_names
 41400ffd	animal_tuning		
 414a03fb	animal_tuning		
 414b11c2	ped		cs_erjon
-415c57c8	ped		
-4164f940	ped		
-4169fafc	ped		
-41790c8b	ped		
+415c57c8	ped		shops_f_mannequin_upper_nohead_short
+4164f940	ped		a_m_y_aa_nightlife_casual_mixed_mid_00
+4169fafc	ped		s_f_x_aa_cleaner_00
+41790c8b	ped		cs_jimmy_speargunguy
 41859c2d	ped		cmp_bowl_m_00
 418fef3c	ammo		
-41921d11	ped		
-4195f52d	ped		
-419f1c23	ped		
-41a0771a	ped		
+41921d11	ped		m_int_priso_m_00
+4195f52d	ped		s_m_x_aa_coastguardtacticalheavy_00
+419f1c23	ped		s_m_x_aa_navycasual_00
+41a0771a	ped		m_bil_pick_m_03
 41b8fc54	ped		
-41bfbdf7	ped		
+41bfbdf7	ped		m_clb_steal_f_01
 41c0540d	pickup		
-41eda350	ped		
-41f0e2e7	ped		
-41fc418b	ped		
+41eda350	ped		a_f_x_aa_genpop_mixed_mixed_mid_02
+41f0e2e7	ped		s_f_x_ca_policedispatch_00
+41fc418b	ped		s_m_x_aa_shootingrangeworker_00
 4202cecf	vehicle_colour		
 4222c582	pickup		
 42289968	ped		cs_jordan
 4241f151	pickup		
 425c39ff	weapon_damage_modifier		
-42751867	ped		
+42751867	ped		m_coa_dog_f_00
 4281c040	pickup		
 42897ceb	ped		ie_psmug_f_01
 42931b0a	ped		cs_dj_tipdollaz
 429f8882	ped		
 42b6cc5d	pickup		
-42c132bb	ped		
+42c132bb	ped		g_m_m_cmp_ccart_00
 42cb66d8	vehicle	metrotrain2	
 42d0b7c2	ped		cs_noah
-42d228d7	ped		
-42d300d5	ped		
-42d5d6a8	ped		
+42d228d7	ped		s_m_x_vd_tacticalheavy_00
+42d300d5	ped		a_f_y_aa_localsexy_swim_athletic_mid_00
+42d5d6a8	ped		cs_belinda_harrington
 42e64e68	weapon	weapon_melee_baton	
-42edfe89	ped		
+42edfe89	ped		m_clb_steal_m_00
 430ebfae	animal_tuning		
 431b8eff	animal_tuning		
-431bbe16	ped		
+431bbe16	ped		m_coa_ship_m_01
 4339cd69	vehicle	tribike	
 435bcebc	ped		ie_tortr_m_00
 43779c54	vehicle	BMX	
-437dbd91	ped		
-4388131d	ped		
+437dbd91	ped		a_f_x_aa_nudistunstablerevealing_nude_mixed_mid_00
+4388131d	ped		a_f_x_aa_yachtwear_mixed_mixed_mid_00
 438f6b74	pickup		
-439f1f75	ped		
-43c9422a	ped		
+439f1f75	ped		a_m_x_aa_altfashion_nightlife_mixed_high_00
+43c9422a	ped		a_f_o_aa_tourist_swim_mixed_mid_00
 43e18211	ped		csc_dig_data_f_00
 43f724c6	pickup		
-43f7f889	ped		
+43f7f889	ped		cs_valentinabodyguard
 440851d8	vehicle	comet7	
-440a162b	ped		
-441734b6	ped		
-441cde29	ped		
-443963c1	ped		
+440a162b	ped		s_f_x_aa_winerystaff_00
+441734b6	ped		s_m_x_aa_barstaffmid_00
+441cde29	ped		a_m_o_aa_sugardaddy_beachpop_mixed_high_00
+443963c1	ped		s_m_x_aa_hotelstafffrontdeskmid_00
 443aefb6	vehicle	voyager	
 444180a2	pickup		
-4441a17e	ped		
+4441a17e	ped		sws_brenew_f_00
 444c7429	ped	a_m_x_aa_vicecityphony_sports_mixed_mid_00	
 44546439	vehicle	bfinjection4	
 445981e5	animal_tuning		
 44623884	vehicle	caddy	
 44674c4e	ped		cs_sandy
 44731405	ped	crr_snake_cottonmouthflorida_m_00	
-4479469d	ped		
-4489913e	ped		
+4479469d	ped		a_m_x_aa_gladesmen_casual_mixed_low_00
+4489913e	ped		a_f_y_aa_localnightlife_casual_mixed_mid_00
 44a48fd9	animal_tuning		
 44e10d13	animal_tuning		
 44e44d33	ped		ie_fwypr_f_00
-44f8eb57	ped		
+44f8eb57	ped		ag_beu_player02_f_00
 4503a9a9	ped_capsule	cat	
 4503a9a9	ped_nav_capability	cat	
 450450f1	vehicle_plate		
@@ -1313,24 +1313,24 @@ hash	kind	name	other_names
 4530fa09	ped		ie_brjmp_m_00
 453467d1	weapon	weapon_coyote	
 4536621a	ped		cs_bailey_moore
-45368761	ped		
-4537d806	ped		
+45368761	ped		s_m_x_wb_policeambient_00
+4537d806	ped		cs_phil_cassidy
 4543b74d	vehicle	rumpo	
 456c955d	ped_capsule		
 457926d1	vehicle	riataclassic	
-4579514f	ped		
+4579514f	ped		s_f_x_aa_concessionstaff_00
 4586f058	animal_tuning		
 45927e48	vehicle_colour		
-45936aa9	ped		
+45936aa9	ped		sws_tecbro_m_00
 4598d8dd	pickup		
 45990315	vehicle	ridgway	
-45a25f4c	ped		
+45a25f4c	ped		g_f_m_koltandassoc_00
 45d56ada	vehicle	ambulance	
 45e4a800	weapon_accuracy		
 45eae10d	weapon	vehicle_weapon_missile_turret	
 45ecf7f6	ammo		
 45eeae89	ped	crm_boar_legendary_m_00	
-460c8526	ped		
+460c8526	ped		a_m_x_kl_fishing_casual_mixed_mid_00
 460fc191	ped	crb_cardinal_northern_m_00	
 4612ee08	ped		
 4618be04	ped		ie_bnkrg_m_00
@@ -1338,57 +1338,57 @@ hash	kind	name	other_names
 462fe277	vehicle	dubsta	
 46802d09	ped		ie_bdcr_m_00
 4693478b	vehicle_colour		
-4697b2f8	ped		
-46a121e1	ped		
+4697b2f8	ped		s_m_x_aa_delicafe_00
+46a121e1	ped		s_m_x_aa_barstaffevents_00
 46ac1754	ped	cs_dunk	
 46af2385	ped		cs_sam_the_bookie
 46b89c8e	weapon	vehicle_weapon_player_buzzard	
-46cdb9ac	ped		
+46cdb9ac	ped		a_m_x_aa_hiphop_casual_mixed_mid_00
 46f793fc	weapon_accuracy		
 46ff1c93	weapon_damage_modifier		
 470f6c53	weapon_accuracy		
 472b5fe0	ped		ie_bchar_m_00
 472df464	pickup		
-4735930d	ped		
-474f47ff	ped		
+4735930d	ped		s_m_x_aa_helipadoperator_00
+474f47ff	ped		cs_bjj_douchebag
 475abcf8	ped	crm_bobcat_florida_m_00	
 4762783f	pickup		
 478011d4	ped		cs_florencio
-47844823	ped		
+47844823	ped		m_air_hack_f_01
 47a50fec	pickup		
 47bad660	pickup		
 47bbcf2e	vehicle	xls	
 47cc6fa7	vehicle_colour		
-47db58b7	ped		
+47db58b7	ped		s_m_x_ha_sarasunisexsalon_00
 48140f1a	animal_tuning		
 4817da06	ped	crf_shark_bull_m_00	
 482d4eac	ped		cs_bush
 4847ee01	pickup		
 48521a30	animal_tuning		
-486b14b8	ped		
-4887fb02	ped		
+486b14b8	ped		a_m_x_aa_touristrevealingdaywear_mixed_mixed_mid_00
+4887fb02	ped		a_m_m_no_flushers_00
 48955d91	pickup		
-489ccd58	ped		
+489ccd58	ped		cs_porn_actor
 48a082af	pickup		
 48c236a1	ped	crf_herring_threadatlantic_m_00	
 48d4531f	pickup		
-48d6499a	ped		
+48d6499a	ped		s_f_x_aa_djhiphop_mixed_mixed_mid_00
 48edde6f	animal_tuning		
 4905e613	ped_capsule	squirrel	
-491253ab	ped		
+491253ab	ped		s_m_x_aa_hotelstafffrontdesklow_00
 4912da6a	vehicle	hemming	
-49221503	ped		
-4930825c	ped		
+49221503	ped		cs_tomas_baby
+4930825c	ped		cmp_weedg_f_00
 49355c4f	ped		ag_beuz_m_01
 49441a4b	ped	a_f_x_aa_urbanredneck_mixed_mixed_mid_00	
 4946f6a5	ped		cs_kenny_brewster
 4954f511	ped	crr_alligator_twohead_m_00	
 4957e9da	ped	crm_nutria_m_00	
-495b706e	ped		
-495cb6f6	ped		
-495d1fe6	ped		
-495d9098	ped		
-4970a8a8	ped		
+495b706e	ped		a_m_x_aa_criminalrural_casual_mixed_mid_00
+495cb6f6	ped		a_f_m_aa_corporate_formal_mixed_high_00
+495d1fe6	ped		s_f_x_aa_delistaffhealthy_00
+495d9098	ped		a_m_y_aa_basketball_casual_mixed_mid_00
+4970a8a8	ped		a_f_x_aa_tweaker_mixed_mixed_low_00
 49863e9c	vehicle	marshall	
 498ea715	weapon_damage_modifier		
 49c1f56b	ped		
@@ -1397,32 +1397,32 @@ hash	kind	name	other_names
 49dbfe61	ped	ex_puzzmba2_m_00	
 49e6bdbd	ped		cs_sam_billysgang
 49efa289	ped		
-49f304bb	ped		
-49f553fa	ped		
+49f304bb	ped		m_air_date_f_00
+49f553fa	ped		s_m_x_aa_oceanariumstaffwetsuit_00
 49f6e197	vehicle_colour		
-49fd416f	ped		
+49fd416f	ped		cmp_ccart_m_01
 4a035055	ped		
-4a072131	ped		
+4a072131	ped		s_m_x_aa_hotelstaffcasual_00
 4a0d7d15	pickup		
 4a115c4c	ped	crm_cattle_holstein_f_00	
-4a167676	ped		
+4a167676	ped		a_f_x_aa_sportsfan_casual_mixed_mid_00
 4a1b5fd8	ped	crm_otter_riveramericannorth_m_00	
-4a27205d	ped		
-4a3105a8	ped		
+4a27205d	ped		s_f_x_aa_sanitationworker_00
+4a3105a8	ped		g_m_m_penthouse_security_00
 4a401485	ped		csc_drt_prep_m_00
 4a56ae30	ped		ie_gangi_m_01
-4a6b63cd	ped		
+4a6b63cd	ped		a_f_x_aa_scubaboat_mixed_mixed_mid_00
 4a70ce22	pickup		
-4a7196dc	ped		
+4a7196dc	ped		a_m_o_aa_activewear_casual_mixed_mid_00
 4a77df7f	ped	ex_puzzump4_m_00	
 4a798deb	ped	crm_deer_legendary_m_00	
-4a8e6cf2	ped		
+4a8e6cf2	ped		m_air_final_f_01
 4a90c670	ped		ie_esctm_m_00
 4ab289f5	ped		cs_big_mike
 4ad2799f	ped		cs_tal_sk
 4ad36d3d	ped	crb_tern_caspian_m_00	
-4ada33bd	ped		
-4ae73703	ped		
+4ada33bd	ped		sws_gunthr_m_00
+4ae73703	ped		s_f_x_aa_shopkeeperclothingstorefashion_00
 4af8e345	animal_tuning		
 4afa3107	animal_tuning		
 4aff7832	ped		cti_pil_rd_sh_m_01
@@ -1430,20 +1430,20 @@ hash	kind	name	other_names
 4b38f8a1	ammo		ammo_launched_grenade_smoke
 4b4c2845	vehicle_colour		
 4b6e9989	ped		cmp_dstrc_m_00
-4b6ed34e	ped		
+4b6ed34e	ped		a_m_y_aa_localbeachpop_sexy_mixed_mid_00
 4b70d427	vehicle	nightblade2	
 4b741db7	weapon	weapon_special_stungun	
 4b8f99c8	weapon_damage_modifier		
-4b920999	ped		
-4ba92085	ped		
+4b920999	ped		m_mny_party_m_01
+4ba92085	ped		m_ant_search_m_00
 4bbee0b9	animal_tuning		
-4bc9c522	ped		
-4bd3ec5d	ped		
+4bc9c522	ped		s_f_x_aa_clubdj_00
+4bd3ec5d	ped		a_f_y_aa_sugarbaby_sports_mixed_mid_00
 4bf1364e	pickup		
 4bfcb782	ped	crm_dog_maltese_f_00	
-4c01b642	ped		
-4c034b61	ped		
-4c07198d	ped		
+4c01b642	ped		sws_swevo_m_00
+4c034b61	ped		a_m_o_kl_genpop_casual_mixed_mid_00
+4c07198d	ped		a_m_x_aa_internationalbros_nightlife_mixed_mid_00
 4c13102f	weapon_accuracy		
 4c3fff49	vehicle	deviant	
 4c4f9de5	ped	crm_opossum_virginia_m_00	
@@ -1451,42 +1451,42 @@ hash	kind	name	other_names
 4c5e71d9	pickup		
 4c618288	pickup	pickup_generic	
 4c7bb8a3	ped		
-4c7c6ea5	ped		
+4c7c6ea5	ped		a_m_m_aa_sugardaddy_swim_mixed_high_01
 4c7d27b2	pickup		
 4c80eb0e	vehicle	airbus	
 4c8ee4a2	ped		csc_eco_whale_m_01
 4c98087b	ammo	ammo_sniper	
-4c9b2d92	ped		
+4c9b2d92	ped		s_m_x_aa_bouncerlow_00
 4ca0bf06	ped		
 4caee762	ped		ie_psmug_m_01
-4cc0dcfe	ped		
+4cc0dcfe	ped		m_mny_car_f_00
 4cd03748	ped_capsule		
-4cddb9fd	ped		
+4cddb9fd	ped		s_m_x_lx_firefighteruniform_00
 4ce7b376	pickup		
-4cecbc6c	ped		
+4cecbc6c	ped		s_m_x_kc_firefighteruniform_00
 4cf2573d	pickup		
 4d0568f5	ped	crm_dog_terrierbullpitamerican_m_00	
 4d0791ed	ped	crm_bear_polar_f_00	
 4d1daab3	pickup		
-4d2dbd20	ped		
-4d437310	ped		
-4d55f843	ped		
-4d5dcb5c	ped		
+4d2dbd20	ped		ex_discowc_f_00
+4d437310	ped		m_coa_helis_m_01
+4d55f843	ped		s_m_x_aa_barstaff_00
+4d5dcb5c	ped		s_f_x_aa_shopkeeperbodega_00
 4d6399e9	ammo		
 4d641330	weapon_damage_modifier		
 4d914a05	pickup		
-4da07538	ped		
+4da07538	ped		cs_diego_lamora
 4dc079d7	vehicle	growler	
-4dd64c26	ped		
+4dd64c26	ped		m_bil_preg_m_00
 4df09bb5	vehicle_colour		
-4df92db7	ped		
+4df92db7	ped		s_f_x_ha_sarasunisexsalon_00
 4dfbe6c1	ped		m_clb_tower_f_00
 4dfdd1c6	animal_tuning		
-4e004a1b	ped		
-4e03822f	ped		
+4e004a1b	ped		m_int_bank_f_00
+4e03822f	ped		a_m_x_aa_touristbeachrefined_mixed_mixed_high_00
 4e0a9e32	ped		cs_hotel_bartender
 4e0f4b89	weapon_accuracy		
-4e14ef0b	ped		
+4e14ef0b	ped		ex_puzzbwprb_f_00
 4e358598	animal_tuning		
 4e393796	vehicle	montagnepu	
 4e3aa12f	weapon_damage_modifier		
@@ -1499,167 +1499,167 @@ hash	kind	name	other_names
 4e734183	pickup		
 4e766fce	ped	crf_jellyfish_manowar_m_00	
 4e7aa830	ped		
-4e7b3eb2	ped		
+4e7b3eb2	ped		a_f_x_aa_criminalcity_mixed_mixed_mid_00
 4e7f5772	pickup		
-4e9be7d3	ped		
+4e9be7d3	ped		cti_deal_nctc_m_00
 4ebf554e	pickup		
 4ec25b53	vehicle	lombike	
 4ed53bfd	pickup		
 4ee6a9d9	ped		cmp_safeh_m_00
-4ee6e12b	ped		
+4ee6e12b	ped		a_m_y_aa_motocrosscity_casual_mixed_mid_00
 4ee74355	vehicle	emerus	
 4f252346	pickup		
 4f26d2b2	ped		ie_senvg_m_00
-4f30639a	ped		
+4f30639a	ped		ie_bodis_m_00
 4f38da33	vehicle_colour		
 4f3c69c6	ped		cs_lori_heder
 4f595285	ped		ie_ndp_m_00
-4f5ab8a2	ped		
-4f734f87	ped		
-4f829238	ped		
+4f5ab8a2	ped		m_int_priso_m_01
+4f734f87	ped		s_f_x_ws_policedispatch_00
+4f829238	ped		a_m_y_aa_localnightlife_casual_mixed_mid_00
 4f8d9a22	pickup		
-4f8f8edc	ped		
-4f9272ef	ped		
+4f8f8edc	ped		ie_hopoa_m_01
+4f9272ef	ped		s_f_x_ob_tattooparlour_casual_mixed_low_00
 4f929c98	pickup		
 4f9bcddb	pickup		
-4fa65625	ped		
+4fa65625	ped		a_m_y_aa_nightclubpromoter_mixed_mixed_mid_00
 4fad15ba	pickup		
 4fc41d5a	ped	ex_secresdr_m_00	
-4fc9a5e7	ped		
+4fc9a5e7	ped		m_int_prolo_f_02
 4fcb1092	pickup		
-4fd6c88d	ped		
+4fd6c88d	ped		cs_tomas_cousin_02
 4fe4d51e	animal_tuning		
-4ff32bad	ped		
+4ff32bad	ped		a_f_x_aa_recreationalhunters_casual_mixed_mid_00
 4fffd495	ped	ex_secreiic_m_00	
 500327cf	pickup		
-5023395b	ped		
+5023395b	ped		s_f_x_ab_policeboat_00
 50319a09	ped		
 503b1d7d	ped	crb_mockingbird_northern_m_00	
 50546fb0	ped		ci_up_hotpbph_f_00
 505d4f41	pickup		
-5064dff7	ped		
+5064dff7	ped		s_f_x_aa_coastguard_00
 506eddd6	ped	crm_cattle_runaway_f_00	
 5073128b	weapon_accuracy		
-50753f9d	ped		
+50753f9d	ped		a_f_x_aa_hospitalpatients_mixed_mixed_mid_00
 507ddf28	pickup		
-509ca2db	ped		
+509ca2db	ped		s_m_x_lc_tacticallight_00
 50a4174b	pickup		
 50a8bee2	vehicle	bison3800	
-50b334f0	ped		
+50b334f0	ped		s_m_x_aa_djbeach_mixed_mixed_mid_00
 50c58beb	ped		com_deal_cook_m_00
 50cd4f01	animal_tuning		
-50e95674	ped		
+50e95674	ped		m_mtl_cont_f_00
 50f2d941	vehicle	DIBNAH	
-5109774f	ped		
+5109774f	ped		m_bil_pent_f_00
 510a5e2d	pickup		
-51101d8f	ped		
-5110428c	ped		
+51101d8f	ped		a_m_x_aa_tourist_casual_xxl_low_00
+5110428c	ped		a_f_x_aa_mudpark_casual_heavy_mid_00
 5110b0bf	ped		ie_elklt_m_01
 5111dd8e	ped		ie_atss_f_00
 51326895	pickup		
 51355395	pickup		
-513bcacc	ped		
+513bcacc	ped		s_m_x_aa_hotelstaffbellhigh_00
 513e4e17	weapon_accuracy		
-5145207d	ped		
+5145207d	ped		s_m_x_aa_privatesecurityhigh_00
 5161aae9	weapon_accuracy		
 517b7711	ped_capsule		
 517f979e	ped		
 518fcbb3	ped		sws_racec_f_00
-51aacc63	ped		
+51aacc63	ped		s_m_x_aa_carrentalstaff_00
 51b3a77a	weapon_accuracy		
-51c38564	ped		
-51cf4c6d	ped		
+51c38564	ped		m_ant_chase_m_00
+51cf4c6d	ped		s_m_x_pg_tacticallight_00
 51e5b0f0	ped		cs_terro
-51f29219	ped		
+51f29219	ped		a_f_x_aa_unstablerural_mixed_mixed_mid_00
 51fcff9a	ped		ie_dtmel_m_00
 51fef55f	animal_tuning		
 521066a3	ped		
 521a1c6c	pickup		
-5238feaf	ped		
+5238feaf	ped		a_f_y_aa_nudistswingersexy_nude_mixed_mid_00
 52390416	weapon_damage_modifier		
 52406c2e	pickup		
 52498013	ped		ie_dcsha_f_00
-524c5f57	ped		
+524c5f57	ped		s_m_x_pg_policeboat_00
 5255a737	vehicle	sandkingxt	
-5272f9c2	ped		
+5272f9c2	ped		s_m_x_aa_dockworker_00
 52a64303	ped		a_f_x_aa_genpoppoorrural_mixed_mixed_low_01
-52b8f360	ped		
+52b8f360	ped		a_m_y_aa_touristglam_casual_heavy_mid_00
 52c26b8e	ped	crb_goose_canada_m_00	
 52c46b5f	pickup		
 52daa63a	animal_tuning		
 52db01e0	vehicle	rancher	
 52efc093	pickup		
 52f61ce8	ped_capsule		
-5304fa45	ped		
-531c19f4	ped		
+5304fa45	ped		ex_discoemrsh_m_00
+531c19f4	ped		s_f_x_vd_policebike_00
 53213dc1	ped	ex_discodbj_m_00	
 53337347	ped		cs_rocky_chavez
-5334b812	ped		
+5334b812	ped		m_air_tail_f_00
 5338e180	ped	cs_kai	
 533fb98c	ped		
 534b88a5	vehicle_colour		
-5351367f	ped		
-5364b6fc	ped		
+5351367f	ped		s_m_x_ob_tattooparlour_casual_mixed_low_00
+5364b6fc	ped		cs_tr1_influencer
 53802ce6	weapon_accuracy		
-53869bf1	ped		
+53869bf1	ped		s_m_x_aa_speedwaystaffhighvis_00
 53aa9b14	ped	crb_parrot_macawblueyellow_m_00	
-53c54e7d	ped		
-53d3a113	ped		
-53d99a47	ped		
-53e34fd5	ped		
-53e4239e	ped		
-53e54287	ped		
-54005baa	ped		
+53c54e7d	ped		cs_brinley
+53d3a113	ped		cs_mo_f_organizer
+53d99a47	ped		s_f_x_aa_mansionstaffhousekeeper_00
+53e34fd5	ped		s_m_m_dirtycops_00
+53e4239e	ped		m_bil_house_m_02
+53e54287	ped		shops_f_mannequin_upper_nohead
+54005baa	ped		a_f_x_aa_criminalrural_mixed_mixed_mid_00
 5401d979	pickup		
 54095c1f	ped		
 5411a8ff	ped	crr_alligator_legendary_m_00	
-5429a98b	ped		
-543057f0	ped		
-545027de	ped		
+5429a98b	ped		s_m_x_aa_driverprivate_00
+543057f0	ped		cs_dave_ling
+545027de	ped		a_f_x_aa_touristbeachpop_mixed_mixed_low_00
 54594165	ped	crb_crow_american_m_00	
 5466065d	ped		ag_tss_m_00
 5488e259	ped		s_m_x_aa_emt_00
-54bd166e	ped		
+54bd166e	ped		cs_julia_pena
 54c6140f	ped		cs_yolanda
 54c6f192	ped		ie_tortr_m_01
 55072b95	ped	crb_eagle_bald_m_00	
-55247d8f	ped		
+55247d8f	ped		m_air_truck_f_00
 5527eb16	weapon_accuracy		
-552caab3	ped		
-555304ee	ped		
-55622e72	ped		
-55717840	ped		
+552caab3	ped		cs_trailer_flipper
+555304ee	ped		s_m_x_aa_migrantworker_casual_mixed_low_00
+55622e72	ped		a_m_x_aa_gaydaywear_casual_mixed_mid_00
+55717840	ped		a_f_x_aa_genpopfitness_sport_mixed_mid_00
 55ea98b0	pickup		
-55ffcd2b	ped		
-560aa68e	ped		
+55ffcd2b	ped		s_m_m_barstaff_low_00
+560aa68e	ped		cs_tomas_toddler
 5633f9d5	ammo	ammo_molotov	
-56465dcb	ped		
-566ae4b4	ped		
+56465dcb	ped		cmp_fshsk_f_00
+566ae4b4	ped		m_coa_ship_m_00
 5671b54c	weapon_damage_modifier		
 567ca4cc	ammo		
 568bbd39	ped_capsule		
 56a4772d	ped	ag_beuz_m_00	
 56c59260	ped		ie_smgrb_m_00
-56c695f5	ped		
+56c695f5	ped		m_ant_chase_f_00
 56c9f76f	ped		cs_kordell_grant
 56cdee7d	vehicle	vstr	
 56d42971	vehicle	tulip	
-56d85982	ped		
+56d85982	ped		a_m_x_aa_sportsfan_casual_mixed_mid_00
 56dd872c	pickup		
-56dde503	ped		
-56f041ac	ped		
+56dde503	ped		ag_beu_bosses_f_00
+56f041ac	ped		a_m_y_aa_touristgeneral_mixed_mixed_mid_00
 57049308	ped		cs_jacki
-5706fdbd	ped		
-57157e13	ped		
+5706fdbd	ped		s_m_x_pg_policedispatch_00
+57157e13	ped		a_m_x_aa_scubadiving_mixed_mixed_mid_00
 57257684	weapon_damage_modifier		
 573740fd	ped		cs_alex
 5737d192	vehicle_colour		
 573dc473	weapon_damage_modifier		
-5745a4ee	ped		
+5745a4ee	ped		s_f_m_prison_guard_00
 5748bbd5	ped_capsule	duck	
-574e86e4	ped		
-57641f93	ped		
-57685496	ped		
+574e86e4	ped		s_f_x_pg_policeambient_00
+57641f93	ped		fro_golfc_m_00
+57685496	ped		cmp_wrkvn_f_00
 57a536c6	vehicle	lowline	
 57bd498f	ammo		ammo_launched_grenade
 57bef25a	ammo		
@@ -1671,46 +1671,46 @@ hash	kind	name	other_names
 57ee657d	animal_tuning		
 57f3c8e1	pickup		
 57f61d3a	ped_capsule	iguana	
-57f6a133	ped		
+57f6a133	ped		g_m_m_penthouse_security_01
 57f6fef0	ped_nav_capability		IN_VEHICLE | in_vehicle
 57feec92	vehicle_colour		
 5809052d	weapon_damage_modifier		
-581d5bbd	ped		
+581d5bbd	ped		m_bil_wheel_m_00
 5841958d	animal_tuning		
 584b47da	ped	crm_panther_florida_m_00	
-584dabfd	ped		
+584dabfd	ped		s_m_x_mc_tacticalheavy_00
 587d0e86	weapon_accuracy		
 588807cd	pickup		
 5893188e	ped		cti_show_wans_m_00
 58b36291	ped	g_m_m_fap_02	
 58d8d007	ammo		ammo_launched_vehicle_homing
-58da220a	ped		
+58da220a	ped		ie_overp_m_00
 58e49664	vehicle	forklift	
-58fdfc99	ped		
-59139732	ped		
+58fdfc99	ped		s_m_x_aa_landscaperlow_00
+59139732	ped		m_mny_car_m_00
 591f1954	ped		cs_mia_caminos
-59459e59	ped		
+59459e59	ped		s_f_x_aa_fastfoodmarbles_00
 596605cb	animal_tuning		
 5970d63b	ped	cs_drequan	
-5971e085	ped		
+5971e085	ped		cs_charles_ferbrache
 59863c24	pickup		
 5995fb01	pickup		
-59acb997	ped		
+59acb997	ped		s_m_x_wb_policedispatch_00
 59b35f0c	vehicle	transgressor	
-59b4cf5a	ped		
+59b4cf5a	ped		m_bill_fun_hotel_m_00
 59ba4e79	weapon_damage_modifier		
 59bec6e4	ped		
 59e0c97a	ped		ie_vinfl_f_00
 59e0fbf3	vehicle	picador	
 59e46f48	pickup		
 59f30dc8	weapon_accuracy		
-5a0584e6	ped		
-5a32db88	ped		
+5a0584e6	ped		s_f_x_kl_waitstaff_00
+5a32db88	ped		s_m_m_yacht_staff_00
 5a37c327	pickup		
-5a39a8a2	ped		
-5a57f9ce	ped		
+5a39a8a2	ped		a_f_o_aa_nudisthippie_nude_mixed_mid_00
+5a57f9ce	ped		ex_discodap_f_00
 5a6faa67	ped		ie_mugms_f_00
-5a737e26	ped		
+5a737e26	ped		s_m_x_kc_tacticallight_00
 5a82f9ae	vehicle	hauler	
 5a84f38a	ped		
 5a9ec131	vehicle	brigade	
@@ -1721,55 +1721,55 @@ hash	kind	name	other_names
 5adf83c7	ped		ie_psmug_m_02
 5ae4378e	pickup		
 5ae886a3	pickup		
-5b19adba	ped		
+5b19adba	ped		s_m_x_kc_policeboat_00
 5b375754	pickup		
 5b3e81ee	animal_tuning		
 5b518c30	ped		com_rob_kill_m_00
-5b5b26b1	ped		
+5b5b26b1	ped		cmp_weedg_f_01
 5b705bf8	ped		csc_stu_stadm_f_01
-5b90b14e	ped		
-5b9912f7	ped		
+5b90b14e	ped		cs_dealergoon_joe
+5b9912f7	ped		s_m_x_aa_factoryworker_00
 5bc1da52	pickup		
 5bca53d8	ped_capsule		
 5bd29d6e	ped		ie_ccrash_m_00
-5be93524	ped		
+5be93524	ped		a_m_x_aa_daywear_casual_mixed_mid_00
 5bed0c66	weapon_damage_modifier		
 5bf7c75c	animal_tuning		
-5bfd5cae	ped		
-5c16356d	ped		
+5bfd5cae	ped		s_m_x_aa_shopkeeperseafoodvendor_00
+5c16356d	ped		a_m_x_aa_shopping_mixed_mixed_high_00
 5c30fb5a	pickup		
 5c3c681f	ped	crm_dog_catahoulacur_m_00	
-5c46e199	ped		
+5c46e199	ped		cs_tomas_cousin_00
 5c5ad114	pickup		
 5c5b4c02	ped		
 5c5fffa6	vehicle_colour		
-5c714bd8	ped		
+5c714bd8	ped		s_m_x_ca_tacticallight_00
 5c77d6f0	vehicle_colour		
 5c82f7fd	vehicle_colour		
-5cbb02f9	ped		
-5cd8ac26	ped		
-5cdd9c10	ped		
-5cf13891	ped		
+5cbb02f9	ped		m_clb_heli_f_00
+5cd8ac26	ped		m_mny_party_m_00
+5cdd9c10	ped		m_ban_final_f_00
+5cf13891	ped		a_f_x_aa_shopping_mixed_mixed_high_00
 5cf90202	ped		com_kbos_radr_m_00
 5d0669cb	pickup		
-5d0836d9	ped		
+5d0836d9	ped		ie_windw_m_00
 5d0aac8f	vehicle	airtug	
 5d14d52f	ped	cs_andres_deleon	
 5d190cbc	pickup		
 5d24e38f	pickup		
-5d31fd1e	ped		
-5d3ee6d3	ped		
-5d3f888f	ped		
-5d4ed408	ped		
+5d31fd1e	ped		a_f_y_aa_tourist_sexy_mixed_mid_00
+5d3ee6d3	ped		cs_lc_racer_06
+5d3f888f	ped		s_m_x_mc_policeboat_00
+5d4ed408	ped		s_f_x_aa_officeworkersecurityreception_00
 5d736651	ped_nav_capability	flightless_bird	
-5d821384	ped		
+5d821384	ped		a_m_x_aa_homelessbeachbum_mixed_mixed_low_00
 5d8b4eea	ped		cs_freddie
 5dacab2a	weapon_accuracy		
 5dbbf4ba	vehicle	telehandler	
-5dc80f88	ped		
-5dceb000	ped		
-5ddb2b73	ped		
-5de1b51e	ped		
+5dc80f88	ped		a_f_x_aa_watersportstourist_swim_mixed_mid_00
+5dceb000	ped		s_m_x_ha_kurtsbarber_00
+5ddb2b73	ped		ie_hopoa_m_02
+5de1b51e	ped		cs_dealergoon_milton
 5de6b93c	pickup		
 5deee00c	ped	crf_swordfish_atlanticnorth_m_00	
 5e0353b9	ped	crm_dog_malinoisbelgian_f_00	
@@ -1777,87 +1777,87 @@ hash	kind	name	other_names
 5e264eca	pickup		
 5e2e6cb6	ped_capsule	crane	
 5e2e6cb6	vehicle	crane	
-5e3aad81	ped		
+5e3aad81	ped		s_f_x_aa_clothingshoplow_00
 5e42daa2	pickup		
-5e4c4972	ped		
+5e4c4972	ped		a_m_x_aa_wealthymansion_casual_mixed_mid_00
 5e67f7f3	ped		m_int_plnsh_m_02
-5e72f637	ped		
+5e72f637	ped		a_m_x_aa_genpoprural_casual_xxl_low_00
 5e730218	ped		cs_luis
-5e778c1d	ped		
+5e778c1d	ped		g_m_m_cashcity_00
 5e85a844	pickup		
 5e87efce	ped		cs_watchdealer
 5e9fc945	ped	crf_grunt_bluestriped_m_00	
 5ea9a02d	pickup		
 5ed9af21	pickup		
-5eeaab5e	ped		
+5eeaab5e	ped		m_mny_hotel_m_00
 5ef370ae	weapon_accuracy		
-5f08afb9	ped		
+5f08afb9	ped		a_m_y_aa_genpopcuban_casual_mixed_mid_00
 5f0c5910	animal_tuning		
-5f10e701	ped		
+5f10e701	ped		cs_tomas_cousin_01
 5f1cde43	vehicle	spritz	
-5f2dc315	ped		
-5f4580e9	ped		
-5f4f6c13	ped		
+5f2dc315	ped		s_m_x_aa_carwashstaff_00
+5f4580e9	ped		s_m_x_aa_hotelstafffrontdeskhip_00
+5f4f6c13	ped		cmp_ccart_m_02
 5f66fd4b	ped_capsule	alligator	
 5f677ec0	vehicle	shasa	
-5f736995	ped		
+5f736995	ped		a_m_x_aa_genpopweird_mixed_mixed_mid_00
 5f87b84e	ped	crb_sparrow_house_m_00	
-5f92f28a	ped		
-5f9bce7c	ped		
-5f9f524b	ped		
-5faedc3b	ped		
-5fb10796	ped		
-5fc0c4bd	ped		
+5f92f28a	ped		a_f_x_aa_pilothobby_casual_mixed_mid_00
+5f9bce7c	ped		s_m_x_pg_tattoopatron_00
+5f9f524b	ped		s_m_x_vc_tacticallight_00
+5faedc3b	ped		s_m_x_pg_stripclubdelights_00
+5fb10796	ped		a_f_x_aa_cellericaexecutive_mixed_mixed_mid_00
+5fc0c4bd	ped		s_m_x_ca_tacticalheavy_00
 5fd96b8f	ped	crf_ray_eaglespotted_m_00	
 5ff47304	vehicle_colour		
-5ffb4be8	ped		
-5ffce15c	ped		
-60089c03	ped		
+5ffb4be8	ped		cs_nicole_kidnap1
+5ffce15c	ped		s_m_x_aa_operatorferry_00
+60089c03	ped		a_m_x_aa_genpopfishingrural_casual_mixed_mid_00
 600f9aa7	weapon_accuracy		
 6011a2ad	pickup		
 60262f38	pickup		
-6029efc4	ped		
+6029efc4	ped		s_m_x_aa_shopkeeperfleamarket_00
 60378f79	ped		cs_elonzo
 60394220	ped		ie_dcsha_m_00
-603f4055	ped		
-60519fe7	ped		
-60524965	ped		
+603f4055	ped		a_f_o_ca_touristsnowbird_mixed_mixed_mid_00
+60519fe7	ped		s_m_x_aa_municipalworkerservice_00
+60524965	ped		s_m_x_ca_policedispatch_00
 606774ed	ped		
-606ed6e8	ped		
+606ed6e8	ped		s_f_x_kc_policedispatch_00
 60ac223e	ped		s_m_x_aa_coastguardtacticallight_00
 60ac779d	animal_tuning		
 60c639e5	pickup		
-60c6bf01	ped		
+60c6bf01	ped		s_f_x_pg_policeboat_00
 60d1297f	vehicle_colour		
 60f51afc	pickup		
 612c6641	ped	crr_snake_pythoninfluencer_m_00	
 6134d8bc	pickup		
-61361ea9	ped		
-61428a5a	ped		
-61558905	ped		
+61361ea9	ped		ie_secdd_m_01
+61428a5a	ped		a_f_o_aa_nudist_nude_mixed_mid_00
+61558905	ped		s_f_x_pg_pearlhousesalon_00
 615872f5	vehicle	parkland	
 6161b3b3	animal_tuning		
-61628269	ped		
+61628269	ped		s_f_x_aa_ammunationphils_00
 6173eaf5	vehicle_colour		
-618451fc	ped		
+618451fc	ped		a_f_o_aa_touristinternational_swim_mixed_mid_00
 618c9095	weapon_damage_modifier		
 61ccae10	ped		cs_dylan_mac
 61d10a22	animal_tuning		
 61daf10c	pickup		
-61edae09	ped		
+61edae09	ped		a_m_y_aa_hiphop_casual_mixed_mid_00
 61f3ef42	ped		cs_firewitch
-61feea40	ped		
+61feea40	ped		m_coa_dog_m_00
 62031940	pickup		
 62236348	pickup		
 62254d21	ped		cmp_abcc_f_00
 62334f8c	ped		cs_shane
 62398eaf	pickup		
 6246d319	ped		cs_dave
-624cf1ee	ped		
+624cf1ee	ped		cmp_gboat_f_00
 62532f06	ped		com_deal_cook_m_01
-6280403b	ped		
+6280403b	ped		a_m_m_aa_touristhigh_mixed_mixed_high_01
 628f65f0	pickup		
-62912cd9	ped		
+62912cd9	ped		a_m_x_aa_environmentalprotestors_casual_mixed_mid_00
 62a12410	ped	crm_goat_alpine_f_00	
 62a2299a	ped		cs_arnica
 62bf9866	ped		
@@ -1867,9 +1867,9 @@ hash	kind	name	other_names
 62e23014	ped	crm_pig_yorkshireamerican_m_00	
 62e3ca83	ped		g_m_m_finalchapter_grd_00
 62edcbd7	ped		cs_beelzebub
-62f3ce67	ped		
+62f3ce67	ped		m_mtl_mud_f_00
 62fda717	weapon	weapon_pistol_service	
-630203b1	ped		
+630203b1	ped		a_m_y_aa_cyclist_sport_mixed_mid_00
 630ee55b	ped		cs_bianca_celestino
 63171d46	vehicle	mambagt	
 631fb64f	ped		ie_bprfd_m_00
@@ -1878,25 +1878,25 @@ hash	kind	name	other_names
 63573cfa	weapon	weapon_pistol_polymer	
 635d0e90	vehicle	DZY80	
 6361f9f5	pickup		
-63a81182	ped		
+63a81182	ped		a_m_o_aa_tourist_swim_mixed_mid_00
 63aa4aa2	vehicle_colour		
 63ab599b	pickup		
-63b0b999	ped		
-63b1d1d3	ped		
-63f6cc0d	ped		
+63b0b999	ped		s_f_x_aa_airlineattendant_00
+63b1d1d3	ped		a_m_y_aa_clubgay_nightlife_mixed_mid_00
+63f6cc0d	ped		a_f_x_aa_genpopfishing_casual_mixed_high_00
 6403e898	ped	crr_crocodile_mutated_m_00	
-6428d0fe	ped		
+6428d0fe	ped		m_air_hack_m_00
 642d82bd	pickup		
 64356159	ammo	ammo_revolver	
 6455038c	pickup		
 64746af4	ped		cs_sparky
-647d7fac	ped		
+647d7fac	ped		s_f_x_ob_tattoopatron_00
 648f3d6b	ped		ie_atmff_m_00
 649ecc10	vehicle_colour		
 64c2dcaf	vehicle	TRAILERBAGGAGE2	
 64c61fde	pickup		
-64e196fe	ped		cs_billy
-64ed9ad5	ped		
+64e196fe	ped		CS_Billy | cs_billy
+64ed9ad5	ped		s_f_x_aa_prisoner_00
 64f18951	ped		ie_stick_m_00
 6500a6f2	pickup		
 6503ab32	ped_capsule		
@@ -1904,10 +1904,10 @@ hash	kind	name	other_names
 650b6ec5	pickup		
 651c220d	animal_tuning		
 6522617c	pickup		
-652715d0	ped		
+652715d0	ped		ex_discoba_m_00
 65301d72	animal_tuning		
 65447daa	ped		ci_up_hotwdpl_f_00
-6552c5ce	ped		cs_brian_heder
+6552c5ce	ped		CS_Brian_Heder | cs_brian_heder
 656bff3c	ped		ie_senvg_m_01
 6572ef77	ped	crb_parrot_amazonredcrowned_m_00	
 657466db	pickup		
@@ -1920,26 +1920,26 @@ hash	kind	name	other_names
 65ff498b	ped		cs_chart_bestman
 66084435	ped		
 66099f4c	ped_capsule	mouse	
-6622617b	ped		
+6622617b	ped		com_mech_stfc_m_00
 6625b2d3	ped		csc_drt_mall_f_00
-666b1b82	ped		
+666b1b82	ped		a_m_x_aa_tourist_swim_xxl_low_00
 66793c91	ped	crb_falcon_peregrineamerican_m_00	
-668af36a	ped		
+668af36a	ped		s_f_x_aa_hotelstafffrontdeskhip_00
 668bc86b	pickup		
 6691714a	animal_tuning		
 66d14fd3	door_tuning	DefaultSlidingVertical	
 66e219b1	ped_capsule		
 66f9fbf5	pickup		
 6712005c	pickup		
-671a3059	ped		
-673606db	ped		
+671a3059	ped		s_f_x_aa_driverbus_00
+673606db	ped		a_f_y_aa_touristglam_sexy_mixed_mid_00
 673bddd8	weapon_accuracy		
 673ce773	pickup		
-674a72cb	ped		
-675e0d91	ped		
-67690e85	ped		
+674a72cb	ped		g_m_m_m7mara_grd_00
+675e0d91	ped		a_m_x_aa_watersportstourist_swim_mixed_mid_00
+67690e85	ped		m_air_recru_m_00
 677dc7bf	weapon_accuracy		
-678728c1	ped		
+678728c1	ped		cmp_wpnex_m_02
 6795098d	weapon_accuracy		
 67d18297	weapon	vehicle_weapon_water_cannon	
 67dd8186	ped		ie_esctm_f_00
@@ -1948,16 +1948,16 @@ hash	kind	name	other_names
 67e836c7	ped		cs_pilot_pete
 681af4ee	weapon	weapon_sniper_service	
 6827cf72	vehicle	stockade	
-6868e923	ped		
-687e2a6a	ped		
+6868e923	ped		cs_tomas_kid
+687e2a6a	ped		ex_discobc_m_00
 6882fa73	vehicle	enduro	
 68867a7e	ped		ie_panch_m_00
 68874308	vehicle	cretacean	
-68a02a83	ped		
+68a02a83	ped		a_m_x_dodos_rising_00
 68a5d1ef	vehicle	cypher	
-68a86042	ped		
-68b89eb8	ped		
-68b90988	ped		
+68a86042	ped		ie_rager_m_00
+68b89eb8	ped		s_m_x_di_waitingstaffformal_00
+68b90988	ped		cs_s4s_artist_01
 68c41fd1	pickup		
 68e30f35	pickup		
 68e38774	ped	cs_ej_billysgang	
@@ -1967,75 +1967,75 @@ hash	kind	name	other_names
 69093a49	ped	crr_crocodile_american_m_00	
 6915aea2	pickup		
 691e9d93	ped	crb_cormorant_doublecrested_m_00	
-6924f71f	ped		
+6924f71f	ped		m_mny_escrt_m_00
 692cd266	ped		csc_stu_intro_f_00
-693470be	ped		
+693470be	ped		m_int_prolo_intro_f_00
 693b2788	animal_tuning		
 69475654	ped		cs_janice
 69486a46	vehicle_colour		
 6956fb42	ped		
-6999833a	ped		
+6999833a	ped		a_m_x_kl_boatpop_mixed_mixed_mid_00
 69a2b6e4	pickup		
-69bfae4d	ped		
+69bfae4d	ped		m_air_tail_m_00
 69c2704e	ped	crm_cattle_holstein_m_00	
-69c27d50	ped		
+69c27d50	ped		a_m_m_aa_nudist_nude_mixed_mid_00
 69cba836	weapon	weapon_shotgun_assault	
-69e0ace9	ped		
+69e0ace9	ped		con_show_deal_f_00
 69f61675	vehicle	clarion	
 69f8257c	weapon	weapon_melee_knife_spring	
 6a07d3cb	ped		cs_raymond
 6a2f4cf9	ped		
 6a2f9d00	ped		ie_nttul_m_01
-6a3b779c	ped		
+6a3b779c	ped		a_m_x_aa_yoga_sport_mixed_mid_00
 6a480e40	ped		
 6a48f4bc	ped		ie_murder_m_00
-6a4a8259	ped		
+6a4a8259	ped		s_m_x_aa_shopkeepercarsaleslow_00
 6a4e8b22	animal_tuning		
 6a558c36	ped		cs_dante_fresh
 6a5f02c8	pickup		
 6a63d024	pickup		
 6a63f6c3	pickup		
-6a80b082	ped		
+6a80b082	ped		m_bil_preci_m_04
 6a9ed92a	pickup		
 6aa1343f	ammo	ammo_mg	
-6aa7695e	ped		
+6aa7695e	ped		s_f_x_aa_medicalstaff_00
 6afddf5c	ped		cs_emelda
 6b2c9adb	ped	crm_raccoon_northern_m_00	
 6b2cbf21	vehicle_colour		
-6b34ffad	ped		
-6b3a63e7	ped		
-6b3c17eb	ped		
+6b34ffad	ped		s_f_x_aa_barstaffmid_00
+6b3a63e7	ped		a_f_x_aa_touristgeneral_mixed_mixed_high_00
+6b3c17eb	ped		g_m_m_kingfishers_ldr_00
 6b457a7c	pickup		
 6b61c045	ped	crm_cattle_ufoabduction_f_00	
 6b67bca3	ped		ie_armcr_m_01
-6b83f5f4	ped		
+6b83f5f4	ped		a_f_y_aa_touristsexy_swim_mixed_mid_00
 6b8439ab	animal_tuning		
 6b8edbb2	ammo		
 6ba435a0	pickup		
 6bcee8de	pickup		
 6bd9c554	ammo		
 6bddd83c	vehicle	airmule	
-6be27290	ped		
+6be27290	ped		s_m_x_aa_restaurantstafffancymid_00
 6bf894bb	pickup		
 6c00d691	pickup		
-6c092840	ped		
+6c092840	ped		s_m_x_vb_policedispatch_00
 6c0992c4	ped	crr_alligator_american_m_01	
-6c0d82d6	ped		
+6c0d82d6	ped		s_f_x_aa_hotelstaffcasual_00
 6c2bb75f	vehicle	calder	
-6c336446	ped		
+6c336446	ped		a_f_x_aa_entrepreneurbohemian_casual_mixed_mid_00
 6c3f2382	ped		m_clb_party_m_02
 6c51c3fa	ped		ie_atmfb_f_00
-6c5401b7	ped		
-6c5fb402	ped		cs_dwnply
-6c5fd207	ped		
-6c73ec13	ped		
+6c5401b7	ped		s_m_x_aa_armoredswat_00
+6c5fb402	ped		CS_DWNPLY | cs_dwnply
+6c5fd207	ped		cmp_tower_m_00
+6c73ec13	ped		ag_tss_player02_f_00
 6c76803a	ped		cs_boobie_driver
 6c7d23b8	ammo	ammo_smg	
-6c8f0125	ped		
+6c8f0125	ped		s_m_x_aa_countryclubstaffrestaurant_00
 6c9301d5	ped		cs_vinny_capsik
 6ca4cdb0	animal_tuning		
 6caf8e64	pickup		
-6cb0718c	ped		
+6cb0718c	ped		a_m_x_aa_wealthyoldmoney_mixed_mixed_high_00
 6cc31e49	pickup		
 6cddee1c	ped		
 6cf9b004	ped		
@@ -2044,7 +2044,7 @@ hash	kind	name	other_names
 6d3194f3	ammo		
 6d4218a0	vehicle_colour		
 6d47930c	weapon_accuracy		
-6d5e02e0	ped		
+6d5e02e0	ped		a_f_x_aa_genpopfishing_casual_mixed_mid_00
 6d60b882	pickup		
 6d634e23	ped		cs_burim
 6d70d1a9	pickup		
@@ -2063,22 +2063,22 @@ hash	kind	name	other_names
 6e157e80	ped_capsule	fish_medium	
 6e28fb17	ped	ex_discoscmg_m_00	
 6e3adaac	ped	crm_dog_shepherdgerman_f_00	
-6e3d29c9	ped		
+6e3d29c9	ped		a_f_x_aa_newager_mixed_mixed_mid_00
 6e4097e7	ped		cs_theimmigrator
 6e4fb16c	pickup		
-6e58d887	ped		
+6e58d887	ped		m_bil_house_m_00
 6e6075a4	weapon_accuracy		
-6e6450cd	ped		
+6e6450cd	ped		g_m_m_cmp_wpnex_grd_00
 6e7b2f8b	pickup		
 6ea31d21	ped		ci_up_hcguest_f_00
-6eab9967	ped		
+6eab9967	ped		m_air_train_f_00
 6ee4e672	ped_capsule	standard_male	
 6eea012c	ped		cs_castro
 6effcb44	ped		g_m_m_koltandassoc_ldr_00
 6f04f662	pickup		
 6f4776a4	pickup		
 6f4f1d2e	ped		
-6f56a4a9	ped		
+6f56a4a9	ped		s_f_x_aa_shopkeepershoestafflow_00
 6f62fb37	ped		cs_cellerica_jenna
 6f946279	vehicle	yosemite	
 6f9a0e98	ped	crf_bass_searock_m_00	
@@ -2086,58 +2086,58 @@ hash	kind	name	other_names
 6f9a9e1b	pickup		
 6fa293c2	ped_nav_capability	snake	
 6fa63305	pickup		
-6fde73dc	ped		
+6fde73dc	ped		g_m_m_cmp_narbr_00
 6fe82f5f	ped		csc_stu_party_f_00
 70089e5f	ped	crr_tortoise_bedazzled_m_00	
 7008be86	weapon_damage_modifier		
 700aeecd	pickup		
-701458ca	ped		
+701458ca	ped		a_m_y_aa_touristglam_casual_mixed_mid_00
 701f7c90	animal_tuning		
 70225e00	animal_tuning		
-702a90e5	ped		CONTACT | Contact | contact
+702a90e5	ped		CONTACT | Contact | contact | s_m_x_vc_policedispatch_00
 702cc59a	pickup		
 704f4ecc	ped		cs_maleek_rivers
 70553925	ped		ie_crmfl_f_00
 70586a56	ped	crb_spoonbill_roseate_m_00	
 7062adb0	ped_capsule		
-70677ac7	ped		
+70677ac7	ped		sws_jywalk_m_00
 7067e7a7	weapon	weapon_thrown_molotov	
 7074f39d	vehicle	bulldozer	
-708499aa	ped		
+708499aa	ped		a_f_x_aa_mudparkparty_mixed_mixed_mid_00
 70a4ec23	vehicle_colour		
 70ac3b8e	ped		csc_srs_meet_m_00
 70cb15b3	vehicle	guardiantx2	
 70cc1951	weapon_damage_modifier		
 70cef897	ped		
-70d68690	ped		
-70e73d5f	ped		
+70d68690	ped		a_f_x_aa_genpoprural_casual_xxl_mid_00
+70e73d5f	ped		sws_sqtchg_m_00
 70f0fb69	ped		
 70f1b2bc	animal_tuning		
 70fbd902	pickup		
-710c16ae	ped		
+710c16ae	ped		a_m_x_aa_genpopfishing_casual_mixed_mid_00
 71318ef9	ped		csc_mlm_dlvr1_f_00
-7132869a	ped		
+7132869a	ped		g_m_m_coa_cartel_00
 7138e630	ped		cs_briana
-713e579d	ped		
+713e579d	ped		s_f_x_aa_shopkeeperthrifthip_00
 715ba10d	pickup		
 71729511	ped		cs_hammerlady
-7176d80b	ped		
-71902e6b	ped		
+7176d80b	ped		cs_farmer_ronny
+71902e6b	ped		a_m_x_aa_hiphop_nightlife_mixed_mid_00
 71960eca	ped		ie_dlsup_m_01
 71a11e4c	ped		cs_kat
 71a2d5cb	ped		
 71af85a9	pickup		
 71bb2103	weapon_damage_modifier		
-71e69c69	ped		
-71f32b19	ped		
+71e69c69	ped		cs_mo_organizer
+71f32b19	ped		g_m_m_cmp_indwg_grd_00
 71f9e2bb	ped	crf_bass_largemouth_m_00	
-71ff6021	ped		
+71ff6021	ped		s_m_x_aa_parkranger_00
 721f4911	pickup		
 72361dbb	ped		cs_cullen
-724525da	ped		
+724525da	ped		s_m_x_aa_kitchenstaffcasual_00
 726f6183	vehicle_colour		
 72768268	pickup		
-72835ff1	ped		
+72835ff1	ped		a_f_y_aa_genpop_casual_mixed_mid_00
 72a7db22	ped		cs_gustavo_herrera
 72f392d7	ped		cs_floyd_martin
 72f762b7	pickup		
@@ -2146,27 +2146,27 @@ hash	kind	name	other_names
 7332c12b	ped	crc_crab_secrearo_m_00	
 73370a7d	animal_tuning		
 734c5e50	vehicle	gauntlet4	
-734dd53d	ped		
+734dd53d	ped		s_f_x_lc_tattoopatron_00
 7352d4ef	ped		cs_lorena_caminos
-736dea42	ped		
+736dea42	ped		s_f_x_aa_restaurantstafficecream_00
 736f5990	weapon	weapon_drowning_in_vehicle	
 737daec2	vehicle	Willard	
-73a079d7	ped		
+73a079d7	ped		a_f_y_aa_localbeachpop_sexy_mixed_mid_00
 73b9bbee	ped	crm_dog_malinoisbelgian_m_00	
-73c1d075	ped		
+73c1d075	ped		s_m_x_kl_policeboat_00
 73c3061c	weapon_damage_modifier		
 73d69d87	ped		ie_bshu_m_00
 73d898c3	ped		ie_lgtow_f_00
 73f7c04b	weapon	vehicle_weapon_tank	
-7425a110	ped		
-742d6dd9	ped		
+7425a110	ped		s_m_x_aa_warehouseworker_00
+742d6dd9	ped		s_m_x_ha_tattoopatron_00
 743d4f54	ammo	ammo_pistol	
-74481676	ped		
+74481676	ped		a_f_y_aa_nightlife_casual_mixed_mid_00
 744ca80d	vehicle	taco	
 7455fc17	ped	crb_turkey_wildflorida_f_00	
 7465ac4f	vehicle_colour		
-7467acf6	ped		
-746c70fb	ped		
+7467acf6	ped		s_m_x_vc_policebike_00
+746c70fb	ped		cs_abe_gonzales
 7483c571	ped		cs_connie_gardner
 749110d2	animal_tuning		
 74bd9a3a	ped		cmp_junky_m_00
@@ -2181,130 +2181,130 @@ hash	kind	name	other_names
 75564d55	ped		cs_roscoe
 75601d1c	ped	crr_snake_coraleastern_m_00	
 7568f39c	pickup		
-7585b053	ped		
+7585b053	ped		s_f_x_aa_shopkeeperclothinghigh_00
 75891536	door_tuning	Door_INT101_R	
-75903cec	ped		
+75903cec	ped		com_show_links_f_00
 7590cd21	animal_tuning		
 75920878	vehicle_colour		
 75a86ba9	ped		
 75b5ed7d	weapon_damage_modifier		
-75bf0239	ped		
-75ce63e0	ped		
+75bf0239	ped		s_f_x_aa_barstaffthevault_00
+75ce63e0	ped		cmp_tower_f_00
 75d7702d	weapon_damage_modifier		
 75dd0239	pickup		
 75ddda81	vehicle_plate		
 75ded1c6	ped		cs_construction_boss
 75f94aac	pickup		
 75fc1f01	vehicle_colour		
-7604f788	ped		
-76095c4e	ped		
+7604f788	ped		ag_beu_player03_m_00
+76095c4e	ped		s_m_x_yh_yhotelstaffconcierge_00
 760ef619	pickup		
-76137ade	ped		
+76137ade	ped		a_f_x_aa_trailerparkcity_mixed_mixed_low_00
 76335def	ped		com_cbo_cbint_m_01
 76444e89	pickup		
-7646f655	ped		
+7646f655	ped		s_m_x_aa_concessionstaff_00
 764a4894	ped		
 76682732	pickup		
 76841acb	ped		cs_abel
 76927807	ped		ie_stick_f_00
 76adc956	ped		
 76bc1439	weapon_accuracy		
-76c4fd07	ped		
-76c8bab3	ped		
+76c4fd07	ped		a_f_x_aa_wealthyoldmoney_mixed_mixed_high_00
+76c8bab3	ped		a_m_x_aa_genpop_mixed_mixed_mid_02
 76e2c7dc	animal_tuning		
-7706b638	ped		
-770c1ae9	ped		
+7706b638	ped		m_mny_party_f_01
+770c1ae9	ped		ie_driby_m_00
 770c1f40	weapon_damage_modifier		
 770e10a9	ped	crm_dog_catahoulacurstray_m_00	
 7732e4de	pickup		
 7756761c	pickup		
-775fa9f1	ped		
-7768bdbe	ped		
+775fa9f1	ped		ci_up_mmcops_m_00
+7768bdbe	ped		s_f_x_aa_shopkeepercarsales_00
 7769a3a2	pickup		
 776d148e	vehicle_colour		
 77710c3e	weapon	weapon_shotgun_double	
-778938c0	ped		
-77958696	ped		
+778938c0	ped		s_f_y_aa_dancernine1nine_00
+77958696	ped		s_f_x_pg_stripclubdancers_00
 77c8ccb7	animal_tuning		
 77cb0c4d	weapon	weapon_autorifle_assault	
 77dff26b	ped		cmp_dstrc_m_01
 77f3f2dd	pickup	pickup_ammo_shotgun	
 77f52591	vehicle	golfcarthotrod	
 77f746a3	ped		cmp_kdock_m_00
-77f94ea0	ped		
-7811928a	ped		
-781a6255	ped		
+77f94ea0	ped		s_f_x_aa_shopkeeperartisanal_00
+7811928a	ped		s_f_x_aa_restaurantstafffancymid_00
+781a6255	ped		ex_puzzbwhsp_m_00
 781fab2f	animal_tuning		
 7836ce2f	vehicle	futo	
-7841713f	ped		
-784413f4	ped		
-785000fb	ped		
+7841713f	ped		a_m_y_aa_basketball_sport_mixed_mid_00
+784413f4	ped		sws_rudsal_f_00
+785000fb	ped		cs_deputy_preci
 78529595	vehicle	vitello	
 785b097b	ammo	ammo_launched_spear	
 785b75a9	weapon	weapon_sniper_country	
-7863e7f0	ped		
-786ccbf7	ped		
+7863e7f0	ped		s_f_x_aa_tollboothattendant_00
+786ccbf7	ped		cti_deal_rckl_f_00
 787d64f7	animal_tuning		
 7884cb31	animal_tuning		
 788a59f5	ped		
 788bb0e3	weapon_accuracy		
-789854df	ped		
-78a2e5dd	ped		
-78acd93d	ped		
+789854df	ped		m_bil_pent_m_03
+78a2e5dd	ped		s_f_x_dl_restaurantstaffbeachclub_00
+78acd93d	ped		m_mny_hotel_f_01
 78b5f36b	ammo		
 78bbaf0b	ped	crb_chicken_cubalaya_f_00	
 78cf1f2a	ped_capsule		
 78fc1023	weapon	weapon_shotgun_combat	
 7906c8b8	pickup		
 79185071	ammo		
-792708e1	ped		
-79357d8b	ped		
+792708e1	ped		cs_y_valet_svr
+79357d8b	ped		s_f_x_aa_alderneyjoes_00
 793bc3b0	pickup		
 793f400a	pickup		
 7941dedd	animal_tuning		
 794cb30c	vehicle	esskey	
 7959c120	ped		ie_stawc_f_00
-796fe780	ped		
+796fe780	ped		a_f_x_aa_rydemedriver_mixed_mixed_mid_00
 7970a632	ped		
 798b8739	ped		
 79cf178d	ped		
 79d5723a	pickup		
-79dd0a6a	ped		
+79dd0a6a	ped		com_show_links_m_00
 79fe03d9	pickup		
 7a108d28	ped		
-7a13f53f	ped		
+7a13f53f	ped		a_f_y_aa_touristglam_sexy_heavy_mid_00
 7a17d28f	ped		cs_lexy_campbell
 7a1a7408	animal_tuning		
 7a2791b3	vehicle_plate		
 7a2de4a5	pickup		
-7a3739ad	ped		
-7a46fd94	ped		
+7a3739ad	ped		m_ban_final_m_03
+7a46fd94	ped		s_f_x_aa_hotelstaffmid_00
 7a4fb5cc	pickup		
 7a5ccb48	animal_tuning		
-7a5f4800	ped		
-7a617662	ped		
+7a5f4800	ped		m_air_truck_f_01
+7a617662	ped		s_m_x_aa_coastguardboat_00
 7a61b330	vehicle	benson	
-7a64a3cf	ped		
-7a6ec0d9	ped		
+7a64a3cf	ped		a_m_y_aa_hypebeast_casual_mixed_high_00
+7a6ec0d9	ped		ie_emvdl_m_00
 7a839bb5	ped		cs_douche
-7a8fad35	ped		
+7a8fad35	ped		cs_s4s_artist_02
 7aa46a4f	ped	crf_tuna_bluefinatlantic_m_00	
 7ab9c585	ped		
 7ac93f64	pickup		
-7ae7aaca	ped		
-7af66f8f	ped		
+7ae7aaca	ped		g_m_m_fro_exotc_00
+7af66f8f	ped		cti_deal_sbll_m_00
 7b14c6c6	pickup		
-7b15f3f2	ped		
-7b4013e9	ped		
+7b15f3f2	ped		s_m_x_aa_shopkeepercarsales_00
+7b4013e9	ped		a_f_o_aa_retireebeachlocal_casual_mixed_mid_00
 7b411903	ped		cs_royce
-7b476e81	ped		
+7b476e81	ped		s_f_x_aa_winerystaffcasual_00
 7b848416	pickup		
-7b84b8fe	ped		
+7b84b8fe	ped		fro_bikbr_f_01
 7b8ab45f	vehicle	carbonizzare	
-7b986bd6	ped		
+7b986bd6	ped		s_m_x_aa_pawnshopstaffmid_00
 7b9c1bf3	animal_tuning		
 7bc19062	ped		ci_up_cldand_m_00
-7bc37ccd	ped		
+7bc37ccd	ped		s_m_x_aa_valet_00
 7bcb8955	ammo	ammo_marksman	
 7be2162c	ammo		
 7be3ec74	pickup		
@@ -2312,30 +2312,30 @@ hash	kind	name	other_names
 7c034b63	vehicle	metromule	
 7c057fa2	pickup		
 7c0d5fbd	vehicle	speeder700gt	
-7c42cd4f	ped		
+7c42cd4f	ped		a_m_x_aa_touristinternational_swim_mixed_mid_00
 7c48531d	ped	crm_dog_bulldogfrench_f_00	
 7c48b1f7	ammo		
 7c5cf7f1	ped_capsule		
 7c6dd732	weapon_accuracy		
-7c70f358	ped		
+7c70f358	ped		a_f_x_aa_activeweartennis_sport_mixed_mid_00
 7c92982a	pickup		
-7ca26f77	ped		
-7caebd27	ped		
-7cb00fb6	ped		
+7ca26f77	ped		a_m_x_aa_localrevealing_mixed_mixed_mid_00
+7caebd27	ped		a_f_y_aa_touristgeneral_mixed_mixed_mid_00
+7cb00fb6	ped		cti_deal_vctl_f_00
 7cc6ee52	pickup		
-7cce97d2	ped		
+7cce97d2	ped		a_f_x_aa_touristbeachrefined_mixed_mixed_high_00
 7ce82d51	ped		ex_secrevbcs_f_00
-7d1ddfce	ped		
-7d1f44fa	ped		
-7d2008ca	ped		
+7d1ddfce	ped		ie_csagg_f_00
+7d1f44fa	ped		s_f_x_pg_policedispatch_00
+7d2008ca	ped		s_m_x_ab_policedispatch_00
 7d3c323f	ped		
-7d41bc1b	ped		
+7d41bc1b	ped		s_m_x_aa_shopkeeperconveniencestoremarket_00
 7d66fc4c	ped	crf_stingray_atlantic_m_00	
-7d67aff0	ped		
+7d67aff0	ped		g_f_m_fap_02
 7d69a5df	ped		fro_exotc_m_00
 7d8ddcca	pickup		
 7d9325cc	ped	cs_hitman	
-7dbf1ca9	ped		
+7dbf1ca9	ped		s_f_x_dt_tattooparlour_casual_mixed_low_00
 7dd88a68	pickup		
 7de8fe00	ped		
 7df4b7a2	weapon_damage_modifier		
@@ -2344,51 +2344,51 @@ hash	kind	name	other_names
 7e19e16a	ped		
 7e1d00f6	ammo		
 7e2caa45	ammo		
-7e2e1089	ped		
+7e2e1089	ped		a_m_o_aa_local_swim_mixed_high_00
 7e34a2fb	ped		cs_merman
-7e5c4925	ped		
+7e5c4925	ped		a_f_x_aa_beachpop_swim_mixed_mid_00
 7e84a23f	vehicle	trailerboats5	
-7e8e4f83	ped		
-7e8f70b8	ped		
+7e8e4f83	ped		s_m_x_yh_yhotelstafffrontdesk_00
+7e8f70b8	ped		s_f_x_vb_policebeach_00
 7eaac5f4	vehicle	grouse	
 7ec84918	ped		csc_eco_whale_m_00
 7ecde744	ped		
 7ee6caa1	ammo	ammo_special_stun	
-7f07740a	ped		
+7f07740a	ped		a_m_o_aa_tourist_swim_mixed_high_00
 7f18773c	weapon_damage_modifier		
-7f22a59c	ped		
+7f22a59c	ped		s_f_x_kl_tattooparlour_casual_mixed_low_00
 7f31607d	animal_tuning		
 7f3e57ca	weapon_accuracy		
 7f3ece0e	pickup		
 7f54aa47	ped		ie_dlsup_m_00
 7f567035	ped		com_cbo_cbint_m_00
-7f6bc8bc	ped		
+7f6bc8bc	ped		shops_f_mannequin_upper_nohead_noarms
 7f73b050	ped		ie_sdliv_m_00
-7f8ad850	ped		
+7f8ad850	ped		cs_jerry_turner
 7fb596e3	ped		
-7fd5440d	ped		
+7fd5440d	ped		ie_pvcji_f_00
 7fdffc5c	animal_tuning		
-7fe07125	ped		
+7fe07125	ped		cs_shanika_chong
 7fe21a08	ped		cs_ricky_billysgang
 7fe81924	weapon_damage_modifier		
-7feda8aa	ped		
+7feda8aa	ped		m_ban_safe_m_00
 7ffcb45e	animal_tuning		
 7ffdef02	pickup		
 7fffe42b	vehicle_colour		
 80041d21	ped		
-8005092e	ped		
+8005092e	ped		a_m_x_aa_motorcyclesport_casual_mixed_mid_00
 80232e12	pickup		
 803ceed8	pickup		
 8041cbcb	ped		ie_htfsh_m_00
 804f82d1	ped	crb_duck_mutated_m_00	
-8064bada	ped		
+8064bada	ped		a_m_x_aa_touristvacationshopping_mixed_mixed_mid_00
 8068cee1	ped		ie_psmug_m_03
 806e1e98	pickup		
 806e36ce	pickup		
-8075365d	ped		
+8075365d	ped		s_f_x_vb_policedispatch_00
 809294a5	weapon	weapon_pistol_civilian	
 809683a6	vehicle	trailerfood	
-80a12ae4	ped		
+80a12ae4	ped		cs_naked_john
 80b79a28	pickup		
 80c9537f	weapon_accuracy		
 80caecb7	pickup		
@@ -2405,11 +2405,11 @@ hash	kind	name	other_names
 81570ce8	ped		ie_beinf_f_00
 81634188	vehicle	manana	
 817060c8	animal_tuning		
-81749cf0	ped		
+81749cf0	ped		s_f_x_aa_delistaffethnic_00
 817afaad	vehicle	gauntlet5	
 8184ffb4	pickup		
-818e5695	ped		
-819fccaa	ped		
+818e5695	ped		cs_delights_dj
+819fccaa	ped		a_m_x_aa_tourist_mixed_mixed_mid_00
 81ab8cab	ped	crb_vulture_black_m_00	
 81c3097f	pickup		
 81df7806	animal_tuning		
@@ -2420,43 +2420,43 @@ hash	kind	name	other_names
 8217ecdf	ped_capsule		large_male
 821ec5ea	ped		m_clb_tower_m_02
 8234bf1a	ped	crr_alligator_american_m_02	
-823fc422	ped		
-82596c4c	ped		
+823fc422	ped		g_m_m_m7mara_ldr_00
+82596c4c	ped		a_m_y_aa_clubgaycasual_nightlife_mixed_mid_00
 827560b4	pickup		
 827ace37	ped	crf_chubsucker_lake_m_00	
 829a3cd0	ped		cs_aussie
 829d3f2a	vehicle_colour		
-829fc7fa	ped		
+829fc7fa	ped		m_bil_preg_f_00
 82bb472e	pickup		
-82c4d8cb	ped		
-82ca4c10	ped		
-82caf178	ped		
-82db0da4	ped		
+82c4d8cb	ped		m_air_truck_f_03
+82ca4c10	ped		s_f_x_ca_policeboat_00
+82caf178	ped		cs_joe_lannuzzi
+82db0da4	ped		cs_mx_organizer
 82fa86fb	pickup		
 82fc602e	ped		csc_srs_meet_m_01
-8302bd5f	ped		
+8302bd5f	ped		m_rob_veh_m_03
 8304f499	ped		cs_donatello_assistant
 8316534f	vehicle	216cstreamer	
 831a21d5	vehicle	phoenix	
-831bb588	ped		
+831bb588	ped		s_m_x_aa_deliverydriverindependent_00
 8328416b	ammo		ammo_sniper_non_lethal
-83298cb7	ped		
+83298cb7	ped		cs_lucias_uncle
 83307719	animal_tuning		
 8332a49a	vehicle	lurepredator	
-8335cf91	ped		
+8335cf91	ped		cs_guillerma
 8339b379	ped		ie_sepco_m_00
 834220a7	vehicle_colour		
 83511052	vehicle_colour		
-83575e67	ped		
-835e4bc9	ped		
+83575e67	ped		s_f_x_aa_industrialcleaner_00
+835e4bc9	ped		m_coa_raid_m_01
 835e5856	pickup		
-83749834	ped		
-837c9a24	ped		
+83749834	ped		a_f_x_aa_watersportstouristglam_swim_mixed_mid_00
+837c9a24	ped		a_f_x_aa_genpop_casual_mixed_mid_00
 83806207	ped	crb_chickadee_carolina_m_00	
-8381bb9e	ped		
+8381bb9e	ped		s_m_x_aa_bridgeoperator_00
 83850f3f	ped	crm_dog_catahoulacur_f_00	
 838a0da7	pickup		
-83a0e2b6	ped		
+83a0e2b6	ped		s_m_x_aa_airlineattendant_00
 83a7fa2a	animal_tuning		
 83aaa098	ped_capsule		
 83aed177	pickup		
@@ -2464,20 +2464,20 @@ hash	kind	name	other_names
 83d569c8	ped		cs_hotelwoman
 83d92ff1	weapon_accuracy		
 83f210ea	ped	cra_frog_treegreenamerican_m_00	
-84214798	ped		
-8421e1f6	ped		
+84214798	ped		g_m_m_fro_barbw_00
+8421e1f6	ped		cmp_wpnex_m_00
 843b73de	vehicle	tractor2	
-84447c16	ped		
-8460fc58	ped		
+84447c16	ped		cs_jalen_wang
+8460fc58	ped		a_m_y_aa_streetwear_casual_mixed_mid_00
 84632362	ped		
 846d87a3	ped	crm_mouse_house_m_00	
 84718d34	vehicle	coach	
 847dbaba	pickup		
 847ee9f9	ped		
 849da7fe	animal_tuning		
-84a05acd	ped		
+84a05acd	ped		a_f_y_aa_cyclist_sport_mixed_mid_00
 84c32cdc	ped		
-84dae588	ped		
+84dae588	ped		sws_jwstsc_f_00
 84e77471	pickup		
 85381967	ped		
 85410773	ped		csc_mlm_ledr2_m_00
@@ -2485,73 +2485,73 @@ hash	kind	name	other_names
 85bf4766	pickup		
 85e35598	ped	crm_deer_aghlegendary_m_00	
 85feacde	pickup		
-860f924e	ped		
-86430633	ped		
-8670b32d	ped		
-86711f6f	ped		
+860f924e	ped		cs_brittney_billysgang
+86430633	ped		a_f_x_ca_boatowner_casual_mixed_mid_00
+8670b32d	ped		m_air_beach_m_00
+86711f6f	ped		s_m_x_aa_junkyardstaffrural_00
 8682a85c	vehicle	spreader	
-868bd1fa	ped		
+868bd1fa	ped		s_f_x_di_daltonislandhousekeeper_00
 868da82c	vehicle_colour		
-868e0684	ped		
+868e0684	ped		g_m_m_m7mara_00
 869fc5d1	ped		cs_selina
 86c35c08	ped	crb_pelican_browneastern_m_00	
 86e82f21	animal_tuning		
-86fdeb73	ped		
+86fdeb73	ped		s_m_x_aa_restaurantstaffbeachclub_00
 8721008b	animal_tuning		
 8723b7ad	animal_tuning		
-87348a75	ped		
+87348a75	ped		s_f_x_yh_yhotelstaffhousekeeper_00
 87442c9b	pickup		
 875550ce	vehicle	shuttle	
 875d69f4	ped	crc_crab_stoneflorida_m_00	
-87647307	ped		
+87647307	ped		m_clb_deal_f_00
 8769af20	ped		cs_marco
-8773f0af	ped		
+8773f0af	ped		s_m_x_aa_pollodiablostaff_00
 8777ee43	vehicle	akane	
 87a10103	animal_tuning		
-87ad3485	ped		
-87b353b7	ped		
+87ad3485	ped		s_m_x_aa_attractionstaffzookeeper_00
+87b353b7	ped		cs_roman_olson
 87b52de8	animal_tuning		
 87c4c90d	weapon_damage_modifier		
-87d265b4	ped		
-87d2f00f	ped		
-87f47a40	ped		
-87f9f3a2	ped		
-88016f8a	ped		
-880cb5e1	ped		
-881748f9	ped		
+87d265b4	ped		a_m_x_aa_local_swim_mixed_high_00
+87d2f00f	ped		s_m_x_aa_baristahipstaff_00
+87f47a40	ped		s_f_x_aa_bartenderdive_00
+87f9f3a2	ped		m_bil_pent_m_04
+88016f8a	ped		cs_ines_denis
+880cb5e1	ped		a_f_x_aa_genpoprural_mixed_mixed_mid_00
+881748f9	ped		a_f_x_aa_rydemepremiumdriver_mixed_mixed_mid_00
 88339e76	ped		ie_abufo_f_00
-883868df	ped		
+883868df	ped		a_m_x_aa_townersstreet_casual_mixed_low_00
 8846aae8	animal_tuning		
 8854721a	ped		sfh_taxi_f_00
-8869dcd8	ped		
-886e66de	ped		
+8869dcd8	ped		s_m_x_aa_pawnshopstafflow_00
+886e66de	ped		a_f_x_kl_genshopkeeper_00
 88789cfc	animal_tuning		
 887da138	ped	crb_parrot_macawscarlet_m_00	
-887ea523	ped		
-8883b132	ped		
+887ea523	ped		s_m_x_aa_ammunationcity_00
+8883b132	ped		a_f_x_aa_touristbeachpop_mixed_mixed_mid_00
 889a195a	pickup		
 889aa45e	vehicle	TRAILERBAGGAGE1	
 88b9c15f	vehicle_colour		
 88d28c41	pickup		
-88ebfbcd	ped		
+88ebfbcd	ped		s_m_x_aa_sanitationworker_00
 88ffafb5	ped		a_f_x_aa_genpoppoorrural_mixed_mixed_low_02
 891674e9	weapon_damage_modifier		
-891ca1e3	ped		
-892d1fe7	ped		
-892fbc0f	ped		
+891ca1e3	ped		a_f_x_aa_hiphop_casual_mixed_mid_00
+892d1fe7	ped		ie_gscon_m_00
+892fbc0f	ped		cs_bradley_watt
 893f5605	vehicle_colour		
 895933a9	pickup		
 89739306	vehicle_colour		
 898eccea	vehicle	boxville	
-898f6434	ped		
-8992d51a	ped		
-89969262	ped		
-89aed9c3	ped		
+898f6434	ped		a_m_x_aa_unstablecity_casual_mixed_mid_00
+8992d51a	ped		fro_bikbr_f_00
+89969262	ped		a_m_x_aa_recreationalhunters_casual_mixed_mid_00
+89aed9c3	ped		a_f_x_aa_tourist_nightlife_mixed_mid_00
 89b87fe0	ped		cs_yago_jimenez
 89fe1a94	ped	crf_tarpon_atlantic_m_00	
-8a1f816e	ped		
-8a34ff5a	ped		
-8a60be24	ped		
+8a1f816e	ped		ex_puzzsubstn_m_00
+8a34ff5a	ped		m_ban_rescu_m_00
+8a60be24	ped		m_clb_deal_m_00
 8a630217	ped		cs_linda
 8a6354b8	vehicle	meritlx	
 8a6f7505	ped		ho_par_holpo_m_01
@@ -2560,100 +2560,100 @@ hash	kind	name	other_names
 8a8a5748	weapon_damage_modifier		
 8a937d0a	ped		cs_karim
 8a992144	ped_capsule		
-8ab24f57	ped		
+8ab24f57	ped		a_m_x_aa_tourist_swim_mixed_high_00
 8ac8aa19	weapon_damage_modifier		
-8ac9ffbb	ped		
+8ac9ffbb	ped		s_m_x_vb_policebeach_00
 8ad5ecb1	animal_tuning		
 8ad6bd63	ped		
 8adad039	vehicle_colour		
-8af6bf44	ped		
-8af82fec	ped		
+8af6bf44	ped		cs_courtney_maypole
+8af82fec	ped		a_f_x_aa_localbeachpop_mixed_mixed_mid_00
 8b204e99	weapon	weapon_proximity_mine	
-8b35a8d0	ped		
+8b35a8d0	ped		s_m_x_aa_labresearcher_00
 8b50b5a6	pickup		
 8b5b1cc5	ped		
 8b7333fb	weapon	weapon_bleeding	
 8b7d10c3	animal_tuning		
 8b8065cf	animal_tuning		
 8ba251f2	vehicle	quadtrailer	
-8bab675f	ped		
+8bab675f	ped		a_m_x_aa_fitness_sport_xxl_mid_00
 8baed9e1	weapon_accuracy		
 8bb11842	pickup		
 8bd282a4	weapon	weapon_horse	
 8bf2ab9b	ped_nav_capability	flight_capable	
-8bf33ceb	ped		
+8bf33ceb	ped		m_bil_wheel_f_00
 8c0463ad	pickup		
 8c0aac1e	pickup		
 8c0b8052	vehicle	mallard	
 8c1804d3	pickup		
 8c1f3952	pickup		
-8c2017fa	ped		
+8c2017fa	ped		s_m_x_aa_shopkeepershoestafflow_00
 8c2cf5c7	weapon	weapon_machinery	
-8c2fce63	ped		
+8c2fce63	ped		s_f_x_ha_tattooparlour_casual_mixed_low_00
 8c308d16	vehicle	nepa	
 8c3fe3f4	ped		ie_qqclb_m_00
-8c4df37c	ped		
+8c4df37c	ped		ie_copsc_f_00
 8c5ded9f	vehicle_colour		
 8c60b41b	ped		cs_cisco_billysgang
 8c7fc741	animal_tuning		
-8c9ba3d7	ped		
+8c9ba3d7	ped		cs_joey_rackett
 8cb0b034	ped		cs_zeek
-8cde575f	ped		cs_dumpster
+8cde575f	ped		cs_Dumpster | cs_dumpster
 8ce923f7	ped		ex_dtchdt_m_02
-8ce9a76f	ped		
+8ce9a76f	ped		a_f_x_aa_yoga_sport_mixed_mid_00
 8cf5cae1	vehicle	windsor2	
 8cf6be76	ped		
 8d069040	weapon_accuracy		
-8d0f6390	ped		
+8d0f6390	ped		cs_sebastian_nunez
 8d198115	ped	crb_gull_laughing_m_00	
-8d3fd1d9	ped		
-8d466fb7	ped		
-8d4c013a	ped		
+8d3fd1d9	ped		m_rob_veh_m_02
+8d466fb7	ped		s_m_x_yh_yhotelstaffhousekeeper_00
+8d4c013a	ped		a_f_o_aa_genpopruralretiree_mixed_mixed_mid_00
 8d4def53	ped		ie_couch_f_00
-8d53d63d	ped		
-8d59aa86	ped		
-8d5cb5aa	ped		cs_giorgio_gallo
-8d73b96e	ped		
-8d77da68	ped		
+8d53d63d	ped		a_f_x_aa_localdaywear_casual_mixed_mid_00
+8d59aa86	ped		s_m_x_aa_waitingstaffformal_00
+8d5cb5aa	ped		CS_Giorgio_Gallo | cs_giorgio_gallo
+8d73b96e	ped		g_f_m_finalchapter_00
+8d77da68	ped		s_m_x_aa_driverferry_00
 8d7e88a5	animal_tuning		
 8d8fc103	weapon_accuracy		
 8da20c92	ped	crf_lionfish_red_m_00	
 8da68f01	ped		cs_ernesto
-8da7a821	ped		
-8daad1db	ped		
+8da7a821	ped		sws_strtip_f_00
+8daad1db	ped		com_mech_stfc_f_00
 8db558c5	pickup		
-8dd4c478	ped		
-8de2fccb	ped		
-8ded9197	ped		
-8dee2696	ped		
+8dd4c478	ped		m_ban_safe_m_01
+8de2fccb	ped		a_m_x_aa_touristrevealing_mixed_mixed_mid_00
+8ded9197	ped		s_f_x_wb_oomph_00
+8dee2696	ped		s_f_x_vd_policeboat_00
 8df09a78	vehicle_colour		
 8e08ec82	vehicle	wastelander	
-8e15a664	ped		
-8e2a58b1	ped		
-8e301a55	ped		
+8e15a664	ped		s_m_x_yh_yhotelstaffsecurityexterior_00
+8e2a58b1	ped		g_m_m_cmp_ectsy_00
+8e301a55	ped		a_m_x_aa_rydemedriver_mixed_mixed_mid_00
 8e3428fc	ped		cmp_recrd_f_01
 8e41b68a	animal_tuning		
-8e553ebd	ped		
+8e553ebd	ped		cs_lc_racer_contact
 8e6971d3	vehicle	jet2	
 8e6ee73e	pickup		
 8e6fa02e	ped	crf_ray_mantaoceanicgiant_m_00	
 8e71f244	pickup		
 8e77c96a	ped		ie_cnvst_m_00
 8e9aefe8	pickup		
-8ed1a81b	ped		
+8ed1a81b	ped		s_m_x_aa_banktellerhigh_00
 8ed1c792	ped		ie_dtft_m_00
-8ed3ca53	ped		
+8ed3ca53	ped		m_int_prolo_m_00
 8ed6fe2a	weapon_damage_modifier		
 8ed8f865	animal_tuning		
-8eeff543	ped		cs_vypertec
+8eeff543	ped		CS_Vypertec | cs_vypertec
 8ef5e388	vehicle	yosemite1500	
-8f150401	ped		
-8f187e70	ped		
+8f150401	ped		s_f_x_di_privatesecurity_00
+8f187e70	ped		s_m_x_aa_alderneyjoes_00
 8f2d5015	animal_tuning		
 8f2d7f35	animal_tuning		
 8f34e523	ped		cs_bones
 8f4975c7	ped	crb_jay_scrubflorida_m_00	
-8f6c10ae	ped		
+8f6c10ae	ped		s_m_x_aa_landscaper_00
 8f707c18	pickup	pickup_health_standard	
 8fac0991	ped		ho_par_cfrwk_m_00
 8fcb4234	ped		cs_raina_koleva
@@ -2661,49 +2661,49 @@ hash	kind	name	other_names
 8ff1b2f5	ped_capsule	fish_small	
 8ff1d7aa	ped		
 90083d3b	ammo	ammo_shotgun	
-900950cc	ped		
+900950cc	ped		cs_keys_barber
 90183839	pickup		
-90356ee6	ped		
+90356ee6	ped		s_m_x_bv_policedispatch_00
 90390b42	ped		ie_bdcr_f_00
 903df8e1	pickup		
 904e93c4	weapon	weapon_revolver_compact	
 905f654c	ped		
-9063392f	ped		
+9063392f	ped		ie_hopam_f_00
 90689fed	door_tuning	LargeGate	
 90a302de	ped	crf_sailfish_atlantic_m_00	
 90b5d44c	weapon	weapon_autorifle_carbine	
 90c0e441	ped	crm_dog_pinscherdoberman_m_00	
 90c470dc	weapon_accuracy		
-90e5d421	ped		
+90e5d421	ped		a_f_y_aa_nudist_nude_mixed_mid_00
 90f14d37	weapon	weapon_script	
 911e53a5	ped		ie_sdliv_m_01
 9134b974	pickup		
 91390f8b	ped_capsule		
 913ed969	animal_tuning		
 915a6ff5	weapon_damage_modifier		
-916360a9	ped		
+916360a9	ped		a_f_x_aa_criminalcitycrime_mixed_mixed_mid_00
 9167efb2	pickup		
 91922d1f	pickup		
-91a721a8	ped		
+91a721a8	ped		cti_deal_sltc_f_00
 91aabf8b	vehicle_colour		
 91abd0d6	weapon_damage_modifier		
-91ac3436	ped		
-91c7f229	ped		
+91ac3436	ped		s_m_x_lc_policeambient_00
+91c7f229	ped		cs_alvan_west
 91ca96ee	vehicle	neon	
 91cbb5a6	pickup		
 91dd50bb	ped	crb_hawk_shoulderedred_m_00	
 91de4caf	ped	crm_coyote_m_00	
 91f5940d	ped		csc_eco_monk_m_00
 91f6f240	pickup		
-92000003	ped		
+92000003	ped		ag_beu_player01_m_00
 920016f1	vehicle	volatus	
-92178cd7	ped		
+92178cd7	ped		s_f_x_aa_pawnshopstafflow_00
 9219efe4	ped		com_kbos_plndate_m_00
 922b29ec	ped	crb_loon_common_m_00	
 922dbde2	animal_tuning	species_domestic_dog_medium_domesticated	
-923b3533	ped		
+923b3533	ped		s_m_x_aa_shootinglodgestaff_00
 924d0276	ped	crf_shark_nurse_m_00	
-925ddf32	ped		
+925ddf32	ped		m_clb_steal_f_00
 9269341c	animal_tuning		
 928c8bbc	vehicle	skivvy	
 92b23981	weapon_damage_modifier		
@@ -2711,12 +2711,12 @@ hash	kind	name	other_names
 92bd4ebb	weapon	weapon_electric_fence	
 9320207d	ped		csc_drt_final_m_01
 932023fc	pickup		
-9324374f	ped		
-932ff888	ped		
-933e1a43	ped		
+9324374f	ped		cs_jackson_strap
+932ff888	ped		s_m_x_lc_tattoopatron_00
+933e1a43	ped		m_int_priso_f_00
 934d0c7d	vehicle_colour		
-9354ed4d	ped		
-9362c122	ped		
+9354ed4d	ped		s_f_x_aa_baristacuban_00
+9362c122	ped		s_m_x_ha_policedispatch_00
 9365817b	weapon_damage_modifier		
 936700a1	pickup		
 9388ba6a	ped	ag_beuz_f_00	
@@ -2724,21 +2724,21 @@ hash	kind	name	other_names
 938a66c6	ped		cti_mech_stol_f_00
 938dbbb4	door_tuning	Mint_door_46a_1M_XX_R	
 93cf2a4c	pickup		
-93eba3e3	ped		
-93ef101b	ped		
+93eba3e3	ped		con_show_dshp_m_00
+93ef101b	ped		a_f_x_aa_daywearcountryclubelegant_mixed_mixed_high_00
 93f96bad	pickup		
 94036d5c	vehicle_colour		
-943ab6ba	ped		
+943ab6ba	ped		a_m_x_aa_genpop_casual_mixed_low_00
 944d0f25	pickup		
 944dde2f	ped		cs_annabelle
-9451e9d2	ped		
-945506d7	ped		
-94552401	ped		
+9451e9d2	ped		s_m_x_aa_clubdj_00
+945506d7	ped		s_f_x_aa_restaurantstaffruraldinner_00
+94552401	ped		a_f_o_aa_local_swim_mixed_high_00
 94634ab2	ped		csc_mom_flip_f_00
 9472bbb4	pickup		
-9490f541	ped		
-94b33331	ped		
-94d3939a	ped		
+9490f541	ped		s_f_x_lx_policedispatch_00
+94b33331	ped		s_m_x_vd_policeairport_00
+94d3939a	ped		cs_shannon_long
 94d3fd35	pickup		
 94d66c4a	pickup		
 94d94301	ped		
@@ -2758,60 +2758,60 @@ hash	kind	name	other_names
 955baf4e	ammo		
 9578a682	pickup		
 957bf5ce	ped		
-958d3062	ped		
+958d3062	ped		a_m_o_aa_tourist_mixed_mixed_high_00
 959b4f86	pickup		
 95a6f147	ped_capsule	horse	
 95a6f147	ped_nav_capability	horse	
 95b43dc0	pickup		
 95b5b348	ped	crm_fox_legendary_m_00	
-95b86937	ped		
+95b86937	ped		sws_assdog_m_00
 95cb055e	pickup		
-95d0799a	ped		
-95d9093b	ped		
+95d0799a	ped		s_m_x_lc_salonparez_00
+95d9093b	ped		s_m_x_aa_delistaffhealthy_00
 95ddd107	pickup		
 95eacf8b	animal_tuning		
-95f3dd96	ped		
+95f3dd96	ped		cs_the_hitman
 960d33ee	ped	crb_parakeet_monk_m_00	
-9611ca79	ped		
+9611ca79	ped		a_m_y_aa_criminalinnercity_casual_mixed_low_00
 961c1124	animal_tuning		
 9628879c	vehicle	granger	
-963eee0e	ped		
-964be1e6	ped		
+963eee0e	ped		a_m_y_aa_motocross_mixed_mixed_low_00
+964be1e6	ped		a_m_x_aa_genpoprural_mixed_mixed_low_00
 9650926a	pickup		
-96655349	ped		
+96655349	ped		a_m_o_aa_cyclist_sports_mixed_mid_00
 9665622a	ped		ie_mstvl_m_00
 966790a0	weapon_damage_modifier		
-96a4c5bf	ped		
+96a4c5bf	ped		s_m_x_aa_hankswafflesstaff_00
 96a68870	ammo		ammo_launched_rpg
 96b33969	ped	cs_tal_dj_sj	
-96d0df5d	ped		
+96d0df5d	ped		a_f_y_aa_hiphopbeachparty_mixed_mixed_mid_00
 96d90d19	pickup		
 970503dc	ped	ex_secrevbcs_chainsawman_m_00	
-972a6409	ped		
+972a6409	ped		a_f_m_aa_nudist_nude_mixed_mid_00
 973ac876	ped		
 9741ee50	pickup		
 97616ce9	pickup		
-976f237d	ped		
+976f237d	ped		s_m_x_lx_policedispatch_00
 97754cc3	vehicle_plate		
 977553a2	ped		
-978522e6	ped		
+978522e6	ped		m_bil_pick_m_01
 97875be5	pickup		
 9796a21c	pickup		
-979fc93b	ped		
+979fc93b	ped		a_f_x_aa_localbeachpop_mixed_mixed_mid_01
 97a269cc	ped		cs_santino
 97d190e0	ped		
 97db542a	ped		ie_mugms_m_00
-97dc48c7	ped		
+97dc48c7	ped		a_f_x_aa_touristbeachpop_mixed_mixed_high_00
 97e55d11	vehicle	mammatus	
 97fbb0ec	ped		cs_missy
 980a9435	ped		ie_nkdjn_f_00
 98104393	ped		cs_homeowner
 981d5321	ped		
-9842e3ed	ped		
+9842e3ed	ped		s_m_x_aa_lplsecurity_00
 98440334	ped	crm_dog_bulldogfrench_m_00	
 98452287	ped		
 9851f7ed	pickup		
-9871b975	ped		
+9871b975	ped		cti_deal_rckc_f_00
 98794d7a	ped		csc_mom_msevn_m_01
 987b4f05	pickup		
 98880e86	ped		cti_mech_bdog_f_00
@@ -2820,281 +2820,281 @@ hash	kind	name	other_names
 989b9d8a	ped		csc_trh_plane_m_01
 989eb5f5	ped		
 98acdd8e	ped		ie_vrpo_m_00
-98ae57a8	ped		
-98b51b23	ped		
+98ae57a8	ped		m_air_beach_m_01
+98b51b23	ped		cs_dimensional_jumper
 98daa3b7	ped	crb_robin_american_m_00	
 98f65a5e	vehicle	coquette4	
 99099ecd	weapon	weapon_autorifle_special	
 9935cada	ped		cti_show_airg_m_00
-9945a8d1	ped		
+9945a8d1	ped		s_m_x_aa_peeweesstaff_00
 996053c0	ped		
-9978b126	ped		
+9978b126	ped		shops_m_mannequin_upper
 997f0b93	ped		ie_tubed_m_00
 997fe75c	ped		ie_cahld_m_00
 998ad74d	ammo		
 999e6f1b	pickup		
 99a1cd64	pickup		
 99b73321	vehicle_colour		
-99bd4dc9	ped		
+99bd4dc9	ped		cmp_ectsy_m_00
 99cee815	ped		ie_duit_m_00
 99d925dd	animal_tuning		
 99f9372b	pickup		
-99fa8a96	ped		
+99fa8a96	ped		cs_mike_jimenez
 9a0dc77f	vehicle	seacab	
-9a13ed3b	ped		
-9a2d1dc6	ped		
+9a13ed3b	ped		a_f_x_aa_genpopfishingrural_casual_mixed_mid_00
+9a2d1dc6	ped		s_m_x_kl_musicianrock_00
 9a3e6d84	vehicle_colour		
 9a4cbec7	ped_capsule	turtlesnapping	
 9a4e8842	pickup		
 9a5b1dcc	vehicle	rubble	
 9a6853d5	pickup		
 9a75dfb9	animal_tuning		
-9a80216a	ped		
+9a80216a	ped		ag_tss_player01_m_00
 9a81a1e9	vehicle_colour		
 9aaa64ac	ammo		ammo_thrown_flashbang
 9ac3d291	animal_tuning		
 9ad7eb45	animal_tuning		
 9adcaa07	pickup		
 9afc7788	ped		
-9b00e907	ped		
+9b00e907	ped		s_m_x_ct_crosstowncutz_00
 9b1ce802	vehicle_colour		
 9b273f0a	pickup		
-9b3f34e8	ped		
+9b3f34e8	ped		s_m_x_aa_parkingattendant_00
 9b40b097	ped		
-9b62d627	ped		
-9b7a711a	ped		
+9b62d627	ped		m_air_train_m_00
+9b7a711a	ped		a_m_o_aa_retireeparty_swim_mixed_mid_00
 9b7fb56c	animal_tuning		
 9b907ecc	ped_capsule	dog_small	
 9b963afa	ped	crf_grouper_goliathatlantic_m_00	
 9b9a9909	ped		
-9bde82a6	ped		
+9bde82a6	ped		cs_ricardo_diaz
 9bf7c399	pickup		
 9c1a555c	ped		
 9c24d818	pickup		
-9c3db918	ped		
-9c46c09e	ped		
+9c3db918	ped		s_f_y_aa_dancernine1ninecuban_00
+9c46c09e	ped		ie_gloce_f_00
 9c46d824	vehicle	mb210	
 9c5698d3	ped		ho_par_holpo_m_00
-9c574e53	ped		
+9c574e53	ped		s_f_x_aa_countryclubstaffbar_00
 9c669788	vehicle	double	
-9c67edd6	ped		
+9c67edd6	ped		s_f_x_aa_equestrianstaff_00
 9c75cd5b	pickup		
 9c7c4c80	ped	crb_dodo_generic_f_00	
 9c7f55bd	weapon_accuracy		
-9c9d629d	ped		
-9cb9bcc6	ped		cs_monalisa
+9c9d629d	ped		m_clb_deal_m_02
+9cb9bcc6	ped		CS_Monalisa | cs_monalisa
 9cfaab9e	ped	cra_frog_leopardsouthern_m_00	
 9d0450ca	vehicle	maverick	
 9d20346e	ped	crb_chicken_leghorn_m_00	
 9d207044	pickup		
 9d357c86	pickup		
 9d419d7e	ammo		
-9d4741f1	ped		
+9d4741f1	ped		ex_discofph_f_00
 9d54c408	ped		cs_alicia
 9d6793f1	ped		cs_pisswasser_nein
 9d69a6cb	pickup		
-9d6a8b59	ped		
+9d6a8b59	ped		s_m_x_kl_navydressuniform_00
 9d71c379	animal_tuning		
-9d750488	ped		
-9d857264	ped		
+9d750488	ped		s_f_x_aa_restaurantstaffbeachclub_00
+9d857264	ped		m_rob_veh_m_01
 9d96da4f	ped		
-9d9b4e97	ped		
+9d9b4e97	ped		cs_deputy_giordano
 9da00471	vehicle_colour		
 9db67a49	ped		
-9db713bb	ped		
+9db713bb	ped		cti_deal_elpt_m_00
 9dbd20ec	ped		csc_eco_finale_m_00
-9dc7683e	ped		
+9dc7683e	ped		m_int_prolo_m_01
 9dc87641	ped	crr_alligator_american_m_00	
 9dcb5903	vehicle_colour		
 9dfa3766	ped	crm_manatee_formaldehyde_m_00	
 9e07e2ce	vehicle_colour		
 9e22e336	pickup		
-9e3b3f71	ped		
+9e3b3f71	ped		m_clb_video_m_00
 9e3c5019	ped	crb_duck_pekinamerican_m_00	
-9e3c6f30	ped		
+9e3c6f30	ped		a_f_x_aa_mountainbiker_sport_mixed_mid_00
 9e40b7cf	vehicle_colour		
 9e4b6d98	ped		ie_csout_f_00
-9e4ee428	ped		
+9e4ee428	ped		s_m_x_aa_genmechanic_00
 9e6e911b	pickup		
-9e7d7f90	ped		
+9e7d7f90	ped		a_f_x_aa_touristdaywear_mixed_mixed_mid_00
 9e87fe9a	ped_capsule	crow	
-9e8b0bf7	ped		
-9e8ee441	ped		
+9e8b0bf7	ped		ie_snach_m_00
+9e8ee441	ped		s_m_x_aa_shopkeepereris_00
 9e9a2efb	door_tuning	DefaultBarrierArm	
 9eb5628c	animal_tuning		
 9ee20296	ped		cmp_hotel_m_01
 9ee7eee5	ped		cmp_abcc_m_00
-9ef00961	ped		
+9ef00961	ped		a_m_x_aa_yachtwear_mixed_mixed_mid_00
 9f31e1b8	ped		
 9f399ca1	pickup		
 9f44742c	ped		
 9f45e110	ammo		
-9f6c11d8	ped		
-9f75ab9a	ped		
+9f6c11d8	ped		m_bil_pick_f_01
+9f75ab9a	ped		s_m_x_ab_tattooparlour_casual_mixed_low_00
 9f7b2c9b	pickup		
 9f870712	weapon	weapon_melee_bat	
 9f9a1b60	pickup		
 9f9ac0b1	ped	cs_yasmani_cabrera	
-9fa4ba79	ped		
-9fb07c14	ped		
+9fa4ba79	ped		s_m_x_ca_policeboat_00
+9fb07c14	ped		a_f_x_aa_promotergirl_swim_athletic_mid_00
 9fba0561	pickup		
-9fbd8f89	ped		
-9fc05e4e	ped		
+9fbd8f89	ped		a_m_x_aa_nudistswinger_nude_mixed_mid_00
+9fc05e4e	ped		s_f_x_aa_scooterbros_00
 9fc5c882	ammo	ammo_minigun	
 9fd7c9aa	pickup		
 9fdf45fc	weapon	weapon_autorifle_bullpup	
 9fe6e37a	ped	cra_frog_bullcssmmghh_m_00	
 a0097f7a	pickup		
 a00a3a60	weapon_damage_modifier		
-a0159619	ped		
+a0159619	ped		a_m_o_aa_sugardaddy_beachpop_mixed_high_01
 a02965ae	pickup		
 a02e4551	animal_tuning		
 a0309d08	vehicle_colour		
 a0440a05	ped	ex_secredim_m_00	
 a04db20a	pickup		
 a06b9ab5	ped		
-a06c8698	ped		
-a08b084a	ped		
+a06c8698	ped		s_f_x_aa_spastaff_00
+a08b084a	ped		s_f_y_aa_bikinicarwash_00
 a08bb621	weapon_accuracy		
-a09126f1	ped		
+a09126f1	ped		a_f_x_aa_cellericamansion_casual_mixed_mid_00
 a0958b6c	ped_capsule		
 a09e15fd	vehicle	valkyrie	
 a09e6236	ped	crf_drum_black_m_00	
 a09f6277	pickup		
-a0b0a2ad	ped		
+a0b0a2ad	ped		s_m_x_lc_policeboat_00
 a0c390cb	ped		fro_gasme_f_00
 a0dcd808	ped_capsule	parrot	
-a0e8c55f	ped		
-a0e94524	ped		
+a0e8c55f	ped		ie_drvai_m_02
+a0e94524	ped		a_m_m_aa_bigshot_beachpop_mixed_high_00
 a0eba295	pickup		
-a0ee183f	ped		
+a0ee183f	ped		s_f_x_yh_yhotelstafffrontdesk_00
 a1013290	ped	crf_spadefish_atlantic_m_00	
 a1184c37	ped		cs_nicole
 a122f760	ped_nav_capability	standard_ped	
 a138d8c9	ped_capsule	bear	
 a147804f	pickup		
 a15164f5	pickup		
-a155cec6	ped		
+a155cec6	ped		s_m_x_cellerica_security
 a170c467	vehicle_colour		
 a181c2b3	pickup		
-a18d5168	ped		
+a18d5168	ped		a_m_x_aa_touristdaywear_mixed_mixed_mid_00
 a1af081f	weapon	weapon_sniper_heavy	
 a1bdbbdb	ped		cs_dr_merle
 a1be9f99	ped		ie_bkglf_f_00
-a1d4a9a7	ped		
+a1d4a9a7	ped		g_f_m_m7mara_00
 a1e86d1b	ammo		
 a219cc0b	weapon	weapon_melee_knuckle	
 a229a123	ped		cs_mommy
 a232e82c	ped		ie_sexrb_m_00
-a23c20ff	ped		
+a23c20ff	ped		a_f_x_aa_genpopshabby_casual_mixed_low_00
 a24b97e7	vehicle_colour		
 a259828a	pickup		
-a25ea86b	ped		
+a25ea86b	ped		m_bil_pent_m_02
 a262252f	ped		css_skymr_m_00
 a26f2b15	ped		
 a2719263	weapon	weapon_unarmed	
 a2928cd2	pickup		
-a2bb1525	ped		
+a2bb1525	ped		s_f_x_yh_yhotelstaffrestauranthost_00
 a2bc9c3e	ped_capsule	seagull	
-a2c0fdc4	ped		
+a2c0fdc4	ped		s_m_x_vc_policehelicopter_00
 a2dddba7	ped		cs_bledar
 a30e3a76	ped		cs_jaylah
-a32948ab	ped		
+a32948ab	ped		s_f_x_lx_firefighteruniform_00
 a32c44e7	pickup		
-a35b1311	ped		
+a35b1311	ped		m_bil_final_m_00
 a367c32a	ped	crm_whale_humpback_m_00	
 a36d413e	weapon	weapon_run_over_by_car	
-a398811d	ped		
+a398811d	ped		a_f_x_aa_fitness_sport_xxl_mid_00
 a3a749bd	ped		ie_pracq_f_00
 a3aa7608	ped		
 a3b5ab0a	pickup		
 a3b7a3b8	pickup		
 a3beca11	pickup		
 a3c28f32	animal_tuning		
-a3cc5cbd	ped		
+a3cc5cbd	ped		a_m_x_aa_touristbeachwear_casual_xxl_low_00
 a3dc0e64	pickup		
 a3e42a12	ped		ie_stinf_m_00
-a3ed903a	ped		
+a3ed903a	ped		a_f_x_kl_unstablepop_mixed_mixed_mid_00
 a40289a0	ped		
 a405747d	ped		cs_beefslap
 a4069e6f	ped		
 a4157e11	ped		ie_vnldr_m_02
 a42fc3a5	vehicle	vectre	
 a442b651	ped		
-a451a42b	ped		
-a4602ea2	ped		
+a451a42b	ped		m_bil_preci_m_03
+a4602ea2	ped		s_f_x_aa_restaurantstaffcasual_00
 a46a7db1	pickup		
 a479da67	pickup		
 a489744f	vehicle_plate		
 a48d2f79	ped		
 a4a4e453	vehicle	riata	
-a4bb6e15	ped		
-a4d048b1	ped		
+a4bb6e15	ped		a_f_x_aa_touristbeachpop_sexy_mixed_high_00
+a4d048b1	ped		a_m_x_aa_mudpark_mixed_mixed_mid_00
 a4d99b7d	vehicle	raiden	
 a4dfdb5e	ped		
-a4e7e164	ped		
+a4e7e164	ped		cti_deal_dcrl_f_00
 a4ecc592	ped		cs_doug
 a4f80708	weapon_damage_modifier		
 a5070cf0	pickup		
-a50ae135	ped		
-a51325cf	ped		
+a50ae135	ped		a_f_x_aa_daywearcountryclubcasual_mixed_mixed_high_00
+a51325cf	ped		a_f_y_aa_skatewear_casual_mixed_mid_00
 a51f2af3	animal_tuning		
 a5325278	vehicle	manchez	
 a5390f29	pickup		
-a53fd03e	ped		
+a53fd03e	ped		g_m_m_polillanegra_grd_00
 a563a608	ped_nav_capability		
-a57b5bd9	ped		
+a57b5bd9	ped		s_m_x_aa_chaceysstaff_00
 a58f0812	pickup		
-a593cf69	ped		
+a593cf69	ped		ex_discobc_f_00
 a5aad4c0	ped	crb_eagle_golden_m_00	
 a5be6c3c	vehicle	bison4	
-a5cc476d	ped		
+a5cc476d	ped		m_bil_house_m_01
 a5dbc466	weapon	weapon_revolver_long	
-a614170b	ped		
-a6203eb8	ped		
+a614170b	ped		m_mtl_cont_m_01
+a6203eb8	ped		m_mny_party_m_04
 a641da79	pickup		
 a6447a74	pickup		
 a64de793	ped	cs_donnie	
 a6509163	animal_tuning		
-a65343b3	ped		
+a65343b3	ped		a_m_y_aa_hipsterarty_casual_mixed_mid_00
 a65da27e	pickup		
 a670bc37	pickup		
 a673eee1	pickup		
-a68615e5	ped		
+a68615e5	ped		s_m_x_ca_policeambient_00
 a687c90b	ped_capsule	fish_large	
 a6951d5c	ped_capsule	sparrow	
 a6a7128a	vehicle	stallion	
 a6b6d892	ped		
 a6cc5c82	ped	ex_discobds_m_00	
-a6cd5053	ped		
-a6d15452	ped		
-a6df3dbf	ped		
-a6eb5ec9	ped		
-a6ec027c	ped		
-a6f55436	ped		
+a6cd5053	ped		s_m_x_aa_contractor_00
+a6d15452	ped		s_f_x_aa_burgershotstaff_00
+a6df3dbf	ped		ie_vrbow_f_00
+a6eb5ec9	ped		s_f_x_aa_warehouseworker_00
+a6ec027c	ped		ex_secreprt_m_00
+a6f55436	ped		a_f_x_aa_partyredneck_mixed_mixed_mid_00
 a701323b	ped		g_m_m_finalchapter_ldr_00
 a72d129a	ped		csc_drt_final_f_00
-a72e02de	ped		
+a72e02de	ped		a_f_x_aa_localgeneral_swim_mixed_mid_00
 a7430cd3	animal_tuning		
-a747c74c	ped		
+a747c74c	ped		cmp_grlab_m_00
 a76d99de	ped		m_clb_party_m_01
-a7710876	ped		
+a7710876	ped		s_m_x_vd_policeairporttacticallight_00
 a7729f46	vehicle_colour		
 a774b5a6	vehicle	schafter3	
 a7774d82	ped		ie_vnldr_f_00
-a7805f2b	ped		
+a7805f2b	ped		a_f_x_ca_genpopsnowbird_mixed_mixed_mid_00
 a7814884	pickup		
-a791d798	ped		
-a79a71cc	ped		
+a791d798	ped		g_m_m_guardia_00
+a79a71cc	ped		cmp_weedg_m_00
 a7ac1261	weapon	weapon_thrown_item	
 a7bd24d1	weapon_damage_modifier		
 a7d35c05	ped		csc_mlm_initi_m_00
-a7d5feff	ped		
+a7d5feff	ped		g_m_m_guardia_ldr_00
 a7ede74d	vehicle	stanier	
 a7efef53	weapon_damage_modifier		
 a7f215dd	ped		
 a806d30b	ped		csc_eco_frack_m_00
-a81f3b1f	ped		
+a81f3b1f	ped		a_f_x_aa_watersportslocals_swim_mixed_mid_00
 a822fa77	pickup		
 a849fc71	ped		ie_atmrb_m_00
 a85b4551	ped_capsule	chicken	
@@ -3103,38 +3103,38 @@ a85f3a53	vehicle	trailergenerator
 a88a8f3b	pickup		
 a88f0fc5	pickup		
 a897d650	animal_tuning		
-a8ad2052	ped		
+a8ad2052	ped		g_m_m_polillanegra_00
 a8b65507	ammo		
-a8c1f675	ped		
-a8c3595e	ped		
+a8c1f675	ped		m_rob_bank_m_00
+a8c3595e	ped		s_f_x_aa_djbeach_mixed_mixed_mid_00
 a8d7dfa2	ped	crm_horse_generic_m_00	
-a8f21ccf	ped		
+a8f21ccf	ped		s_f_x_mc_policeambient_00
 a8f3a39f	pickup		
 a8f82057	pickup		
 a9086718	ped	crc_crab_landcuban_m_00	
 a90f94cb	weapon_accuracy		
 a91b24cb	ped		ie_stveh_m_00
-a91d3abc	ped		
+a91d3abc	ped		a_m_y_aa_nudistsexy_nude_mixed_mid_00
 a91f52d1	vehicle	nimbe	
-a923f346	ped		
+a923f346	ped		ex_discofph_m_00
 a9284f9f	ped_nav_capability		
-a932c121	ped		
+a932c121	ped		a_f_x_aa_daywear_casual_mixed_mid_00
 a947d905	ped		csc_stu_party_m_02
-a94a2120	ped		
+a94a2120	ped		s_m_x_aa_shopelectronicshigh_00
 a94eb0b1	pickup		
-a96328b1	ped		
+a96328b1	ped		m_bil_pent_b_m_00
 a984a0ce	vehicle_colour		
-a98d8a74	ped		
+a98d8a74	ped		m_rob_veh_m_00
 a9b1aff5	ped		
-a9c81bbb	ped		
+a9c81bbb	ped		m_mny_kidnp_m_02
 a9cd7aa5	vehicle	mobilityscooter	
 a9e95fbf	animal_tuning		
 a9ff98e6	pickup		
 aa2abd43	pickup		
 aa2b639b	ped_nav_capability	simple	
 aa55e957	ped		csc_eco_monk_f_00
-aa621677	ped		
-aa6dfd29	ped		
+aa621677	ped		s_f_x_aa_ammunationrural_00
+aa6dfd29	ped		cti_deal_nctl_f_00
 aa72ce96	pickup		
 aa8e730d	vehicle	torlan	
 aaadc2b6	vehicle_colour		
@@ -3149,110 +3149,110 @@ ab04d9ec	pickup
 ab092c04	vehicle	bison900	
 ab1fba34	ped	cs_tal_sr	
 ab243cce	pickup		
-ab295793	ped		
-ab3328b9	ped		
+ab295793	ped		s_f_x_aa_emt_00
+ab3328b9	ped		s_m_x_aa_baristafranchise_00
 ab3446c2	vehicle_colour		
-ab46efd6	ped		
+ab46efd6	ped		m_rob_boat_f_00
 ab4fcd06	pickup		
-ab57cda3	ped		
-ab629359	ped		
+ab57cda3	ped		a_f_y_aa_touristglamtwerk_sexy_mixed_mid_00
+ab629359	ped		a_f_o_aa_retiree_swim_mixed_mid_00
 ab62a148	pickup		
-ab7bb649	ped		
-ab891b34	ped		
-ab943d60	ped		
-ab9f913a	ped		
+ab7bb649	ped		s_m_x_aa_officeworkersecurityreception_00
+ab891b34	ped		s_m_x_aa_yachtcaptainmid_00
+ab943d60	ped		s_f_x_lc_policedispatch_00
+ab9f913a	ped		s_f_x_aa_postalworker_00
 abaab924	weapon	weapon_tacrifle_carbine	
 abb61918	ped		m_clb_tower_m_03
 abc3deb9	pickup		
 abde07da	vehicle_colour		
-abe00499	ped		
+abe00499	ped		ie_pvcjt_f_00
 abefd8f6	ped		
 abf229fb	ped		cs_kat_baby
 ac0ebe9c	vehicle	bus2_frag	
 ac33179c	vehicle	infernus2	
-ac3b1e01	ped		
+ac3b1e01	ped		a_f_x_kl_leisure_mixed_mixed_mid_00
 ac3e7226	ped		cs_theo
 ac429aba	ped		fro_cigar_f_00
 ac602b25	ped		cs_dr_ray_dangelo
 ac7df86e	animal_tuning		
 ac9fed4a	ped	crm_dog_shepherdaustralian_m_00	
-aca5cb57	ped		
+aca5cb57	ped		g_m_m_san4san_ldr_00
 acc5af73	vehicle_colour		
 acca4f7c	pickup		
 accaed62	weapon_accuracy		
-acce9a18	ped		
+acce9a18	ped		cmp_wrkvn_m_00
 acd9e086	ped	crm_dog_bulldogfrenchstray_m_00	
 ad1d41c7	pickup		
 ad22a40e	weapon_accuracy		
 ad2ce506	ped	crf_eel_american_m_00	
 ad5c235c	ped		ie_nttul_m_00
-ad6e3c00	ped		
-ad6e9a34	ped		
+ad6e3c00	ped		a_f_y_aa_eccentricraver_nightlife_mixed_mid_00
+ad6e9a34	ped		m_bil_fun_f_01
 ad6eeb0e	weapon_accuracy		
 ad735006	vehicle_colour		
 ad7cedcb	pickup		
 ad8c1176	pickup		
-ad9e0a4b	ped		
-ad9f52e4	ped		
-adaaf88c	ped		
+ad9e0a4b	ped		cmp_clubh_f_00
+ad9f52e4	ped		a_m_x_aa_speedwaycrowd_casual_mixed_mid_00
+adaaf88c	ped		a_m_x_aa_junkie_mixed_mixed_low_00
 adb01ae4	ped		cs_frank
 adb5c528	weapon_damage_modifier		
 add74457	ped		
 ade4df60	ped	crb_peafowl_indian_m_00	
 adeaea52	ped	crm_bear_blackamerican_m_00	
 adf451e9	vehicle_plate		
-ae07576c	ped		
+ae07576c	ped		s_f_x_kl_barnaclebeauties_00
 ae1e907b	pickup		
 ae2449ef	ped	player_story000_01	
 ae2cc02a	vehicle	vivanite	
 ae302d41	weapon_accuracy		
 ae429e39	weapon_damage_modifier		
-ae516030	ped		
-ae626db4	ped		
+ae516030	ped		ie_drvai_m_03
+ae626db4	ped		a_f_x_aa_tourist_casual_xxl_low_00
 ae679517	vehicle	shifter	
 ae971e6d	pickup		
-aeaa6768	ped		
+aeaa6768	ped		s_f_x_aa_milkking_00
 aed17222	animal_tuning		
 aee421ee	pickup		
-af1a9f61	ped		
+af1a9f61	ped		s_f_x_aa_artmuseumstaff_00
 af202fde	door_tuning	MInt_Door_Sliding_01a	
 af220d28	ped	crm_dolphin_bottlenosecommon_m_00	
-af268d9d	ped		
-af350d4e	ped		
+af268d9d	ped		s_m_x_aa_hotelstafffrontdeskhigh_00
+af350d4e	ped		a_m_y_aa_touristhipster_swim_mixed_mid_00
 af3d12e5	ped	crm_deer_agh_f_00	
 af528e8e	ped		fro_gasme_m_00
 af566ab3	pickup		
 af702344	pickup		
-af809b6f	ped		
-af868ed4	ped		
+af809b6f	ped		a_m_o_aa_sugardaddy_mixed_mixed_high_00
+af868ed4	ped		s_f_x_aa_delicafe_00
 afa09096	ped		ft_pjewel_f_00
 afa9cdff	animal_tuning		
 afab2d6b	weapon_accuracy		
 afab5026	ped	crm_rat_brown_m_00	
 afbb2ca4	vehicle	burrito	
-afc52d61	ped		
-afc61223	ped		
-afc85756	ped		
+afc52d61	ped		a_f_x_aa_cellericarecruit_mixed_mixed_mid_00
+afc61223	ped		cs_jose_bermudez
+afc85756	ped		cs_phil_jr
 afca1a4f	vehicle	aphid	
 afdf2491	pickup		
-affd2274	ped		
+affd2274	ped		s_m_x_ob_gabrielwexler_00
 affde04d	pickup		
 b0028cda	pickup		
 b003d40b	pickup		
-b01c0fa2	ped		
-b022ebc1	ped		
+b01c0fa2	ped		a_f_y_aa_touristhipster_swim_mixed_mid_00
+b022ebc1	ped		s_f_x_aa_banktellermid_00
 b02de3cc	ped	crr_iguana_green_m_00	
 b0598bfd	pickup		
-b05c9fce	ped		
+b05c9fce	ped		m_clb_video_f_00
 b05defe3	pickup		
 b066e767	ped_capsule		
-b06e37a2	ped		
-b070bbb8	ped		
-b08146d3	ped		
-b08514b3	ped		
+b06e37a2	ped		m_mtl_mont_m_00
+b070bbb8	ped		a_f_x_aa_activewearmature_sexy_mixed_high_00
+b08146d3	ped		a_f_x_aa_nudistswinger_nude_mixed_mid_00
+b08514b3	ped		m_mtl_pain_f_00
 b0ac6105	ped		cs_facetat
 b0fae084	pickup		
-b0fae4df	ped		
+b0fae4df	ped		s_f_x_aa_officeworkercasual_00
 b10ef6ba	pickup		
 b1220d40	pickup		
 b12314e0	vehicle	towtruck	
@@ -3260,39 +3260,39 @@ b123afda	ped	ex_discowmls_m_00
 b13319bc	pickup		
 b134bb8e	ped		ie_fhtc_m_00
 b14dd505	weapon_damage_modifier		
-b159c06f	ped		
+b159c06f	ped		m_bil_red_m_00
 b15eaa6a	pickup		
 b176d3a4	vehicle_colour		
-b17b57d3	ped		
+b17b57d3	ped		a_f_x_aa_tourist_swim_xxl_mid_00
 b1904869	weapon_accuracy		
 b19b3c23	ped	cs_mister_mangrove	
-b19da272	ped		
-b1a0dc08	ped		
+b19da272	ped		s_m_x_aa_fastfoodmarbles_00
+b1a0dc08	ped		s_f_x_aa_shopkeepercarsales_high_00
 b1aa8f87	pickup		
 b1cf5423	animal_tuning		
 b1d2d407	pickup		
 b1f0ba93	ped_nav_capability		simple_no_avoidance
-b1f41d64	ped		
+b1f41d64	ped		a_f_x_aa_mudpark_mixed_mixed_mid_00
 b1fc052d	ped		ci_up_gholrnt_f_00
 b20d2ee6	ped		m_clb_tower_f_01
-b24afa52	ped		
+b24afa52	ped		cs_marlon_clay
 b24f6b45	ped		cs_kd
 b26357cb	ped		
-b26c2516	ped		
+b26c2516	ped		a_m_x_aa_criminalcitycrime_casual_mixed_mid_00
 b2828c18	ped		ie_qqint_m_00
 b283fe3f	pickup		
-b2aa2ec8	ped		
+b2aa2ec8	ped		s_f_x_pg_stripclubbarstaff_00
 b2aca3e2	ped	crb_frigatebird_magnificent_m_00	
 b2b077ee	ped	crm_dog_boxer_m_00	
-b2b9c160	ped		
+b2b9c160	ped		a_m_o_aa_genpopcuban_mixed_mixed_mid_00
 b2c7d91e	pickup		
 b2cf7250	vehicle	nimbus	
 b2e34ab7	pickup		
 b2e7f8a1	pickup		
 b300a3d5	ped		cs_cryptonut
-b30a28d1	ped		
+b30a28d1	ped		s_m_x_aa_elitecoastguardlight_00
 b3256bc1	ped		csc_eco_frack_f_00
-b32f5e16	ped		
+b32f5e16	ped		cs_nancy_buchanan
 b344accc	ped		
 b3558c7f	weapon_damage_modifier		
 b368a493	ped		cs_cellerica_lauren
@@ -3300,21 +3300,21 @@ b374737c	ped		cmp_recrd_f_00
 b37e6a7e	ped		ie_cflee_m_00
 b384511c	ped		
 b39b0ae6	vehicle	lazer	
-b3b4467e	ped		
+b3b4467e	ped		s_m_x_aa_oceanariumstaffgeneral_00
 b3c4ccbd	ped		cti_mech_stol_m_00
-b3e8a439	ped		
+b3e8a439	ped		s_f_x_wb_policedispatch_00
 b3f5c5db	ped	crm_dog_chihuahuastray_m_00	
 b400e34e	ammo		
-b40a7d67	ped		
-b40b3b16	ped		
-b4180708	ped		
+b40a7d67	ped		s_f_x_lx_policeambient_00
+b40b3b16	ped		m_bil_pick_f_02
+b4180708	ped		s_m_x_aa_equestrianstaff_00
 b41a9a8e	ped		cs_moses_watkins
 b41bf142	pickup		
 b42a7bfd	pickup		
 b43137a6	ped		fro_gasme_f_01
 b43e741b	pickup		
 b44982b4	ped		ag_beu_m_00
-b44ba4ec	ped		
+b44ba4ec	ped		ie_pvcjt_m_00
 b44e0dd1	vehicle	trailerboats2	
 b451b43f	ped	crm_whale_orca_m_00	
 b45f22c0	ped		cs_hotel_widow
@@ -3322,15 +3322,15 @@ b4745921	ammo
 b476871f	animal_tuning		
 b48d9614	ped	crm_dog_terrieryorkshire_m_00	
 b4c99a12	ped		com_cbo_cbint_f_00
-b4cc7c11	ped		
-b4d0498e	ped		
+b4cc7c11	ped		cmp_goods_f_00
+b4d0498e	ped		cs_chris_cranford
 b4f235d7	ped		csc_drt_cnvy_m_00
 b4fc664c	vehicle_colour		
-b507ca93	ped		
+b507ca93	ped		cs_bar_aviator4
 b519437c	ped		
 b526b2fd	animal_tuning		
 b5276b72	ped	crm_manatee_florida_m_00	
-b52bf682	ped		
+b52bf682	ped		a_m_x_kl_leisure_mixed_mixed_mid_00
 b534ed64	pickup		
 b55c3dc9	pickup		
 b573f940	animal_tuning		
@@ -3340,14 +3340,14 @@ b5b2d9ad	animal_tuning
 b5c5d8f1	weapon	weapon_alligator	
 b5cb7916	vehicle_colour		
 b5d306a4	vehicle	tailgater2	
-b5d7e354	ped		
+b5d7e354	ped		g_m_m_polillanegra_ldr_00
 b5ebbc8c	ped	crf_parrotfish_stoplight_m_00	
-b5f3a563	ped		
+b5f3a563	ped		cmp_goods_m_00
 b6018481	ped		ie_bdcw_m_00
 b6109627	pickup		
 b614128a	ped		cs_tyrone_russo
 b6357422	pickup		
-b63dd486	ped		
+b63dd486	ped		s_f_x_aa_ammunationcity_00
 b64e9925	ped		ie_fmhe_m_00
 b654002f	ped	crb_dodo_generic_f_02	
 b669860c	ped	crb_oriole_breastedspot_m_00	
@@ -3361,52 +3361,52 @@ b6be871e	ped_capsule	crab
 b6e92de9	ped_capsule		
 b7036af7	ped		csc_mlm_ledr2_m_01
 b71f18d0	ped_capsule	alligator_small	
-b7382040	ped		
-b759f69b	ped		
+b7382040	ped		s_f_x_mc_firefighteruniform_00
+b759f69b	ped		a_f_x_aa_genpopbasic_mixed_mixed_low_00
 b764917f	vehicle_colour		
-b7652836	ped		
-b778d929	ped		
+b7652836	ped		cmp_fshwh_m_02
+b778d929	ped		s_m_x_aa_fleecabankteller_00
 b78f2518	ped		ie_vnldr_m_00
 b79433e2	pickup		
 b79c1bf5	vehicle	shamal	
 b7bd3f49	weapon_damage_modifier		
-b7cd67f5	ped		
+b7cd67f5	ped		sws_bansco_f_00
 b7d8b0dd	pickup		
 b7e40f39	ammo		
 b802dd46	vehicle	rebel	
 b8057d9a	ped		
-b81216a8	ped		
-b8167d1c	ped		
+b81216a8	ped		s_f_x_aa_shopkeeperconveniencestorefranchise_00
+b8167d1c	ped		s_f_y_di_waitingstaffformal_00
 b822a1aa	vehicle	riot	
 b8256b93	pickup		
 b829ffc1	weapon_accuracy		
-b836f2d0	ped		
+b836f2d0	ped		a_m_x_aa_genpoprural_casual_xxl_mid_00
 b8400af6	pickup		
-b84cc62b	ped		
+b84cc62b	ped		s_f_x_yh_yhotelstaffconcierge_00
 b84d8fa7	pickup		
 b85ea9b0	ped_capsule		
-b8623ba7	ped		
-b870c20d	ped		
+b8623ba7	ped		m_mtl_cont_m_00
+b870c20d	ped		a_f_m_aa_touristhigh_mixed_mixed_high_00
 b8938b9f	ped		cs_savon
 b899022e	vehicle_colour		
-b8a99d7c	ped		
-b8ab46c4	ped		
+b8a99d7c	ped		a_m_x_aa_daywearcountryclubelegant_mixed_mixed_high_00
+b8ab46c4	ped		a_m_y_aa_nudistswingersexy_nude_mixed_mid_00
 b8ae9afa	pickup		
-b8b77f04	ped		
-b8c263d7	ped		
-b8c4e8c9	ped		
+b8b77f04	ped		shops_f_mannequin_head
+b8c263d7	ped		cs_pool_shark
+b8c4e8c9	ped		cmp_kstsh_m_01
 b8e2ae18	vehicle	zion2	
-b8e7cd8b	ped		
-b90cbcb5	ped		
+b8e7cd8b	ped		m_bil_preci_m_06
+b90cbcb5	ped		g_m_m_guardia_grd_00
 b910bbc4	ped		ie_cpdwn_m_01
 b916574f	animal_tuning		
 b91757ce	pickup		
 b91f76b2	vehicle	inflatableflamingo	
 b92534d1	animal_tuning		
 b92b3186	ped		
-b92e5f66	ped		
-b93b5213	ped		
-b93c2086	ped		
+b92e5f66	ped		ci_up_mmcops_f_00
+b93b5213	ped		ex_discoti_tower_influencer_f_00
+b93c2086	ped		s_f_x_aa_migrantworker_casual_mixed_low_00
 b95e3977	weapon_accuracy		
 b971fd03	ped	crb_gull_herringamerican_m_00	
 b97dccad	ped		ie_crsea_m_01
@@ -3421,69 +3421,69 @@ b9dc76b6	ped		csc_eco_frack_m_01
 b9f4858a	ped		
 ba07557f	ped		
 ba19ffed	pickup		
-ba2b0996	ped		
+ba2b0996	ped		sws_gunthr_f_00
 ba2d509b	ammo		ammo_turret
 ba38669d	ped	crm_dog_poodlestandard_f_00	
 ba41de66	ped		
-ba423bed	ped		cs_levi
-ba4b05ee	ped		
+ba423bed	ped		CS_Levi | cs_levi
+ba4b05ee	ped		a_m_x_aa_househusbands_casual_mixed_high_00
 ba5334ac	vehicle	toros	
 ba5d41ff	pickup		
 ba751a4e	ped	crb_jay_blueflorida_m_00	
 ba7efa32	ped		ie_duist_m_00
 ba8aeeaf	pickup		
 ba987124	animal_tuning		
-babbfdb1	ped		
+babbfdb1	ped		cs_lance_the_dancer
 bad29d3b	ped		
 bad88e83	ped_nav_capability		
 badee81f	animal_tuning		
 bb10a2c6	ped_capsule		tiger
 bb271095	ped_capsule		
-bb2c070c	ped		
-bb4b4314	ped		
+bb2c070c	ped		a_m_o_aa_retiree_swim_mixed_mid_00
+bb4b4314	ped		a_m_y_aa_touristeuro_nightlife_mixed_mid_00
 bb4e39af	ped	crr_turtle_snappingflorida_m_00	
 bb545208	ped	crb_sanderling_generic_m_00	
 bb66a630	ped		cs_chart_friend
-bb6b1667	ped		
+bb6b1667	ped		sws_pulpho_m_00
 bb6b404f	vehicle	primo	
 bb78956a	vehicle	italirsx	
 bb78c69c	animal_tuning		
-bb8f10c7	ped		
+bb8f10c7	ped		a_f_x_aa_local_swim_mixed_high_00
 bb954cc4	ped		
-bb9d9221	ped		
+bb9d9221	ped		a_f_x_aa_localrefined_nightlife_mixed_high_00
 bbbaf7df	weapon_accuracy		
-bbbbbdc7	ped		
+bbbbbdc7	ped		a_f_x_dodos_rising_00
 bbc64088	vehicle_plate		
-bbd300cd	ped		
-bbda5a5e	ped		
-bbdabfe0	ped		
-bbe363bc	ped		
-bc217996	ped		
-bc33da3d	ped		
+bbd300cd	ped		a_f_y_aa_basketball_sport_mixed_mid_00
+bbda5a5e	ped		s_f_x_aa_hotelstafffrontdeskmid_00
+bbdabfe0	ped		m_mny_kidnp_m_01
+bbe363bc	ped		s_m_x_rr_tattooparlour_casual_mixed_low_00
+bc217996	ped		m_air_final_m_01
+bc33da3d	ped		a_m_x_aa_daywearcountryclubcasual_mixed_mixed_high_00
 bc36a973	ped		ie_cpdwn_f_00
 bc488987	ped_capsule	stingray	
-bc4d8ae4	ped		cs_stefanie
+bc4d8ae4	ped		CS_Stefanie | cs_stefanie
 bc566648	ped		ex_secrevbcs_m_00
-bc62e499	ped		
-bc6356c5	ped		
+bc62e499	ped		s_m_x_privatesecuritybodyguard_00
+bc6356c5	ped		s_m_x_aa_securityguardwarehouse_00
 bc6e2a0f	pickup		
 bc7f1c90	ped		ie_dtft_f_00
-bc84385f	ped		
+bc84385f	ped		m_bil_fun_f_00
 bc8af0f8	ped		ho_par_holpo_f_00
 bcf0025d	ped		ho_par_cfrwk_f_00
-bd016a7e	ped		
+bd016a7e	ped		cs_parole_officer
 bd03952b	pickup		
-bd075086	ped		
+bd075086	ped		s_f_x_aa_fleecabankteller_00
 bd075315	ped		ie_brjmp_f_00
 bd194338	weapon	weapon_smoke	
-bd1bf4df	ped		
+bd1bf4df	ped		cti_deal_wlpt_m_00
 bd241ca3	weapon	weapon_special_flaregun	
-bd50342b	ped		
-bd5d8111	ped		
+bd50342b	ped		fro_rshoes_m_01
+bd5d8111	ped		m_int_prolo_f_00
 bd6fd120	animal_tuning		
 bd72c83f	ped	crf_snook_common_m_00	
 bd865f3b	ped	crb_ibis_glossy_m_00	
-bd88af4f	pickup		
+bd88af4f	pickup		hairdreadlocks_mr1_003_straight_l08_non_sb_m_flyaways_lod1
 bd9394f8	ped		ie_nervc_f_00
 bdaad8b4	ped		ie_gange_m_00
 bdc416b5	ped		ie_beinf_m_00
@@ -3493,82 +3493,82 @@ bdfe407c	pickup
 bdfea41a	vehicle	TAO	
 be0e5bcf	ped		cs_andy
 be110b8a	ped		
-be1a3ca9	ped		
+be1a3ca9	ped		a_f_x_aa_genpopcountryrural_casual_mixed_mid_00
 be498978	pickup		
 be743202	ped		cti_pil_rd_bug_m_01
-be7b8201	ped		
+be7b8201	ped		a_f_o_aa_cyclist_sports_mixed_mid_00
 be819c63	vehicle	rentalbus	
 be85f21f	vehicle_colour		
 be8ddeaf	pickup		
 be96487d	ped_capsule		
 be9b71b0	pickup		
-bec150ef	ped		
-beca75d8	ped		
-bee359c6	ped		
-beecd380	ped		
+bec150ef	ped		a_f_y_aa_nudisthippie_nude_mixed_mid_00
+beca75d8	ped		s_m_x_aa_postalworker_00
+bee359c6	ped		s_f_x_aa_hotelstafffrontdesklow_00
+beecd380	ped		cs_kyle_monster
 beed305e	ped		
 bef4bae2	pickup		
-bef5657c	ped		
+bef5657c	ped		s_f_y_ff_starlet_00
 bef96e5d	animal_tuning		
 bf0514c5	pickup		
 bf07bfbb	ped		m_clb_tower_m_00
-bf19e45a	ped		
+bf19e45a	ped		a_m_x_aa_touristbeachrefined_mixed_mixed_high_01
 bf1a7673	weapon_damage_modifier		
-bf1ad6ab	ped		
+bf1ad6ab	ped		sws_miswrk_f_00
 bf2ecf29	animal_tuning		
 bf3213d9	vehicle_colour		
-bf3c51c7	ped		
+bf3c51c7	ped		a_m_x_aa_partyredneck_mixed_mixed_mid_00
 bf3d0b9f	vehicle_colour		
-bf40da2d	ped		
+bf40da2d	ped		s_m_x_lx_policeambient_00
 bf41faf8	ped		ci_up_hcguest_m_00
 bf4d586b	pickup		
-bf51e8e4	ped		
+bf51e8e4	ped		s_f_y_aa_waitingstaffformal_00
 bf54dc44	pickup		
 bf733c40	pickup		
 bf9181b6	pickup		
 bf9c0afb	pickup		
-bfafc6cd	ped		
-bfb37f00	ped		
+bfafc6cd	ped		m_mtl_wake_m_00
+bfb37f00	ped		m_bil_house_f_01
 bfb47f6e	ped		cs_tal_kb
 bfbd68c0	weapon_damage_modifier		
-bfc2b32e	ped		
-bfe6a9c4	ped		
+bfc2b32e	ped		m_mtl_pain_f_01
+bfe6a9c4	ped		ie_geoca_m_00
 bfebe532	ped		ie_allam_m_00
 bfedb4f9	pickup		
 bffab8c1	pickup		
 c0074866	vehicle_colour		
 c014bd14	pickup		
 c01c03db	pickup		
-c0263bd4	ped		
-c0275990	ped		
+c0263bd4	ped		s_f_x_ca_policeambient_00
+c0275990	ped		ex_puzzbp6_m_00
 c02cf125	pickup	pickup_ammo_sniper	
 c031cba8	weapon_damage_modifier		
-c03a8b51	ped		
+c03a8b51	ped		s_m_x_sy_tattooparlour_casual_mixed_low_00
 c05cc0ba	pickup		
 c05db7e1	vehicle	trailertip	
-c06c2c4d	ped		
+c06c2c4d	ped		a_m_x_aa_mudparkparty_mixed_mixed_mid_00
 c083f497	ped		css_farmcw_m_00
 c099fb9b	animal_tuning		
 c09d7d59	ped		
-c0a77272	ped		
+c0a77272	ped		a_m_o_ca_activewear_casual_mixed_mid_00
 c0b34f91	pickup		
 c0c84bcf	pickup		
-c0ec44ae	ped		
-c0f75d76	ped		
+c0ec44ae	ped		cs_influencer_python
+c0f75d76	ped		m_bil_preci_m_05
 c10802a5	ammo		
 c10cb202	ped		fro_gasme_m_01
 c11949df	pickup		
-c127f2e1	ped		
+c127f2e1	ped		s_f_x_aa_peeweesstaff_00
 c14de414	ped		cmp_recrd_m_01
-c15d6009	ped		
-c15e8410	ped		
+c15d6009	ped		cti_mech_good_m_00
+c15e8410	ped		m_air_final_m_02
 c189e231	vehicle	cometretro	
-c18aae40	ped		
+c18aae40	ped		a_m_x_aa_genpoppatriots_casual_mixed_mid_00
 c19abcc8	weapon_damage_modifier		
-c1c5e734	ped		
-c1cb53ed	ped		
+c1c5e734	ped		s_f_x_aa_restaurantstaffhostformal_00
+c1cb53ed	ped		g_m_m_cmp_wpnex_00
 c1ce1183	vehicle	marquis	
-c1d16c5b	ped		
+c1d16c5b	ped		a_m_x_aa_local_swim_mixed_mid_00
 c1e908d2	vehicle	banshee	
 c1f7f4a5	ped	crf_fish_salt_m_00	
 c2053771	weapon	weapon_launched_speargun	
@@ -3578,13 +3578,13 @@ c20f64dc	ped		csc_mlm_initi_f_00
 c21b65f6	animal_tuning		
 c226d0d4	pickup		
 c249ae5b	animal_tuning		
-c24cd429	ped		
+c24cd429	ped		m_mny_kidnp_f_00
 c2584a20	vehicle_colour		
-c259fab8	ped		
+c259fab8	ped		s_f_x_aa_pollodiablostaff_00
 c265cce6	ped		g_m_m_koltandassoc_grd_00
-c26b626d	ped		cs_mendez
+c26b626d	ped		CS_Mendez | cs_mendez
 c27a5f13	pickup		
-c290d55a	ped		
+c290d55a	ped		m_mtl_ambul_f_00
 c2974024	vehicle	seashark	
 c29f8f4e	vehicle	cavalcade3	
 c2a7045a	ammo		ammo_pistol_rubber
@@ -3592,7 +3592,7 @@ c2bd6a54	pickup
 c2cfe624	vehicle	inflatabletowring	
 c2d5b90a	ped	cra_frog_bullamerican_m_00	
 c2d91473	ped		css_farmcw_f_00
-c2e077e5	ped		
+c2e077e5	ped		a_m_m_myways_00
 c2f32d24	ped		cmp_breed_m_00
 c2f5d99e	ped		css_ufoara_m_00
 c3029994	ped	ex_puzzepc_m_00	
@@ -3605,36 +3605,36 @@ c35cb8a9	pickup
 c3884526	ped		ie_targp_m_00
 c39ffd0e	pickup		
 c3bce5ca	pickup		
-c3c118fd	ped		
+c3c118fd	ped		a_f_x_aa_tourist_swim_mixed_high_00
 c3d1e8cf	ped		m_clb_meet_f_00
-c3f457bc	ped		
+c3f457bc	ped		a_m_x_aa_scubaboat_mixed_mixed_mid_00
 c3f74226	ped_nav_capability		
-c4363f69	ped		
-c4392d9e	ped		
+c4363f69	ped		s_f_x_aa_parkingattendant_00
+c4392d9e	ped		m_mny_escrt_m_01
 c464d6be	ped		
 c467be19	ped		
-c47a3fbc	ped		
+c47a3fbc	ped		s_f_x_aa_countryclubstaffrestaurant_00
 c4a0e84a	vehicle	trailersmoker	
 c4b1d6b1	vehicle_colour		
 c4c235be	ped		
 c4d1f4b2	pickup		
 c4d3cde7	ped		csc_drt_final_f_02
-c4e19af5	ped		
+c4e19af5	ped		a_m_x_aa_golfer_sport_mixed_mid_00
 c4edae56	ped		cs_pilot_smuggler
 c50e1fdc	vehicle	yakuruna	
 c50f106c	weapon_accuracy		
-c52d4038	ped		
+c52d4038	ped		a_m_x_aa_vicecityphony_swim_mixed_high_00
 c52e1f55	vehicle_colour		
-c53491d3	ped		
+c53491d3	ped		a_f_y_aa_hipsterarty_casual_mixed_mid_00
 c53a43f1	ped	cs_valentina	
 c53c030c	weapon	weapon_rotors	
-c5574372	ped		
+c5574372	ped		a_m_y_aa_localsexy_swim_athletic_mid_00
 c574e8be	pickup		
 c57957c0	pickup		
 c5795d2d	animal_tuning		
 c591feb6	vehicle_colour		
-c5947f04	ped		
-c5a932bd	ped		
+c5947f04	ped		m_bil_pick_m_00
+c5a932bd	ped		s_f_x_aa_genmech_00
 c5ae09b2	ped	crm_dog_rottweilerstray_m_00	
 c5ae3791	pickup		
 c5afd1d4	animal_tuning		
@@ -3642,86 +3642,86 @@ c5bf0a0c	pickup
 c5c32dbf	ped		cs_joey
 c5c4f7dc	ped		csc_trh_plane_m_00
 c5e5e82e	ped		ho_par_dtowk_f_00
-c5ebfb14	ped		
-c5ee5057	ped		
-c5eee6fe	ped		
-c5f15c67	ped		
+c5ebfb14	ped		m_clb_heli_m_00
+c5ee5057	ped		s_m_x_bv_tacticallight_00
+c5eee6fe	ped		m_rob_death_m_00
+c5f15c67	ped		a_m_m_aa_corporate_formal_mixed_high_00
 c5f59a6a	weapon_damage_modifier		
-c605f20b	ped		
+c605f20b	ped		s_f_y_ap_flightschool_00
 c619b3f6	weapon	weapon_shotgun_auto	
 c620aba6	weapon_damage_modifier		
-c651f417	ped		
+c651f417	ped		a_m_o_aa_nudist_nude_mixed_mid_00
 c664e0db	vehicle_colour		
-c6951a9f	ped		
+c6951a9f	ped		a_m_x_aa_entrepreneurbohemianrefined_mixed_mixed_mid_00
 c69c3887	ped		cs_shirley_baker
 c69dd688	vehicle	trailercar	
-c6b40524	ped		
+c6b40524	ped		a_f_o_ca_touristsnowbird_nightlife_mixed_mid_00
 c6e291c3	pickup		
 c6f3de76	pickup		
-c6f5f07d	ped		
-c6fee15a	ped		
+c6f5f07d	ped		a_m_y_aa_genpop_casual_mixed_mid_00
+c6fee15a	ped		s_m_x_aa_foodtruckstaff_00
 c71767bb	ped	ex_discobws_m_00	
-c71acd03	ped		
+c71acd03	ped		a_f_x_aa_tourist_casual_mixed_low_00
 c71da1c2	ped	crb_dodo_generic_f_01	
 c754184f	ped	cs_felipe	
-c76478c9	ped		
-c7844e1d	ped		
-c7875170	ped		
+c76478c9	ped		s_m_x_aa_constructionsupervisor_00
+c7844e1d	ped		s_f_x_ab_tattooparlour_casual_mixed_low_00
+c7875170	ped		a_f_o_aa_tourist_mixed_mixed_high_00
 c797ed19	weapon_damage_modifier		
 c79ad91b	pickup		
-c79f507b	ped		
+c79f507b	ped		a_f_o_aa_plasticsurgery_mixed_mixed_high_00
 c7b1677c	ped	crb_finch_house_m_00	
-c7c7e8d5	ped		
+c7c7e8d5	ped		a_m_x_aa_genpopfishing_casual_mixed_high_00
 c7d62eb8	pickup		
-c7df1949	ped		
-c7e40ff0	ped		
+c7df1949	ped		a_m_x_aa_plasticsurgery_swim_mixed_high_00
+c7e40ff0	ped		cs_puzzbw_m_00
 c8014289	ammo		
-c81149ad	ped		
+c81149ad	ped		fro_rshoes_m_00
 c8116fd3	door_tuning	Prop_Am_Door_SlidingC_01a	
 c81ded82	ped_capsule		
 c841d22f	ped	m_clb_tower_m_01	
-c84788fc	ped		
+c84788fc	ped		cti_deal_vcdt_m_00
 c8567d71	pickup		
 c85e22d7	ped_capsule		
 c864493e	ped		cs_gabriel
 c86a769d	pickup		
-c872dd55	ped		
-c87b1934	ped		
-c87e4996	ped		
+c872dd55	ped		a_f_x_aa_daywearelegant_mixed_mixed_high_00
+c87b1934	ped		m_mtl_mont_f_00
+c87e4996	ped		m_int_bank_m_00
 c880f4cb	ped		
 c8a6becb	pickup		
 c8ac9a25	pickup		
 c8b5c430	ped		
 c8d471a4	ped		
-c8e049ad	ped		cs_cesar_navarro
-c8e5e9d9	ped		
+c8e049ad	ped		CS_CESAR_NAVARRO | cs_cesar_navarro
+c8e5e9d9	ped		m_ban_setup_m_00
 c8efb27e	ped		
 c8f0d39f	ped		cs_cal_sister
 c90314b5	ped		
-c9096ece	ped		
+c9096ece	ped		cs_farmer_wendy
 c90b42c8	ped		cmp_junky_m_01
-c9109acc	ped		
-c9124e8b	ped		
+c9109acc	ped		m_air_hack_m_01
+c9124e8b	ped		s_m_x_kl_tattooparlour_casual_mixed_low_00
 c94080cb	animal_tuning		
 c949b505	weapon_accuracy		
 c9571cd6	ped		ex_dtchdt_m_00
 c9c60901	vehicle	dzy200	
 c9cddc29	vehicle_plate		
 c9cf8d2e	weapon_accuracy		
-c9eac140	ped		
-ca16cdf4	ped		
+c9eac140	ped		cmp_ccart_m_00
+ca16cdf4	ped		cs_the_president
 ca1780ea	vehicle_colour		
 ca495705	ped_capsule	dodo	
 ca495705	vehicle	dodo	
-ca72ef1c	ped		
+ca72ef1c	ped		a_m_x_aa_watersportslocals_swim_mixed_mid_00
 ca8c65b9	pickup		
 ca959d66	pickup		
 ca95db02	pickup		
 cad05f43	ped		ie_cpdwn_m_00
-cad10a1f	ped		
-cad4223a	ped		
+cad10a1f	ped		s_m_x_rr_tattoopatron_00
+cad4223a	ped		s_m_x_aa_loggingworker_00
 cada85d4	weapon_accuracy		
-cae84dfd	ped		
+cae84dfd	ped		s_m_x_aa_construction_uniform_mixed_mid_00
 cae8cebf	vehicle_colour		
 caeaccef	vehicle	trailerfuel	
 cafbbfc0	weapon_accuracy		
@@ -3729,88 +3729,88 @@ cafeae7b	ped		ie_bdcw_m_01
 cb05fee2	pickup		
 cb215f86	ped		cmp_drgkp_m_00
 cb3eb54f	ped		cmp_seed_f_00
-cb63cfde	ped		
+cb63cfde	ped		s_m_x_dt_tattoopatron_00
 cb6a80ff	vehicle_colour		
-cb832ef7	ped		
+cb832ef7	ped		s_m_x_aa_shopkeepercarsaleshigh_00
 cb84df29	vehicle	ganado	
-cba81add	ped		
+cba81add	ped		ie_drvai_m_01
 cbaf6218	pickup		
 cbb2be0e	vehicle	trailers	
-cbb528e9	ped		
+cbb528e9	ped		s_f_x_aa_shopkeeperfleamarket_00
 cbf1209a	pickup		
-cc155d68	ped		
+cc155d68	ped		m_ban_final_m_02
 cc1fce46	weapon_accuracy		
-cc50f63f	ped		
+cc50f63f	ped		a_f_o_ca_activewear_casual_mixed_mid_00
 cc5cde80	ped		csc_eco_whale_f_00
 cc6941a9	pickup		
-cc7e6c12	ped		
+cc7e6c12	ped		a_m_x_aa_motorcycleclassic_casual_mixed_mid_00
 cc891feb	vehicle	sungrazer	
 cc8a305c	vehicle	Baller8	
 cc8fe1f1	ped		
-ccbcb18f	ped		
-ccc051a5	ped		
+ccbcb18f	ped		s_m_x_aa_restaurantstaffhostcasual_00
+ccc051a5	ped		cs_s4s_artist_03
 cce1ea26	weapon	weapon_launched_grenade	
-cd001f9d	ped		
+cd001f9d	ped		a_m_x_aa_tourist_casual_mixed_low_00
 cd19b2b1	pickup		
-cd1ae92d	ped		
+cd1ae92d	ped		g_m_m_polillanegra_02
 cd3b55fa	ped_capsule	rabbit	
 cd43e419	weapon_damage_modifier		
 cd4d66f3	weapon_damage_modifier		
 cd5ebc18	pickup		
 cd935ef9	vehicle	ripley	
-cda3eeaa	ped		
+cda3eeaa	ped		a_m_x_aa_genpopcountryrural_casual_mixed_mid_00
 cdac517d	weapon	vehicle_weapon_searchlight	
 cdc174b0	weapon	weapon_fall	
-cde43d47	ped		
+cde43d47	ped		ie_hopam_m_02
 cde6a348	ammo		
-cdf11e17	ped		
+cdf11e17	ped		shops_m_mannequin_upper_nohead_nohands
 cdf25f7f	pickup		
 ce0b9f22	vehicle	landstalker2	
 ce142f40	weapon_accuracy		
 ce209593	pickup		
-ce343151	ped		
-ce3e0b31	ped		
-ce44544f	ped		
-ce472ac3	ped		
-ce867955	ped		
+ce343151	ped		s_m_x_ct_tattoopatron_00
+ce3e0b31	ped		a_f_x_aa_touristinternational_beach_mixed_mid_00
+ce44544f	ped		s_m_x_cellerica_security_01
+ce472ac3	ped		a_m_x_aa_hospitalpatients_mixed_mixed_mid_00
+ce867955	ped		s_f_x_aa_yachtcaptainmid_00
 ce8b6517	ped		
 ce8b9e53	weapon_accuracy		
-ce8c0887	ped		
-ce90563a	ped		
-ce9bd9a3	ped		
-cea7ed4a	ped		
+ce8c0887	ped		a_m_x_ca_touristsnowbird_nightlife_mixed_mid_00
+ce90563a	ped		shops_m_mannequin_upper_nohead
+ce9bd9a3	ped		s_f_x_aa_funeralhomestaff_00
+cea7ed4a	ped		a_f_x_aa_camperrvpark_casual_mixed_mid_00
 ceab06d6	animal_tuning		
 ceb23c41	ped		csc_mlm_dlvr3_m_00
 ceb7b747	ped		ie_pracq_m_00
 cec1db24	ped		
-cec79c60	ped		
-ced9d6cb	ped		
+cec79c60	ped		a_f_x_aa_touristdaywear_casual_mixed_mid_00
+ced9d6cb	ped		cmp_fshwh_m_00
 cee67b2b	ped		ie_gange_m_03
-cef235b2	ped		
+cef235b2	ped		s_m_x_lp_tattooparlour_casual_mixed_low_00
 cef4c27d	ped		
-cf05da25	ped		
+cf05da25	ped		s_f_x_aa_shopliquor_00
 cf14be13	weapon_damage_modifier		
 cf25d052	pickup		
-cf328f8d	ped		
+cf328f8d	ped		s_m_x_aa_photographer_00
 cf37bcc3	vehicle	crawler	
-cf4831a1	ped		
-cf6bd13b	ped		
+cf4831a1	ped		m_bil_confr_m_00
+cf6bd13b	ped		s_m_x_sy_clipfade_00
 cf8b5f21	ped		cs_maryam_ansari
 cf8e1958	ped		csc_drt_final_m_03
 cf9294b8	weapon	weapon_thrown_bomb	
-cfa6f24d	ped		
+cfa6f24d	ped		m_bil_pick_f_00
 cfb071b9	pickup		
 cfb080e1	ped		cmp_recrd_m_00
 cfb0e13a	ammo		
 cfb3870c	vehicle	speedo	
-cfbf72e7	ped		
-cfd24ff3	ped		
-cfe44270	ped		
+cfbf72e7	ped		s_m_x_aa_golfercaddy_00
+cfd24ff3	ped		s_m_x_vd_firefighteruniform_00
+cfe44270	ped		s_f_x_aa_attractionstaffzookeeper_00
 cff0f9da	pickup		
 cff3bce7	weapon_damage_modifier		
 cff986eb	vehicle	schafters	
 cfff6d12	ammo		
-d010fba9	ped		
+d010fba9	ped		m_bil_preci_m_02
 d0121312	ped		
 d0497494	ped	crb_pelican_whiteamerican_m_00	
 d0633fd8	ped		
@@ -3818,52 +3818,52 @@ d0754ed2	ped
 d0807619	ped		
 d08a2058	vehicle_colour		
 d09e6bcd	vehicle	ambulance2	
-d0a370d6	ped		
-d0a92ead	ped		cs_ali
+d0a370d6	ped		m_mny_kidnp_f_01
+d0a92ead	ped		CS_Ali | cs_ali
 d0c06ab5	ped		
 d0c72a03	ped		css_misjv_f_00
 d0cac6ca	vehicle	trailerboats4	
 d0d11241	weapon_damage_modifier		
-d0d98634	ped		
+d0d98634	ped		s_f_x_aa_speedwaystaff_00
 d0f2f2e7	weapon	weapon_tool_camera	
 d0fc4a39	ped		com_deal_cook_f_00
 d10505d3	ped		
 d1114869	pickup		
 d1164ed2	ped	cs_bret_vogel	
-d1379f92	ped		
-d13bb797	ped		
+d1379f92	ped		cmp_boaty_m_00
+d13bb797	ped		s_f_x_aa_carrentalstaff_00
 d1459e11	pickup		
 d166fc8b	pickup		
 d16d8f3a	ped		com_kbos_colat_m_00
 d1773270	ped	ex_discodjs_m_00	
-d19a83b8	ped		
+d19a83b8	ped		cs_bar_aviator2
 d1abb666	vehicle	freighttrailer	
 d1d3767a	ped_capsule		
 d1dbcce4	weapon_accuracy		
 d1e3e49c	ped_capsule	dog_medium	
-d1fcbe8b	ped		
+d1fcbe8b	ped		s_m_x_rr_salonbelle_00
 d2389392	vehicle	dorado	
-d24abeb0	ped		
+d24abeb0	ped		s_m_x_ob_tattoopatron_00
 d2509da9	pickup		
-d26dfd5a	ped		
+d26dfd5a	ped		a_f_y_aa_hiphop_casual_mixed_mid_00
 d27e3d1c	ped_capsule	monkey	
 d28c2fcb	pickup		
-d28f4e0f	ped		
-d2c09f87	ped		
-d2d5e616	ped		
+d28f4e0f	ped		s_f_x_kl_policeboat_00
+d2c09f87	ped		s_f_x_aa_oceanariumstaffwetsuit_00
+d2d5e616	ped		s_m_x_aa_shopkeeperjewelryhigh_00
 d2e24ad3	ped		
-d2e43b99	ped		
-d2e6ed58	ped		
-d3034e43	ped		
-d30e04ea	ped		
+d2e43b99	ped		s_m_x_aa_bartenderdive_00
+d2e6ed58	ped		cs_wesley_simmons
+d3034e43	ped		a_m_x_aa_tweaker_mixed_mixed_low_00
+d30e04ea	ped		s_m_x_aa_securityguardbank_00
 d322f7d3	pickup		
 d331d103	ped		
 d33bb249	pickup		
-d3416d17	ped		
+d3416d17	ped		a_m_x_aa_genpopbasic_mixed_mixed_low_00
 d3434c5d	pickup		
 d352b7b8	ped		csc_stu_stadm_m_01
 d35aa7e9	ammo		
-d35b4e74	ped		
+d35b4e74	ped		m_clb_promo_m_00
 d36075f2	ped		ag_beu_f_00
 d37aebac	pickup		
 d37b668f	ped		cs_null
@@ -3871,87 +3871,87 @@ d38424da	ped	cs_cal
 d389216c	weapon_damage_modifier		
 d38a8cf9	pickup		
 d38fc5c0	pickup		
-d3979006	ped		
+d3979006	ped		a_f_x_aa_environmentalprotestors_casual_mixed_mid_00
 d39fe932	ped_capsule	armadillo	
 d3b20485	pickup		
 d3be5f0c	vehicle	penumbraff	
 d3d366b1	vehicle	asterope2	
-d3e3caf7	ped		
-d3e54df1	ped		
-d3f9ac17	ped		
+d3e3caf7	ped		m_mtl_wake_f_00
+d3e54df1	ped		s_m_x_aa_homeslice_00
+d3f9ac17	ped		cs_buck_wilder
 d406e852	ped		
-d4098ea6	ped		
+d4098ea6	ped		cs_heather_crowe
 d40c4d76	pickup		
-d40ffa0a	ped		
+d40ffa0a	ped		ex_puzzys_m_00
 d429b6bc	pickup		
 d42e61b7	weapon_accuracy		
 d445f2dc	ped		cs_wade_howard
-d46e7809	ped		
+d46e7809	ped		m_rob_boat_m_00
 d4810cca	ped		cs_dorean
-d4887b29	ped		
+d4887b29	ped		a_m_y_aa_tourist_sexy_mixed_mid_00
 d49f0573	pickup		
 d4ae63d9	vehicle	seasparrow	
 d4afd628	pickup		
 d4b73e10	pickup		
-d4baae3f	ped		
+d4baae3f	ped		ie_smgrb_robbers_m_00
 d4c26f5f	ped		csc_eco_whale_f_01
 d4c3e1bf	ped	crf_mermaid_formaldehyde_f_00	
 d4eb66e8	weapon_damage_modifier		
-d4f4b33d	ped		
+d4f4b33d	ped		ci_up_hotwigy_m_00
 d4f66e2c	ped		csc_drt_final_f_01
 d4fb1c1a	pickup		
-d5005064	ped		
+d5005064	ped		s_f_x_aa_shopkeepershoestaffmall_00
 d522b60e	pickup		
-d5396df6	ped		
+d5396df6	ped		a_f_x_aa_swampfolk_casual_mixed_low_00
 d540cf38	ped		
 d540f9f5	weapon_damage_modifier		
 d553ad3a	pickup		
 d55ad8ba	pickup		
-d55e5d8c	ped		
-d55edc16	ped		
+d55e5d8c	ped		a_m_x_aa_mudpark_casual_heavy_mid_00
+d55edc16	ped		s_f_x_aa_yachtcrewmid_00
 d569704e	ped		ft_pgift_f_00
 d56c4a3b	pickup		
 d57ae3af	door_tuning	Prop_Am_Door_Turnstile_01a	
 d58aa9a3	pickup		
-d5a9fdd5	ped		
+d5a9fdd5	ped		m_air_truck_m_00
 d5ac2328	weapon	weapon_sports_volleyball	
 d5b62205	pickup		
-d5ba20c1	ped		
-d5cd49bd	ped		
-d5db44c3	ped		
+d5ba20c1	ped		a_m_x_aa_genpopshabby_casual_mixed_low_00
+d5cd49bd	ped		s_m_x_ha_tattooparlour_casual_mixed_low_00
+d5db44c3	ped		s_f_x_aa_jewelrystorelow_00
 d5dc4865	weapon	weapon_pistol_military	
-d5f50c31	ped		
-d6179aa4	ped		
+d5f50c31	ped		s_f_x_aa_banktellerhigh_00
+d6179aa4	ped		s_m_x_aa_scooterbros_00
 d618cb3d	pickup		
 d61e0347	weapon_accuracy		
 d62ee215	pickup		
-d63cb0ec	ped		
+d63cb0ec	ped		a_m_y_aa_nightlife_sexy_mixed_mid_00
 d64d0303	ammo		
 d656c56d	pickup		
 d660134e	pickup		
 d660affe	ped		ie_bvgng_m_00
-d66438b8	ped		
-d6784ee3	ped		
+d66438b8	ped		m_bil_pent_outro_f_00
+d6784ee3	ped		g_m_m_italian_mafia_00
 d692374c	ped	ex_dtchdt_m_01	
 d6c6b83b	weapon_damage_modifier		
-d6c6bdc9	ped		
-d6cbb4c2	ped		
-d6da281c	ped		
+d6c6bdc9	ped		s_f_x_aa_barstaffcasual_00
+d6cbb4c2	ped		s_m_x_kl_tattoopatron_00
+d6da281c	ped		s_f_x_ct_tattoopatron_00
 d6eb866c	ped		cmp_chop_m_01
 d6efd594	ped	crb_duck_mottled_m_00	
 d70d269c	pickup		
 d7161cdb	ped	crf_damselfish_yellowtail_m_00	
 d7243572	weapon_damage_modifier		
 d7278283	vehicle	emperor	
-d727ce2f	ped		
-d72a63e3	ped		
+d727ce2f	ped		a_m_x_aa_localbeachpop_mixed_mixed_high_00
+d72a63e3	ped		s_m_x_aa_gasstation_00
 d72e498d	ped		ag_pag_m_00
 d730f4a1	pickup		
 d7322d62	door_tuning	HeavyWoodDoor	
 d7359676	ped_capsule	panther	
 d737c474	pickup		
-d740c82f	ped		
-d744b7dc	ped		
+d740c82f	ped		a_m_x_aa_touristdaywear_casual_mixed_mid_00
+d744b7dc	ped		a_m_x_aa_tourist_nightlife_mixed_mid_00
 d75129bd	ammo		
 d756460c	vehicle	buccaneer	
 d757d97d	vehicle	zorrusso	
@@ -3961,103 +3961,103 @@ d77e5276	vehicle	reblagts
 d7855a4d	vehicle	bus2_dmg	
 d785aa4a	weapon_accuracy		
 d7990bd4	ped_capsule	snake_medium	
-d7ac71a2	ped		
+d7ac71a2	ped		a_f_x_aa_motocrossrace_sport_mixed_mid_00
 d7bb6214	pickup		
 d7bcf21e	ped		ie_ctfal_f_00
 d7c0cdff	ped		cs_mandy
 d7c7b446	vehicle	gresleyxt	
 d7d98158	ped		ie_sraid_f_00
 d7dc3d32	pickup		
-d7ddcad3	ped		
+d7ddcad3	ped		a_m_x_aa_activeweartennis_sport_mixed_mid_00
 d80478ab	ped	crm_dog_chihuahua_m_00	
 d80f4a44	vehicle	patriot3	
-d81d05a8	ped		
-d8228a6a	ped		
-d824c155	ped		
+d81d05a8	ped		s_f_x_ha_tattoopatron_00
+d8228a6a	ped		ex_secreofh1_f_00
+d824c155	ped		shops_f_mannequin
 d827cc06	ped		
 d82c4a5a	ped		
 d831fe50	pickup		
-d839ed6b	ped		
+d839ed6b	ped		s_f_x_aa_securityguardwarehouse_00
 d8596c8d	pickup		
-d862c095	ped		
-d86c4a67	ped		
+d862c095	ped		m_bil_final_f_00
+d86c4a67	ped		cti_mech_mudr_m_00
 d86f7234	pickup		
-d8994ab6	ped		
-d89a5de0	ped		
+d8994ab6	ped		s_m_x_aa_hotelstaffvalet_00
+d89a5de0	ped		cs_lc_racer_03
 d8bd3bda	ped		ie_bprfd_f_00
 d8d897a2	weapon_damage_modifier		
-d8eaea9c	ped		
-d8ed04a2	ped		
+d8eaea9c	ped		s_m_m_aa_bouncerhigh_00
+d8ed04a2	ped		cs_santiago_lamora
 d8efbc17	weapon	weapon_snake	
-d8f1f85a	ped		
+d8f1f85a	ped		a_m_x_aa_vagrantshirtless_mixed_mixed_low_00
 d8f5b46c	pickup		
-d90a71ec	ped		
+d90a71ec	ped		a_m_x_aa_rydemepremiumdriver_mixed_mixed_mid_00
 d915efa6	ped		cs_nate_bozer
 d9247d4b	ped		m_clb_party_m_00
 d947aa44	pickup		
 d9484c05	vehicle	trailermotorbike	
 d94ee34c	ped		
 d953001d	pickup		
-d96837a0	ped		
+d96837a0	ped		cti_deal_nbll_m_00
 d96c0756	weapon_damage_modifier		
 d974a23f	pickup		
 d98b85db	vehicle_colour		
-d99c5a8d	ped		
-d9c44b26	ped		
+d99c5a8d	ped		s_f_x_ab_tattoopatron_00
+d9c44b26	ped		s_m_x_aa_securityguardgolfmarshal_00
 d9cf0255	weapon_damage_modifier		
-d9d1d7bf	ped		
-d9d7febe	ped		
+d9d1d7bf	ped		s_f_x_sy_clipfade_00
+d9d7febe	ped		s_m_x_lx_policelighttactical_00
 d9f7aa4d	ped		cs_thiago
-d9ff8348	ped		
+d9ff8348	ped		m_ban_carte_m_01
 da064096	pickup		
 da0af3a3	ped		cs_omar_dawoud
 da1aa69c	ped_capsule	sheep	
 da53ca8c	vehicle_colour		
-da5db1d9	ped		
-da67e118	ped		
+da5db1d9	ped		s_m_x_aa_marinastaff_00
+da67e118	ped		s_m_x_aa_tacobomb_00
 da69853a	weapon_damage_modifier		
 da6ea1dd	weapon	weapon_tacrifle_hunting	
 da7d4ea2	pickup		
 da992f12	ped		com_smglr_rp_m_00
 da9a3bfd	ped	crf_frankenfish_standard_m_00	
-daa050c1	ped		
+daa050c1	ped		a_m_x_aa_tourist_swim_xxl_mid_00
 daa6d230	ped	crb_pigeon_rock_m_00	
 daac451b	ped_nav_capability		surface_skimmer
 dab34601	pickup		
 dab3f594	pickup		
-dabe1a27	ped		
+dabe1a27	ped		a_f_y_aa_localnightlife_sexy_mixed_mid_00
 dac1b6ea	ped		cs_pianist
-dacb3e41	ped		
-dad45009	ped		
+dacb3e41	ped		m_air_hack_m_02
+dad45009	ped		g_m_m_cmp_indwg_00
 dae4afaf	pickup		
 dae9ec46	ped		
-daec90fd	ped		
+daec90fd	ped		a_f_x_aa_vagrantshirtless_mixed_mixed_low_00
 db14fa9d	animal_tuning		
 db21ac8c	weapon	weapon_melee_knife	
-db236826	ped		
-db23c8ba	ped		
+db236826	ped		a_f_x_aa_artbuyer_mixed_mixed_high_00
+db23c8ba	ped		a_f_y_aa_touriststreetglamrefined_mixed_mixed_mid_00
 db31da64	ped		cs_liz_jackson
-db4721d4	ped		
+db4721d4	ped		s_f_x_aa_shopkeeperclothingmid_00
 db4eadb8	ped		cs_arlo_williams
 db52e0b1	ped		cs_iris
-db560e77	ped		
+db560e77	ped		m_air_final_f_00
 db5acefb	vehicle_colour		
-db5ef7d7	ped		
+db5ef7d7	ped		cti_deal_dcrl_m_00
 db67e6cc	pickup		
 db6bcbb5	animal_tuning		
 db6c03a7	ped		cs_chester
 db7a5e9e	pickup		
-dba9d8d2	ped		
+dba9d8d2	ped		ie_hopam_m_01
 dbb4f880	ped	crf_carp_koi_m_00	
 dbbfc372	ped	crm_dog_terrieryorkshire_f_00	
-dbc1cb2c	ped		
+dbc1cb2c	ped		s_m_x_aa_clothingshoplow_00
 dbe0877d	ped		
 dbf2f53f	pickup		
 dc136720	ped		cs_rosebud
-dc17b1f0	ped		
+dc17b1f0	ped		a_m_x_aa_touristshootinglodge_casual_mixed_mid_00
 dc2d9d5c	ped	crm_dog_carolinastray_m_00	
 dc536325	weapon_accuracy		
-dc62b556	ped		
+dc62b556	ped		sws_sunins_f_00
 dc70fcb7	animal_tuning		
 dc88cdda	pickup		
 dca05c31	ped	a_m_x_aa_activewear_sport_mixed_mid_00	
@@ -4072,31 +4072,31 @@ dcf2ce73	pickup
 dcfa2fc5	pickup		
 dcfb526a	ped		cs_kyle
 dd1fd4a6	animal_tuning		
-dd239886	ped		
+dd239886	ped		a_m_x_kl_genshopkeeper_00
 dd4c66c7	ped		ie_ctpvr_m_00
-dd5bc00a	ped		
+dd5bc00a	ped		a_f_x_aa_nudistmudpark_mixed_mixed_mid_00
 dd689147	ped		
 dd7dd0ee	pickup		
 ddc0337e	vehicle	sandking_4Dr	
 ddc5dd3b	ped	crb_woodpecker_redbellied_m_00	
 ddcccb6c	ped		cs_darianna
-dddaac72	ped		
+dddaac72	ped		s_f_x_aa_barstaffformal_00
 de05fb87	vehicle	zombieb	
 de0becfa	ped		cs_skinny
 de1d641e	pickup		
 de47abae	pickup		
 de4c7404	weapon_accuracy		
 de58e0b3	pickup	pickup_ammo_mg	
-de5d9f91	ped		
+de5d9f91	ped		ie_hitka_m_00
 de693b84	pickup		
-de743c92	ped		
+de743c92	ped		s_f_x_pg_firefighterstation_00
 de8452a3	ped		
 de876a89	ped		cs_lavaughn
-de89f538	ped		
+de89f538	ped		cs_s4s_artist_04
 de99a2b9	ped		ie_armcr_m_00
 de9b60f2	weapon_damage_modifier		
 deae89a4	ped	cs_kenton_rees	
-deb8d5e5	ped		
+deb8d5e5	ped		cs_gil_reynolds
 debf6d81	weapon_accuracy		
 deccecf4	ped		cs_camila_fuentes
 dede29a7	vehicle_colour		
@@ -4107,53 +4107,53 @@ df318ca3	ped_capsule		eel
 df41f1a4	weapon_accuracy		
 df488392	pickup		
 df4d67cd	ped_capsule	eagle	
-df548b31	ped		
-df61360d	ped		
-df638dbe	ped		
+df548b31	ped		a_f_y_aa_sugarbaby_swim_mixed_high_00
+df61360d	ped		a_m_y_aa_touristsexy_swim_athletic_mid_00
+df638dbe	ped		g_m_m_polillanegra_01
 df63bdfd	ped_capsule		
 df63e9c3	pickup		
-df66ba2a	ped		cs_raul
-df6ef5a4	ped		
-df74db4b	ped		
-df761497	ped		
+df66ba2a	ped		CS_Raul | cs_raul
+df6ef5a4	ped		a_f_o_aa_genpopretireecasual_mixed_mixed_mid_00
+df74db4b	ped		a_f_o_aa_retireeparty_swim_mixed_mid_00
+df761497	ped		s_f_x_aa_hankswafflesstaff_00
 df7bba8c	weapon	weapon_revolver_heavy	
 df7faac7	vehicle_colour		
-df85a093	ped		
+df85a093	ped		cs_amb_race_organizer
 df8e89eb	weapon	weapon_fire	
-df9b0dca	ped		
-dfa37938	ped		
+df9b0dca	ped		cmp_cmush_f_00
+dfa37938	ped		a_m_x_aa_tourist_swim_mixed_high_01
 dfb74d91	ped_capsule		
-dfba75db	ped		
+dfba75db	ped		cs_cellerica_tourguard
 dfe90182	ped	crr_snake_pythonburmese_m_00	
 dff0594c	vehicle	caddy2	
 dff11faf	weapon	weapon_cactus	
-dff37c54	ped		
+dff37c54	ped		a_m_o_aa_sugardaddy_mixed_mixed_high_01
 e00024cf	pickup		
 e000a6aa	ped		
-e0067a9e	ped		
-e0080cd4	ped		
+e0067a9e	ped		s_m_x_aa_medicalstaff_00
+e0080cd4	ped		a_m_x_aa_beachpop_swim_mixed_mid_00
 e00a11f2	weapon_damage_modifier		
 e0130279	ped		ie_gangi_f_00
 e023918e	pickup		
 e031afa3	ped		csc_srs_meet_f_00
-e041b045	ped		
-e042b5c7	ped		
-e04888e8	ped		
+e041b045	ped		s_f_y_aa_attractionsstaff_00
+e042b5c7	ped		s_m_x_ct_tattooparlour_casual_mixed_low_00
+e04888e8	ped		a_f_x_aa_genpopcuban_casual_mixed_mid_00
 e0509d9c	ped		cs_chester_fuller
 e0696bb8	weapon_accuracy		
-e084e771	ped		
+e084e771	ped		g_m_m_cmp_chop_grd_00
 e09151e0	pickup		
-e09ea619	ped		
+e09ea619	ped		s_f_x_aa_oceanariumstaffgeneral_00
 e0a1e29d	ped	cri_fly_blow_m_00	
 e0a8f1f8	vehicle_colour		
 e0c9bf6c	weapon	weapon_smg_combatpdw	
 e0d41da6	vehicle_colour		
-e0ed563d	ped		
+e0ed563d	ped		ex_puzzsubstn_f_00
 e0f3baf0	weapon	weapon_smg_heavy	
 e0f8bb0e	ped		csc_srs_bybst_f_00
 e0fca235	ped		cmp_stpnt_f_00
-e127fb67	ped		
-e131c3b6	ped		
+e127fb67	ped		cmp_fshwh_m_01
+e131c3b6	ped		m_air_final_m_00
 e134bd59	pickup		
 e13a265e	ped_capsule	standard_female	
 e141e18f	pickup		
@@ -4161,59 +4161,59 @@ e1459649	ped		css_ufoara_m_02
 e154c8b1	ped	crr_snake_corn_m_00	
 e1656bb8	weapon_damage_modifier		
 e1831094	ped		
-e191bbef	ped		
+e191bbef	ped		m_mtl_pain_m_00
 e19578e4	weapon_damage_modifier		
 e1a2c390	ped		cs_viper
-e1b5c3b1	ped		
+e1b5c3b1	ped		a_m_o_aa_retireeparty_mixed_mixed_mid_00
 e1b7c320	vehicle	montagne	
 e1bdcfc2	ped	cs_bj	
 e1cb54ca	pickup		
 e1cebffe	ped	crb_heron_bluegreat_m_00	
 e1d518e6	door_tuning	DefaultStandardCylindrical	
 e1d7a559	pickup		
-e1f614f4	ped		
+e1f614f4	ped		sws_brenew_m_00
 e1ffe934	vehicle	trailerboats3	
-e219cbf8	ped		
-e221b572	ped		
+e219cbf8	ped		s_f_x_kc_policeboat_00
+e221b572	ped		cs_out_of_towner
 e2234987	vehicle	dominatorclassic	
-e2273a87	ped		
-e2724d37	ped		
+e2273a87	ped		a_f_x_aa_entrepreneurbohemianrefined_mixed_mixed_mid_00
+e2724d37	ped		s_f_x_vd_firefighteruniform_00
 e27c18be	ped		ie_sdliv_f_00
-e27efd16	ped		
+e27efd16	ped		cs_marissa_tercio
 e27fabfe	ped		csc_srs_bybst_m_01
 e283cb8b	ped		
-e2a52591	ped		
+e2a52591	ped		s_f_x_aa_baristafranchise_00
 e2ac7a9b	pickup		
 e2ed6fb3	pickup		
 e2fbd35d	ped	crm_dog_boxer_f_00	
-e314b3d8	ped		
+e314b3d8	ped		s_f_x_aa_tacobomb_00
 e315edfa	pickup		
-e317c24e	ped		
+e317c24e	ped		sws_mombus_m_00
 e31f9109	animal_tuning		
-e321351c	ped		
-e3217ddd	ped		
+e321351c	ped		s_f_x_aa_restaurantstaffhostcasual_00
+e3217ddd	ped		s_f_x_pg_tattoopatron_00
 e335b81c	ped		ie_emmob_f_00
 e350f485	ped_capsule	standard_player_female	
 e35ad273	animal_tuning		
 e36b87a2	vehicle	sedna	
 e3788bb1	vehicle	impaler5	
-e38c279b	ped		
+e38c279b	ped		cs_bar_aviator1
 e38d4274	ped		
 e3900fc3	pickup		
-e3c1efaa	ped		
+e3c1efaa	ped		m_ban_safe_f_00
 e4049081	ped_capsule		
 e41827b5	pickup		
 e418b355	ped	crf_gar_florida_m_00	
 e41e126d	ped		cs_chuck
 e43c11e5	vehicle	fr36	
-e4661427	ped		
+e4661427	ped		a_m_x_aa_watersportstouristglam_swim_mixed_mid_00
 e468fa32	ammo		
 e4700dc8	pickup		
 e472b687	ped	player_story000_00	
 e476ab07	ped		ie_capan_m_00
-e47ec450	ped		
-e4863df9	ped		
-e48d2ea1	ped		
+e47ec450	ped		a_m_x_aa_ruralsundrenched_swim_mixed_mid_00
+e4863df9	ped		s_f_x_kl_policedispatch_00
+e48d2ea1	ped		cti_deal_ltcc_m_00
 e494da3c	ped		csc_stu_stadm_m_00
 e4acc34c	animal_tuning		
 e4b0a179	ped		sws_misdr_m_00
@@ -4221,11 +4221,11 @@ e4b3ee28	pickup
 e4bccfee	ped		csc_stu_party_m_01
 e4bd2fc6	pickup	pickup_ammo_rifle	
 e4c0b7f1	ped_capsule	turtlesea	
-e4c54d5c	ped		
-e4c558f1	ped		
+e4c54d5c	ped		s_m_x_aa_mutandis_agents_00
+e4c558f1	ped		m_bil_preci_f_00
 e4c9d9ba	animal_tuning		
 e4e0a82e	ped		
-e4e49a5a	ped		
+e4e49a5a	ped		com_oldf_clot_m_00
 e4e4fd21	ped		
 e4f8c4c9	ped		ie_targf_m_00
 e507f4e3	ped	crm_boar_wild_m_00	
@@ -4236,49 +4236,49 @@ e55dcea5	pickup
 e56011a1	pickup		
 e56108d9	pickup		
 e567a2b0	ped		
-e579cc50	ped		
+e579cc50	ped		a_f_x_aa_hiphop_nightlife_mixed_mid_00
 e589a758	ped	crm_dog_boxerstray_m_00	
 e593f7e3	vehicle	kayak	
 e5a93a13	weapon	weapon_melee_sledgehammer	
 e5b3aca1	vehicle	DOMINATOR9	
 e5ba6858	vehicle	blazer4	
-e5bced6c	ped		
+e5bced6c	ped		g_m_m_italian_mafia_01
 e5bf9adb	pickup		
-e5c6a570	ped		
-e5d6ee44	ped		
+e5c6a570	ped		s_f_x_kl_tattoopatron_00
+e5d6ee44	ped		cmp_weedg_m_01
 e5df7697	pickup		
 e5e14be4	ped		
-e5e45568	ped		
-e61bc238	ped		
-e61d5160	ped		
+e5e45568	ped		cs_delights_bartender
+e61bc238	ped		a_f_y_kl_genpop_casual_mixed_mid_00
+e61d5160	ped		cs_sprunk_worker
 e61db54c	ped		
 e6316bff	pickup		
-e63a00f7	ped		
-e63d7438	ped		
+e63a00f7	ped		a_f_o_kl_genpop_casual_mixed_mid_00
+e63d7438	ped		m_clb_promo_m_01
 e65dd8c5	pickup		
-e6602cb8	ped		
+e6602cb8	ped		a_f_o_beach_00
 e664d132	ped		ie_stahk_m_00
-e66d970d	ped		
+e66d970d	ped		m_ant_search_f_00
 e674c64f	ped		a_f_x_aa_activewear_casual_mixed_low_00
 e676ec3d	ped		css_farmtr_m_00
-e6a5102e	ped		
+e6a5102e	ped		a_f_x_aa_junkie_mixed_mixed_low_00
 e6a87b53	pickup		
-e6acba32	ped		
-e6ba9c09	ped		
+e6acba32	ped		s_f_x_mc_policeboat_00
+e6ba9c09	ped		s_f_x_kc_policeambient_00
 e6c5046b	ped	crm_dog_carolina_m_00	
 e6ca1e80	ped		cs_tal_bu
-e6efe6c3	ped		
+e6efe6c3	ped		s_m_x_aa_attractionstaffmaintenance_00
 e7085172	weapon	weapon_tool_flashlight	
 e71866f0	pickup		
 e71b08b5	pickup		
-e72fcb35	ped		
+e72fcb35	ped		a_m_x_aa_swampfolk_casual_mixed_low_00
 e7511a00	ped		ie_ctpvt_f_00
 e7637277	ped		css_miscv_f_00
 e776701a	weapon_accuracy		
 e7a2b351	door_tuning	Prop_Am_Turnstile_02a_door	
 e7b35191	ped		ie_allam_f_00
 e7bce926	pickup		
-e7c1e9e9	ped		
+e7c1e9e9	ped		s_f_x_ha_kurtsbarber_00
 e7c4ba8d	pickup		
 e7df307b	pickup		
 e7ebb7ff	pickup		
@@ -4288,153 +4288,153 @@ e821bbdc	ped		a_m_x_aa_urbanredneck_mixed_mixed_mid_00
 e82ae656	vehicle	baletrailer	
 e8540514	ammo		
 e861fffc	animal_tuning		
-e86609d4	ped		
+e86609d4	ped		a_f_x_aa_localbeachpop_mixed_mixed_high_00
 e8668519	ped		
 e879a210	pickup		
-e8911cd8	ped		
-e8abc696	ped		
-e8c6c75d	ped		
+e8911cd8	ped		m_mny_escrt_f_00
+e8abc696	ped		a_m_x_aa_nudistmudpark_mixed_mixed_mid_00
+e8c6c75d	ped		s_f_x_aa_shopkeeperconveniencestoremarket_00
 e8d4505f	ped		css_rmdppk_m_00
 e8d8a517	ped	crr_turtle_softshellflorida_m_00	
 e8df4c17	ped	crm_rabbit_cottontaileastern_m_00	
-e8e8418d	ped		
+e8e8418d	ped		s_f_x_aa_baristahipstaff_00
 e8ec1310	ped	crb_stork_wood_m_00	
 e8edb34d	ped		cs_cecilia_richardson
 e8ee6ce3	vehicle	allander	
 e8f33853	animal_tuning		
-e8fd5252	ped		
+e8fd5252	ped		cs_zaria_luckett
 e9000309	ped	cs_francisco_delgado	
 e907efc3	ped	a_f_x_aa_trailerpark_mixed_mixed_low_00	
-e908c30a	ped		
+e908c30a	ped		s_m_x_aa_privatesecurityhighend_00
 e9109340	weapon_damage_modifier		
 e912b7b6	pickup		
-e9160fe0	ped		
+e9160fe0	ped		g_m_m_cmp_ccart_grd_00
 e91baf3f	pickup		
 e92978ad	ped		cs_kamal
 e94aa7e2	weapon_accuracy		
 e973717c	weapon	weapon_thrown_grenade	
 e9805550	vehicle	penumbra	
-e98c6920	ped		
+e98c6920	ped		g_m_m_cmp_cmush_grd_00
 e98c9ce2	pickup		
 e99cc7a1	ped	crm_fox_redamerican_m_00	
 e9bf76dc	pickup		
-e9df3af1	ped		
+e9df3af1	ped		s_f_x_aa_pawnshopstaffmid_00
 e9e3624e	ped		ie_csban_m_00
-ea3e5548	ped		
+ea3e5548	ped		cs_manny_muscles
 ea40fcdd	ped	crb_osprey_western_m_00	
 ea4fd6a0	ped	crb_heron_tricolored_m_00	
 ea4ffe79	ped		ie_sraig_m_00
 ea545a01	vehicle_plate		
 ea6a047f	vehicle	hellion	
-ea7416be	ped		
+ea7416be	ped		s_m_x_aa_banktellerlow_00
 ea77fbcf	weapon_damage_modifier		
 ea794ba2	vehicle	trailerlivestock	
 ea829796	ped	crr_turtle_boxflorida_m_00	
 ea9dc0db	ped		m_clb_meet_m_01
-eab013ca	ped		
+eab013ca	ped		s_m_x_vd_policehelicopter_00
 eab7ab69	weapon_accuracy		
 eab92c70	pickup		
-eacfa031	ped		
+eacfa031	ped		a_m_x_kl_unstablepop_mixed_mixed_mid_00
 ead093bb	animal_tuning		
 eaf46ba3	weapon_damage_modifier		
 eb09a31d	ped		
 eb23ab8c	pickup		
-eb2ef171	ped		
+eb2ef171	ped		s_m_x_yh_yhotelstaffvaletsupervisor_00
 eb51f115	ped	crb_finch_goldamerican_m_00	
 eb533c0b	vehicle_colour		
 eb7551ce	ped		
-eb7fb689	ped		
+eb7fb689	ped		g_m_m_san4san_cooks_00
 eb818c9e	ped		
 eb82f716	ped_capsule	woodpecker	
 eb97d75d	ped		cs_lucia_dad
-ebb07c89	ped		
+ebb07c89	ped		a_m_x_aa_genpopfitness_sport_mixed_mid_00
 ebba9e86	animal_tuning		
-ebbb590b	ped		
+ebbb590b	ped		cti_deal_blst_m_00
 ebc227f5	ped		cs_papa_audacity
 ebc24df2	vehicle	swift	
 ebc37858	ped	crm_macaque_rhesus_m_00	
 ebda3d2b	ped	crf_fish_sugar_m_00	
-ebe266b4	ped		
+ebe266b4	ped		a_m_x_aa_vicecityphony_beachpop_mixed_high_00
 ebe34dd9	ped	crb_chicken_cubalaya_m_00	
 ebef9947	weapon_damage_modifier		
-ebf1272b	ped		
+ebf1272b	ped		m_ban_carte_m_00
 ebfc716e	pickup		
 ec1274b3	animal_tuning		
 ec185487	ped		ie_ctpvt_m_00
 ec2802b4	vehicle_colour		
 ec299f0a	weapon_accuracy		
-ec5406fc	ped		
-ec68ab46	ped		
-ec695f5f	ped		
+ec5406fc	ped		s_f_x_bv_policedispatch_00
+ec68ab46	ped		com_dlr_miss_dealer_m_00
+ec695f5f	ped		a_f_x_aa_ruralhippie_casual_mixed_low_00
 ec75ce24	ped	crr_snake_kingflorida_m_00	
 ec77e8d3	ped	cra_toad_cane_m_00	
-ec7996cb	ped		
+ec7996cb	ped		s_f_x_vd_policedispatch_00
 ec7dc945	pickup		
 ec8a44d8	ped_capsule	dog_large	
-ec90b2b5	ped		
-ec993ed2	ped		
+ec90b2b5	ped		a_f_o_aa_retireebeachwearparty_mixed_mixed_mid_00
+ec993ed2	ped		a_f_x_aa_genpoppatriots_casual_mixed_mid_00
 ec99c69f	ped		
 ecdbe883	pickup		
 ed168afd	pickup		
 ed1b04dd	pickup		
-ed2f0709	ped		
+ed2f0709	ped		cs_lc_racer_01
 ed3b6c7a	animal_tuning		
-ed4bfd28	ped		
+ed4bfd28	ped		ex_secrelm_m_00
 ed612cdc	ped	crf_barracuda_great_m_00	
 ed7eada4	vehicle	minivan	
 ed834a51	pickup		
 ed85408b	ped		ci_up_gholrec_m_00
-ed864bc7	ped		
+ed864bc7	ped		s_m_x_lc_salonperez_00
 ed8de161	ped_capsule		
 ed9617e0	ped		ie_gasfu_f_00
 edb3aebd	vehicle	greta	
 edca8942	pickup		
 edd516c6	vehicle	buffalo	
 ede23c02	ped		ci_up_gholrnt_m_00
-edf5ec12	ped		
+edf5ec12	ped		CS_LITTLE_SAL
 edfb161e	pickup		
-edffdc30	ped		
+edffdc30	ped		s_m_x_aa_navypilot_00
 ee09c674	animal_tuning		
-ee14eafd	ped		
+ee14eafd	ped		ex_discoscpsg_m_00
 ee1c7f90	ped		
-ee23a04c	ped		
+ee23a04c	ped		s_m_x_aa_elitecoastguard_00
 ee2925b0	ped	crm_dog_terrierbullpitamerican_f_00	
 ee3401b8	ped_capsule	boar	
 ee3dc197	pickup		
-ee58b18f	ped		
+ee58b18f	ped		cs_fire_marshal
 ee655336	weapon	weapon_melee_hammer	
 ee6b4659	ped		
 ee6cc284	pickup		
-ee7003b6	ped		
+ee7003b6	ped		sws_jywalk_f_00
 ee7f148e	ped_capsule	dolphin	
-ee938a09	ped		
+ee938a09	ped		ex_discoasp_bmx_rider_m_00
 ee9be3ac	ped		csc_stu_party_m_00
-eeb1a29c	ped		
+eeb1a29c	ped		m_ban_final_m_01
 eeb9fb95	animal_tuning		
 eedd1036	ped	crm_coyote_legendary_m_00	
-eefb3d5f	ped		
+eefb3d5f	ped		a_m_x_aa_hiker_casual_mixed_mid_00
 ef088195	pickup		
 ef180307	weapon	weapon_snappingturtle	
 ef281a4a	door_tuning	DefaultStandard	
 ef2b7bd8	animal_tuning		
 ef2ca305	ped		csc_stu_stn06_f_00
 ef30ed24	pickup		
-ef33320a	ped		
+ef33320a	ped		a_m_x_aa_racewayambrosia_sport_mixed_mid_00
 ef51bc01	ped		ie_gange_m_01
-ef5df3a3	ped		
+ef5df3a3	ped		s_m_x_aa_securityguardzoo_00
 ef5e7838	pickup		
 ef63bc28	ammo		
 ef7eb003	ped	crb_caracara_crestednorthern_m_00	
 ef9d7442	ped		
-efc401bc	ped		
-efce568b	ped		
+efc401bc	ped		ie_copsc_m_02
+efce568b	ped		s_f_x_kc_firefighteruniform_00
 efee440d	ped	cs_boobie_ike	
-effdfd88	ped		cs_andrea
+effdfd88	ped		CS_Andrea | cs_andrea
 f0005b0e	ped_capsule	frog	
 f01333e4	ped		css_ufoara_m_01
 f0542a15	ped_capsule		
-f05520ce	ped		
-f0557eff	ped		
+f05520ce	ped		ex_discohec_m_00
+f0557eff	ped		s_m_x_aa_ammunationrural_00
 f0560707	pickup		
 f05649c5	ped		
 f059f06a	ped_capsule	cow	
@@ -4443,24 +4443,24 @@ f075bdcd	pickup
 f087d5a7	vehicle_plate		
 f0a4fea7	ped		
 f0bbba0c	ped		cmp_chop_m_00
-f0bee24e	ped		
+f0bee24e	ped		s_f_x_wb_policeambient_00
 f0e16015	pickup		
 f0e46aee	vehicle	coastguard	
-f0f724ff	ped		
+f0f724ff	ped		s_m_x_aa_farmworkerdairy_00
 f0fd9580	vehicle_colour		
-f103860d	ped		
-f1045148	ped		
-f13db9af	ped		
+f103860d	ped		cs_bar_dancer
+f1045148	ped		m_clb_heli_m_01
+f13db9af	ped		ie_stlth_m_00
 f13fa1eb	ped		cmp_drghs_m_01
 f14730c9	ped		ie_smgrb_f_00
 f1521638	pickup		
-f1532224	ped		
+f1532224	ped		s_f_x_aa_marinaattendantformal_00
 f15521fa	weapon_accuracy		
-f155ec84	ped		
-f15fe649	ped		
+f155ec84	ped		s_f_x_ob_gabrielwexler_00
+f15fe649	ped		s_f_x_aa_securityguardbank_00
 f162adbd	ped		
 f16599c3	ped	cs_isabella	
-f188a014	ped		
+f188a014	ped		a_m_o_aa_retireebeachwearparty_mixed_mixed_mid_00
 f19e36a2	weapon_accuracy		
 f1a7c08e	ped		
 f1bcf02d	ped		cs_beau_carson
@@ -4473,24 +4473,24 @@ f1ed7004	vehicle_colour
 f1ef82ea	pickup		
 f20a6d26	animal_tuning		
 f20bbe46	ped		cti_mech_hoga_m_00
-f20d369b	ped		
+f20d369b	ped		m_air_truck_m_02
 f212830a	vehicle_colour		
 f219af13	vehicle	rhode	
 f21ece83	vehicle_colour		
 f220abb4	pickup		
 f22d03a9	ped		css_farmtr_m_01
-f2357a31	ped		
+f2357a31	ped		cmp_clubh_m_00
 f23cea8d	ped		
-f2470018	ped		
+f2470018	ped		m_air_scope_m_00
 f255f294	ped		csc_mlm_wrhs_m_00
 f25a01b9	pickup	pickup_ammo_minigun	
 f262133f	pickup		
 f26ceff9	vehicle	ruiner	
 f278f5fd	weapon_accuracy		
-f27bfc03	ped		
+f27bfc03	ped		cs_andrew_node
 f2880c4d	ped	crm_dog_retrieverlabradorstray_m_00	
 f2ab7eb0	pickup		
-f2b39414	ped		
+f2b39414	ped		s_m_x_lx_policeboat_00
 f2b771c3	vehicle_colour		
 f2b818e1	ped		cs_percy
 f2cd485b	pickup		
@@ -4498,15 +4498,15 @@ f307813f	ped_nav_capability
 f31717f0	ped	crm_dog_maltese_m_00	
 f3211f50	weapon_accuracy		
 f3387113	pickup		
-f339bc9d	ped		
+f339bc9d	ped		a_m_x_aa_touristrevealingdayweargay_mixed_mixed_mid_00
 f341866a	ped		cs_evelyn_andrews
 f342249b	pickup		
-f3423508	ped		
+f3423508	ped		cs_herbert_watson
 f34e6839	pickup		
 f354d6db	ped		
 f3620639	animal_tuning		
 f362e04d	animal_tuning		
-f3683dd9	ped		
+f3683dd9	ped		ex_discocce_m_00
 f37e0d67	animal_tuning		
 f3821891	weapon_damage_modifier		
 f38613fa	pickup		
@@ -4515,25 +4515,25 @@ f38c4245	vehicle	jugular
 f39712e3	weapon_accuracy		
 f3a5f200	vehicle	caracara4x4	
 f3b795b5	weapon_damage_modifier		
-f3b8e70a	ped		
+f3b8e70a	ped		m_bil_house_f_00
 f3b9a6a5	weapon_accuracy		
-f3c87f6d	ped		
+f3c87f6d	ped		ex_discoscdh_m_00
 f3ca1b6b	ammo		
 f3d0ed01	ped		m_int_plnsh_f_00
-f3dc0bd5	ped		
-f3eb89c9	ped		
+f3dc0bd5	ped		con_cbn_dop_m_00
+f3eb89c9	ped		g_m_m_italian_mafia_02
 f3fffd12	animal_tuning		
 f40fd2d1	ped		
 f41e7baf	weapon_accuracy		
 f4227f4e	ped	crf_shark_blacktip_m_00	
 f4386436	ped		cs_dardan
 f453dfe9	animal_tuning		
-f45c41cd	ped		
-f46115d6	ped		
+f45c41cd	ped		fro_bikbr_m_00
+f46115d6	ped		cmp_gboat_m_00
 f4625a04	ped	ex_puzzkkp_f_00	
 f466d54b	pickup		
 f47581e6	pickup		
-f47a1998	ped		
+f47a1998	ped		a_m_x_ca_boatowner_casual_mixed_mid_00
 f48ec9b2	ped		cs_rafanavarro
 f4ad296a	vehicle	trailergooseneck	
 f4b769f4	animal_tuning		
@@ -4541,46 +4541,46 @@ f4c67a9e	weapon	weapon_deer
 f4e1aa15	vehicle	scorcher	
 f4ec8a0d	pickup		
 f4fbb3c6	ammo		
-f5073245	ped		
+f5073245	ped		s_m_x_aa_prisoner_00
 f514fa09	pickup		
 f51f77f1	animal_tuning		
-f5330773	ped		
+f5330773	ped		m_bil_motel_m_01
 f539f90f	ped		ie_elklt_m_00
 f53c1880	ped	crb_owl_barnamerican_m_00	
 f54690df	ped		ie_csout_m_00
-f54f2481	ped		
-f5544dbb	ped		
+f54f2481	ped		s_m_x_kl_bartenderdive_00
+f5544dbb	ped		g_m_m_cmp_chop_00
 f55d2f7a	vehicle	impaler6	
 f57463bb	vehicle	bus2	
-f57b4a75	ped		
+f57b4a75	ped		cs_carter_abbott
 f57bbe69	pickup		
-f583fc24	ped		
+f583fc24	ped		s_m_x_lc_tacticalheavy_00
 f589baf2	vehicle	trailerULD2	
-f58ce375	ped		
+f58ce375	ped		sws_aptbagh_m_00
 f596a7ba	animal_tuning		
 f5978bea	pickup		
 f59a2e5d	pickup		
 f5a37c12	animal_tuning		
 f5a54477	ped		
 f5cce119	ped	crb_flamingo_american_m_00	
-f5d56728	ped		
-f5dcc740	ped		
+f5d56728	ped		s_m_x_aa_shopkeeperbodega_00
+f5dcc740	ped		m_bil_preci_m_00
 f5e7b7fd	ped	cs_nastydimez_roxyrashad	
 f5f0537e	ped		
 f5f216a8	ped		cs_fabi
 f606d8f0	pickup		
 f60fe8b1	pickup		
 f617eca7	pickup		
-f621986d	ped		
-f6283db0	ped		
+f621986d	ped		g_m_m_kingfishers_00
+f6283db0	ped		a_f_o_aa_genpopcuban_mixed_mixed_mid_00
 f643bd3e	pickup		
 f6474f0a	ped	crm_tiger_bengal_m_00	
 f6548fb6	vehicle_colour		
-f66631de	ped		
-f66876c3	ped		
+f66631de	ped		s_m_x_aa_elitecoastguardheavy_00
+f66876c3	ped		m_rob_drive_m_00
 f67cc7a0	animal_tuning		
-f689fc7a	ped		
-f68b992d	ped		
+f689fc7a	ped		m_bil_preci_f_01
+f68b992d	ped		cs_tub_drummer
 f69080c1	ped	crb_vulture_turkey_m_00	
 f6a0df05	ped_capsule	snake_large	
 f6b43844	vehicle_colour		
@@ -4593,7 +4593,7 @@ f713d8cb	ped		com_deal_intr_f_00
 f71c8139	ped		csc_srs_ropes_m_00
 f71eaf88	weapon	weapon_sports_fishingrod	
 f75b387f	pickup		
-f7687e0f	ped		
+f7687e0f	ped		s_m_x_ab_tattoopatron_00
 f77f617f	ped		
 f79c3320	ped		cs_scarlet_sun
 f7a36823	vehicle_plate		
@@ -4601,97 +4601,97 @@ f7a3bbde	ped		ie_stawc_m_00
 f7a8cba5	vehicle_colour		
 f7de1206	ped		ie_flrob_m_01
 f7e09991	ped	crf_mackerel_spanishatlantic_m_00	
-f7ee7efd	ped		
-f7fac81b	ped		
-f80fe78c	ped		
-f81592bb	ped		
+f7ee7efd	ped		s_m_x_yh_gymstaffhigh_00
+f7fac81b	ped		a_f_y_aa_streetwear_casual_mixed_mid_00
+f80fe78c	ped		s_m_x_dt_tattooparlour_casual_mixed_low_00
+f81592bb	ped		s_m_x_wb_oomph_00
 f81668a5	pickup		
 f817dbdf	ped		m_clb_meet_m_00
 f820f37e	ped		ie_bvgng_m_01
 f8280f82	ped	crm_sheep_coastgulf_f_00	
 f82b9bfd	pickup		
-f831ebbc	ped		
+f831ebbc	ped		s_m_x_aa_taxidriver_00
 f8419308	ammo		
 f84b15c2	ammo		ammo_thrown_bomb
-f84e0654	ped		
+f84e0654	ped		a_f_x_aa_touristrevealingdaywear_mixed_mixed_mid_00
 f863d925	ped		ie_trapf_m_00
 f863e512	pickup		
 f866ce76	ped	crm_bat_brownbig_m_00	
 f87a2a65	ped		cs_dirtycop_02
 f88237da	pickup		
 f8932ae0	ped	crb_oriole_orchard_m_00	
-f8999cb7	ped		
-f89c5679	ped		
-f8ac4df3	ped		
+f8999cb7	ped		m_bil_wheel_m_02
+f89c5679	ped		cti_deal_nctl_m_00
+f8ac4df3	ped		s_f_x_ha_policedispatch_00
 f8c2e0e7	vehicle	kamacho	
-f8c90391	ped		
+f8c90391	ped		a_m_x_aa_touristbeachpop_mixed_mixed_low_00
 f8d48e7a	vehicle	journey	
 f8e64388	pickup		
-f8fb7df8	ped		
-f91017f9	ped		
-f925c5be	ped		
+f8fb7df8	ped		s_m_x_aa_navycombat_00
+f91017f9	ped		s_m_m_guard_prison_00
+f925c5be	ped		s_m_x_vd_policedispatch_00
 f92e4677	weapon_accuracy		
 f94994f8	ped		
-f9504624	ped		
+f9504624	ped		s_m_x_aa_barstaffcasual_00
 f9574c75	pickup		
-f95cbae6	ped		
+f95cbae6	ped		m_mny_party_f_00
 f979aec6	ped	crb_owl_hornedgreateastern_m_00	
 f98b3fe5	vehicle_colour		
-f995db8f	ped		
+f995db8f	ped		a_f_x_aa_genpoprural_casual_xxl_low_00
 f99b0808	weapon_accuracy		
 f9bb0b9a	ped		cs_benedict_halifax
 f9c17f98	ped		
 f9fbaebe	weapon	weapon_animal	
 fa07fe37	ped		ex_dtchdt_m_03
 fa236baf	ped		cmp_cpris_m_00
-fa258aef	ped		
+fa258aef	ped		cti_deal_crsc_m_00
 fa341614	ped		cs_chart_bachelor
 fa6ba3bb	ped	crm_deer_whitetailed_f_00	
 fa7375e5	ped		cs_cerise
-fa73b0d8	ped		
-fa8ce4af	ped		
+fa73b0d8	ped		a_f_x_aa_motorcycleclassic_casual_mixed_mid_00
+fa8ce4af	ped		s_f_x_aa_shopliquorlow_00
 fa9d4065	vehicle	devanity	
 faa142a4	ped_capsule	pigeon	
 fabe3833	weapon_damage_modifier		
-fac39e80	ped		
-faca9bc2	ped		
-fae4a9cf	ped		
+fac39e80	ped		a_f_x_aa_touristbeachwear_casual_xxl_low_00
+faca9bc2	ped		a_f_x_aa_touristvacationshopping_mixed_mixed_mid_00
+fae4a9cf	ped		s_f_x_aa_shopkeeperjewelryhigh_00
 faea3a24	ped	crf_catfish_channel_m_00	
 fb0bf6e8	weapon_accuracy		
 fb2a4b40	ped		
 fb2ead53	animal_tuning		
 fb34f8e9	pickup		
-fb58ca6c	ped		
+fb58ca6c	ped		a_m_o_ca_touristsnowbird_mixed_mixed_mid_00
 fb675bef	weapon_damage_modifier		
 fb7bda42	ped_capsule	pelican	
-fb827689	ped		
-fb88c283	ped		
+fb827689	ped		cs_papa_assistant_00
+fb88c283	ped		ag_beu_bosses_m_00
 fbb374ca	ped	cs_manuel	
-fbbefb20	ped		
-fbdd9bdf	ped		
+fbbefb20	ped		s_m_x_aa_farmworkermigrant_00
+fbdd9bdf	ped		s_m_x_lx_policehelicopter_00
 fbe273b8	pickup		
-fbed1754	ped		
-fc1c7dda	ped		
+fbed1754	ped		s_m_x_aa_yachtcrewmid_00
+fc1c7dda	ped		a_f_x_aa_tourist_mixed_mixed_mid_00
 fc1e4549	pickup		
 fc22653a	ammo		ammo_proximity_mine
-fc242d69	ped		
+fc242d69	ped		a_m_x_aa_touristbeachpop_mixed_mixed_high_00
 fc2a7f9a	ped		ie_cjbit_m_00
 fc3d1c97	ped	crb_gallinule_purpleamerican_m_00	
 fc787c10	ped		cs_dj_sj_manager
 fc878c91	vehicle	sentinelclassic2	
 fc8e382e	vehicle_colour		
-fca8fe87	ped		
-fcac6441	ped		
+fca8fe87	ped		a_f_x_aa_wealthymansion_casual_mixed_mid_00
+fcac6441	ped		cmp_cmush_m_00
 fcdedb74	ped		ie_flrob_f_00
-fcf0b8c7	ped		
-fcfbab00	ped		
+fcf0b8c7	ped		a_m_x_aa_trailerparkcity_mixed_mixed_low_00
+fcfbab00	ped		a_m_x_aa_genpopbeachwearweird_mixed_mixed_mid_00
 fcfcb68b	vehicle	CARGOBOB	
 fcfd8a30	vehicle_colour		
 fcfe9af0	ped_capsule		
 fd128dfd	vehicle	vamos	
 fd1b81fd	ped	ex_puzzmba1_m_00	
 fd2f5aba	pickup		
-fd39f5ed	ped		
+fd39f5ed	ped		cs_judd_beavan
 fd3ba0c9	pickup		
 fd45d99d	pickup		
 fd4b1c65	ped	crm_bear_legendary_m_00	
@@ -4699,21 +4699,21 @@ fd51857c	ped_capsule
 fd62461c	pickup		
 fd7b760c	ped		cs_rob_car_salesman
 fd87135f	ped		cs_ricky_miller
-fd87a8af	ped		
-fd98febe	ped		
+fd87a8af	ped		ex_discohs_m_00
+fd98febe	ped		ie_drvai_m_00
 fdadebbb	ped		cs_dook
 fdaebf27	vehicle	aleutian	
-fdb6b283	ped		
-fdbf2214	ped		cs_danny
-fdeb27e5	ped		
+fdb6b283	ped		cmp_fshsk_m_00
+fdbf2214	ped		CS_Danny | cs_danny
+fdeb27e5	ped		s_f_x_aa_securityguardprison_00
 fdeea0bc	weapon_damage_modifier		
 fdffa7d3	ped		cs_tyler
-fe0a2e0a	ped		
+fe0a2e0a	ped		cs_cordite_brown
 fe18f3af	pickup	pickup_money_variable	
 fe3e9215	ped_capsule		
-fe5a80df	ped		
+fe5a80df	ped		ie_pvcji_m_00
 fe627bbf	pickup		
-fe63a5a5	ped		
+fe63a5a5	ped		s_f_x_rr_salonbelle_00
 fe6c6c73	weapon	weapon_sniper_hunter	
 fe6d9e0b	vehicle	dominatorbuggy	
 fe7665ce	ped	crm_whale_sperm_m_00	
@@ -4725,20 +4725,20 @@ feaeca1b	weapon_damage_modifier
 feb2a7fb	pickup		
 fec2ef8b	pickup		
 fec4af5d	ped		ie_bnkrg_m_01
-fece6070	ped		
-fed04c1a	ped		
+fece6070	ped		s_m_x_aa_lightarmoredswat_00
+fed04c1a	ped		ie_snach_f_00
 fed3e503	weapon_accuracy		
 fefaae12	weapon_accuracy		
 fefd644f	vehicle	bison	
 ff2cd77b	vehicle	bogan	
 ff4ac06e	ped		
 ff58c4fb	weapon	weapon_drowning	
-ff9878a6	ped		
-ff9ae576	ped		
+ff9878a6	ped		a_m_y_aa_criminalscammer_casual_mixed_low_00
+ff9ae576	ped		s_m_x_aa_shopkeeperartisanal_00
 ffb77938	pickup		
 ffba5d73	pickup		
-ffddf922	ped		
+ffddf922	ped		g_m_m_m7mara_01
 ffe2bf60	pickup		
 ffed0005	weapon_damage_modifier		
 fff58ec2	ped	ex_discowdc_m_00	
-fff7eaf4	ped		
+fff7eaf4	ped		m_clb_scuff_f_00

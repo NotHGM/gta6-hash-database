@@ -45,19 +45,26 @@ The columns that matter most:
 
 ### `data/community/`: every known name, merged by hash
 
-`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,428,614 hashes with every name proposed
+`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,576,316 hashes with every name proposed
 for them and where each came from. It merges the public GTA VI name lists (asm512, lynxnathan, tarekmania and
-ahmed605's strings database, and openrage's GTA VI archive entry names, script names and settings save field names), the names in
+ahmed605's strings database, openrage's GTA VI archive entry names, script names and settings save field names, and
+OpenVI-CE's GTA6-StringsDatabase of archive file names, `openvi-ce`), the names in
 DurtyFree's GTA VI data dumps (`durtyfree`, with its 210,645 model names) and in Zia-ullah-khan's car spawn maps
 (`zia-ullah-khan`), and the names verified above (`save-garage`). A hash can have several names. When one of them
 comes from `save-garage`, that name has been checked against real saves.
+
+### `data/community-gpl/`: names from GPL-3.0 sources
+
+`hashes.tsv`: 28,100 hashes named by SixNG, Two-Play/openRAGE and tarekmania's confirmed layer (which uses SixNG).
+Their GPL-3.0 licence doesn't allow them in the MIT index, so this folder is GPL-3.0 (see its `README.md` and
+`LICENSE`); 1,510 of the hashes aren't in the MIT index.
 
 ### `data/game/`: game data tables
 
 `game_data.tsv` lists 4,743 hashes from the game's metadata tables, as dumped by DurtyFree: peds, vehicles, weapons,
 ammo, pickups, animal tunings, ped capsules and navigation, doors, vehicle colours and plates, weapon accuracies and
 damage modifiers. A name is given only when it hashes to the row's hash (887 rows). The other 3,856 hashes are still
-unnamed: `other_names` shows any name the community index proposes for them (647 rows).
+unnamed: `other_names` shows any name the community index proposes for them (2,190 rows).
 
 ### `data/traffic/`: traffic and car spawns
 
@@ -125,3 +132,10 @@ DurtyFree's GTA VI data dumps, Zia-ullah-khan's car spawn maps and Cuebert's gta
 are published without a license. Only their names, hashes and tables are used here, each marked with its source, and
 the MIT license here does not cover them. If you wrote one of them and want it taken out or credited differently, open
 an issue.
+
+The `openvi-ce` names come from **OpenVI-CE (GTA6-StringsDatabase)**,
+https://github.com/OpenVI-CE-Team/GTA6-StringsDatabase, credited as its README and NOTICE ask; its notice is kept in
+`third_party/LICENSES.md`. Its licence reserves all rights, and the MIT license here does not cover those names.
+
+`data/community-gpl/` is GPL-3.0 (its own `LICENSE`), for the names from SixNG, Two-Play/openRAGE and tarekmania's
+confirmed layer.
