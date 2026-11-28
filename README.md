@@ -45,7 +45,7 @@ The columns that matter most:
 
 ### `data/community/`: every known name, merged by hash
 
-`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,427,478 hashes with every name proposed
+`hashes_0.tsv` to `hashes_f.tsv`, split by the first hex digit of the hash: 1,428,614 hashes with every name proposed
 for them and where each came from. It merges the public GTA VI name lists (asm512, lynxnathan, tarekmania and
 ahmed605's strings database, and openrage's GTA VI archive entry names, script names and settings save field names), the names in
 DurtyFree's GTA VI data dumps (`durtyfree`, with its 210,645 model names) and in Zia-ullah-khan's car spawn maps

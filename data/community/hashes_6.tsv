@@ -480,6 +480,7 @@ hash	names	sources
 60152a2e	bagstrapbackpack_fr1_001_regular_ws06_full+lo	openrage
 60152c64	S_M_Y_AIRWORKER_LATINO_FULL_02	tarekmania
 60153e7c	n03_w10_56	ahmed605,openrage
+60155050	System.Runtime.CompilerServices.TaskAwaiter`1<short>	openrage
 60155258	_CAN_PED_SEE_PED	tarekmania
 60155f0c	int_con_1_gfa_e48	ahmed605,openrage
 60156753	BLOODFX_EXIT_INFO_END	tarekmania
@@ -1152,6 +1153,7 @@ hash	names	sources
 6033d6a8	gameplay@vehicles@boat@in_seat@standing@default@centre@normal@idle_variations_two_hand	ahmed605,durtyfree
 6033dd0b	RBH2A_FSAB	tarekmania
 6033e2b2	n05_w03_007_slod	durtyfree
+603426b8	System.ValueTuple`2<InventoryItemGuid, HashString>	openrage
 60342d57	gameplay@locomotion@female_generic@terrain@unsteady@stationary@walk_slow	ahmed605,durtyfree
 60346d81	DH1_DOAY	tarekmania
 60347cf6	FMM_GLAA	tarekmania
@@ -1434,6 +1436,7 @@ hash	names	sources
 60410e8a	LodDistNumericUpDown	tarekmania
 60411450	ma_cfm_cable_cfm_twist_9	ahmed605,durtyfree
 60411a25	ma_sqr_cable_mesh_sqr_47	ahmed605,durtyfree
+604122ca	System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<bool>	openrage
 60412e11	gmt_tank_casual_u_hang_01_tw10_04_cnv_1b	ahmed605,durtyfree
 604130c2	VehicleId | vehicleID	lynxnathan,openrage,tarekmania
 604132b6	CVehicleWindowColor:	tarekmania
@@ -1736,6 +1739,7 @@ hash	names	sources
 604ff0e0	FM_1_FHAB	tarekmania
 604ff2e0	n04_w20_002_slod_children2	openrage
 60500691	ptxu_Colour:m_rgbaMaxKFP	tarekmania
+605024cb	System.Collections.Generic.KeyValuePair`2<int, int>	openrage
 60502775	DisableMovement	asm512
 60502982	DYNAMIC_COVER_BOUND_BLOCK_COVER	asm512
 60502e6a	FastMovingPedSpeed	asm512,lynxnathan,tarekmania
@@ -5849,6 +5853,7 @@ hash	names	sources
 610bfbdd	DLC_MP_GR_M_JBIB_0_5	tarekmania
 610bfcde	AddModFilesFromDir	tarekmania
 610c0041	csc_trh_chart_ext_rs1_p1_t03	ahmed605,openrage
+610c0176	System.Collections.Generic.ICollection`1<System.ValueTuple`2<HashString, HashString>>	openrage
 610c2454	ruiner_splitter_01	ahmed605,durtyfree
 610c392c	xEBD76F2359F190AC	tarekmania
 610c4c15	MP_MP_Biker_Tat_058_M	tarekmania
@@ -5957,6 +5962,7 @@ hash	names	sources
 6110f7e4	AVcrmtIterator	tarekmania
 6110ff07	n07_w16_slod2_children0	openrage
 61110773	StructureNameHash	tarekmania
+61110de6	System.Collections.Generic.ICollection`1<float>	openrage
 611114a0	n06_w04_placement_instances_12	openrage
 611128b9	ma_cfm_04_10	ahmed605,openrage
 61113353	ambient@scenarios@carry@pickup@grabberarm@trashbag@ground@female_a@average@base@lod	ahmed605,durtyfree
@@ -7128,6 +7134,7 @@ hash	names	sources
 61467870	story000_2540	ahmed605,openrage
 614680af	stockade_siren_roofbar1_mount_01_mid	ahmed605
 61468b96	tTASK_NM_SHOT	tarekmania
+61468f83	System.Collections.Generic.ICollection`1<AnimScene>	openrage
 6146a777	s07_w05_placement_instances_long_hd_13	openrage
 6146ad17	cin@sfh_taxi_ext_p7_t01-14	ahmed605
 6146ad90	n03_e04_050_lod	durtyfree
@@ -7546,6 +7553,7 @@ hash	names	sources
 615b699d	coverregion[200][265]	ahmed605,openrage
 615b6ada	setlocs	tarekmania
 615b752c	note_counting_v2_binmoney	tarekmania
+615bab8d	System.Threading.Tasks.Task`1<System.Guid>	openrage
 615bbf80	ambient@ai_react@breakouts@active_look@gen_female@ground@sit@wall@onback@feettogether@generic@quick	durtyfree,openrage
 615bc452	_AF_REDUCED_RIGHTING_FORCE	tarekmania
 615bc5ca	char_bipedbounds_male_hoodies_loose_long_wide	ahmed605,durtyfree
@@ -9467,6 +9475,7 @@ hash	names	sources
 61b67fa6	gta5mkt_ko	tarekmania
 61b693b1	n07_w10_placement_instances_20	openrage
 61b6a835	declasse500_spoiler_mu_10_mid	ahmed605
+61b6ad04	System.Collections.Generic.IReadOnlyList`1<System.ValueTuple`2<InventoryItemData, float>>	openrage
 61b6b672	navmesh[201][238]	ahmed605,openrage
 61b6c677	oven_beeps.awc	ahmed605,openrage
 61b6c8d9	AH3B_RSAA	tarekmania
@@ -9510,6 +9519,7 @@ hash	names	sources
 61b8eec3	prefab_am_sign_lane_a_00a_batchlod	ahmed605,durtyfree
 61b8f034	hi@sn_01b_1	openrage
 61b8fecb	AcABAwHAAQMBwAEDAgABwAEDAcABAwHAAQMB8AEAAcABAwHAAQMBwAEDAfABAAHAAQMBwAEDAcABAwHw	tarekmania
+61b90b51	System.Collections.Generic.KeyValuePair`2<Object, Object>	openrage
 61b91221	lo_fts_04_48	ahmed605,openrage
 61b921b2	s02_w13_placement_instances_med_29	openrage
 61b9257f	FallOffAMovingCar	lynxnathan,tarekmania
@@ -11325,6 +11335,7 @@ hash	names	sources
 620d4249	s03_e02_placement_instances_med_46	openrage
 620d56e3	int_hse_4_gfa_g5	ahmed605,openrage
 620d56f8	deadbody	ahmed605,openrage
+620d5a3e	System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1<ushort>	openrage
 620d5b4a	PROPR_AIAD	tarekmania
 620d5c37	FADE_COMPASS	asm512
 620d7787	DLC_MP_H4_F_BERD_0_17	tarekmania
@@ -11681,6 +11692,7 @@ hash	names	sources
 621ee416	Unk1Byte	tarekmania
 621ee469	waterfogatlas-1116	ahmed605,openrage
 621efcf1	lo_cnl_01_water_ma_nuc_01_013_slod_children	ahmed605,openrage
+621efd63	System.Collections.Generic.Dictionary`2+Enumerator<TxdHashString, int>	openrage
 621f0586	cin@ant_intro_int_p6a1_0f0a1_t02-1	ahmed605
 621f1086	ambient@scenarios@creatures@land@mammal@bear@sleep@stand_exit	ahmed605,durtyfree
 621f1ad3	core_3229	ahmed605,openrage
@@ -12396,6 +12408,7 @@ hash	names	sources
 624128cd	IS_PED_SHOOTING	tarekmania
 62412ba9	EXP_TAG_APCSHELL	lynxnathan,tarekmania
 62413c17	TEST_WEAPON	tarekmania
+62414baf	System.Collections.Generic.IEnumerator`1<ShopOverrideSaveData>	openrage
 62414c21	int_con_2_gfa_p7	ahmed605,openrage
 62414eef	s08_w15_015_slod_children	ahmed605,openrage
 62416060	p1_lamar_facial	tarekmania
@@ -13594,6 +13607,7 @@ hash	names	sources
 627689cc	rebel_towbar_offr_mnt_01	ahmed605,durtyfree
 62769e29	n05_w07_18	ahmed605,openrage
 6276a15c	gameplay@ai_combat@cop_m@shortarm@cover@high_left@high_int@stance_lw@05m@oneshot_0@rh_2h	ahmed605,durtyfree
+6276b637	System.Collections.Generic.Dictionary`2+Enumerator<System.Guid, bool>	openrage
 6276cf52	sb_30_slod1_children2	openrage
 6276df99	sb01_clb1b_lobby_hinges_mint_door_45a	ahmed605,durtyfree
 6276e91e	nb11_rfa_1_override	ahmed605,openrage
@@ -14015,6 +14029,7 @@ hash	names	sources
 62885713	s02_w17_placement_instances_med_4	openrage
 62889982	navmesh[219][265]	ahmed605,openrage
 6288a7bb	prop_cs_kettle_01	tarekmania
+6288be72	System.ValueTuple`2<System.Guid, Vector3>	openrage
 6288d14c	veh_storage_standard_8	ahmed605,durtyfree
 6288d2aa	DLC_MP_GR_F_JBIB_11_5	tarekmania
 6288d592	JF7u	tarekmania
@@ -15319,6 +15334,7 @@ hash	names	sources
 62c3537a	gameplay@locomotion@male_type@hotel_population@overconfident@var_03@normal@walk@stance_neutral	ahmed605,durtyfree
 62c358fd	FNFL_ARAE	tarekmania
 62c3590b	gauntlet5_dmg_mod_bumper_f_003_hi	ahmed605
+62c3691e	System.Collections.Generic.Dictionary`2<TxdHashString, System.ValueTuple`2<int, bool>>	openrage
 62c36ace	hash_62c36ace_fhccqhda_collision	tarekmania
 62c3742f	Fire_RPG_On_Foot	tarekmania
 62c376ec	s15_w12_032_hd	ahmed605,durtyfree
@@ -15593,6 +15609,7 @@ hash	names	sources
 62cdf2bd	hogging	tarekmania
 62cdfbbb	MCH3_CTAA	tarekmania
 62cdff97	CLAN_ERR_MAX_MEMBER_COUNT_EXCEED	tarekmania
+62ce1649	System.Collections.Generic.IReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.Enum, Vector2>>	openrage
 62ce57c6	navmesh[242][321]	ahmed605,openrage
 62ce5886	levels/americas/props/doors/am_door_roller_metadata	ahmed605,openrage
 62ce5ee7	cin@csc_mom_msevn_mcs3_coup_p2_t06_x1-1	ahmed605
@@ -18065,6 +18082,7 @@ hash	names	sources
 6343237d	ds_09_slod_children179	openrage
 63432eca	n06_w14_002_slod_children3	openrage
 63432fcd	char_bipedbounds_female_jackettrack_fr1_010_slim_o_hl_long_full	ahmed605,durtyfree
+6343337d	System.Collections.Generic.IEnumerator`1<System.Collections.Generic.KeyValuePair`2<GamerHandle, System.Threading.Tasks.TaskCompletionSource`1<bool>>>	openrage
 634336ea	TotalTimeMS	tarekmania
 634343eb	tw10_09d_am_e_trailer04_dtl_cln	ahmed605,durtyfree
 63434ce9	Deliver_Item	tarekmania
@@ -19157,6 +19175,7 @@ hash	names	sources
 63758ce2	n01_w09_041_hd	ahmed605,durtyfree
 6375aa06	n04_w12_006_hd	ahmed605,durtyfree
 6375c830	DLC_MP_LTS_F_HAND_9_12	tarekmania
+6375ce37	System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter<double>	openrage
 6375d0c7	n02_w03_021_hd	ahmed605,durtyfree
 6375d465	ss_68_slod_children0	openrage
 6375d71e	neon_bumf_canards_r_histr_18	ahmed605,durtyfree
@@ -23343,6 +23362,7 @@ hash	names	sources
 64342e43	LeftBracket2	tarekmania
 6434437d	n07_w03_long_0	ahmed605,openrage
 643467ae	floyd_fellpackage_startidle_dockworker2	tarekmania
+64346cfe	System.Collections.Generic.Dictionary`2<int, AnimScene>	openrage
 6434778b	s15_w17_4	ahmed605,openrage
 6434784c	ma_ssf_01_instances_long_lod_13	ahmed605,openrage
 64347884	DLC_MP_GR_M_BERD_0_20	tarekmania
@@ -23509,6 +23529,7 @@ hash	names	sources
 643b5a9f	truckbeds_tipper_04_lrg_hi	ahmed605
 643b8f29	INPUT_VEH_CINEMATIC_UP_ONLY	lynxnathan,tarekmania
 643b9a57	CWS_FRIENDLY	tarekmania
+643ba7e4	System.Collections.Generic.IEnumerable`1<System.Collections.Generic.KeyValuePair`2<HashString, System.Collections.Generic.Dictionary`2<HashString, HashString>>>	openrage
 643baf04	n10_w09_80	ahmed605,openrage
 643bb0e4	n01_e02_043_hd	ahmed605
 643bb7c4	pavement_nodes3023	ahmed605,openrage
@@ -24060,6 +24081,7 @@ hash	names	sources
 6455fe98	JjU2ZeKaX	tarekmania
 645600e3	fwFacialClipSetVariationInfo	lynxnathan,tarekmania
 645601ae	FAM6_AWAP	tarekmania
+64561dd8	System.Collections.Generic.Dictionary`2+Enumerator<HashString, bool>	openrage
 64561e76	int_man_7_gfa_e5	ahmed605,openrage
 64561f29	MP_Biker_Tee_030_M	tarekmania
 645627f2	hash_645627f2_enyxbbj_collision	tarekmania
@@ -24326,6 +24348,7 @@ hash	names	sources
 6461f99e	n02_w12_placement_instances_long_lod_0	openrage
 64620995	Air_Defenses_Disabled	tarekmania
 64621333	StartupRevsVolumeBoostEngine_PostSubmix	tarekmania
+64621736	System.Collections.Generic.ICollection`1<System.Collections.Generic.KeyValuePair`2<ulong, bool>>	openrage
 64621d5a	cin@rob_veh_ext_rs1_p1_t05-30	ahmed605
 64621dfa	DLC_MP_X22_F_JBIB_31_0	tarekmania
 64622f6d	mega_female_generic@normal@standing@idle_turn	durtyfree
@@ -24382,6 +24405,7 @@ hash	names	sources
 646421dc	s14_w08_016_slod_children3	openrage
 64643f11	npXSTbe	tarekmania
 64644550	story000_4834	ahmed605,openrage
+6464552a	System.Collections.Generic.Dictionary`2+ValueCollection+Enumerator<GamerHandle, System.Threading.Tasks.TaskCompletionSource`1<bool>>	openrage
 64646542	tshirtcrewneck_fr1_031_loose_cc_un_short_full+lo	openrage
 64646f1d	SET_EQIPPED_WEAPON_START_SPINNING_AT_FULL_SPEED	tarekmania
 64647a1a	levels/americas/map/environment/island_01/city/north_beach/nb_occl_metadata	ahmed605,openrage
@@ -26054,6 +26078,7 @@ hash	names	sources
 64b146b2	n15_w05_042d_hd	ahmed605,durtyfree
 64b154ed	FIN_1_TREVOR_DIES_SCENE	tarekmania
 64b15843	n07_e05_slod2_children14	openrage
+64b15a2f	System.Collections.Generic.Dictionary`2+ValueCollection+Enumerator<TxdHashString, int>	openrage
 64b16f8d	DLC_MP_TUNER_F_PHEAD_1_12	tarekmania
 64b18e3e	n09_w13_26	ahmed605,openrage
 64b19b03	SP_F_TEEF_6_3	tarekmania
@@ -27756,6 +27781,7 @@ hash	names	sources
 64ff0d81	dn_05_hd_5_55_69	openrage
 64ff29b1	s14_w13_50	ahmed605,openrage
 64ff2ca7	swing_react_bad_02_face	tarekmania
+64ff3a8b	System.Collections.Generic.IList`1<InventoryCopyItem>	openrage
 64ff3bee	core_15294	ahmed605,openrage
 64ff42e9	AVCEventNetworkStartMatch	tarekmania
 64ff44c0	scripted@interactive_events@ie_polcc@ig2_escort	ahmed605,durtyfree
@@ -28281,6 +28307,7 @@ hash	names	sources
 65182c01	core_8849	ahmed605,openrage
 65182d47	PSIN:	tarekmania
 651839a9	lo_slv_cable_lo_slv_occl_slv_spline_0	ahmed605,durtyfree
+65183bc8	System.Collections.Generic.KeyValuePair`2<HashString, int>	openrage
 65184695	s08_w02_53	ahmed605,openrage
 651849bc	island_01/lo_lowlands/lo_shc/lo_shc_occl_metadata	ahmed605
 65185bb3	AVCTaskShockingEventStopAndStare	tarekmania
@@ -28860,6 +28887,7 @@ hash	names	sources
 653191e7	shark_06	openrage
 6531a464	int_grg_3b_dtl_k_01	ahmed605,durtyfree
 6531a692	WAVELOAD_PAIN_MICHAEL	tarekmania
+6531af3d	System.Runtime.CompilerServices.TaskAwaiter`1<uint>	openrage
 6531b262	m23_1_prop_m31_crate_ch_04b	tarekmania
 6531b65d	n05_w16_006_slod_children1	openrage
 6531c590	s12_w11_038_hd	ahmed605
@@ -29215,6 +29243,7 @@ hash	names	sources
 65431ecf	scd	tarekmania
 654327df	n06_w01_placement_instances_med_48	openrage
 65432c33	core_8724	ahmed605,openrage
+654337e1	System.Collections.Generic.IEnumerable`1<IInputAction>	openrage
 65433d6d	n01_w18_003_slod_children2	openrage
 65435f5c	watersystemheightmap-1375	ahmed605,openrage
 65436291	clothsim_ma_mar_04_rcrunway_08_cloth_004	openrage
@@ -29617,6 +29646,7 @@ hash	names	sources
 6556588c	clb_steal_stolen_car.awc	openrage
 65567939	clothsim_id_23c_warehouse05_structure_03_cloth001	openrage
 65567b8b	FAM4_CNAA	tarekmania
+655688ec	System.Collections.Generic.Dictionary`2+ValueCollection<ulong, bool>	openrage
 65569e73	trailer_1	openrage
 6556b0d6	ANIML_GNAF	tarekmania
 6556be21	hi@nm_25_0	openrage
@@ -30143,6 +30173,7 @@ hash	names	sources
 656f0c8f	CompPositionTextBox	tarekmania
 656f165f	core_12624	ahmed605,openrage
 656f2001	s04_w10_placement_instances_17	openrage
+656f270b	System.Collections.Generic.IEnumerator`1<System.Collections.Generic.KeyValuePair`2<InventoryItemGuid, uint>>	openrage
 656f353f	navmesh[199][328]	ahmed605,openrage
 656f36db	TagEventID	asm512
 656f3e34	DLC_MP_X22_F_BERD_2_6	tarekmania
@@ -36588,6 +36619,7 @@ hash	names	sources
 66935563	DLC_MP_SUM2_F_JBIB_11_3	tarekmania
 669373a8	JOB_TITLE	tarekmania
 66937c30	DLC_MP_HEIST_F_TORSO_6_0	tarekmania
+66937fdf	System.Collections.Generic.IReadOnlyDictionary`2<HashString, float>	openrage
 66938018	FBIS4_BDAA	tarekmania
 6693924e	s07_w06_016_slod_children2	openrage
 6693aebd	prop_am_sign_parking_mirror_01a	ahmed605,durtyfree
@@ -37652,6 +37684,7 @@ hash	names	sources
 66c33c7a	coverregion[221][244]	ahmed605,openrage
 66c340b5	n17_w01_18	ahmed605,openrage
 66c3484a	h4_prop_battle_trophy_no1	tarekmania
+66c35ec5	System.Collections.Generic.ICollection`1<System.ValueTuple`2<int, float>>	openrage
 66c36f83	sb_05_slod1_children47	openrage
 66c370c7	s01_w16_009_slod_children2	openrage
 66c37f11	DLC_mp2023_02_Chicken_Warehouse	tarekmania
@@ -37903,6 +37936,7 @@ hash	names	sources
 66ce93d9	DLC_MP_STUNT_M_PHEAD_7_12	tarekmania
 66cea64e	ma_mar_04_tanks_exploded_slod_children8	openrage
 66ceaacd	gameplay@vehicles@car@exit@van@default@rear_left@normal@mini@door@walk	ahmed605,durtyfree
+66cead29	System.Collections.Generic.Dictionary`2+Enumerator<int, Vector3>	openrage
 66ceb84c	sf_prop_yacht_glass_08	tarekmania
 66cebcf4	FF1C1E21	tarekmania
 66cecdf6	GetBalance	tarekmania
@@ -38929,6 +38963,7 @@ hash	names	sources
 66fbfebc	vi_01_25	ahmed605,openrage
 66fc0b8b	s15_w09_41	ahmed605,openrage
 66fc1d50	tCPED_RESET_FLAG_SearchingForDropDown	tarekmania
+66fc46ed	System.Collections.Generic.IEnumerator`1<ItemEffectSaveData>	openrage
 66fc5b6f	sn_cable_sn_mesh_16	ahmed605,durtyfree
 66fc771f	buffalo6_diffuser_histr_07_mid	ahmed605
 66fc7cab	cmn_stwheel_street_13_hi	ahmed605
@@ -39453,6 +39488,7 @@ hash	names	sources
 67143af6	nb_lel_01_d_slod_b_children0	openrage
 67143f1a	ambient@scenarios@characters@lucia@buddy@sit@sofa@ch2@rightside@frosty@female_a@idles@idle_med	ahmed605,durtyfree
 67144f99	le_z_sb01_pillar_06_bw_fb_02	ahmed605,durtyfree
+67145d34	System.Collections.Generic.Dictionary`2+KeyCollection+Enumerator<System.Enum, HashString>	openrage
 67145f92	nb_24_water_slod2_children	ahmed605,openrage
 67146871	DLC_MP_VWD_M_JBIB_17_2	tarekmania
 671472fa	n11_w03_57	ahmed605,openrage
@@ -40359,6 +40395,7 @@ hash	names	sources
 673da404	ext_sb_16_bld_b8	openrage
 673db8c8	cin@com_deal_intr_mcs1_meet_p1a1_t01-6	ahmed605
 673dcb64	CAINodeParent	asm512
+673dcf3c	System.ValueTuple`2<bool, System.Guid>	openrage
 673dd85f	int_03_ba_design_01	lynxnathan,tarekmania
 673ddad1	n10_w14_placement_instances_med_55	openrage
 673df47a	SP_M_LOWR_12_13	tarekmania
@@ -40820,6 +40857,7 @@ hash	names	sources
 67539145	mtl_drive_poi_waffle_alt.awc	openrage
 6753a1b4	s14_w10_048_hd	ahmed605,durtyfree
 6753a82b	s11_w10_003_hd	ahmed605
+6753b554	System.Collections.Generic.Dictionary`2+KeyCollection+Enumerator<float, LayoutLocation>	openrage
 6753c719	n11_w01_placement_instances_long_lod_0	openrage
 6753cc17	cin@ant_srch_int_p2_t05-5	ahmed605
 6753effc	gameplay@combat@generic@normal@crouch@loco@normal@right_wide@thrown_projectile@cylinder_small@1h_hip@rh@trans@to_lh	ahmed605,durtyfree,openrage
@@ -42003,6 +42041,7 @@ hash	names	sources
 6788c24a	EXT2_AYAG	tarekmania
 6788c33f	s08_w08_010_slod_children2	openrage
 6788d1be	risquez	tarekmania
+6788e6bb	System.Collections.Generic.IDictionary`2<System.Enum, int>	openrage
 6788e76e	nb_tpk_03_0	ahmed605,openrage
 6788f1e7	sea_tr_01_cargoship_treasure_tilted_slod_children13	openrage
 6788f3c8	bk_02_pool_water_02	ahmed605,durtyfree
@@ -43010,6 +43049,7 @@ hash	names	sources
 67baa214	LODTYPES_DEPTH_	tarekmania
 67baa79c	bgCrackScalingType	lynxnathan,tarekmania
 67babfd3	scripted@non_interactive_events@interaction@prototype@conversation_end@hand-on-arm@stand@1m_1f	durtyfree
+67bac59b	System.Collections.Generic.IReadOnlyDictionary`2<HashString, bool>	openrage
 67bad6f5	high_walk_r	tarekmania
 67baf651	ambient@scenarios@stand@dance@hiphop@sexy@med@female_a@average@trans	ahmed605,durtyfree
 67baf973	n09_w16_placement_instances_med_23	openrage
@@ -43975,6 +44015,7 @@ hash	names	sources
 67e7631b	s09_w10_slod2_children14	openrage
 67e7a540	tw7_12_bnk_1_gf_bank_1_lp	ahmed605,durtyfree
 67e7b3bb	ambient@scenarios@stand@smoke@drunk@female_a@average@base	ahmed605,durtyfree
+67e7bc55	System.Collections.Generic.Dictionary`2+KeyCollection+Enumerator<HashString, System.Guid>	openrage
 67e7de05	xA914768AD35CD3A5	tarekmania
 67e7de06	n13_w04_012_slod_children	ahmed605,openrage
 67e7df30	ptFxRainEvoMin	asm512
@@ -44893,6 +44934,7 @@ hash	names	sources
 6812b760	s14_e03_009_slod_children	ahmed605,openrage
 6812bbdc	navmesh[232][194]	ahmed605,openrage
 6812cb6c	navmesh[220][351]	ahmed605,openrage
+6812d418	System.Collections.Generic.IDictionary`2<int, InventoryItemGuid>	openrage
 6812e4ad	nv_topLum	tarekmania
 6812e5d1	metaFormat	tarekmania
 6812e650	cin@csc_eco_final_mcs3_tower_ambush_p2a2_0f0a1_t03-8	ahmed605
@@ -45006,6 +45048,7 @@ hash	names	sources
 6816d21c	montagnexl_lights_roof_offr_01_mid	ahmed605
 6816d418	DLC_MP_GR_M_JBIB_18_15	tarekmania
 6816d5c6	DB_TRANS_FLIP_AIM	asm512
+6816e224	System.Collections.Generic.IEnumerable`1<System.ValueTuple`2<float, int>>	openrage
 6817047b	n09_e02_39	ahmed605,openrage
 68170dd4	prop_am_postlift_01b	ahmed605,durtyfree
 68171531	DLC_MP_ARENA_M_JBIB_2_2	tarekmania
@@ -47161,6 +47204,7 @@ hash	names	sources
 687ae58f	aKk2	tarekmania
 687ae665	WORLD_HUMAN_SMOKING_CLUBHOUSE	tarekmania
 687aeee9	lo_slv_02_am_e_water_scum_algae_gen_c_30_lod_cln	ahmed605,durtyfree
+687aef61	System.Collections.Generic.KeyValuePair`2<HashString, System.Guid>	openrage
 687af07c	s13_w13_placement_instances_10	openrage
 687af40d	CoverAimStepOutMirror	asm512
 687af877	id23d_gun_1_gun_store_branding_02	ahmed605,durtyfree
@@ -47569,6 +47613,7 @@ hash	names	sources
 688b8ecc	STOMACH_LOWER_RIGHT	tarekmania
 688b92ae	hi@n16_w09_20	openrage
 688b993f	s01_e05_slod2_children6	openrage
+688b9d7d	System.Collections.Generic.IEnumerable`1<System.Collections.Generic.KeyValuePair`2<System.Enum, Vector2>>	openrage
 688bb78a	hi@n14_w07_41	openrage
 688bb80f	core_7133	ahmed605,openrage
 688bbc69	scr_ie_vv	tarekmania
@@ -49988,6 +50033,7 @@ hash	names	sources
 68fd8acf	SpineStrength	asm512
 68fda5cc	vi_12_instances_med_hd_3	ahmed605,openrage
 68fdb3ff	navmesh[182][295]	ahmed605,openrage
+68fdc122	System.Collections.Generic.IReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<int, Object>>	openrage
 68fdc3e5	tw10_04_bbd_02a	ahmed605,durtyfree
 68fdcfc3	spr_tr_cal_14b	openrage
 68fdd40a	ARMS_HHAA	tarekmania
@@ -50759,6 +50805,7 @@ hash	names	sources
 6920df49	G_M_Y_Korean_02	tarekmania
 6920ef53	dira	tarekmania
 6920f3b2	s04_w02_29	ahmed605,openrage
+6920fa0f	System.Collections.Generic.IReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<int, bool>>	openrage
 69210285	v074	tarekmania
 6921074f	n03_e07_37	ahmed605,openrage
 6921135f	UpDownStickInputSmoothingRate	lynxnathan,tarekmania
@@ -51604,6 +51651,7 @@ hash	names	sources
 69455675	core_838	ahmed605,openrage
 69455dc4	n10_w01_placement_instances_long_lod_18	openrage
 694571bf	head_mr1_cau_239_m_full	ahmed605,durtyfree
+69457531	System.Nullable`1<byte>	openrage
 694578a7	fh_shl_road_metb_01_slod_children	ahmed605,openrage
 69457b98	ParticleBehaviourColour	tarekmania
 69457c3b	ie_bdcr_ig1_smash_b.awc	openrage
@@ -54276,6 +54324,7 @@ hash	names	sources
 69c00909	int_con_1_gfa_ka14	ahmed605,openrage
 69c01166	dlc_vw_casino_brawl_fight_scene	tarekmania
 69c015cb	crb_caracara_crestednorthern_m_00_body_00	ahmed605,durtyfree
+69c01800	System.Collections.Generic.Dictionary`2+ValueCollection<HashString, int>	openrage
 69c04cdd	a_td_block5_01_int_06_walkways	ahmed605,durtyfree
 69c050c2	CoronasDepthMapSampler	tarekmania
 69c052d3	core_2752	ahmed605,openrage
@@ -55155,6 +55204,7 @@ hash	names	sources
 69e86dc4	pinsmilitary_fr1_000_shirt_ws00_full+lo	openrage
 69e87b12	nfillbits	tarekmania
 69e8829d	MinCrimes	asm512
+69e893cd	System.Nullable`1<EVENT_PLAYER_PROMPT_TRIGGERED>	openrage
 69e89be1	n02_e01_016_slod_children0	openrage
 69e89f18	vectre_roof_att_histr_mnt_04_hi	ahmed605
 69e8a6cc	tw4_14_instances_med_lod_3	ahmed605,openrage
@@ -56832,6 +56882,7 @@ hash	names	sources
 6a36b878	tw3_26_whs_1	ahmed605,openrage
 6a36b98a	n01_w06_012_slod_children3	openrage
 6a36bb8a	Lreg	tarekmania
+6a36c093	System.Collections.Generic.IReadOnlyCollection`1<CarriableEntrySaveData>	openrage
 6a36c514	n04_w18_010_slod_children1	openrage
 6a36d32a	FINC1_FMAN	tarekmania
 6a36fa0f	s05_w16_016_slod_children3	openrage
@@ -57186,6 +57237,7 @@ hash	names	sources
 6a472227	hash_6a472227_uehbjlo_collision	tarekmania
 6a4726c4	SET_VEHICLE_TAIL_LIGHTS	tarekmania
 6a472786	navmesh[170][254]	ahmed605,openrage
+6a473ead	System.Collections.Generic.Dictionary`2+ValueCollection+Enumerator<ulong, bool>	openrage
 6a475276	n10_w11_placement_instances_med_10	openrage
 6a476e6c	ss_01_hotelembassyb_01_cloth	ahmed605,durtyfree
 6a477210	n14_w03_placement_instances_10	openrage
@@ -57743,6 +57795,7 @@ hash	names	sources
 6a5e53fe	ambient@scenarios@lean@bar@front@dance@rock@med@male_a@average@stand_enter	ahmed605,durtyfree
 6a5e5f78	int_air_int	ahmed605,openrage
 6a5e72a7	DLC_MP_FIXER_F_PEYES_5_8	tarekmania
+6a5e7870	System.Collections.Generic.Dictionary`2+ValueCollection+Enumerator<HashString, int>	openrage
 6a5e8161	PreventShufflingExtraRange	lynxnathan,tarekmania
 6a5e93bc	FCMJ_CSAD	tarekmania
 6a5e9ddd	cin@ie_lgtow_mcs1_lifeguard_intro_p1_t02-26	ahmed605
@@ -57871,6 +57924,7 @@ hash	names	sources
 6a642e5a	ambient@scenarios@sit@chair@attable@read@book@female_a@average@stand_exit	ahmed605,durtyfree
 6a64367d	int_ter1b_concoursegf_b_ceiling_lp	ahmed605,durtyfree
 6a643b3d	prop_am_light_chandelier_semiflush_05a	ahmed605,durtyfree
+6a6441ab	System.Collections.Generic.Dictionary`2+Enumerator<HashString, System.Guid>	openrage
 6a645860	dance_with_me.awc	ahmed605,openrage
 6a6467c0	hash_6a6467c0_apzlejx_collision	tarekmania
 6a647546	HEAT_ERAA	tarekmania
@@ -59702,6 +59756,7 @@ hash	names	sources
 6ab91ee8	id_08_instances_med_lod_3	ahmed605,openrage
 6ab92891	gameplay@creatures@land@mammal@dog@x-large@interaction@male@pat	durtyfree
 6ab935af	ie_bdcw_acpt_j.awc	openrage
+6ab935c4	System.Collections.Generic.IEnumerable`1<InventoryItemData>	openrage
 6ab936e3	clothsim_gold_silk_curtains_01_003	openrage
 6ab93c82	VEHICLE_WEAPON_ZR380_50CAL	tarekmania
 6ab9549d	n10_w09_placement_instances_med_hd_0	openrage
@@ -60675,6 +60730,7 @@ hash	names	sources
 6ae4289d	story000_9431	ahmed605,openrage
 6ae453c2	explode_doc_door_3b	tarekmania
 6ae460bd	n13_e02_41	ahmed605,openrage
+6ae46309	System.Collections.Generic.IEnumerator`1<BundlePathEntry>	openrage
 6ae47167	sb_01_slod_children49	openrage
 6ae489fc	int_chase_mcs8_midflight_banter.awc	openrage
 6ae4a09c	MinVelocityToConsiderMoving	lynxnathan,tarekmania
@@ -60743,6 +60799,7 @@ hash	names	sources
 6ae7c6fc	bison900_tb_acc_offr_01_bar_med_mnt_x1_mid	ahmed605
 6ae7dc6c	tale_out_bmad_in_bg_male3_face	tarekmania
 6ae814be	FullBody	asm512
+6ae818d5	System.Collections.Generic.Dictionary`2+ValueCollection+Enumerator<int, Vector3>	openrage
 6ae82fad	SLMN1_AOAA	tarekmania
 6ae83123	dn_05d_hd_5_60_80	openrage
 6ae83ce4	sb_46_building_6_fakeint_01	ahmed605,durtyfree
@@ -61064,6 +61121,7 @@ hash	names	sources
 6af66c93	dn06_off1b_foyer_directory_f02	ahmed605,durtyfree
 6af6741a	ba_prop_battle_fakeid_boxpp_01a	tarekmania
 6af67a5e	bWRD4	tarekmania
+6af67cb6	System.Collections.Generic.IEnumerable`1<ushort>	openrage
 6af67d7f	lo_slv_02_4	ahmed605,openrage
 6af67e18	xBCBF4FEF9FA5D781	tarekmania
 6af6993d	dn21_off_1_gf_storage_1_shl	ahmed605,durtyfree
@@ -64357,6 +64415,7 @@ hash	names	sources
 6b8da7ab	DLC_MP_HEIST_M_TORSO_8_0	tarekmania
 6b8da7f9	lo_int1_cable_lo_int1_twist_15	ahmed605,durtyfree
 6b8dbc26	draw_circles_02_v_ilev_chair_02	tarekmania
+6b8dc47e	System.Collections.Generic.Dictionary`2+KeyCollection+Enumerator<GamerHandle, System.Threading.Tasks.TaskCompletionSource`1<bool>>	openrage
 6b8dc54f	DRF_DPAK	tarekmania
 6b8dc94b	n09_w12_030_hd	ahmed605
 6b8dccef	nb_lel_02_5	ahmed605,openrage
@@ -64886,6 +64945,7 @@ hash	names	sources
 6ba5addb	LAYOUT_BOAT_MARQUIS	tarekmania
 6ba5b8a2	gameplay@vehicles@driveby@car@sports@convert@default@front_right@lg@bwd@rh@weapon_swap@to_long_gun	ahmed605,durtyfree,openrage
 6ba5c904	DH1_DPAB	tarekmania
+6ba6140e	System.Collections.Generic.ICollection`1<AmbientObjectiveSaveData>	openrage
 6ba61d72	tr_abi_18_hanger1	ahmed605
 6ba62eb4	n12_w04_placement_instances_21	openrage
 6ba6330c	skivvy_rear_siren_mnt_01_mid	ahmed605
@@ -65719,6 +65779,7 @@ hash	names	sources
 6bccaa85	CHI2_AHAE	tarekmania
 6bccb728	ambient@scenarios@beachchair@sit@center@front@drink@female_a@idles@idle_med	ahmed605,durtyfree
 6bccbe75	AVaudSoundBase	tarekmania
+6bccc185	System.Collections.Generic.IEnumerable`1<System.Collections.Generic.KeyValuePair`2<int, Object>>	openrage
 6bcccdea	sn17_cnv_1_decals_of_1	ahmed605,durtyfree
 6bccd465	n05_w19_023_hd	ahmed605
 6bccd508	ma_sqr_08_long_0	ahmed605,openrage
@@ -66436,6 +66497,7 @@ hash	names	sources
 6bec7c88	coverregion[190][209]	ahmed605,openrage
 6bec8cdb	n10_w01_34	ahmed605,openrage
 6bec9afa	GunCrouchStandingIntroToAim	asm512
+6beca4e2	System.Collections.Generic.Dictionary`2+Enumerator<System.Type, System.Type>	openrage
 6becca8d	n12_w01_placement_instances_med_59	openrage
 6beccaa3	INSULT_PED_HIPSTER_CONV13_PART1	tarekmania
 6bece05f	story000_10758	ahmed605,openrage
@@ -66825,6 +66887,7 @@ hash	names	sources
 6bff3c56	SwitchNorm	tarekmania
 6bff5596	n12_w17_25	ahmed605,openrage
 6bff8cbe	DLC_MP_XMAS2_M_HAND_5_4	tarekmania
+6bff91cf	System.Collections.Generic.IReadOnlyCollection`1<DFObjectHandle>	openrage
 6bffa2f5	int_hse_2_gfa_bedroom1_renovation1	ahmed605,durtyfree
 6bffa76c	cin@com_sfh_mvfn_mcs1_timelapse_p7_t02-7	ahmed605
 6bffa99a	hi@s02_w03_6	openrage
@@ -69018,6 +69081,7 @@ hash	names	sources
 6c65fddd	gameplay@vehicles@car@in_seat@supercar@default@front_right@normal@base_variations@leaning_side	durtyfree
 6c660d00	prefab_am_scaffold_set_2_03a_batchlod	ahmed605,durtyfree
 6c661fef	n04_w03_008_slod_children1	openrage
+6c662518	System.Collections.Generic.ICollection`1<SimStateSaveData>	openrage
 6c662929	CODENAME_24	tarekmania
 6c662a58	s13_w13_017_hd	ahmed605,durtyfree
 6c663cbc	collision_lo_orc_03_tunnel08_nettingwall_04_cloth	openrage
@@ -71595,6 +71659,7 @@ hash	names	sources
 6cd97a05	h4_prop_battle_champ_open_03	tarekmania
 6cd99a13	undiesswimming_fr1_006_compression_lw_full+lo	openrage
 6cd99b82	csc_eco_whale_csc_eco_whale_int_min	openrage
+6cd9a13f	System.Collections.Generic.IEnumerable`1<System.Collections.Generic.KeyValuePair`2<HashString, float>>	openrage
 6cd9a4e1	watchidle_b_var_02	tarekmania
 6cd9a54d	collision_ma_cfm_03_ff_pool_02_cloth2	openrage
 6cd9be23	hi@n03_w08_0	openrage
@@ -75300,6 +75365,7 @@ hash	names	sources
 6d81f507	ambient@scenarios@beachchair_noarms@lying@sunbathe@male_a@average@stand_exit	ahmed605,durtyfree
 6d822239	Q8fP	tarekmania
 6d8233c9	s10_w09_014_slod_children0	openrage
+6d82371d	System.Collections.Generic.IReadOnlyCollection`1<ExhaustedActionSaveData>	openrage
 6d823d86	timetable	tarekmania
 6d8242b1	nrow	tarekmania
 6d824e7d	sn_02_instances_med_9	ahmed605,openrage
@@ -78311,6 +78377,7 @@ hash	names	sources
 6e0e7430	gameplay@interaction_prop@pickup@sml_item_generic@seated_bike@pocket	ahmed605,durtyfree
 6e0e8276	WCD_SHELL_EX	tarekmania
 6e0e8752	s01_w08_042_hd	ahmed605,durtyfree
+6e0e8b72	System.Collections.Generic.IReadOnlyCollection`1<TutorialEscalationSaveData>	openrage
 6e0ea6d0	clothsim_ky_51_house_d001_02_cloth001	openrage
 6e0eba49	n01_e01_005_slod_children1	openrage
 6e0ec4d9	ambient@scenarios@beachchair_noarms@lying@sunbathe@male_b@average@base	ahmed605,durtyfree
@@ -79147,6 +79214,7 @@ hash	names	sources
 6e32982f	s15_w16_17	ahmed605,openrage
 6e329a95	prop_consign_01a	tarekmania
 6e32a425	RC4	tarekmania
+6e32ac9e	System.Collections.Generic.IEnumerator`1<System.Collections.Generic.KeyValuePair`2<System.Enum, HashString>>	openrage
 6e32d23b	nb_tpk_06_instances_med_39	ahmed605,openrage
 6e32d629	cmn_plaque_lr_05_hi	ahmed605
 6e32d965	tw3_23_hd_14_73_94	openrage
@@ -82213,6 +82281,7 @@ hash	names	sources
 6ebf816b	x0F70731BACCFBB96	tarekmania
 6ebf8ef5	ma_sqr_02_structures_slod_children8	openrage
 6ebf95f9	hi@sn36_bnk_1_gf	openrage
+6ebf9927	System.Collections.Generic.IReadOnlyCollection`1<System.ValueTuple`2<System.ValueTuple`2<ILocalisedString, ILocalisedString>, int>>	openrage
 6ebf9d52	tw7_27_disrepboat_slod_children0	openrage
 6ebfa36e	s04_w03_010_slod	durtyfree
 6ebfae0d	haircrew_mr1_000_wavy_l03_non_sl_n_full	ahmed605,durtyfree
@@ -85034,6 +85103,7 @@ hash	names	sources
 6f3e6e50	ie_duit_jack_fail.awc	openrage
 6f3e73a3	x1BR | x1Br	tarekmania
 6f3e74de	gmt_shorts_track_m_hang_02b	ahmed605,durtyfree
+6f3e7585	System.Collections.Generic.IReadOnlyDictionary`2<System.Guid, sbyte>	openrage
 6f3ea013	sn_16_instances_med_lod_5	ahmed605,openrage
 6f3ea90b	rps_front_thrown	tarekmania
 6f3ead85	ma_ssf_02_slod_c_children141	openrage
@@ -87330,6 +87400,7 @@ hash	names	sources
 6fa85394	DLC_MP_APA_M_JBIB_23_4	tarekmania
 6fa853cf	SOL1_BIAD	tarekmania
 6fa85ccd	nm02_jwl_2_gf_vec	ahmed605,durtyfree
+6fa87a2f	System.Collections.Generic.IDictionary`2<GamerHandle, System.Threading.Tasks.TaskCompletionSource`1<bool>>	openrage
 6fa88257	gameplay@vehicles@bicycle@exit@mountain@default@front@normal@left@moving@common	ahmed605,durtyfree
 6fa884dc	n09_w09_029_hd	ahmed605,durtyfree
 6fa891cb	apa_yacht_grp02_2_int	tarekmania
@@ -88186,6 +88257,7 @@ hash	names	sources
 6fcf611a	E0D5	tarekmania
 6fcf62b6	DLC_MP_BEACH_M_ACCS1_3	tarekmania
 6fcf7aed	SphRadiusTextBox_TextChanged	tarekmania
+6fcf7d2f	System.Collections.Generic.IList`1<ILocalisedString>	openrage
 6fcf8968	prop_am_condom_pack_01b	ahmed605,durtyfree
 6fcf91a7	x65019750A0324133	tarekmania
 6fcf9df2	DLC_MP_FIXER_F_PHEAD_1_7	tarekmania
