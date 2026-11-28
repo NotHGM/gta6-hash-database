@@ -61,7 +61,8 @@ SOFTWARE.
 
 ## tarekmania/gta6-namehash
 
-Used in: data/community (tarekmania)
+Used in: data/community (tarekmania), from dictionary.json as downloaded on 24 November 2026. Its later
+refreshes (from 28 November) build the confirmed layer partly from SixNG, which is GPL-3.0, so they are not merged.
 
 ```
 MIT License
